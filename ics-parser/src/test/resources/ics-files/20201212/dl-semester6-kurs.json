@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945643",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T10:30:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945644",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T12:00:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau C1",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945655",
+      "start": "2020-04-22T12:00:00Z",
+      "end": "2020-04-22T13:35:00Z",
+      "module": "206-SBWL",
+      "lecturers": [
+        "Online-Klausur - gem. Absprache"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Karner\\, Lenzing M.A."
+    },
+    {
+      "uid": "sked.de945660",
+      "start": "2020-04-24T08:00:00Z",
+      "end": "2020-04-24T10:00:00Z",
+      "module": "Finanz- u. Rechnungswesen II",
+      "lecturers": [
+        "Online-Klausur gem. Absprache"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dr. Jurscha"
+    }
+  ]
+}

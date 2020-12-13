@@ -1,0 +1,1395 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210215T000000
+X-SKED-SYNC-DTEND:20210510T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10818
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973141
+SUMMARY:SU\;MB3064- Vertiefung BWL\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Vertiefung BWL\nDozent: Gatze
+	r\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T080000
+DTEND;TZID=Europe/Berlin:20210215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973150
+SUMMARY:I\;Informationsveranstaltung neues Semester\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Informationsveranstaltung neues Semest
+	er\nDozent: Steinmann\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T113000
+DTEND;TZID=Europe/Berlin:20210215T115500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977249
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T123000
+DTEND;TZID=Europe/Berlin:20210215T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977340
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T090000
+DTEND;TZID=Europe/Berlin:20210216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977255
+SUMMARY:SU\;MB3061- Produktdatenmmt.\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Produktdatenmmt.\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T130000
+DTEND;TZID=Europe/Berlin:20210216T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973161
+SUMMARY:SU\;MB3064- Vertiefung BWL\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Vertiefung BWL\nDozent: Gatze
+	r\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T080000
+DTEND;TZID=Europe/Berlin:20210217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975402
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T130000
+DTEND;TZID=Europe/Berlin:20210217T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973162
+SUMMARY:SU\;MB3064- Vertiefung BWL\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Vertiefung BWL\nDozent: Gatze
+	r\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T080000
+DTEND;TZID=Europe/Berlin:20210218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977801
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T120000
+DTEND;TZID=Europe/Berlin:20210218T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975401
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T080000
+DTEND;TZID=Europe/Berlin:20210219T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973163
+SUMMARY:SU\;MB3064- Vertiefung BWL\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Vertiefung BWL\nDozent: Gatze
+	r\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T080000
+DTEND;TZID=Europe/Berlin:20210222T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977252
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T123000
+DTEND;TZID=Europe/Berlin:20210222T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973164
+SUMMARY:SU\;MB3064- Vertiefung BWL\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Vertiefung BWL\nDozent: Gatze
+	r\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T080000
+DTEND;TZID=Europe/Berlin:20210223T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977256
+SUMMARY:SU\;MB3061- Produktdatenmmt.\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Produktdatenmmt.\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T123000
+DTEND;TZID=Europe/Berlin:20210223T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973213
+SUMMARY:SI\;MB3063-WPF III: VBA\;Platzer\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF III: VBA\nDozent: Platzer\n
+	Raum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 60 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T080000
+DTEND;TZID=Europe/Berlin:20210224T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977808
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T083000
+DTEND;TZID=Europe/Berlin:20210225T100000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978570
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Fluidenergiemaschinen + W
+	erkzeugmaschinen/Fertigungssysteme\, Raum: 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Fluidenergiemaschinen + Werkzeugmaschinen/Fert
+	igungssysteme\, Raum: 5.3001\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T090000
+DTEND;TZID=Europe/Berlin:20210225T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973214
+SUMMARY:SI\;MB3063-WPF III: VBA\;Platzer\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF III: VBA\nDozent: Platzer\n
+	Raum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T123000
+DTEND;TZID=Europe/Berlin:20210225T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973215
+SUMMARY:SI\;MB3063-WPF III: VBA\;Platzer\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF III: VBA\nDozent: Platzer\n
+	Raum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 60 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T080000
+DTEND;TZID=Europe/Berlin:20210226T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977337
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T090000
+DTEND;TZID=Europe/Berlin:20210301T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978571
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Techn Logistik + Sensorik
+	/Aktorik\, Raum: 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Techn Logistik + Sensorik/Aktorik\, Raum: 5.30
+	01\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T090000
+DTEND;TZID=Europe/Berlin:20210302T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977253
+SUMMARY:SU\;MB3061- Produktdatenmmt.\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Produktdatenmmt.\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T123000
+DTEND;TZID=Europe/Berlin:20210302T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977258
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T080000
+DTEND;TZID=Europe/Berlin:20210303T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977254
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T123000
+DTEND;TZID=Europe/Berlin:20210303T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976200
+SUMMARY:SI\;MB3063-WPF II: Ölhydraulik und Pneumatik\;Roßbach\, B.\;ONLIN
+	E
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneuma
+	tik\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T080000
+DTEND;TZID=Europe/Berlin:20210304T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977802
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T113000
+DTEND;TZID=Europe/Berlin:20210304T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975403
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T080000
+DTEND;TZID=Europe/Berlin:20210305T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977336
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T090000
+DTEND;TZID=Europe/Berlin:20210309T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977257
+SUMMARY:SU\;MB3061- Produktdatenmmt.\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Produktdatenmmt.\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T130000
+DTEND;TZID=Europe/Berlin:20210309T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974511
+SUMMARY:SI\;MB3063-WPF I/II: Verfahrenstechnik\;Timm\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II: Verfahrenstechnik\nD
+	ozent: Timm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 90 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T080000
+DTEND;TZID=Europe/Berlin:20210310T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975833
+SUMMARY:SI\;MB3063-WPF II: Ölhydraulik und Pneumatik\;Roßbach\, B.\;ONLIN
+	E
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneuma
+	tik\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T080000
+DTEND;TZID=Europe/Berlin:20210311T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977803
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T113000
+DTEND;TZID=Europe/Berlin:20210311T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975404
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T080000
+DTEND;TZID=Europe/Berlin:20210312T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974518
+SUMMARY:SI\;MB3063-WPF I/II: Verfahrenstechnik\;Timm\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II: Verfahrenstechnik\nD
+	ozent: Timm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T150000
+DTEND;TZID=Europe/Berlin:20210312T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977335
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T090000
+DTEND;TZID=Europe/Berlin:20210315T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978934
+SUMMARY:Klausur\;MB3064- BWL II\;Gatzer\, Steinmann\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB3064- BWL II\nDozent: Gatzer\,
+	 Steinmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T150000
+DTEND;TZID=Europe/Berlin:20210315T163000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973211
+SUMMARY:PÜ\;MB3061- Labor Prod.planung u. -steuerg.\;Lange\, P.\;CL: 6B.1
+	51 (CAD-L)\;Umstellung auf Online möglich
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: MB3061- Labor Prod.planung u. -steuer
+	g.\nDozent: Lange\, P.\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: Umstellung a
+	uf Online möglich\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210316T080000
+DTEND;TZID=Europe/Berlin:20210316T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977259
+SUMMARY:SU\;MB3061- Produktdatenmmt.\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Produktdatenmmt.\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T123000
+DTEND;TZID=Europe/Berlin:20210316T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977339
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T090000
+DTEND;TZID=Europe/Berlin:20210317T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977261
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T130000
+DTEND;TZID=Europe/Berlin:20210317T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975834
+SUMMARY:SI\;MB3063-WPF II: Ölhydraulik und Pneumatik\;Roßbach\, B.\;ONLIN
+	E
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneuma
+	tik\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T080000
+DTEND;TZID=Europe/Berlin:20210318T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977260
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T123000
+DTEND;TZID=Europe/Berlin:20210318T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975405
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T080000
+DTEND;TZID=Europe/Berlin:20210319T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977804
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T130000
+DTEND;TZID=Europe/Berlin:20210319T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977334
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T090000
+DTEND;TZID=Europe/Berlin:20210322T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973208
+SUMMARY:PÜ\;MB3061- Labor Prod.planung u. -steuerg.\;Lange\, P.\;CL: 6B.1
+	51 (CAD-L)\;Umstellung auf Online möglich
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: MB3061- Labor Prod.planung u. -steuer
+	g.\nDozent: Lange\, P.\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: Umstellung a
+	uf Online möglich\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210323T080000
+DTEND;TZID=Europe/Berlin:20210323T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977262
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T123000
+DTEND;TZID=Europe/Berlin:20210323T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977333
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T090000
+DTEND;TZID=Europe/Berlin:20210324T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977805
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T130000
+DTEND;TZID=Europe/Berlin:20210324T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975835
+SUMMARY:SI\;MB3063-WPF II: Ölhydraulik und Pneumatik\;Roßbach\, B.\;ONLIN
+	E
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneuma
+	tik\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T080000
+DTEND;TZID=Europe/Berlin:20210325T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977272
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T123000
+DTEND;TZID=Europe/Berlin:20210325T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977291
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T080000
+DTEND;TZID=Europe/Berlin:20210326T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977284
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T123000
+DTEND;TZID=Europe/Berlin:20210326T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971967
+SUMMARY:SU\;MB3062- Projektmanagement\;Hartmann\;CL: 5.0002\;ggf. Online
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Projektmanagement\nDozent: Ha
+	rtmann\nRaum: CL: 5.0002\nAnmerkung: ggf. Online\nPause: inkl. 90 min Pau
+	se\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T080000
+DTEND;TZID=Europe/Berlin:20210329T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973209
+SUMMARY:PÜ\;MB3061- Labor Prod.planung u. -steuerg.\;Lange\, P.\;CL: 6B.1
+	51 (CAD-L)\;Umstellung auf Online möglich
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: MB3061- Labor Prod.planung u. -steuer
+	g.\nDozent: Lange\, P.\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: Umstellung a
+	uf Online möglich\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210330T080000
+DTEND;TZID=Europe/Berlin:20210330T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977263
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T123000
+DTEND;TZID=Europe/Berlin:20210330T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971968
+SUMMARY:SU\;MB3062- Projektmanagement\;Hartmann\;CL: 5.0002\;ggf. Online
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Projektmanagement\nDozent: Ha
+	rtmann\nRaum: CL: 5.0002\nAnmerkung: ggf. Online\nPause: inkl. 90 min Pau
+	se\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T080000
+DTEND;TZID=Europe/Berlin:20210331T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971969
+SUMMARY:SU\;MB3062- Projektmanagement\;Hartmann\;CL: 5.0002\;ggf. Online
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Projektmanagement\nDozent: Ha
+	rtmann\nRaum: CL: 5.0002\nAnmerkung: ggf. Online\nPause: inkl. 15 min Pau
+	se\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T080000
+DTEND;TZID=Europe/Berlin:20210401T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977271
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T123000
+DTEND;TZID=Europe/Berlin:20210401T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973210
+SUMMARY:PÜ\;MB3061- Labor Prod.planung u. -steuerg.\;Lange\, P.\;CL: 6B.1
+	51 (CAD-L)\;Umstellung auf Online möglich
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: MB3061- Labor Prod.planung u. -steuer
+	g.\nDozent: Lange\, P.\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: Umstellung a
+	uf Online möglich\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210406T080000
+DTEND;TZID=Europe/Berlin:20210406T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977264
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T123000
+DTEND;TZID=Europe/Berlin:20210406T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977332
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T090000
+DTEND;TZID=Europe/Berlin:20210407T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977806
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T130000
+DTEND;TZID=Europe/Berlin:20210407T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977270
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T080000
+DTEND;TZID=Europe/Berlin:20210408T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977273
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T123000
+DTEND;TZID=Europe/Berlin:20210408T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975759
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 2\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	-\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T080000
+DTEND;TZID=Europe/Berlin:20210409T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975767
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 1\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	-\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T130000
+DTEND;TZID=Europe/Berlin:20210409T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977338
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T090000
+DTEND;TZID=Europe/Berlin:20210412T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974517
+SUMMARY:SI\;MB3063-WPF I/II: Verfahrenstechnik\;Timm\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II: Verfahrenstechnik\nD
+	ozent: Timm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T143000
+DTEND;TZID=Europe/Berlin:20210412T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974516
+SUMMARY:SI\;MB3063-WPF I/II: Verfahrenstechnik\;Timm\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II: Verfahrenstechnik\nD
+	ozent: Timm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 90 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T080000
+DTEND;TZID=Europe/Berlin:20210413T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977331
+SUMMARY:SI\;MB3063-WPF I/II/III: Kfz-Technik\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II/III: Kfz-Technik\nDoz
+	ent: Kurzawa\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T090000
+DTEND;TZID=Europe/Berlin:20210414T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977807
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T130000
+DTEND;TZID=Europe/Berlin:20210414T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977269
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T080000
+DTEND;TZID=Europe/Berlin:20210415T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977274
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T123000
+DTEND;TZID=Europe/Berlin:20210415T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975406
+SUMMARY:SU\;MB3064- Ingenieurrecht\;Faden\, Ch.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3064- Ingenieurrecht\nDozent: Faden
+	\, Ch.\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T080000
+DTEND;TZID=Europe/Berlin:20210416T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976178
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 1\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	-\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T080000
+DTEND;TZID=Europe/Berlin:20210419T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976179
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 2\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	-\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T130000
+DTEND;TZID=Europe/Berlin:20210419T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973212
+SUMMARY:PÜ\;MB3061- Labor Prod.planung u. -steuerg.\;Lange\, P.\;CL: 6B.1
+	51 (CAD-L)\;Umstellung auf Online möglich
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: MB3061- Labor Prod.planung u. -steuer
+	g.\nDozent: Lange\, P.\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: Umstellung a
+	uf Online möglich\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210420T080000
+DTEND;TZID=Europe/Berlin:20210420T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977265
+SUMMARY:SU\;MB3061- Fabrikbetrieb\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3061- Fabrikbetrieb\nDozent: Schomä
+	cker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210420T123000
+DTEND;TZID=Europe/Berlin:20210420T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974515
+SUMMARY:SI\;MB3063-WPF I/II: Verfahrenstechnik\;Timm\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: MB3063-WPF I/II: Verfahrenstechnik\nD
+	ozent: Timm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 90 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210421T080000
+DTEND;TZID=Europe/Berlin:20210421T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977267
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T080000
+DTEND;TZID=Europe/Berlin:20210422T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977281
+SUMMARY:SU\;MB3062- Qualitätsmanagement\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3062- Qualitätsmanagement\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T123000
+DTEND;TZID=Europe/Berlin:20210422T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975830
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;Prüfung
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 1\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	Prüfung\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T080000
+DTEND;TZID=Europe/Berlin:20210423T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975829
+SUMMARY:S+L\;MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2\;Roßbach\,
+	 B.\;CL: 6B.156 (AT-L)\;Prüfung
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: S+L\nVeranstaltung: MB3063-WPF II: Ölhydraulik und Pneum
+	atik Gruppe 2\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: 
+	Prüfung\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T133000
+DTEND;TZID=Europe/Berlin:20210423T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977341
+SUMMARY:Klausur\;MB3063 - Wahlpflichtfach I/II/III\;Kurzawa\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB3063 - Wahlpflichtfach I/II/II
+	I\nDozent: Kurzawa\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210428T090000
+DTEND;TZID=Europe/Berlin:20210428T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977343
+SUMMARY:Klausur\;MB3062-Qual.u. Projektmanagement\;Schomäcker\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB3062-Qual.u. Projektmanagement
+	\nDozent: Schomäcker\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210430T090000
+DTEND;TZID=Europe/Berlin:20210430T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977344
+SUMMARY:Klausur\;MB3061- Produktionssteuerung\;Schomäcker\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB3061- Produktionssteuerung\nDo
+	zent: Schomäcker\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210503T090000
+DTEND;TZID=Europe/Berlin:20210503T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977345
+SUMMARY:Klausur\;MB3063 - Wahlpflichtfach I/II/III\;Steinmann\, Timm\;Ver
+	fahrenstechnik
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB3063 - Wahlpflichtfach I/II/II
+	I\nDozent: Steinmann\, Timm\nRaum: -\nAnmerkung: Verfahrenstechnik\nPause
+	: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210505T090000
+DTEND;TZID=Europe/Berlin:20210505T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978932
+SUMMARY:E\;Studienreise\;Steinmann\;
+LOCATION:
+DESCRIPTION:Art: E\nVeranstaltung: Studienreise\nDozent: Steinmann\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210507T080000
+DTEND;TZID=Europe/Berlin:20210507T200000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978933
+SUMMARY:E\;Studienreise\;Steinmann\;
+LOCATION:
+DESCRIPTION:Art: E\nVeranstaltung: Studienreise\nDozent: Steinmann\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210508T080000
+DTEND;TZID=Europe/Berlin:20210508T200000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

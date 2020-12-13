@@ -1,0 +1,42 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de956000",
+      "start": "2020-11-02T07:30:00Z",
+      "end": "2020-11-02T10:45:00Z",
+      "module": "IT2101-Labor SWE I: Gruppe 1 + 2",
+      "lecturers": [
+        "Kretzmer"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Prüfung Online"
+    },
+    {
+      "uid": "sked.de948320",
+      "start": "2020-11-04T08:00:00Z",
+      "end": "2020-11-04T11:00:00Z",
+      "module": "IT2121-Betriebl. Hard- u. Softwaresysteme",
+      "lecturers": [
+        "Lange, P.",
+        "Monett Diaz, D.",
+        "Thomas"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de948319",
+      "start": "2020-11-06T13:00:00Z",
+      "end": "2020-11-06T15:00:00Z",
+      "module": "IT2091-Embedded Systems",
+      "lecturers": [
+        "Buck"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de971118",
+      "start": "2020-10-27T08:00:00Z",
+      "end": "2020-10-27T09:00:00Z",
+      "module": "401 -Wppff. betriebliche Altersvorsorge",
+      "lecturers": [
+        "Kothe"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online-Klausur"
+    },
+    {
+      "uid": "sked.de956915",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Cross Cultural Management",
+      "lecturers": [
+        "Kassman"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de970607",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Ethik",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971452",
+      "start": "2020-10-29T09:00:00Z",
+      "end": "2020-10-29T10:00:00Z",
+      "module": "VS-201 VBL I",
+      "lecturers": [
+        "Köhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online-Klausur Versicherungsvertrieb I"
+    },
+    {
+      "uid": "sked.de971119",
+      "start": "2020-10-30T09:00:00Z",
+      "end": "2020-10-30T10:30:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "Findikci"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online-Klausur"
+    }
+  ]
+}

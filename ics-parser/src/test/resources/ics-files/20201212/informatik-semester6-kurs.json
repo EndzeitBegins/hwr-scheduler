@@ -1,0 +1,916 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de973713",
+      "start": "2021-02-15T08:00:00Z",
+      "end": "2021-02-15T12:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977809",
+      "start": "2021-02-15T13:00:00Z",
+      "end": "2021-02-15T15:30:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977817",
+      "start": "2021-02-16T08:45:00Z",
+      "end": "2021-02-16T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken Gr. 1 + 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977828",
+      "start": "2021-02-17T08:45:00Z",
+      "end": "2021-02-17T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977829",
+      "start": "2021-02-17T13:00:00Z",
+      "end": "2021-02-17T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977818",
+      "start": "2021-02-18T07:00:00Z",
+      "end": "2021-02-18T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976233",
+      "start": "2021-02-19T07:00:00Z",
+      "end": "2021-02-19T11:15:00Z",
+      "module": "IT3231-Wpff. II: Verteilte Systeme",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976237",
+      "start": "2021-02-19T12:00:00Z",
+      "end": "2021-02-19T16:15:00Z",
+      "module": "IT3231-Wpff. II: Quantum Computing",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973714",
+      "start": "2021-02-22T08:00:00Z",
+      "end": "2021-02-22T12:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977810",
+      "start": "2021-02-22T13:00:00Z",
+      "end": "2021-02-22T15:30:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977830",
+      "start": "2021-02-23T08:45:00Z",
+      "end": "2021-02-23T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977831",
+      "start": "2021-02-23T13:00:00Z",
+      "end": "2021-02-23T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973731",
+      "start": "2021-02-24T08:00:00Z",
+      "end": "2021-02-24T15:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 1 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977819",
+      "start": "2021-02-25T07:00:00Z",
+      "end": "2021-02-25T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976223",
+      "start": "2021-02-26T07:00:00Z",
+      "end": "2021-02-26T11:15:00Z",
+      "module": "IT3231-Wpff. II: Human Factors",
+      "lecturers": [
+        "Piepenbring"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976228",
+      "start": "2021-02-26T12:00:00Z",
+      "end": "2021-02-26T16:15:00Z",
+      "module": "IT3231-Wpff. II: Funktionale Programmierung",
+      "lecturers": [
+        "Kirchner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973715",
+      "start": "2021-03-01T08:00:00Z",
+      "end": "2021-03-01T12:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977811",
+      "start": "2021-03-01T13:00:00Z",
+      "end": "2021-03-01T15:30:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977832",
+      "start": "2021-03-02T08:45:00Z",
+      "end": "2021-03-02T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977833",
+      "start": "2021-03-02T13:00:00Z",
+      "end": "2021-03-02T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973732",
+      "start": "2021-03-03T08:00:00Z",
+      "end": "2021-03-03T15:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 2 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977820",
+      "start": "2021-03-04T07:00:00Z",
+      "end": "2021-03-04T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976234",
+      "start": "2021-03-05T07:00:00Z",
+      "end": "2021-03-05T11:15:00Z",
+      "module": "IT3231-Wpff. II: Verteilte Systeme",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976238",
+      "start": "2021-03-05T12:00:00Z",
+      "end": "2021-03-05T16:15:00Z",
+      "module": "IT3231-Wpff. II: Quantum Computing",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977834",
+      "start": "2021-03-09T08:45:00Z",
+      "end": "2021-03-09T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977835",
+      "start": "2021-03-09T13:00:00Z",
+      "end": "2021-03-09T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973733",
+      "start": "2021-03-10T08:00:00Z",
+      "end": "2021-03-10T15:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 3 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977821",
+      "start": "2021-03-11T07:00:00Z",
+      "end": "2021-03-11T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976224",
+      "start": "2021-03-12T07:00:00Z",
+      "end": "2021-03-12T11:15:00Z",
+      "module": "IT3231-Wpff. II: Human Factors",
+      "lecturers": [
+        "Piepenbring"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976229",
+      "start": "2021-03-12T12:00:00Z",
+      "end": "2021-03-12T16:15:00Z",
+      "module": "IT3231-Wpff. II: Funktionale Programmierung",
+      "lecturers": [
+        "Kirchner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973716",
+      "start": "2021-03-15T08:00:00Z",
+      "end": "2021-03-15T12:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977812",
+      "start": "2021-03-15T13:00:00Z",
+      "end": "2021-03-15T15:30:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977836",
+      "start": "2021-03-16T08:45:00Z",
+      "end": "2021-03-16T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977837",
+      "start": "2021-03-16T13:00:00Z",
+      "end": "2021-03-16T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973734",
+      "start": "2021-03-17T08:00:00Z",
+      "end": "2021-03-17T15:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 1 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977822",
+      "start": "2021-03-18T07:00:00Z",
+      "end": "2021-03-18T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976235",
+      "start": "2021-03-19T07:00:00Z",
+      "end": "2021-03-19T11:15:00Z",
+      "module": "IT3231-Wpff. II: Verteilte Systeme",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976239",
+      "start": "2021-03-19T12:00:00Z",
+      "end": "2021-03-19T16:15:00Z",
+      "module": "IT3231-Wpff. II: Quantum Computing",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973717",
+      "start": "2021-03-22T08:00:00Z",
+      "end": "2021-03-22T11:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977813",
+      "start": "2021-03-22T12:00:00Z",
+      "end": "2021-03-22T15:45:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977838",
+      "start": "2021-03-23T08:45:00Z",
+      "end": "2021-03-23T12:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977839",
+      "start": "2021-03-23T13:00:00Z",
+      "end": "2021-03-23T16:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973735",
+      "start": "2021-03-24T08:00:00Z",
+      "end": "2021-03-24T15:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 2 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977823",
+      "start": "2021-03-25T07:00:00Z",
+      "end": "2021-03-25T10:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976225",
+      "start": "2021-03-26T07:00:00Z",
+      "end": "2021-03-26T11:15:00Z",
+      "module": "IT3231-Wpff. II: Human Factors",
+      "lecturers": [
+        "Piepenbring"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976230",
+      "start": "2021-03-26T12:00:00Z",
+      "end": "2021-03-26T16:15:00Z",
+      "module": "IT3231-Wpff. II: Funktionale Programmierung",
+      "lecturers": [
+        "Kirchner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973718",
+      "start": "2021-03-29T07:00:00Z",
+      "end": "2021-03-29T10:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977814",
+      "start": "2021-03-29T11:00:00Z",
+      "end": "2021-03-29T14:45:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977827",
+      "start": "2021-03-30T06:00:00Z",
+      "end": "2021-03-30T09:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977840",
+      "start": "2021-03-30T10:00:00Z",
+      "end": "2021-03-30T13:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977841",
+      "start": "2021-03-30T14:00:00Z",
+      "end": "2021-03-30T17:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973736",
+      "start": "2021-03-31T07:00:00Z",
+      "end": "2021-03-31T14:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 3 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de976242",
+      "start": "2021-04-01T06:00:00Z",
+      "end": "2021-04-01T10:15:00Z",
+      "module": "IT3231-Wpff. II: Verteilte Systeme",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976241",
+      "start": "2021-04-01T11:00:00Z",
+      "end": "2021-04-01T15:15:00Z",
+      "module": "IT3231-Wpff. II: Quantum Computing",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977842",
+      "start": "2021-04-06T07:45:00Z",
+      "end": "2021-04-06T11:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977843",
+      "start": "2021-04-06T12:00:00Z",
+      "end": "2021-04-06T15:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973737",
+      "start": "2021-04-07T07:00:00Z",
+      "end": "2021-04-07T14:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 1 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977824",
+      "start": "2021-04-08T06:00:00Z",
+      "end": "2021-04-08T09:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976226",
+      "start": "2021-04-09T06:00:00Z",
+      "end": "2021-04-09T10:15:00Z",
+      "module": "IT3231-Wpff. II: Human Factors",
+      "lecturers": [
+        "Piepenbring"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976231",
+      "start": "2021-04-09T11:00:00Z",
+      "end": "2021-04-09T15:15:00Z",
+      "module": "IT3231-Wpff. II: Funktionale Programmierung",
+      "lecturers": [
+        "Kirchner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973719",
+      "start": "2021-04-12T07:00:00Z",
+      "end": "2021-04-12T10:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977815",
+      "start": "2021-04-12T11:00:00Z",
+      "end": "2021-04-12T15:00:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977844",
+      "start": "2021-04-13T07:45:00Z",
+      "end": "2021-04-13T11:00:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977845",
+      "start": "2021-04-13T12:00:00Z",
+      "end": "2021-04-13T15:15:00Z",
+      "module": "IT2251-Labor Datenbanken: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973738",
+      "start": "2021-04-14T07:00:00Z",
+      "end": "2021-04-14T14:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 2 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977825",
+      "start": "2021-04-15T06:00:00Z",
+      "end": "2021-04-15T09:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976236",
+      "start": "2021-04-16T06:00:00Z",
+      "end": "2021-04-16T10:15:00Z",
+      "module": "IT3231-Wpff. II: Verteilte Systeme",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976240",
+      "start": "2021-04-16T11:00:00Z",
+      "end": "2021-04-16T15:15:00Z",
+      "module": "IT3231-Wpff. II: Quantum Computing",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973720",
+      "start": "2021-04-19T07:00:00Z",
+      "end": "2021-04-19T10:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de977816",
+      "start": "2021-04-19T11:00:00Z",
+      "end": "2021-04-19T15:00:00Z",
+      "module": "IT2251-Datenbanken",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973739",
+      "start": "2021-04-21T07:00:00Z",
+      "end": "2021-04-21T14:30:00Z",
+      "module": "IT2221-Labor Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Übung Gr. 3 (max. 11Teilnehmer)"
+    },
+    {
+      "uid": "sked.de977826",
+      "start": "2021-04-22T06:00:00Z",
+      "end": "2021-04-22T09:15:00Z",
+      "module": "IT3261-IT-Sicherheit",
+      "lecturers": [
+        "Kalkbrenner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976227",
+      "start": "2021-04-23T06:00:00Z",
+      "end": "2021-04-23T10:15:00Z",
+      "module": "IT3231-Wpff. II: Human Factors",
+      "lecturers": [
+        "Piepenbring"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de976232",
+      "start": "2021-04-23T11:00:00Z",
+      "end": "2021-04-23T15:15:00Z",
+      "module": "IT3231-Wpff. II: Funktionale Programmierung",
+      "lecturers": [
+        "Kirchner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973721",
+      "start": "2021-04-26T07:00:00Z",
+      "end": "2021-04-26T10:15:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973740",
+      "start": "2021-05-03T07:00:00Z",
+      "end": "2021-05-03T09:00:00Z",
+      "module": "IT2221-Netzwerke",
+      "lecturers": [
+        "Kreth"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de950233",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951085",
+      "start": "2020-12-07T12:00:00Z",
+      "end": "2020-12-07T14:30:00Z",
+      "module": "IT2041-Einführung in die Programmierung",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970450",
+      "start": "2020-12-07T15:00:00Z",
+      "end": "2020-12-07T16:30:00Z",
+      "module": "IT2031-Automatentheorie und formale Sprachen",
+      "lecturers": [
+        "Haase"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971319",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T10:30:00Z",
+      "module": "IT4021-Präsentationstechnik",
+      "lecturers": [
+        "Seeliger-Würtz"
+      ],
+      "room": "CL: 6B.450",
+      "type": "SU",
+      "note": "CL: 6B.450"
+    },
+    {
+      "uid": "sked.de971320",
+      "start": "2020-12-08T11:00:00Z",
+      "end": "2020-12-08T13:30:00Z",
+      "module": "IT4021-Präsentationstechnik",
+      "lecturers": [
+        "Seeliger-Würtz"
+      ],
+      "room": "CL: 6B.450",
+      "type": "SU",
+      "note": "CL: 6B.450"
+    },
+    {
+      "uid": "sked.de950523",
+      "start": "2020-12-08T15:15:00Z",
+      "end": "2020-12-08T16:45:00Z",
+      "module": "IT2031-Grundlagen der Informatik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950149",
+      "start": "2020-12-08T17:00:00Z",
+      "end": "2020-12-08T18:30:00Z",
+      "module": "IT2031- Logik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950507",
+      "start": "2020-12-08T18:45:00Z",
+      "end": "2020-12-08T19:30:00Z",
+      "module": "IT2031-Algorithmen und Datenstrukturen",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951503",
+      "start": "2020-12-09T08:00:00Z",
+      "end": "2020-12-09T11:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 3",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951504",
+      "start": "2020-12-09T12:00:00Z",
+      "end": "2020-12-09T15:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971321",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T12:00:00Z",
+      "module": "IT4021-Präsentationstechnik",
+      "lecturers": [
+        "Seeliger-Würtz"
+      ],
+      "room": "CL: 6B.450",
+      "type": "SU",
+      "note": "CL: 6B.450"
+    },
+    {
+      "uid": "sked.de971322",
+      "start": "2020-12-10T12:30:00Z",
+      "end": "2020-12-10T16:30:00Z",
+      "module": "IT4021-Präsentationstechnik",
+      "lecturers": [
+        "Seeliger-Würtz"
+      ],
+      "room": "CL: 6B.450",
+      "type": "SU",
+      "note": "CL: 6B.450"
+    },
+    {
+      "uid": "sked.de950244",
+      "start": "2020-12-11T07:45:00Z",
+      "end": "2020-12-11T11:00:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951505",
+      "start": "2020-12-11T12:30:00Z",
+      "end": "2020-12-11T15:45:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950234",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T11:15:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951086",
+      "start": "2020-12-14T12:00:00Z",
+      "end": "2020-12-14T14:30:00Z",
+      "module": "IT2041-Einführung in die Programmierung",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970451",
+      "start": "2020-12-14T15:00:00Z",
+      "end": "2020-12-14T16:30:00Z",
+      "module": "IT2031-Automatentheorie und formale Sprachen",
+      "lecturers": [
+        "Haase"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951506",
+      "start": "2020-12-15T09:30:00Z",
+      "end": "2020-12-15T12:45:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950524",
+      "start": "2020-12-15T13:45:00Z",
+      "end": "2020-12-15T15:15:00Z",
+      "module": "IT2031-Grundlagen der Informatik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950150",
+      "start": "2020-12-15T15:30:00Z",
+      "end": "2020-12-15T17:00:00Z",
+      "module": "IT2031- Logik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950508",
+      "start": "2020-12-15T17:15:00Z",
+      "end": "2020-12-15T18:00:00Z",
+      "module": "IT2031-Algorithmen und Datenstrukturen",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951507",
+      "start": "2020-12-16T08:00:00Z",
+      "end": "2020-12-16T11:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951508",
+      "start": "2020-12-16T12:00:00Z",
+      "end": "2020-12-16T15:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 3",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950245",
+      "start": "2020-12-18T08:00:00Z",
+      "end": "2020-12-18T11:15:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970817",
+      "start": "2020-12-18T12:00:00Z",
+      "end": "2020-12-18T13:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950235",
+      "start": "2021-01-04T08:00:00Z",
+      "end": "2021-01-04T11:15:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951087",
+      "start": "2021-01-04T12:00:00Z",
+      "end": "2021-01-04T14:30:00Z",
+      "module": "IT2041-Einführung in die Programmierung",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950536",
+      "start": "2021-01-04T15:30:00Z",
+      "end": "2021-01-04T17:00:00Z",
+      "module": "IT2031-Grundlagen der Informatik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951509",
+      "start": "2021-01-05T07:45:00Z",
+      "end": "2021-01-05T11:00:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 2",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950190",
+      "start": "2021-01-05T13:00:00Z",
+      "end": "2021-01-05T14:30:00Z",
+      "module": "IT2031- Logik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": "CL: 6B.052 (IT-L)",
+      "type": "Ü",
+      "note": "CL: 6B.052 (IT-L)"
+    },
+    {
+      "uid": "sked.de951510",
+      "start": "2021-01-06T08:00:00Z",
+      "end": "2021-01-06T11:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 3",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de951511",
+      "start": "2021-01-06T12:00:00Z",
+      "end": "2021-01-06T15:15:00Z",
+      "module": "IT2041-Labor Programmierung: Gruppe 1",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970452",
+      "start": "2021-01-08T09:30:00Z",
+      "end": "2021-01-08T11:00:00Z",
+      "module": "IT2031-Automatentheorie und formale Sprachen",
+      "lecturers": [
+        "Haase"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de978979",
+      "start": "2021-01-11T13:00:00Z",
+      "end": "2021-01-11T15:00:00Z",
+      "module": "IT1011-Diskrete Mathematik",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "vorbehaltlich Klausurraumverfügbarkeit"
+    },
+    {
+      "uid": "sked.de950888",
+      "start": "2021-01-13T13:00:00Z",
+      "end": "2021-01-13T15:00:00Z",
+      "module": "IT4021-Basics",
+      "lecturers": [
+        "Zimmermann, A."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de950889",
+      "start": "2021-01-15T08:00:00Z",
+      "end": "2021-01-15T11:00:00Z",
+      "module": "IT2031-Grundlagen der Informatik",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

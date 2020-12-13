@@ -1,0 +1,917 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10915
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964197
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964199
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T104500
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964201
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T123000
+DTEND;TZID=Europe/Berlin:20201207T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966597
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201207T140000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966599
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201207T154500
+DTEND;TZID=Europe/Berlin:20201207T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966601
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201207T173000
+DTEND;TZID=Europe/Berlin:20201207T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972403
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T191500
+DTEND;TZID=Europe/Berlin:20201207T204500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968637
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968639
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964159
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964161
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972405
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T181500
+DTEND;TZID=Europe/Berlin:20201208T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950492
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948915
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T130000
+DTEND;TZID=Europe/Berlin:20201209T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948917
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T144500
+DTEND;TZID=Europe/Berlin:20201209T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948962
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T163000
+DTEND;TZID=Europe/Berlin:20201209T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948930
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948932
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T104500
+DTEND;TZID=Europe/Berlin:20201210T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948934
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T130000
+DTEND;TZID=Europe/Berlin:20201210T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948936
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T144500
+DTEND;TZID=Europe/Berlin:20201210T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953398
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T163000
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948965
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T171500
+DTEND;TZID=Europe/Berlin:20201210T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948938
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948940
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T104500
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948942
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T130000
+DTEND;TZID=Europe/Berlin:20201211T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948944
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T144500
+DTEND;TZID=Europe/Berlin:20201211T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953399
+SUMMARY:SU\;SK: Teambildung\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Teambildung\nDozent: Drebing\nRau
+	m: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T163000
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948967
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T171500
+DTEND;TZID=Europe/Berlin:20201211T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965484
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T084500
+DTEND;TZID=Europe/Berlin:20201214T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965485
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T094500
+DTEND;TZID=Europe/Berlin:20201214T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965487
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T113000
+DTEND;TZID=Europe/Berlin:20201214T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971700
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972407
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T164500
+DTEND;TZID=Europe/Berlin:20201214T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964163
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T084500
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964164
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964166
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970762
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T134000
+DTEND;TZID=Europe/Berlin:20201215T151000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972409
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T181500
+DTEND;TZID=Europe/Berlin:20201215T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968640
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968642
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T104500
+DTEND;TZID=Europe/Berlin:20201216T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971702
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T114500
+DTEND;TZID=Europe/Berlin:20201216T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964168
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T084500
+DTEND;TZID=Europe/Berlin:20201217T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964169
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964171
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971704
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966632
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T100000
+DTEND;TZID=Europe/Berlin:20201218T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966634
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T114500
+DTEND;TZID=Europe/Berlin:20201218T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966635
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T133000
+DTEND;TZID=Europe/Berlin:20201218T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968643
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968645
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T113000
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972411
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T191500
+DTEND;TZID=Europe/Berlin:20210104T204500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966647
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T100000
+DTEND;TZID=Europe/Berlin:20210105T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966649
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T114500
+DTEND;TZID=Europe/Berlin:20210105T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966650
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Petschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Petschke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T133000
+DTEND;TZID=Europe/Berlin:20210105T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972413
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T181500
+DTEND;TZID=Europe/Berlin:20210105T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964173
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T084500
+DTEND;TZID=Europe/Berlin:20210106T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964174
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964176
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964178
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T084500
+DTEND;TZID=Europe/Berlin:20210107T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964179
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964181
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968646
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T090000
+DTEND;TZID=Europe/Berlin:20210108T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968648
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T104500
+DTEND;TZID=Europe/Berlin:20210108T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

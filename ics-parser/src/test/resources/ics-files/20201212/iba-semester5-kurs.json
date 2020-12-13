@@ -1,0 +1,42 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de927292",
+      "start": "2019-10-28T13:00:00Z",
+      "end": "2019-10-28T15:00:00Z",
+      "module": "202-SBWL",
+      "lecturers": [
+        "also for Incomings IBA",
+        "Prof. Dr. Weyer"
+      ],
+      "room": "CL: 5.0001",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de927059",
+      "start": "2019-10-29T08:00:00Z",
+      "end": "2019-10-29T10:00:00Z",
+      "module": "401 Wpff. Statist. Verf. in d. Marktforschg.",
+      "lecturers": [
+        "Achtung! 1Nachteilsausgleich Kurs IN A bis 10.45 Uhr."
+      ],
+      "room": "CL: 6B.173 (T)",
+      "type": "Klausur",
+      "note": "Prof. Dr. Brinner"
+    },
+    {
+      "uid": "sked.de927061",
+      "start": "2019-10-29T12:00:00Z",
+      "end": "2019-10-29T14:00:00Z",
+      "module": "401 Wahlpflichtfach I-Englisch Niveau B1+B2- Grupp",
+      "lecturers": [
+        "alsofor Incomings IBA",
+        "business weg"
+      ],
+      "room": "CL: 6A.229 (FB4)",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de908201",
+      "start": "2019-05-14T06:00:00Z",
+      "end": "2019-05-14T07:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Vorbereitung"
+      ],
+      "room": "CL: 6B.370 (L2)",
+      "type": "*",
+      "note": "Kocmann"
+    },
+    {
+      "uid": "sked.de905726",
+      "start": "2019-05-14T07:00:00Z",
+      "end": "2019-05-14T10:00:00Z",
+      "module": "303-W.informatik",
+      "lecturers": [
+        "Kocmann"
+      ],
+      "room": "CL: 6B.370 (L2)",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de908076",
+      "start": "2019-05-15T07:00:00Z",
+      "end": "2019-05-15T10:00:00Z",
+      "module": "108-SBWL",
+      "lecturers": [
+        "Prof. Dr. Kölling",
+        "Prof. Dr. Schlösser"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de908087",
+      "start": "2019-05-17T07:00:00Z",
+      "end": "2019-05-17T10:00:00Z",
+      "module": "117-Wp.recht II",
+      "lecturers": [
+        "Prof. Dr. Koch-Rust",
+        "Prof. Dr. Weyer"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

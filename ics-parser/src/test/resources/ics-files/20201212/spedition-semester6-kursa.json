@@ -1,0 +1,100 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945648",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T09:00:00Z",
+      "module": "402 Wpff. Statist. Verf. in d. Marktforschg.",
+      "lecturers": [
+        "gem. Absprache Prof. Dr. Brinner"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Brinner"
+    },
+    {
+      "uid": "sked.de945645",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T10:00:00Z",
+      "module": "402 Wpff. Operations Research",
+      "lecturers": [
+        "Präsenzklausur wird verschoben!"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Krüger"
+    },
+    {
+      "uid": "sked.de945643",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T10:30:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945644",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T12:00:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau C1",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de950758",
+      "start": "2020-04-22T07:00:00Z",
+      "end": "2020-04-22T15:00:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "Mündliche Prüfung - online gem. Einteilung Herr Hesse"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dipl.-Volksw. Hesse"
+    },
+    {
+      "uid": "sked.de945744",
+      "start": "2020-04-22T08:00:00Z",
+      "end": "2020-04-22T09:30:00Z",
+      "module": "204-SBWL",
+      "lecturers": [
+        "keine Klausur gem. Absprache mit Dozenten"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Woogt"
+    },
+    {
+      "uid": "sked.de950757",
+      "start": "2020-04-23T07:00:00Z",
+      "end": "2020-04-23T15:00:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "Mündliche Prüfung - Online gem. Einteilung Herr Hesse"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dipl.-Volksw. Hesse"
+    },
+    {
+      "uid": "sked.de945659",
+      "start": "2020-04-24T07:00:00Z",
+      "end": "2020-04-24T15:00:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "Mündliche Prüfung online - gem. Einteilung Herr Hesse"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dipl.-Volksw. Hesse"
+    }
+  ]
+}

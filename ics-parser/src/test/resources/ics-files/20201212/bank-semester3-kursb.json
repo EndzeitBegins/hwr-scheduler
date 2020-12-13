@@ -1,0 +1,53 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de976345",
+      "start": "2020-12-08T09:30:00Z",
+      "end": "2020-12-08T12:10:00Z",
+      "module": "Verbundgesch. u. sonst. Serviceleist.",
+      "lecturers": [
+        "Herr Zieting Online-Klausur\t10.30 - 11.25\\nHerr Mauga Online-Klausur\t11.30 - 11.55\\nHerr Tautz    Online-Klausur\t12.00 - 12.30\\nFrau Ziener   Online-Klausur\t12.35- 13.10"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Herr Zieting Online-Klausur\t10.30 -11.25"
+    },
+    {
+      "uid": "sked.de974049",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T11:00:00Z",
+      "module": "Statistik",
+      "lecturers": [
+        "Rosentreter",
+        "Wannemacher"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    },
+    {
+      "uid": "sked.de974680",
+      "start": "2020-12-14T10:00:00Z",
+      "end": "2020-12-14T12:00:00Z",
+      "module": "Handels- und Steuerbilanzen / Steuern",
+      "lecturers": [
+        "Nabialek"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de976348",
+      "start": "2020-12-15T08:00:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Kreditgeschäfte",
+      "lecturers": [
+        "Hr. Siegert Online-Klausur\t\\n9.00 -10.35\\nHr. Efrém   Online-Klausur\t10.40 - 11.15"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Hr. Siegert Online-Klausur"
+    }
+  ]
+}

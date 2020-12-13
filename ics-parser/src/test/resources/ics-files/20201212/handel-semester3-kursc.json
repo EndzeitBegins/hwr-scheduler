@@ -1,0 +1,31 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de590317",
+      "start": "2013-12-17T11:00:00Z",
+      "end": "2013-12-17T13:00:00Z",
+      "module": "111-Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Prof. Dr. Bleis",
+        "Prof. Dr. Peter-Ollrogge"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "111-Kosten- und Leistungsrechnung",
+      "note": null
+    },
+    {
+      "uid": "sked.de590320",
+      "start": "2013-12-19T08:00:00Z",
+      "end": "2013-12-19T11:00:00Z",
+      "module": "117-Wirtschaftsprivatrecht II",
+      "lecturers": [
+        "Prof.Dr. Bosley",
+        "Prof. Dr. Hesse",
+        "Prof. Dr. Koch-Rust"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "117-Wirtschaftsprivatrecht II",
+      "note": null
+    }
+  ]
+}

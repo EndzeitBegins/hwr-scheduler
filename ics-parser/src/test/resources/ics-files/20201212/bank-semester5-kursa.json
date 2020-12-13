@@ -1,0 +1,126 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de971118",
+      "start": "2020-10-27T08:00:00Z",
+      "end": "2020-10-27T09:00:00Z",
+      "module": "401 -Wppff. betriebliche Altersvorsorge",
+      "lecturers": [
+        "Kothe"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online-Klausur"
+    },
+    {
+      "uid": "sked.de956915",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Cross Cultural Management",
+      "lecturers": [
+        "Kassman"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de970607",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Ethik",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971767",
+      "start": "2020-10-28T08:00:00Z",
+      "end": "2020-10-28T11:55:00Z",
+      "module": "201-SBWL",
+      "lecturers": [
+        "ONLINE  Modul BK-201 - Geschäftspolitik der Kreditinstitute I\\nRiskmanagement  -  Herr Lennart Wagner 9.00 - 10.25\\nRiskmanagement - Herr JanniK de Winter 10.35 - 12.00\\nBilanzielle Risikovorsorge der KI - Dr. Hans-Peter Jurscha 12.10 -  12.55"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE  Modul BK-201 - Geschäftspolitik der Kreditinstitute I"
+    },
+    {
+      "uid": "sked.de971772",
+      "start": "2020-10-29T08:00:00Z",
+      "end": "2020-10-29T12:00:00Z",
+      "module": "202-SBWL",
+      "lecturers": [
+        "ONLINE  \\nModul BK-202 - Vertiefung Kreditgeschäfte \\nTeil 1 - Prof. Schütt 9.00 - 10.45\\nTeil 2 - Hr. Liesegang 10.55- 12.00\\nTeil 3 - Herr Heublein 12.10-13.00"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de958525",
+      "start": "2020-10-30T07:00:00Z",
+      "end": "2020-10-30T08:30:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de958527",
+      "start": "2020-10-30T08:45:00Z",
+      "end": "2020-10-30T10:15:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de958529",
+      "start": "2020-10-30T10:30:00Z",
+      "end": "2020-10-30T12:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de958531",
+      "start": "2020-10-30T13:00:00Z",
+      "end": "2020-10-30T14:30:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de958533",
+      "start": "2020-10-30T14:45:00Z",
+      "end": "2020-10-30T16:15:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    }
+  ]
+}

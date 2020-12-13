@@ -1,0 +1,994 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10917
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949753
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201207T080000
+DTEND;TZID=Europe/Berlin:20201207T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955383
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201207T113000
+DTEND;TZID=Europe/Berlin:20201207T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955385
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201207T131500
+DTEND;TZID=Europe/Berlin:20201207T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954532
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 2
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 2\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T150000
+DTEND;TZID=Europe/Berlin:20201207T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967469
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Kaltschew\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Kaltschew\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967471
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Kaltschew\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Kaltschew\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201208T104500
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964951
+SUMMARY:SU\;SK: Wirtschaftsenglisch\;business weg 1\;GRUPPE a
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch\nDozent: busi
+	ness weg 1\nRaum: -\nAnmerkung: GRUPPE a\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T130000
+DTEND;TZID=Europe/Berlin:20201208T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970214
+SUMMARY:SU\;SK: Wirtschaftsenglisch\;business weg 2\;GRUPPE b
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch\nDozent: busi
+	ness weg 2\nRaum: -\nAnmerkung: GRUPPE b\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T130000
+DTEND;TZID=Europe/Berlin:20201208T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964952
+SUMMARY:SU\;SK: Wirtschaftsenglisch\;business weg 1\;Online-Prüfung GRUPP
+	E a
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch\nDozent: busi
+	ness weg 1\nRaum: -\nAnmerkung: Online-Prüfung GRUPPE a\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T163000
+DTEND;TZID=Europe/Berlin:20201208T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970215
+SUMMARY:SU\;SK: Wirtschaftsenglisch\;business weg 2\;Online-Prüfung GRUPP
+	E b
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch\nDozent: busi
+	ness weg 2\nRaum: -\nAnmerkung: Online-Prüfung GRUPPE b\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T163000
+DTEND;TZID=Europe/Berlin:20201208T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949754
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T080000
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955319
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201209T113000
+DTEND;TZID=Europe/Berlin:20201209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955321
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201209T131500
+DTEND;TZID=Europe/Berlin:20201209T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955323
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201209T150000
+DTEND;TZID=Europe/Berlin:20201209T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972184
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T164500
+DTEND;TZID=Europe/Berlin:20201209T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955514
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201210T080000
+DTEND;TZID=Europe/Berlin:20201210T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955271
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955273
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201210T113000
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954901
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 1
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 1\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T153000
+DTEND;TZID=Europe/Berlin:20201210T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954903
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 1
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 1\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T171500
+DTEND;TZID=Europe/Berlin:20201210T184500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954525
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T114500
+DTEND;TZID=Europe/Berlin:20201211T131500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954527
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949755
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201214T113000
+DTEND;TZID=Europe/Berlin:20201214T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972646
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T153000
+DTEND;TZID=Europe/Berlin:20201214T170000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972648
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T171500
+DTEND;TZID=Europe/Berlin:20201214T180000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967094
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 2
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 2\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967096
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 2
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 2\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de981820
+SUMMARY:*\;Infoveranstaltung PTB I\;Bustamante\;https://us02web.zoom.us/j
+	/86329187568?pwd=L0F2TmtJTEo4a0cyeGNjMVRIRjNGZz09\; Meeting-ID: 863 2918 
+	7568\; Kenncode: Muys09
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Infoveranstaltung PTB I\nDozent: Busta
+	mante\nRaum: -\nAnmerkung: https://us02web.zoom.us/j/86329187568?pwd=L0F2
+	TmtJTEo4a0cyeGNjMVRIRjNGZz09\; Meeting-ID: 863 2918 7568\; Kenncode: Muys
+	09\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949756
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201215T150000
+DTEND;TZID=Europe/Berlin:20201215T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955515
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955281
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955283
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972186
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T173000
+DTEND;TZID=Europe/Berlin:20201216T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949757
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955403
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955405
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201217T131500
+DTEND;TZID=Europe/Berlin:20201217T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954727
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 3
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 3\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T150000
+DTEND;TZID=Europe/Berlin:20201217T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954729
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 3
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 3\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T164500
+DTEND;TZID=Europe/Berlin:20201217T181500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979543
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T183000
+DTEND;TZID=Europe/Berlin:20201217T191500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954716
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954718
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954720
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T121500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954842
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T133000
+DTEND;TZID=Europe/Berlin:20201218T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954844
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T151500
+DTEND;TZID=Europe/Berlin:20201218T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954854
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T170000
+DTEND;TZID=Europe/Berlin:20201218T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955409
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210104T080000
+DTEND;TZID=Europe/Berlin:20210104T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955411
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949758
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T113000
+DTEND;TZID=Europe/Berlin:20210104T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967089
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 3
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 3\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967091
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 3
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 3\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967093
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 3
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 3\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972649
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T150000
+DTEND;TZID=Europe/Berlin:20210105T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972651
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T164500
+DTEND;TZID=Europe/Berlin:20210105T173000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972188
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T173000
+DTEND;TZID=Europe/Berlin:20210106T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955296
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210107T080000
+DTEND;TZID=Europe/Berlin:20210107T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955298
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Wagner\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949759
+SUMMARY:SU\;Mathematik\;Wannemacher\;Reservetermin
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: Reservetermin\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954905
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 1
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 1\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T153000
+DTEND;TZID=Europe/Berlin:20210107T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954907
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Golz\;GRUPPE 1
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Golz\nRaum: -\nAnmerkung: GRUPPE 1\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T171500
+DTEND;TZID=Europe/Berlin:20210107T184500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954846
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T090000
+DTEND;TZID=Europe/Berlin:20210108T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954848
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T104500
+DTEND;TZID=Europe/Berlin:20210108T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954850
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Rohr\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Rohr\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T123000
+DTEND;TZID=Europe/Berlin:20210108T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201126Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949721
+SUMMARY:PV\;Mathematik\;Wannemacher\;CL: 6A.008 (FB4)\;Prüfungsvorbereitu
+	ng
+LOCATION:CL: 6A.008 (FB4)
+DESCRIPTION:Art: PV\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: CL: 6A.008 (FB4)\nAnmerkung: Prüfungsvorbereitung\nPause: inkl. 15 min 
+	Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T150000
+DTEND;TZID=Europe/Berlin:20210108T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

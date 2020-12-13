@@ -1,0 +1,1568 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210215T000000
+X-SKED-SYNC-DTEND:20210510T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10825
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978538
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Mietrecht\;Beuthan\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Mietrech
+	t\nDozent: Beuthan\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T094500
+DTEND;TZID=Europe/Berlin:20210215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978539
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T140000
+DTEND;TZID=Europe/Berlin:20210215T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976785
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T090000
+DTEND;TZID=Europe/Berlin:20210216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980969
+SUMMARY:*\;Studienprojekt II - Referat\;
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Studienprojekt II - Referat\nDozent: -
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T121500
+DTEND;TZID=Europe/Berlin:20210216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976853
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T140000
+DTEND;TZID=Europe/Berlin:20210216T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976834
+SUMMARY:*\;Studienprojekt II - Referat\;Lundszien\, Mugele\, Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Studienprojekt II - Referat\nDozent: L
+	undszien\, Mugele\, Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 60 min 
+	Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T084500
+DTEND;TZID=Europe/Berlin:20210217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980967
+SUMMARY:*\;Studienprojekt II - Referat\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Studienprojekt II - Referat\nDozent: P
+	elzeter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T140000
+DTEND;TZID=Europe/Berlin:20210217T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976835
+SUMMARY:*\;Studienprojekt II - Referat\;Mugele\, Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Studienprojekt II - Referat\nDozent: M
+	ugele\, Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 45 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T084500
+DTEND;TZID=Europe/Berlin:20210218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980968
+SUMMARY:*\;Studienprojekt II - Referat\;
+LOCATION:
+DESCRIPTION:Art: *\nVeranstaltung: Studienprojekt II - Referat\nDozent: -
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T130000
+DTEND;TZID=Europe/Berlin:20210218T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976846
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T094500
+DTEND;TZID=Europe/Berlin:20210219T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976836
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T140000
+DTEND;TZID=Europe/Berlin:20210219T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976795
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T094500
+DTEND;TZID=Europe/Berlin:20210222T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976796
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T140000
+DTEND;TZID=Europe/Berlin:20210222T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976786
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T090000
+DTEND;TZID=Europe/Berlin:20210223T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976797
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T130000
+DTEND;TZID=Europe/Berlin:20210223T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978553
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Grundst.\;Discher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Grundst.
+	\nDozent: Discher\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T094500
+DTEND;TZID=Europe/Berlin:20210224T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980966
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T140000
+DTEND;TZID=Europe/Berlin:20210224T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976848
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T094500
+DTEND;TZID=Europe/Berlin:20210225T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976888
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T140000
+DTEND;TZID=Europe/Berlin:20210225T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976849
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T094500
+DTEND;TZID=Europe/Berlin:20210226T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976837
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T140000
+DTEND;TZID=Europe/Berlin:20210226T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976850
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T094500
+DTEND;TZID=Europe/Berlin:20210301T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978544
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T140000
+DTEND;TZID=Europe/Berlin:20210301T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976787
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T090000
+DTEND;TZID=Europe/Berlin:20210302T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976854
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T140000
+DTEND;TZID=Europe/Berlin:20210302T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976799
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T094500
+DTEND;TZID=Europe/Berlin:20210303T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976801
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T140000
+DTEND;TZID=Europe/Berlin:20210303T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976802
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T094500
+DTEND;TZID=Europe/Berlin:20210304T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976803
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T140000
+DTEND;TZID=Europe/Berlin:20210304T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976890
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T094500
+DTEND;TZID=Europe/Berlin:20210305T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976838
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T140000
+DTEND;TZID=Europe/Berlin:20210305T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976788
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T090000
+DTEND;TZID=Europe/Berlin:20210309T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976889
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T140000
+DTEND;TZID=Europe/Berlin:20210309T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976856
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T094500
+DTEND;TZID=Europe/Berlin:20210310T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976855
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T140000
+DTEND;TZID=Europe/Berlin:20210310T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978554
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Grundst.\;Discher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Grundst.
+	\nDozent: Discher\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T094500
+DTEND;TZID=Europe/Berlin:20210311T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976852
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T140000
+DTEND;TZID=Europe/Berlin:20210311T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976851
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T094500
+DTEND;TZID=Europe/Berlin:20210312T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976839
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T140000
+DTEND;TZID=Europe/Berlin:20210312T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978540
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Mietrecht\;Beuthan\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Mietrech
+	t\nDozent: Beuthan\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T094500
+DTEND;TZID=Europe/Berlin:20210315T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978545
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T140000
+DTEND;TZID=Europe/Berlin:20210315T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976789
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T090000
+DTEND;TZID=Europe/Berlin:20210316T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976861
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T140000
+DTEND;TZID=Europe/Berlin:20210316T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976859
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T094500
+DTEND;TZID=Europe/Berlin:20210317T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976860
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T140000
+DTEND;TZID=Europe/Berlin:20210317T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978555
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Grundst.\;Discher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Grundst.
+	\nDozent: Discher\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T094500
+DTEND;TZID=Europe/Berlin:20210318T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976858
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T140000
+DTEND;TZID=Europe/Berlin:20210318T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976857
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T094500
+DTEND;TZID=Europe/Berlin:20210319T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976840
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T140000
+DTEND;TZID=Europe/Berlin:20210319T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978541
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Mietrecht\;Beuthan\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Mietrech
+	t\nDozent: Beuthan\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T094500
+DTEND;TZID=Europe/Berlin:20210322T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978546
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T140000
+DTEND;TZID=Europe/Berlin:20210322T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976790
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T090000
+DTEND;TZID=Europe/Berlin:20210323T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976862
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T140000
+DTEND;TZID=Europe/Berlin:20210323T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978558
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-BIM\;Pham\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-B
+	IM\nDozent: Pham\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T094500
+DTEND;TZID=Europe/Berlin:20210324T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976866
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T140000
+DTEND;TZID=Europe/Berlin:20210324T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978556
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Grundst.\;Discher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Grundst.
+	\nDozent: Discher\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T094500
+DTEND;TZID=Europe/Berlin:20210325T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976863
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T140000
+DTEND;TZID=Europe/Berlin:20210325T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980965
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T094500
+DTEND;TZID=Europe/Berlin:20210326T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976841
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T140000
+DTEND;TZID=Europe/Berlin:20210326T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978547
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T094500
+DTEND;TZID=Europe/Berlin:20210329T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976891
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T140000
+DTEND;TZID=Europe/Berlin:20210329T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976791
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T090000
+DTEND;TZID=Europe/Berlin:20210330T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976871
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T140000
+DTEND;TZID=Europe/Berlin:20210330T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976869
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T094500
+DTEND;TZID=Europe/Berlin:20210331T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976867
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T140000
+DTEND;TZID=Europe/Berlin:20210331T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976868
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T094500
+DTEND;TZID=Europe/Berlin:20210401T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976870
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T140000
+DTEND;TZID=Europe/Berlin:20210401T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976792
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T090000
+DTEND;TZID=Europe/Berlin:20210406T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978548
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T140000
+DTEND;TZID=Europe/Berlin:20210406T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976809
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T094500
+DTEND;TZID=Europe/Berlin:20210407T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976810
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T140000
+DTEND;TZID=Europe/Berlin:20210407T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976811
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T094500
+DTEND;TZID=Europe/Berlin:20210408T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976812
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Projekt\;Zuch\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rojekt\nDozent: Zuch\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T140000
+DTEND;TZID=Europe/Berlin:20210408T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978557
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Grundst.\;Discher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Grundst.
+	\nDozent: Discher\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T094500
+DTEND;TZID=Europe/Berlin:20210409T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976842
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T140000
+DTEND;TZID=Europe/Berlin:20210409T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978542
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Mietrecht\;Beuthan\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Mietrech
+	t\nDozent: Beuthan\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T094500
+DTEND;TZID=Europe/Berlin:20210412T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978549
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T140000
+DTEND;TZID=Europe/Berlin:20210412T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976793
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T090000
+DTEND;TZID=Europe/Berlin:20210413T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976892
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T140000
+DTEND;TZID=Europe/Berlin:20210413T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976875
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T094500
+DTEND;TZID=Europe/Berlin:20210414T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976876
+SUMMARY:SI\;FM 6002-Wahl. Digitalisierung im FM-Produkte\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Digitalisierung im FM-P
+	rodukte\nDozent: Lundszien\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T140000
+DTEND;TZID=Europe/Berlin:20210414T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976886
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T154500
+DTEND;TZID=Europe/Berlin:20210414T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976874
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T094500
+DTEND;TZID=Europe/Berlin:20210415T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976872
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T140000
+DTEND;TZID=Europe/Berlin:20210415T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976873
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T094500
+DTEND;TZID=Europe/Berlin:20210416T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976843
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T140000
+DTEND;TZID=Europe/Berlin:20210416T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978543
+SUMMARY:SU\;FM 1005-Immobilienwirtschaft_Mietrecht\;Beuthan\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienwirtschaft_Mietrech
+	t\nDozent: Beuthan\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T094500
+DTEND;TZID=Europe/Berlin:20210419T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978550
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T140000
+DTEND;TZID=Europe/Berlin:20210419T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976794
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz-baulich\;Elsäßer\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz-baulich\nDo
+	zent: Elsäßer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210420T090000
+DTEND;TZID=Europe/Berlin:20210420T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978551
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210420T113000
+DTEND;TZID=Europe/Berlin:20210420T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976882
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210420T140000
+DTEND;TZID=Europe/Berlin:20210420T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976877
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210421T094500
+DTEND;TZID=Europe/Berlin:20210421T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976879
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210421T140000
+DTEND;TZID=Europe/Berlin:20210421T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976881
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T094500
+DTEND;TZID=Europe/Berlin:20210422T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976878
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T140000
+DTEND;TZID=Europe/Berlin:20210422T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976880
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T094500
+DTEND;TZID=Europe/Berlin:20210423T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976844
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T140000
+DTEND;TZID=Europe/Berlin:20210423T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978552
+SUMMARY:SU\;FM 1005-Immobilienw._Projektentwicklung\;Müller\, Matthias\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1005-Immobilienw._Projektentwicklu
+	ng\nDozent: Müller\, Matthias\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210426T140000
+DTEND;TZID=Europe/Berlin:20210426T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976883
+SUMMARY:SU\;FM 1006-Nachhaltig Bauen und Betreiben\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1006-Nachhaltig Bauen und Betreibe
+	n\nDozent: Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210427T094500
+DTEND;TZID=Europe/Berlin:20210427T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976884
+SUMMARY:SU\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4004-Energiemanagement\nDozent: Lu
+	ndszien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210429T094500
+DTEND;TZID=Europe/Berlin:20210429T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976845
+SUMMARY:SI\;FM 6002-Wahl. Brandschutz\;Richter\, F.\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6002-Wahl. Brandschutz\nDozent: Ri
+	chter\, F.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210430T140000
+DTEND;TZID=Europe/Berlin:20210430T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979071
+SUMMARY:Klausur\;FM 6002-Wahlpflichtfach 2\;Richter\, F.\, Zuch\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 6002-Wahlpflichtfach 2\nDozen
+	t: Richter\, F.\, Zuch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210503T140000
+DTEND;TZID=Europe/Berlin:20210503T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978559
+SUMMARY:Klausur\;FM 4004-Energiemanagement\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 4004-Energiemanagement\nDozen
+	t: Lundszien\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210507T140000
+DTEND;TZID=Europe/Berlin:20210507T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

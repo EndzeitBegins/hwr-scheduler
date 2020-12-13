@@ -1,0 +1,1175 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210215T000000
+X-SKED-SYNC-DTEND:20210510T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10807
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973713
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210215T090000
+DTEND;TZID=Europe/Berlin:20210215T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977809
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T140000
+DTEND;TZID=Europe/Berlin:20210215T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977817
+SUMMARY:La\;IT2251-Labor Datenbanken Gr. 1 + 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken Gr. 1 + 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T094500
+DTEND;TZID=Europe/Berlin:20210216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977828
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T094500
+DTEND;TZID=Europe/Berlin:20210217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977829
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T140000
+DTEND;TZID=Europe/Berlin:20210217T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977818
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T080000
+DTEND;TZID=Europe/Berlin:20210218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976233
+SUMMARY:SU\;IT3231-Wpff. II: Verteilte Systeme\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Verteilte Systeme\nD
+	ozent: Kalkbrenner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T080000
+DTEND;TZID=Europe/Berlin:20210219T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976237
+SUMMARY:SU\;IT3231-Wpff. II: Quantum Computing\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Quantum Computing\nD
+	ozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T130000
+DTEND;TZID=Europe/Berlin:20210219T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973714
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210222T090000
+DTEND;TZID=Europe/Berlin:20210222T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977810
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T140000
+DTEND;TZID=Europe/Berlin:20210222T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977830
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T094500
+DTEND;TZID=Europe/Berlin:20210223T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977831
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T140000
+DTEND;TZID=Europe/Berlin:20210223T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973731
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 1 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 1 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T090000
+DTEND;TZID=Europe/Berlin:20210224T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977819
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T080000
+DTEND;TZID=Europe/Berlin:20210225T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976223
+SUMMARY:SU\;IT3231-Wpff. II: Human Factors\;Piepenbring\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Human Factors\nDozen
+	t: Piepenbring\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T080000
+DTEND;TZID=Europe/Berlin:20210226T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976228
+SUMMARY:SU\;IT3231-Wpff. II: Funktionale Programmierung\;Kirchner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Funktionale Programm
+	ierung\nDozent: Kirchner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T130000
+DTEND;TZID=Europe/Berlin:20210226T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973715
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210301T090000
+DTEND;TZID=Europe/Berlin:20210301T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977811
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T140000
+DTEND;TZID=Europe/Berlin:20210301T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977832
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T094500
+DTEND;TZID=Europe/Berlin:20210302T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977833
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T140000
+DTEND;TZID=Europe/Berlin:20210302T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973732
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 2 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 2 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T090000
+DTEND;TZID=Europe/Berlin:20210303T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977820
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T080000
+DTEND;TZID=Europe/Berlin:20210304T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976234
+SUMMARY:SU\;IT3231-Wpff. II: Verteilte Systeme\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Verteilte Systeme\nD
+	ozent: Kalkbrenner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T080000
+DTEND;TZID=Europe/Berlin:20210305T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976238
+SUMMARY:SU\;IT3231-Wpff. II: Quantum Computing\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Quantum Computing\nD
+	ozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T130000
+DTEND;TZID=Europe/Berlin:20210305T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977834
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T094500
+DTEND;TZID=Europe/Berlin:20210309T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977835
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T140000
+DTEND;TZID=Europe/Berlin:20210309T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973733
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 3 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 3 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T090000
+DTEND;TZID=Europe/Berlin:20210310T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977821
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T080000
+DTEND;TZID=Europe/Berlin:20210311T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976224
+SUMMARY:SU\;IT3231-Wpff. II: Human Factors\;Piepenbring\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Human Factors\nDozen
+	t: Piepenbring\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T080000
+DTEND;TZID=Europe/Berlin:20210312T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976229
+SUMMARY:SU\;IT3231-Wpff. II: Funktionale Programmierung\;Kirchner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Funktionale Programm
+	ierung\nDozent: Kirchner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T130000
+DTEND;TZID=Europe/Berlin:20210312T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973716
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210315T090000
+DTEND;TZID=Europe/Berlin:20210315T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977812
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T140000
+DTEND;TZID=Europe/Berlin:20210315T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977836
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T094500
+DTEND;TZID=Europe/Berlin:20210316T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977837
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T140000
+DTEND;TZID=Europe/Berlin:20210316T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973734
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 1 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 1 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T090000
+DTEND;TZID=Europe/Berlin:20210317T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977822
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T080000
+DTEND;TZID=Europe/Berlin:20210318T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976235
+SUMMARY:SU\;IT3231-Wpff. II: Verteilte Systeme\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Verteilte Systeme\nD
+	ozent: Kalkbrenner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T080000
+DTEND;TZID=Europe/Berlin:20210319T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976239
+SUMMARY:SU\;IT3231-Wpff. II: Quantum Computing\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Quantum Computing\nD
+	ozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T130000
+DTEND;TZID=Europe/Berlin:20210319T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973717
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210322T090000
+DTEND;TZID=Europe/Berlin:20210322T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977813
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T130000
+DTEND;TZID=Europe/Berlin:20210322T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977838
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T094500
+DTEND;TZID=Europe/Berlin:20210323T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977839
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T140000
+DTEND;TZID=Europe/Berlin:20210323T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973735
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 2 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 2 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T090000
+DTEND;TZID=Europe/Berlin:20210324T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977823
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T080000
+DTEND;TZID=Europe/Berlin:20210325T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976225
+SUMMARY:SU\;IT3231-Wpff. II: Human Factors\;Piepenbring\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Human Factors\nDozen
+	t: Piepenbring\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T080000
+DTEND;TZID=Europe/Berlin:20210326T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976230
+SUMMARY:SU\;IT3231-Wpff. II: Funktionale Programmierung\;Kirchner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Funktionale Programm
+	ierung\nDozent: Kirchner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T130000
+DTEND;TZID=Europe/Berlin:20210326T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973718
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210329T090000
+DTEND;TZID=Europe/Berlin:20210329T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977814
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T130000
+DTEND;TZID=Europe/Berlin:20210329T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977827
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T080000
+DTEND;TZID=Europe/Berlin:20210330T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977840
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T120000
+DTEND;TZID=Europe/Berlin:20210330T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977841
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T160000
+DTEND;TZID=Europe/Berlin:20210330T191500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973736
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 3 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 3 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T090000
+DTEND;TZID=Europe/Berlin:20210331T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976242
+SUMMARY:SU\;IT3231-Wpff. II: Verteilte Systeme\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Verteilte Systeme\nD
+	ozent: Kalkbrenner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T080000
+DTEND;TZID=Europe/Berlin:20210401T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976241
+SUMMARY:SU\;IT3231-Wpff. II: Quantum Computing\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Quantum Computing\nD
+	ozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T130000
+DTEND;TZID=Europe/Berlin:20210401T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977842
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T094500
+DTEND;TZID=Europe/Berlin:20210406T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977843
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T140000
+DTEND;TZID=Europe/Berlin:20210406T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973737
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 1 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 1 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T090000
+DTEND;TZID=Europe/Berlin:20210407T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977824
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T080000
+DTEND;TZID=Europe/Berlin:20210408T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976226
+SUMMARY:SU\;IT3231-Wpff. II: Human Factors\;Piepenbring\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Human Factors\nDozen
+	t: Piepenbring\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T080000
+DTEND;TZID=Europe/Berlin:20210409T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976231
+SUMMARY:SU\;IT3231-Wpff. II: Funktionale Programmierung\;Kirchner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Funktionale Programm
+	ierung\nDozent: Kirchner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T130000
+DTEND;TZID=Europe/Berlin:20210409T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973719
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210412T090000
+DTEND;TZID=Europe/Berlin:20210412T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977815
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T130000
+DTEND;TZID=Europe/Berlin:20210412T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977844
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 1\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 1\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T094500
+DTEND;TZID=Europe/Berlin:20210413T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977845
+SUMMARY:La\;IT2251-Labor Datenbanken: Gruppe 2\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2251-Labor Datenbanken: Gruppe 2\nD
+	ozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T140000
+DTEND;TZID=Europe/Berlin:20210413T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973738
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 2 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 2 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T090000
+DTEND;TZID=Europe/Berlin:20210414T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977825
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T080000
+DTEND;TZID=Europe/Berlin:20210415T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976236
+SUMMARY:SU\;IT3231-Wpff. II: Verteilte Systeme\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Verteilte Systeme\nD
+	ozent: Kalkbrenner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T080000
+DTEND;TZID=Europe/Berlin:20210416T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976240
+SUMMARY:SU\;IT3231-Wpff. II: Quantum Computing\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Quantum Computing\nD
+	ozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T130000
+DTEND;TZID=Europe/Berlin:20210416T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973720
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210419T090000
+DTEND;TZID=Europe/Berlin:20210419T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977816
+SUMMARY:SU\;IT2251-Datenbanken\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2251-Datenbanken\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T130000
+DTEND;TZID=Europe/Berlin:20210419T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973739
+SUMMARY:La\;IT2221-Labor Netzwerke\;Kreth\;Online - Übung Gr. 3 (max. 11 
+	Teilnehmer)
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2221-Labor Netzwerke\nDozent: Kreth
+	\nRaum: -\nAnmerkung: Online - Übung Gr. 3 (max. 11 Teilnehmer)\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210421T090000
+DTEND;TZID=Europe/Berlin:20210421T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977826
+SUMMARY:SU\;IT3261-IT-Sicherheit\;Kalkbrenner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3261-IT-Sicherheit\nDozent: Kalkbre
+	nner\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T080000
+DTEND;TZID=Europe/Berlin:20210422T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976227
+SUMMARY:SU\;IT3231-Wpff. II: Human Factors\;Piepenbring\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Human Factors\nDozen
+	t: Piepenbring\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T080000
+DTEND;TZID=Europe/Berlin:20210423T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976232
+SUMMARY:SU\;IT3231-Wpff. II: Funktionale Programmierung\;Kirchner\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3231-Wpff. II: Funktionale Programm
+	ierung\nDozent: Kirchner\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T130000
+DTEND;TZID=Europe/Berlin:20210423T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973721
+SUMMARY:SU\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\nRaum
+	: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210426T090000
+DTEND;TZID=Europe/Berlin:20210426T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973740
+SUMMARY:Klausur\;IT2221-Netzwerke\;Kreth\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT2221-Netzwerke\nDozent: Kreth\n
+	Raum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210503T090000
+DTEND;TZID=Europe/Berlin:20210503T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

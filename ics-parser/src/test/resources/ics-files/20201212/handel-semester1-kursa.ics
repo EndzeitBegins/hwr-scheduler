@@ -1,0 +1,838 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10919
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952206
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T080000
+DTEND;TZID=Europe/Berlin:20201207T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952208
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951406
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T104500
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951408
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T123000
+DTEND;TZID=Europe/Berlin:20201207T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960634
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T080000
+DTEND;TZID=Europe/Berlin:20201208T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960636
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960638
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951412
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T080000
+DTEND;TZID=Europe/Berlin:20201209T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951414
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952284
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T104500
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952286
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T123000
+DTEND;TZID=Europe/Berlin:20201209T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951415
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T104500
+DTEND;TZID=Europe/Berlin:20201210T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951417
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T123000
+DTEND;TZID=Europe/Berlin:20201210T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960644
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960646
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960648
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T173000
+DTEND;TZID=Europe/Berlin:20201210T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969917
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Peter-Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Peter-Ollrogge\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T113000
+DTEND;TZID=Europe/Berlin:20201211T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960649
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960651
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T154500
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960653
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T173000
+DTEND;TZID=Europe/Berlin:20201211T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951424
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T080000
+DTEND;TZID=Europe/Berlin:20201214T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951426
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T094500
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955921
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T104500
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955923
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T123000
+DTEND;TZID=Europe/Berlin:20201214T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980238
+SUMMARY:I\;Informationen zum Studium\;Peter-Ollrogge\;online Sprechstunde
+	 für Kurssprecher\, Gruppensprecher\, Buddies
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Informationen zum Studium\nDozent: Pet
+	er-Ollrogge\nRaum: -\nAnmerkung: online Sprechstunde für Kurssprecher\, G
+	ruppensprecher\, Buddies\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960654
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960656
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960658
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955917
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955919
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951427
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T104500
+DTEND;TZID=Europe/Berlin:20201216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951429
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T123000
+DTEND;TZID=Europe/Berlin:20201216T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951874
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951876
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951878
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951880
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951882
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T154500
+DTEND;TZID=Europe/Berlin:20201217T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951884
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T173000
+DTEND;TZID=Europe/Berlin:20201217T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951885
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951887
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951889
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951891
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T140000
+DTEND;TZID=Europe/Berlin:20201218T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951893
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T154500
+DTEND;TZID=Europe/Berlin:20201218T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951895
+SUMMARY:SU\;SK: Planspiel\;Ollrogge\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Planspiel\nDozent: Ollrogge\nRaum
+	: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T173000
+DTEND;TZID=Europe/Berlin:20201218T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955914
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T080000
+DTEND;TZID=Europe/Berlin:20210104T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952247
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951436
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T104500
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951438
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T123000
+DTEND;TZID=Europe/Berlin:20210104T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960670
+SUMMARY:SU\;FB: Marketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Schwertfeger\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960671
+SUMMARY:SU\;Marketing I - Grundlagen Handelsmarketing\;Schwertfeger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Grundlagen Handelsmarke
+	ting\nDozent: Schwertfeger\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T103000
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952256
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952258
+SUMMARY:SU\;Marketing I - Sortiments- u. Produktpolitik\;Klingenberg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Marketing I - Sortiments- u. Produktp
+	olitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T131500
+DTEND;TZID=Europe/Berlin:20210106T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951439
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T080000
+DTEND;TZID=Europe/Berlin:20210107T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951441
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951442
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T080000
+DTEND;TZID=Europe/Berlin:20210108T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951464
+SUMMARY:SU\;Finanzbuchführung\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmüß\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T094500
+DTEND;TZID=Europe/Berlin:20210108T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

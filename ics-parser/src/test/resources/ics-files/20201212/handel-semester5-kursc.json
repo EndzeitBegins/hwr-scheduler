@@ -1,0 +1,88 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de648600",
+      "start": "2014-10-28T08:00:00Z",
+      "end": "2014-10-28T10:00:00Z",
+      "module": "HD-4013WPft.-Unternehmensprä.",
+      "lecturers": [
+        "Prof. Dr. Bleis"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur\\,HD-4013WPft.-Unternehmensprä.\\,",
+      "note": null
+    },
+    {
+      "uid": "sked.de648601",
+      "start": "2014-10-28T08:00:00Z",
+      "end": "2014-10-28T10:00:00Z",
+      "module": "HD-401WPfl.-Food Management",
+      "lecturers": [
+        "Prof. Dr. Bleis"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur\\,HD-401WPfl.-Food Management\\,",
+      "note": null
+    },
+    {
+      "uid": "sked.de602833",
+      "start": "2014-10-28T08:00:00Z",
+      "end": "2014-10-28T11:00:00Z",
+      "module": "401-WPff.-Wirtschaftsenglisch - C 1",
+      "lecturers": [
+        "Prof. Dr. Schütt"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur\\,401-WPff.-Wirtschaftsenglisch - C 1\\,",
+      "note": null
+    },
+    {
+      "uid": "sked.de648788",
+      "start": "2014-10-28T12:00:00Z",
+      "end": "2014-10-28T15:00:00Z",
+      "module": "401-Wpff. - Operations Research (Gr.2)",
+      "lecturers": [
+        "Prof. Dr. Brüggemann-Borck"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur\\,401-Wpff. - Operations Research (Gr.2)\\,",
+      "note": null
+    },
+    {
+      "uid": "sked.de648792",
+      "start": "2014-10-28T12:30:00Z",
+      "end": "2014-10-28T14:30:00Z",
+      "module": "401-WPff.-Wirtschaftsenglisch - B1+B2",
+      "lecturers": [
+        "Prof. Dr. Schmietendorf"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur\\,401-WPff.-Wirtschaftsenglisch - B1+B2\\,+ Niveau A2",
+      "note": "+ Niveau A2"
+    },
+    {
+      "uid": "sked.de648603",
+      "start": "2014-10-30T08:00:00Z",
+      "end": "2014-10-30T11:00:00Z",
+      "module": "202-SBWL",
+      "lecturers": [
+        "Prof. Dr. Schlösser"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur\\,202-SBWL\\,",
+      "note": null
+    },
+    {
+      "uid": "sked.de648604",
+      "start": "2014-10-31T09:00:00Z",
+      "end": "2014-10-31T11:00:00Z",
+      "module": "104-ABWL-Management",
+      "lecturers": [
+        "Prof. Dr. Faustmann"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur\\,104-ABWL-Management\\,",
+      "note": null
+    }
+  ]
+}

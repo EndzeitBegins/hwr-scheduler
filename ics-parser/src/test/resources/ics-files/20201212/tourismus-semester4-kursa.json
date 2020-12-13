@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de952784",
+      "start": "2020-05-11T06:30:00Z",
+      "end": "2020-05-11T10:00:00Z",
+      "module": "TM-110RW-Bilanzierung",
+      "lecturers": [
+        "Mündliche Online-Prüfung - Termine nachAufteilung durch Dozentin"
+      ],
+      "room": null,
+      "type": "M",
+      "note": "Wittmann"
+    },
+    {
+      "uid": "sked.de952785",
+      "start": "2020-05-11T10:30:00Z",
+      "end": "2020-05-11T11:20:00Z",
+      "module": "TM-110RW-Steuern",
+      "lecturers": [
+        "Online-Klausur - noch nicht abschließend geklärt"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Graßnick"
+    },
+    {
+      "uid": "sked.de952789",
+      "start": "2020-05-13T09:00:00Z",
+      "end": "2020-05-13T11:00:00Z",
+      "module": "114-VWL-Konjunktur u. Wachstum",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Wagner"
+    },
+    {
+      "uid": "sked.de952795",
+      "start": "2020-05-14T08:00:00Z",
+      "end": "2020-05-14T10:00:00Z",
+      "module": "103-ABWL Personal/Orga",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Schulz-Bücher"
+    },
+    {
+      "uid": "sked.de952801",
+      "start": "2020-05-15T08:00:00Z",
+      "end": "2020-05-15T09:30:00Z",
+      "module": "TM-108SBWL-Recht",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "RA Behrend"
+    },
+    {
+      "uid": "sked.de952802",
+      "start": "2020-05-15T09:45:00Z",
+      "end": "2020-05-15T11:15:00Z",
+      "module": "TM-108SBWL-Recht",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Strey"
+    }
+  ]
+}

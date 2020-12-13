@@ -1,0 +1,208 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20201221T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10786
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948190
+SUMMARY:SU\;BW4051-Konstruktiver Ingenieurbau 1: Stahlbau\;Detzel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW4051-Konstruktiver Ingenieurbau 1: 
+	Stahlbau\nDozent: Detzel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958256
+SUMMARY:SU\;BW4053-Wpf.1(H):Techn. Gebäudeausrüstg.\;Bohmann\;über BBB
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW4053-Wpf.1(H):Techn. Gebäudeausrüst
+	g.\nDozent: Bohmann\nRaum: -\nAnmerkung: über BBB\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T130000
+DTEND;TZID=Europe/Berlin:20201207T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957762
+SUMMARY:PCÜ\;BW4051-Bemessungssoftware\;Detzel\;Gruppe 1
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: BW4051-Bemessungssoftware\nDozent: D
+	etzel\nRaum: -\nAnmerkung: Gruppe 1\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201208T131500
+DTEND;TZID=Europe/Berlin:20201208T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957763
+SUMMARY:PCÜ\;BW4051-Bemessungssoftware\;Detzel\;Gruppe 2
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: BW4051-Bemessungssoftware\nDozent: D
+	etzel\nRaum: -\nAnmerkung: Gruppe 2\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201208T151500
+DTEND;TZID=Europe/Berlin:20201208T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948210
+SUMMARY:Klausur\;BW4053-Wpf. 1 - Hochbau\;Bohmann\;CL: 1.Audimax vorn\;
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW4053-Wpf. 1 - Hochbau\nDozent:
+	 Bohmann\nRaum: CL: 1.Audimax vorn\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957784
+SUMMARY:SU\;BW4051-Konstruktiver Ingenieurbau 1: Stahlbetonbau\;Dick\;CL:
+	 6B.173 (T)\;Gruppe 1
+LOCATION:CL: 6B.173 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: BW4051-Konstruktiver Ingenieurbau 1: 
+	Stahlbetonbau\nDozent: Dick\nRaum: CL: 6B.173 (T)\nAnmerkung: Gruppe 1\nP
+	ause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T120000
+DTEND;TZID=Europe/Berlin:20201210T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948209
+SUMMARY:Klausur\;BW4054-Wpf. 1 - Tiefbau\;Schüßler\, Wotschke\;CL: 5.0002
+	\;20 TN\; Achtung! 1 Studentin aus Kurs A bis 12.20 Uhr Schreibzeitverl.
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW4054-Wpf. 1 - Tiefbau\nDozent:
+	 Schüßler\, Wotschke\nRaum: CL: 5.0002\nAnmerkung: 20 TN\; Achtung! 1 Stu
+	dentin aus Kurs A bis 12.20 Uhr Schreibzeitverl.\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957785
+SUMMARY:SU\;BW4051-Konstruktiver Ingenieurbau 1: Stahlbetonbau\;Dick\;CL:
+	 6B.150 (T)\;Gruppe 1
+LOCATION:CL: 6B.150 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: BW4051-Konstruktiver Ingenieurbau 1: 
+	Stahlbetonbau\nDozent: Dick\nRaum: CL: 6B.150 (T)\nAnmerkung: Gruppe 1\nP
+	ause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948206
+SUMMARY:Klausur\;BW4051-Konstruktiver Ingenieurbau 1\;Detzel\, Dick\;CL: 
+	1.Audimax vorn\;Achtung! 1x Schreibzeitverlängerung aus Kurs A bis 12.20 
+	Uhr
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW4051-Konstruktiver Ingenieurba
+	u 1\nDozent: Detzel\, Dick\nRaum: CL: 1.Audimax vorn\nAnmerkung: Achtung!
+	 1x Schreibzeitverlängerung aus Kurs A bis 12.20 Uhr\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948207
+SUMMARY:Klausur\;BW5052-Wasser und Umwelt\;Wotschke\;CL: 1.Audimax vorn\;
+	Achtung! 1x Schreibzeitverlängerung aus Kurs A bis 12.20 Uhr
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW5052-Wasser und Umwelt\nDozent
+	: Wotschke\nRaum: CL: 1.Audimax vorn\nAnmerkung: Achtung! 1x Schreibzeitv
+	erlängerung aus Kurs A bis 12.20 Uhr\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948208
+SUMMARY:Klausur\;BW6055-Recht 2\;Erdmann\, Jacob\, Labicki\, Leinemann\, 
+	Linse\, Lorenz\, M.\;CL: 1.Audimax vorn\;Achtung! 1x Schreibzeitverlänger
+	ung aus Kurs A bis 12.20 Uhr
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW6055-Recht 2\nDozent: Erdmann\,
+	 Jacob\, Labicki\, Leinemann\, Linse\, Lorenz\, M.\nRaum: CL: 1.Audimax v
+	orn\nAnmerkung: Achtung! 1x Schreibzeitverlängerung aus Kurs A bis 12.20 
+	Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T090000
+DTEND;TZID=Europe/Berlin:20201218T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

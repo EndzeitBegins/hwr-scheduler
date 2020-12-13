@@ -1,0 +1,45 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de810796",
+      "start": "2017-07-03T08:00:00Z",
+      "end": "2017-07-03T10:00:00Z",
+      "module": "116-Wp.recht I",
+      "lecturers": [
+        "Prof. Dr. Hesse",
+        "Prof. Dr. Schmietendorf",
+        "Prof. Dr. Vieth"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de810803",
+      "start": "2017-07-05T11:30:00Z",
+      "end": "2017-07-05T14:30:00Z",
+      "module": "106-SBWL",
+      "lecturers": [
+        "Prof. Dr. Radde",
+        "Prof. Dr. Schütt"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de810813",
+      "start": "2017-07-07T07:00:00Z",
+      "end": "2017-07-07T09:00:00Z",
+      "module": "109-Finanzbuchführung",
+      "lecturers": [
+        "Prof. Dr. Nastansky",
+        "Prof. Dr. Rosentreter",
+        "Prof. Dr. Schmietendorf"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

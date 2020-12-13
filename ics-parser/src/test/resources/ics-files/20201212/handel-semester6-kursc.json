@@ -1,0 +1,41 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de677655",
+      "start": "2015-04-21T07:00:00Z",
+      "end": "2015-04-21T08:30:00Z",
+      "module": "HD-402WPfl.II- Mode Marketing",
+      "lecturers": [
+        "+ 1 FM-Studierende mit Nachteilsausgleich Modul 402-Personalmanagement bis 10.30 Uhr"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": "Prof. Dr. Wilhelm"
+    },
+    {
+      "uid": "sked.de677656",
+      "start": "2015-04-23T11:00:00Z",
+      "end": "2015-04-23T13:00:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "Prof. Dr. Raethel"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de677657",
+      "start": "2015-04-24T12:00:00Z",
+      "end": "2015-04-24T14:00:00Z",
+      "module": "203-SBWL",
+      "lecturers": [
+        "Prof. Dr. Peter-Ollrogge",
+        "Prof. Dr. Wissing"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

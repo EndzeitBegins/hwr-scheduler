@@ -1,0 +1,96 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200420T000000
+X-SKED-SYNC-DTEND:20200427T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9305
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200426T201320Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945638
+SUMMARY:Klausur\;203-SBWL\;Online-Klausur\n09.00 - 12.00 Uhr Prof. Dr. Wi
+	lhelm\n12.00 - 12.30 Uhr Dr. Olaf Langner\;Dr. Langner\, Siegert
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 203-SBWL\nVeranstaltungsuntergru
+	ppe: -\nAnmerkung: Online-Klausur\n09.00 - 12.00 Uhr Prof. Dr. Wilhelm\n1
+	2.00 - 12.30 Uhr Dr. Olaf Langner\nDozent: Dr. Langner\, Siegert\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200420T090000
+DTEND;TZID=Europe/Berlin:20200420T123000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201320Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945648
+SUMMARY:Klausur\;402 Wpff. Statist. Verf. in d. Marktforschg.\;gem. Abspr
+	ache Prof. Dr. Brinner\;Prof. Dr. Brinner
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Statist. Verf. in d. M
+	arktforschg.\nVeranstaltungsuntergruppe: -\nAnmerkung: gem. Absprache Pro
+	f. Dr. Brinner\nDozent: Prof. Dr. Brinner\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200421T090000
+DTEND;TZID=Europe/Berlin:20200421T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201320Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945647
+SUMMARY:Klausur\;402 Wpff. Ökonometrie\;Mündliche Prüfung - Online\, sieh
+	e Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausglei
+	ch aus IN A\;Prof. Dr. Nastansky
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Ökonometrie\nVeranstal
+	tungsuntergruppe: -\nAnmerkung: Mündliche Prüfung - Online\, siehe Auftei
+	lung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus I
+	N A\nDozent: Prof. Dr. Nastansky\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200421T090000
+DTEND;TZID=Europe/Berlin:20200421T153000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201320Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945656
+SUMMARY:Klausur\;204-SBWL\;Online-Klausur\n10.00 - 10.30 Uhr Prof. Dr. Wi
+	lhelm\n10.45 - 13.30 Uhr Dr. Dziedzina\;Dr. Dziedzina
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 204-SBWL\nVeranstaltungsuntergru
+	ppe: -\nAnmerkung: Online-Klausur\n10.00 - 10.30 Uhr Prof. Dr. Wilhelm\n1
+	0.45 - 13.30 Uhr Dr. Dziedzina\nDozent: Dr. Dziedzina\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200423T100000
+DTEND;TZID=Europe/Berlin:20200423T133000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

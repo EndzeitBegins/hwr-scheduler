@@ -1,0 +1,707 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9280
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968732
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T150000
+DTEND;TZID=Europe/Berlin:20201211T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968739
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201212T090000
+DTEND;TZID=Europe/Berlin:20201212T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968740
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201212T130000
+DTEND;TZID=Europe/Berlin:20201212T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968760
+SUMMARY:SU\;PPM 3.2.09 Rechtl. Aspekte des Ideenmanagements\;Forchert\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Rechtl. Aspekte des Ideenm
+	anagements\nDozent: Forchert\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min 
+	Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T150000
+DTEND;TZID=Europe/Berlin:20201218T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968759
+SUMMARY:SU\;PPM 3.4.12 Begleitseminar SA/FS III\;Brenninger\, Wotschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.4.12 Begleitseminar SA/FS III\n
+	Dozent: Brenninger\, Wotschke\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201219T090000
+DTEND;TZID=Europe/Berlin:20201219T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968733
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T150000
+DTEND;TZID=Europe/Berlin:20210108T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968741
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210109T090000
+DTEND;TZID=Europe/Berlin:20210109T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968742
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210109T130000
+DTEND;TZID=Europe/Berlin:20210109T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968734
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T150000
+DTEND;TZID=Europe/Berlin:20210115T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968765
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210116T090000
+DTEND;TZID=Europe/Berlin:20210116T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968743
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210116T130000
+DTEND;TZID=Europe/Berlin:20210116T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968744
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Braun\, A.
+	\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Braun\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPaus
+	e: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T090000
+DTEND;TZID=Europe/Berlin:20210118T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968745
+SUMMARY:SU\;PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung\;Braun\, A.
+	\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vertragsrecht und Vertrags
+	durchsetzung\nDozent: Braun\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPaus
+	e: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T130000
+DTEND;TZID=Europe/Berlin:20210118T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968761
+SUMMARY:SU\;PPM 3.5.10 Arbeitsrecht\;Braun\, A.\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Arbeitsrecht\nDozent: Brau
+	n\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T090000
+DTEND;TZID=Europe/Berlin:20210119T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968762
+SUMMARY:SU\;PPM 3.5.10 Arbeitsrecht\;Braun\, A.\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Arbeitsrecht\nDozent: Brau
+	n\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T130000
+DTEND;TZID=Europe/Berlin:20210119T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968763
+SUMMARY:SU\;PPM 3.5.10 Arbeitsrecht\;Braun\, A.\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Arbeitsrecht\nDozent: Brau
+	n\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T090000
+DTEND;TZID=Europe/Berlin:20210120T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968764
+SUMMARY:SU\;PPM 3.5.10 Arbeitsrecht\;Braun\, A.\, Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Arbeitsrecht\nDozent: Brau
+	n\, A.\, Koch-Rust\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T130000
+DTEND;TZID=Europe/Berlin:20210120T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968518
+SUMMARY:SU\;PPM 3.2.09 Methodik des Innovationsprozesses\;Forchert\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Methodik des Innovationspr
+	ozesses\nDozent: Forchert\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pau
+	se\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210121T090000
+DTEND;TZID=Europe/Berlin:20210121T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968519
+SUMMARY:SU\;PPM 3.2.09 Methodik des Innovationsprozesses\;Forchert\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Methodik des Innovationspr
+	ozesses\nDozent: Forchert\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pau
+	se\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210121T130000
+DTEND;TZID=Europe/Berlin:20210121T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968521
+SUMMARY:SU\;PPM 3.2.09 Methodik des Innovationsprozesses\;Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Methodik des Innovationspr
+	ozesses\nDozent: Kaschka\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T090000
+DTEND;TZID=Europe/Berlin:20210122T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968520
+SUMMARY:SU\;PPM 3.2.09 Methodik des Innovationsprozesses\;Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Methodik des Innovationspr
+	ozesses\nDozent: Kaschka\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T130000
+DTEND;TZID=Europe/Berlin:20210122T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968750
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Kaschka\nRaum: -\nAnmerkung: -\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210123T090000
+DTEND;TZID=Europe/Berlin:20210123T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968751
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Kaschka\nRaum: -\nAnmerkung: -\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210123T130000
+DTEND;TZID=Europe/Berlin:20210123T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968727
+SUMMARY:SU\;PPM 3.5.10 Vergaberecht\;Janitzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.5.10 Vergaberecht\nDozent: Jani
+	tzek\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T150000
+DTEND;TZID=Europe/Berlin:20210129T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968758
+SUMMARY:SU\;PPM 3.4.12 Begleitseminar SA/FS III\;Brenninger\, Wotschke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.4.12 Begleitseminar SA/FS III\n
+	Dozent: Brenninger\, Wotschke\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210130T090000
+DTEND;TZID=Europe/Berlin:20210130T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968725
+SUMMARY:SU\;PPM 3.4.12 Wissenschaftliches Arbeiten\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.4.12 Wissenschaftliches Arbeite
+	n\nDozent: Brenninger\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210130T130000
+DTEND;TZID=Europe/Berlin:20210130T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968782
+SUMMARY:Klausur\;PPM 3.5.10  Rechtliche Aspekte des Prozess- und Pr\;Jani
+	tzek\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: PPM 3.5.10  Rechtliche Aspekte d
+	es Prozess- und Pr\nDozent: Janitzek\nRaum: -\nAnmerkung: -\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210205T150000
+DTEND;TZID=Europe/Berlin:20210205T190000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968772
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210206T090000
+DTEND;TZID=Europe/Berlin:20210206T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968773
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210206T130000
+DTEND;TZID=Europe/Berlin:20210206T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968780
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T150000
+DTEND;TZID=Europe/Berlin:20210212T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968774
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210213T090000
+DTEND;TZID=Europe/Berlin:20210213T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968775
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210213T130000
+DTEND;TZID=Europe/Berlin:20210213T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968781
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T150000
+DTEND;TZID=Europe/Berlin:20210219T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968777
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210220T090000
+DTEND;TZID=Europe/Berlin:20210220T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968776
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210220T130000
+DTEND;TZID=Europe/Berlin:20210220T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968752
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Kaschka\nRaum: -\nAnmerkung: -\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T090000
+DTEND;TZID=Europe/Berlin:20210226T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968753
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Kaschka\;
+	Exkursion\, weitere Informationen folgen
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Kaschka\nRaum: -\nAnmerkung: Exkursion\, weitere I
+	nformationen folgen\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210226T130000
+DTEND;TZID=Europe/Berlin:20210226T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968778
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210227T090000
+DTEND;TZID=Europe/Berlin:20210227T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968779
+SUMMARY:SU\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;Lange\, S
+	teffen\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-
+	Zertifizierun\nDozent: Lange\, Steffen\nRaum: -\nAnmerkung: -\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210227T130000
+DTEND;TZID=Europe/Berlin:20210227T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968784
+SUMMARY:Prüfung\;PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun\;frei
+	willig\, Beginn der Prüfung noch nicht bestätigt\, weitere Informationen 
+	folgen
+LOCATION:
+DESCRIPTION:Art: Prüfung\nVeranstaltung: PPM 3.6.11 Wahlpflichtfach - QMF
+	-TÜV-Zertifizierun\nDozent: -\nRaum: -\nAnmerkung: freiwillig\, Beginn de
+	r Prüfung noch nicht bestätigt\, weitere Informationen folgen\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T130000
+DTEND;TZID=Europe/Berlin:20210305T143000
+X-SKED-OUTLOOKFARBINDEX:1
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968754
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Forchert\,
+	 Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Forchert\, Kaschka\nRaum: -\nAnmerkung: -\nPause: 
+	inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210306T090000
+DTEND;TZID=Europe/Berlin:20210306T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968755
+SUMMARY:SU\;PPM 3.2.09 Produktentwicklungs- und Produktplanung\;Forchert\,
+	 Kaschka\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: PPM 3.2.09 Produktentwicklungs- und P
+	roduktplanung\nDozent: Forchert\, Kaschka\nRaum: -\nAnmerkung: -\nPause: 
+	inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210306T130000
+DTEND;TZID=Europe/Berlin:20210306T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968785
+SUMMARY:R\;Reserviert\;Wotschke\;Feedbackgespräche
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: Wotschke\nRaum: -\n
+	Anmerkung: Feedbackgespräche\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T100000
+DTEND;TZID=Europe/Berlin:20210326T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201133Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968786
+SUMMARY:R\;Reserviert\;Öffentliche Infoveranstaltung
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: Öffentliche Infoveranstaltung\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210326T130000
+DTEND;TZID=Europe/Berlin:20210326T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de974527",
+      "start": "2020-12-08T07:00:00Z",
+      "end": "2020-12-08T08:00:00Z",
+      "module": "Organisation und Personalmanagement",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974533",
+      "start": "2020-12-09T07:00:00Z",
+      "end": "2020-12-09T09:00:00Z",
+      "module": "Gewerbesteuerrecht",
+      "lecturers": [
+        "ONLINE"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974672",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T11:00:00Z",
+      "module": "Wirtschaftsprivatrecht II",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974678",
+      "start": "2020-12-14T09:00:00Z",
+      "end": "2020-12-14T11:00:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Schlösser"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974524",
+      "start": "2020-12-16T09:00:00Z",
+      "end": "2020-12-16T11:00:00Z",
+      "module": "Umsatzsteuerrecht",
+      "lecturers": [
+        "Paarz"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

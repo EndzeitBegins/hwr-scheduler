@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de974526",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T09:00:00Z",
+      "module": "Marketing III Standort-& Vertriebspolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974532",
+      "start": "2020-12-09T07:00:00Z",
+      "end": "2020-12-09T17:00:00Z",
+      "module": "Wirtschaftsprivatrecht II",
+      "lecturers": [
+        "Garnjost"
+      ],
+      "room": null,
+      "type": "M",
+      "note": "ONLINE - Aufteilung erfolgt durch Frau Garnjost"
+    },
+    {
+      "uid": "sked.de974571",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T10:00:00Z",
+      "module": "Efficient Consumer Response",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974679",
+      "start": "2020-12-14T10:00:00Z",
+      "end": "2020-12-14T12:00:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Bleis"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de980238",
+      "start": "2020-12-14T13:00:00Z",
+      "end": "2020-12-14T14:30:00Z",
+      "module": "Informationen zum Studium",
+      "lecturers": [
+        "Peter-Ollrogge"
+      ],
+      "room": null,
+      "type": "I",
+      "note": "online Sprechstundefür Kurssprecher\\, Gruppensprecher\\, Buddies"
+    },
+    {
+      "uid": "sked.de974696",
+      "start": "2020-12-17T09:00:00Z",
+      "end": "2020-12-17T10:00:00Z",
+      "module": "Organisation und Personalmanagement",
+      "lecturers": [
+        "Körkemeyer"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

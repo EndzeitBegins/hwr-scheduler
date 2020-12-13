@@ -1,0 +1,676 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de968226",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968228",
+      "start": "2020-12-08T10:30:00Z",
+      "end": "2020-12-08T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de979129",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de979131",
+      "start": "2020-12-08T14:45:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968276",
+      "start": "2020-12-09T08:45:00Z",
+      "end": "2020-12-09T10:15:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968278",
+      "start": "2020-12-09T10:30:00Z",
+      "end": "2020-12-09T12:00:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968024",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T14:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968026",
+      "start": "2020-12-09T14:45:00Z",
+      "end": "2020-12-09T15:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972184",
+      "start": "2020-12-09T15:45:00Z",
+      "end": "2020-12-09T17:15:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de968242",
+      "start": "2020-12-10T07:00:00Z",
+      "end": "2020-12-10T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967058",
+      "start": "2020-12-10T08:45:00Z",
+      "end": "2020-12-10T10:15:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967060",
+      "start": "2020-12-10T10:30:00Z",
+      "end": "2020-12-10T12:00:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968407",
+      "start": "2020-12-10T13:00:00Z",
+      "end": "2020-12-10T14:30:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Jung"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968409",
+      "start": "2020-12-10T14:45:00Z",
+      "end": "2020-12-10T16:15:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Jung"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966749",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T09:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966751",
+      "start": "2020-12-11T09:45:00Z",
+      "end": "2020-12-11T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967953",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967955",
+      "start": "2020-12-11T14:45:00Z",
+      "end": "2020-12-11T16:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966719",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T09:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966721",
+      "start": "2020-12-14T09:45:00Z",
+      "end": "2020-12-14T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968281",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968283",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T12:00:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967074",
+      "start": "2020-12-15T13:00:00Z",
+      "end": "2020-12-15T14:30:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967076",
+      "start": "2020-12-15T14:45:00Z",
+      "end": "2020-12-15T16:15:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968230",
+      "start": "2020-12-16T07:00:00Z",
+      "end": "2020-12-16T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968232",
+      "start": "2020-12-16T08:45:00Z",
+      "end": "2020-12-16T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967082",
+      "start": "2020-12-16T10:30:00Z",
+      "end": "2020-12-16T12:00:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967066",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T14:30:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967068",
+      "start": "2020-12-16T14:45:00Z",
+      "end": "2020-12-16T16:15:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972186",
+      "start": "2020-12-16T16:30:00Z",
+      "end": "2020-12-16T18:00:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de967956",
+      "start": "2020-12-17T08:45:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967958",
+      "start": "2020-12-17T10:30:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de973268",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T14:30:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de973272",
+      "start": "2020-12-17T14:45:00Z",
+      "end": "2020-12-17T16:15:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "von Saucken"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de966744",
+      "start": "2020-12-18T08:00:00Z",
+      "end": "2020-12-18T09:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966746",
+      "start": "2020-12-18T09:45:00Z",
+      "end": "2020-12-18T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966748",
+      "start": "2020-12-18T11:30:00Z",
+      "end": "2020-12-18T12:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967969",
+      "start": "2020-12-18T14:00:00Z",
+      "end": "2020-12-18T15:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968318",
+      "start": "2020-12-18T15:45:00Z",
+      "end": "2020-12-18T16:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967972",
+      "start": "2021-01-04T08:45:00Z",
+      "end": "2021-01-04T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967974",
+      "start": "2021-01-04T10:30:00Z",
+      "end": "2021-01-04T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966715",
+      "start": "2021-01-05T08:00:00Z",
+      "end": "2021-01-05T09:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966717",
+      "start": "2021-01-05T09:45:00Z",
+      "end": "2021-01-05T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966753",
+      "start": "2021-01-05T12:45:00Z",
+      "end": "2021-01-05T14:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966755",
+      "start": "2021-01-05T14:30:00Z",
+      "end": "2021-01-05T16:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Bergmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968234",
+      "start": "2021-01-06T08:45:00Z",
+      "end": "2021-01-06T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968236",
+      "start": "2021-01-06T10:30:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972188",
+      "start": "2021-01-06T16:30:00Z",
+      "end": "2021-01-06T18:00:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de979062",
+      "start": "2021-01-07T08:45:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de979064",
+      "start": "2021-01-07T10:30:00Z",
+      "end": "2021-01-07T12:00:00Z",
+      "module": "Materialwirtschaft",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967985",
+      "start": "2021-01-07T13:45:00Z",
+      "end": "2021-01-07T15:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967987",
+      "start": "2021-01-07T15:30:00Z",
+      "end": "2021-01-07T16:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Bartsch"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968162",
+      "start": "2021-01-08T07:00:00Z",
+      "end": "2021-01-08T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968164",
+      "start": "2021-01-08T08:45:00Z",
+      "end": "2021-01-08T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Brinner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968411",
+      "start": "2021-01-08T10:45:00Z",
+      "end": "2021-01-08T12:15:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Jung"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968413",
+      "start": "2021-01-08T12:30:00Z",
+      "end": "2021-01-08T14:00:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Jung"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

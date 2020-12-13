@@ -1,0 +1,342 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de949960",
+      "start": "2020-12-07T07:00:00Z",
+      "end": "2020-12-07T10:15:00Z",
+      "module": "MB1012- Mechanik I - Statik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de949964",
+      "start": "2020-12-07T11:15:00Z",
+      "end": "2020-12-07T13:45:00Z",
+      "module": "MB2014- Metallische Werkstoffe",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de964227",
+      "start": "2020-12-08T07:00:00Z",
+      "end": "2020-12-08T12:00:00Z",
+      "module": "MB1015- Labor Elektrotechnik",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.156 (AT-L)\\, CL: 6B.158 (E-L)",
+      "type": "La",
+      "note": "CL: 6B.156 (AT-L)\\, CL: 6B.158 (E-L)"
+    },
+    {
+      "uid": "sked.de950605",
+      "start": "2020-12-08T12:10:00Z",
+      "end": "2020-12-08T12:55:00Z",
+      "module": "Laborunterweisung MB-Labor",
+      "lecturers": [
+        "Erhardt",
+        "Steinmann"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "I",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de964228",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T18:00:00Z",
+      "module": "MB1015- Labor Elektrotechnik",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.156 (AT-L)\\, CL: 6B.158 (E-L)",
+      "type": "La",
+      "note": "CL: 6B.156 (AT-L)\\, CL: 6B.158 (E-L)"
+    },
+    {
+      "uid": "sked.de950018",
+      "start": "2020-12-09T07:45:00Z",
+      "end": "2020-12-09T11:00:00Z",
+      "module": "MB1011- Mathematik I",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971944",
+      "start": "2020-12-09T15:30:00Z",
+      "end": "2020-12-09T17:00:00Z",
+      "module": "Tutorium Mathematik",
+      "lecturers": [
+        "Lazaar"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970634",
+      "start": "2020-12-10T07:00:00Z",
+      "end": "2020-12-10T10:15:00Z",
+      "module": "MB2013- Einführung Programmierung",
+      "lecturers": [
+        "Hubrich"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970621",
+      "start": "2020-12-11T07:00:00Z",
+      "end": "2020-12-11T10:15:00Z",
+      "module": "MB2013- Technisches Zeichnen",
+      "lecturers": [
+        "Warwel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950598",
+      "start": "2020-12-11T11:15:00Z",
+      "end": "2020-12-11T12:45:00Z",
+      "module": "MB2014- Einführung Fertigungsverfahren",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de949972",
+      "start": "2020-12-14T07:00:00Z",
+      "end": "2020-12-14T10:15:00Z",
+      "module": "MB1012- Mechanik I - Statik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de949968",
+      "start": "2020-12-14T11:15:00Z",
+      "end": "2020-12-14T13:45:00Z",
+      "module": "MB2014- Metallische Werkstoffe",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950585",
+      "start": "2020-12-15T07:00:00Z",
+      "end": "2020-12-15T12:00:00Z",
+      "module": "MB1015- Labor Elektrotechnik Gruppe 1",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "La",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de950586",
+      "start": "2020-12-15T13:00:00Z",
+      "end": "2020-12-15T18:00:00Z",
+      "module": "MB1015- Labor Elektrotechnik Gruppe 2",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "La",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de950019",
+      "start": "2020-12-16T07:45:00Z",
+      "end": "2020-12-16T11:00:00Z",
+      "module": "MB1011- Mathematik I",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971945",
+      "start": "2020-12-16T15:30:00Z",
+      "end": "2020-12-16T17:00:00Z",
+      "module": "Tutorium Mathematik",
+      "lecturers": [
+        "Lazaar"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970635",
+      "start": "2020-12-17T07:00:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "MB2013- Einführung Programmierung",
+      "lecturers": [
+        "Hubrich"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970622",
+      "start": "2020-12-17T11:15:00Z",
+      "end": "2020-12-17T14:30:00Z",
+      "module": "MB2013- Technisches Zeichnen",
+      "lecturers": [
+        "Warwel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950599",
+      "start": "2020-12-18T07:00:00Z",
+      "end": "2020-12-18T08:30:00Z",
+      "module": "MB2014- Einführung Fertigungsverfahren",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de949977",
+      "start": "2021-01-04T08:00:00Z",
+      "end": "2021-01-04T11:00:00Z",
+      "module": "MB2014- Grundlagen der Fertigungstechnik",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de950587",
+      "start": "2021-01-06T07:00:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "MB1015- Grundlagen Elektrotechnik",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.350 (T)",
+      "type": "SU",
+      "note": "CL: 6B.350 (T)"
+    },
+    {
+      "uid": "sked.de971946",
+      "start": "2021-01-06T15:30:00Z",
+      "end": "2021-01-06T17:00:00Z",
+      "module": "Tutorium Mathematik",
+      "lecturers": [
+        "Lazaar"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970636",
+      "start": "2021-01-07T07:00:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "MB2013- Einführung Programmierung",
+      "lecturers": [
+        "Hubrich"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971947",
+      "start": "2021-01-08T15:30:00Z",
+      "end": "2021-01-08T17:00:00Z",
+      "module": "Tutorium Mathematik",
+      "lecturers": [
+        "Lazaar"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de949975",
+      "start": "2021-01-11T13:00:00Z",
+      "end": "2021-01-11T14:30:00Z",
+      "module": "MB1011- Mathematik I",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "Klausur",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de949976",
+      "start": "2021-01-13T13:00:00Z",
+      "end": "2021-01-13T15:00:00Z",
+      "module": "MB1015- Elektrotechnik",
+      "lecturers": [
+        "D'Arino"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "Klausur",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de949974",
+      "start": "2021-01-15T12:00:00Z",
+      "end": "2021-01-15T14:00:00Z",
+      "module": "MB1012- Mechanik I - Statik",
+      "lecturers": [
+        "Schomäcker",
+        "Steinmann"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "Klausur",
+      "note": "CL:6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de950603",
+      "start": "2021-01-15T14:30:00Z",
+      "end": "2021-01-15T15:15:00Z",
+      "module": "Vorbereitung Praxistransfer I",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": "CL: 6B.350 (T)",
+      "type": "I",
+      "note": "CL: 6B.350 (T)"
+    }
+  ]
+}

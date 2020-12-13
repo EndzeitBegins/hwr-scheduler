@@ -1,0 +1,98 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de953996",
+      "start": "2020-12-07T08:45:00Z",
+      "end": "2020-12-07T15:00:00Z",
+      "module": "FM 7002-Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948929",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T12:00:00Z",
+      "module": "FM 1004-Betreiberkonzept - berufl. Praxis",
+      "lecturers": [
+        "Sachse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955884",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "FM 6001-Wahl_Arbeits- u. Orga.psychol.",
+      "lecturers": [
+        "Pankau"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de953993",
+      "start": "2020-12-09T08:45:00Z",
+      "end": "2020-12-09T12:00:00Z",
+      "module": "FM 4003-Energietechnik",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949172",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T17:15:00Z",
+      "module": "FM 6001-Wahl-Arbeitssicherheit",
+      "lecturers": [
+        "Kim"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de953987",
+      "start": "2020-12-10T08:45:00Z",
+      "end": "2020-12-10T12:00:00Z",
+      "module": "FM 4003-Energietechnik",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955885",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T12:15:00Z",
+      "module": "FM 6001-Wahl_Arbeits- u. Orga.psychol.",
+      "lecturers": [
+        "Pankau"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de945611",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T15:00:00Z",
+      "module": "FM 4003-Energietechnik",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de955706",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T10:30:00Z",
+      "module": "BW1011-Meth.Grdl.:Darst.methoden",
+      "lecturers": [
+        "Schneider, M."
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "Gruppe 3+4"
+    },
+    {
+      "uid": "sked.de955707",
+      "start": "2020-12-07T11:00:00Z",
+      "end": "2020-12-07T13:30:00Z",
+      "module": "BW1011-Meth.Grdl.:Darst.methoden",
+      "lecturers": [
+        "Schneider, M."
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "Gruppe 1+2"
+    },
+    {
+      "uid": "sked.de970933",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T10:30:00Z",
+      "module": "BW2012-Baustoffkunde",
+      "lecturers": [
+        "Liess"
+      ],
+      "room": "CL: 6B.056 (BSt-L)",
+      "type": "SU",
+      "note": "CL: 6B.056 (BSt-L)"
+    },
+    {
+      "uid": "sked.de970932",
+      "start": "2020-12-08T11:00:00Z",
+      "end": "2020-12-08T15:15:00Z",
+      "module": "BW2012-Labortechn. Übungen",
+      "lecturers": [
+        "Liess"
+      ],
+      "room": "CL: 6B.056 (BSt-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.056 (BSt-L)"
+    },
+    {
+      "uid": "sked.de965335",
+      "start": "2020-12-09T08:00:00Z",
+      "end": "2020-12-09T10:30:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Schmeitzner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de959891",
+      "start": "2020-12-09T11:00:00Z",
+      "end": "2020-12-09T13:30:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965334",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T10:30:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Schmeitzner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de959892",
+      "start": "2020-12-10T11:00:00Z",
+      "end": "2020-12-10T13:30:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965285",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T13:00:00Z",
+      "module": "BW2015-Baukonstruktion 1",
+      "lecturers": [
+        "Detzel"
+      ],
+      "room": "CL: 6B.173 (T)",
+      "type": "SU",
+      "note": "CL: 6B.173 (T)"
+    },
+    {
+      "uid": "sked.de955708",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T10:30:00Z",
+      "module": "BW1011-Meth.Grdl.:Darst.methoden",
+      "lecturers": [
+        "Schneider, M."
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "Gruppe 1+2"
+    },
+    {
+      "uid": "sked.de955709",
+      "start": "2020-12-14T11:00:00Z",
+      "end": "2020-12-14T13:30:00Z",
+      "module": "BW1011-Meth.Grdl.:Darst.methoden",
+      "lecturers": [
+        "Schneider, M."
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "Gruppe 3+4"
+    },
+    {
+      "uid": "sked.de965337",
+      "start": "2020-12-16T08:00:00Z",
+      "end": "2020-12-16T10:30:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Schmeitzner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de959893",
+      "start": "2020-12-16T11:00:00Z",
+      "end": "2020-12-16T13:30:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965336",
+      "start": "2020-12-17T08:00:00Z",
+      "end": "2020-12-17T10:30:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Lenz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de959894",
+      "start": "2020-12-17T11:00:00Z",
+      "end": "2020-12-17T13:30:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970937",
+      "start": "2020-12-18T08:00:00Z",
+      "end": "2020-12-18T10:30:00Z",
+      "module": "BW2012-Baustoffkunde",
+      "lecturers": [
+        "Liess"
+      ],
+      "room": "CL: 6B.056 (BSt-L)",
+      "type": "SU",
+      "note": "CL: 6B.056 (BSt-L)"
+    },
+    {
+      "uid": "sked.de970936",
+      "start": "2020-12-18T11:00:00Z",
+      "end": "2020-12-18T15:15:00Z",
+      "module": "BW2012-Labortechn. Übungen",
+      "lecturers": [
+        "Liess"
+      ],
+      "room": "CL: 6B.056 (BSt-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.056 (BSt-L)"
+    },
+    {
+      "uid": "sked.de965340",
+      "start": "2021-01-04T08:00:00Z",
+      "end": "2021-01-04T13:00:00Z",
+      "module": "BW2015-Baukonstruktion 1",
+      "lecturers": [
+        "Detzel"
+      ],
+      "room": "CL: 6B.150 (T)",
+      "type": "SU",
+      "note": "CL: 6B.150 (T)"
+    },
+    {
+      "uid": "sked.de971612",
+      "start": "2021-01-05T13:45:00Z",
+      "end": "2021-01-05T17:00:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "Teilnehmerzahl max. 10 Pers. - bitte untereinander absprechen"
+    },
+    {
+      "uid": "sked.de959895",
+      "start": "2021-01-06T11:00:00Z",
+      "end": "2021-01-06T13:30:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": "CL: 6B.173 (T)",
+      "type": "SU",
+      "note": "CL: 6B.173 (T)"
+    },
+    {
+      "uid": "sked.de965386",
+      "start": "2021-01-07T08:00:00Z",
+      "end": "2021-01-07T10:30:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Lenz"
+      ],
+      "room": "CL: 6B.150 (T)",
+      "type": "SU",
+      "note": "CL: 6B.150 (T)"
+    },
+    {
+      "uid": "sked.de965387",
+      "start": "2021-01-07T11:15:00Z",
+      "end": "2021-01-07T13:45:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Lenz"
+      ],
+      "room": "CL: 6B.150 (T)",
+      "type": "SU",
+      "note": "CL: 6B.150 (T)"
+    },
+    {
+      "uid": "sked.de959896",
+      "start": "2021-01-11T08:00:00Z",
+      "end": "2021-01-11T11:00:00Z",
+      "module": "BW3013-Mathematik 1",
+      "lecturers": [
+        "Mehlig"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de959897",
+      "start": "2021-01-13T13:00:00Z",
+      "end": "2021-01-13T15:00:00Z",
+      "module": "BW2012-Baustoffkunde",
+      "lecturers": [
+        "Koenig",
+        "Liess"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de959898",
+      "start": "2021-01-15T08:00:00Z",
+      "end": "2021-01-15T11:00:00Z",
+      "module": "BW3014-Mechanik 1",
+      "lecturers": [
+        "Schmeitzner"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

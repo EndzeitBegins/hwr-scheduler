@@ -1,0 +1,942 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de972577",
+      "start": "2021-01-05T08:00:00Z",
+      "end": "2021-01-05T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972594",
+      "start": "2021-01-05T12:00:00Z",
+      "end": "2021-01-05T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972612",
+      "start": "2021-01-06T07:00:00Z",
+      "end": "2021-01-06T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972621",
+      "start": "2021-01-07T08:00:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972629",
+      "start": "2021-01-07T12:15:00Z",
+      "end": "2021-01-07T15:30:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979681",
+      "start": "2021-01-08T09:00:00Z",
+      "end": "2021-01-08T12:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972586",
+      "start": "2021-01-11T08:00:00Z",
+      "end": "2021-01-11T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972566",
+      "start": "2021-01-12T08:00:00Z",
+      "end": "2021-01-12T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972604",
+      "start": "2021-01-12T12:00:00Z",
+      "end": "2021-01-12T15:15:00Z",
+      "module": "ET5042 Elektrische Energieerzeugung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972613",
+      "start": "2021-01-13T07:00:00Z",
+      "end": "2021-01-13T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972622",
+      "start": "2021-01-14T08:00:00Z",
+      "end": "2021-01-14T11:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979686",
+      "start": "2021-01-14T12:00:00Z",
+      "end": "2021-01-14T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972587",
+      "start": "2021-01-18T08:00:00Z",
+      "end": "2021-01-18T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972596",
+      "start": "2021-01-18T12:00:00Z",
+      "end": "2021-01-18T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972567",
+      "start": "2021-01-19T08:00:00Z",
+      "end": "2021-01-19T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972630",
+      "start": "2021-01-19T12:00:00Z",
+      "end": "2021-01-19T15:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972614",
+      "start": "2021-01-20T07:00:00Z",
+      "end": "2021-01-20T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972623",
+      "start": "2021-01-21T08:00:00Z",
+      "end": "2021-01-21T12:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979687",
+      "start": "2021-01-22T09:00:00Z",
+      "end": "2021-01-22T12:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972588",
+      "start": "2021-01-25T08:00:00Z",
+      "end": "2021-01-25T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972597",
+      "start": "2021-01-25T12:00:00Z",
+      "end": "2021-01-25T14:30:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972568",
+      "start": "2021-01-26T08:00:00Z",
+      "end": "2021-01-26T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972606",
+      "start": "2021-01-26T12:00:00Z",
+      "end": "2021-01-26T15:15:00Z",
+      "module": "ET5042 Elektrische Energieerzeugung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972615",
+      "start": "2021-01-27T07:00:00Z",
+      "end": "2021-01-27T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972574",
+      "start": "2021-01-28T08:00:00Z",
+      "end": "2021-01-28T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979688",
+      "start": "2021-01-28T12:00:00Z",
+      "end": "2021-01-28T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972589",
+      "start": "2021-02-01T08:00:00Z",
+      "end": "2021-02-01T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972598",
+      "start": "2021-02-01T12:00:00Z",
+      "end": "2021-02-01T14:30:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972625",
+      "start": "2021-02-02T08:00:00Z",
+      "end": "2021-02-02T11:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972607",
+      "start": "2021-02-02T12:00:00Z",
+      "end": "2021-02-02T15:15:00Z",
+      "module": "ET5042 Elektrische Energieerzeugung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972616",
+      "start": "2021-02-03T07:00:00Z",
+      "end": "2021-02-03T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972569",
+      "start": "2021-02-04T07:45:00Z",
+      "end": "2021-02-04T11:00:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972631",
+      "start": "2021-02-04T12:00:00Z",
+      "end": "2021-02-04T15:15:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972590",
+      "start": "2021-02-08T08:00:00Z",
+      "end": "2021-02-08T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972599",
+      "start": "2021-02-08T12:00:00Z",
+      "end": "2021-02-08T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972570",
+      "start": "2021-02-09T08:00:00Z",
+      "end": "2021-02-09T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972608",
+      "start": "2021-02-09T12:00:00Z",
+      "end": "2021-02-09T15:15:00Z",
+      "module": "ET5042 Elektrische Energieerzeugung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972617",
+      "start": "2021-02-10T07:00:00Z",
+      "end": "2021-02-10T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972632",
+      "start": "2021-02-11T07:00:00Z",
+      "end": "2021-02-11T11:45:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972633",
+      "start": "2021-02-11T12:45:00Z",
+      "end": "2021-02-11T17:30:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972634",
+      "start": "2021-02-12T07:00:00Z",
+      "end": "2021-02-12T11:45:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972635",
+      "start": "2021-02-12T12:45:00Z",
+      "end": "2021-02-12T17:30:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972591",
+      "start": "2021-02-15T08:00:00Z",
+      "end": "2021-02-15T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972600",
+      "start": "2021-02-15T12:00:00Z",
+      "end": "2021-02-15T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972626",
+      "start": "2021-02-16T08:00:00Z",
+      "end": "2021-02-16T11:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972618",
+      "start": "2021-02-17T07:00:00Z",
+      "end": "2021-02-17T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972575",
+      "start": "2021-02-18T08:00:00Z",
+      "end": "2021-02-18T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de979689",
+      "start": "2021-02-18T12:00:00Z",
+      "end": "2021-02-18T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972571",
+      "start": "2021-02-19T08:00:00Z",
+      "end": "2021-02-19T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972572",
+      "start": "2021-02-19T12:15:00Z",
+      "end": "2021-02-19T15:30:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "SU",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972592",
+      "start": "2021-02-22T08:00:00Z",
+      "end": "2021-02-22T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972601",
+      "start": "2021-02-22T12:00:00Z",
+      "end": "2021-02-22T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972593",
+      "start": "2021-02-23T08:00:00Z",
+      "end": "2021-02-23T11:15:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972602",
+      "start": "2021-02-23T12:00:00Z",
+      "end": "2021-02-23T15:15:00Z",
+      "module": "ET5042 Energieübertragung und -verteilung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972573",
+      "start": "2021-02-24T08:00:00Z",
+      "end": "2021-02-24T11:15:00Z",
+      "module": "ET3044 Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972611",
+      "start": "2021-02-24T12:00:00Z",
+      "end": "2021-02-24T15:15:00Z",
+      "module": "ET5042 Elektrische Energieerzeugung",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972639",
+      "start": "2021-02-25T08:00:00Z",
+      "end": "2021-02-25T11:00:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972641",
+      "start": "2021-02-25T12:00:00Z",
+      "end": "2021-02-25T15:00:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972619",
+      "start": "2021-02-26T07:00:00Z",
+      "end": "2021-02-26T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972642",
+      "start": "2021-03-01T08:00:00Z",
+      "end": "2021-03-01T12:15:00Z",
+      "module": "ET3043 Labor Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972643",
+      "start": "2021-03-01T13:00:00Z",
+      "end": "2021-03-01T17:15:00Z",
+      "module": "ET3043 Labor Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972638",
+      "start": "2021-03-02T08:00:00Z",
+      "end": "2021-03-02T12:15:00Z",
+      "module": "ET3043 Labor Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972640",
+      "start": "2021-03-02T13:00:00Z",
+      "end": "2021-03-02T17:15:00Z",
+      "module": "ET3043 Labor Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972636",
+      "start": "2021-03-03T08:00:00Z",
+      "end": "2021-03-03T11:00:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972637",
+      "start": "2021-03-03T12:00:00Z",
+      "end": "2021-03-03T15:00:00Z",
+      "module": "ET3044 Labor Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de972628",
+      "start": "2021-03-04T08:00:00Z",
+      "end": "2021-03-04T12:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972620",
+      "start": "2021-03-05T07:45:00Z",
+      "end": "2021-03-05T16:45:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974312",
+      "start": "2021-03-05T09:00:00Z",
+      "end": "2021-03-05T11:00:00Z",
+      "module": "ET3043 Leistungselektronik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Präsenzklausur unter Vorbehalt\\, Raum derzeit noch nicht bekannt"
+    },
+    {
+      "uid": "sked.de972624",
+      "start": "2021-03-09T08:00:00Z",
+      "end": "2021-03-09T11:15:00Z",
+      "module": "ET5041 Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de972644",
+      "start": "2021-03-10T07:00:00Z",
+      "end": "2021-03-10T16:00:00Z",
+      "module": "ET6045 Studienprojektseminar",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972578",
+      "start": "2021-03-15T08:00:00Z",
+      "end": "2021-03-15T11:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972582",
+      "start": "2021-03-15T12:00:00Z",
+      "end": "2021-03-15T15:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972579",
+      "start": "2021-03-16T08:00:00Z",
+      "end": "2021-03-16T11:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972583",
+      "start": "2021-03-16T12:00:00Z",
+      "end": "2021-03-16T15:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972580",
+      "start": "2021-03-17T08:00:00Z",
+      "end": "2021-03-17T11:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972584",
+      "start": "2021-03-17T12:00:00Z",
+      "end": "2021-03-17T15:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de972581",
+      "start": "2021-03-18T08:00:00Z",
+      "end": "2021-03-18T11:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de931223",
+      "start": "2021-03-18T11:00:00Z",
+      "end": "2021-03-18T12:00:00Z",
+      "module": "Tag des Dualen Studiums",
+      "lecturers": [],
+      "room": null,
+      "type": "I",
+      "note": null
+    },
+    {
+      "uid": "sked.de972585",
+      "start": "2021-03-18T12:00:00Z",
+      "end": "2021-03-18T15:00:00Z",
+      "module": "ET5041 Labor Steuerungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de977847",
+      "start": "2021-03-22T13:00:00Z",
+      "end": "2021-03-22T15:00:00Z",
+      "module": "ET5041 Grundlagen der Automatisierungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Termin vom Prof. bestätigt"
+    }
+  ]
+}

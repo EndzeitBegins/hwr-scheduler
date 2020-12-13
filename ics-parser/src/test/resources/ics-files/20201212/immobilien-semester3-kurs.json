@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de974531",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:00:00Z",
+      "module": "Rechtliche Grundlagen des Bauens",
+      "lecturers": [
+        "ONLINE"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974667",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T10:15:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Kalenberg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974677",
+      "start": "2020-12-14T09:00:00Z",
+      "end": "2020-12-14T11:00:00Z",
+      "module": "Technische Grundlagen des Bauens",
+      "lecturers": [
+        "ONLINE"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974688",
+      "start": "2020-12-16T09:00:00Z",
+      "end": "2020-12-16T11:00:00Z",
+      "module": "Wirtschaftsprivatrecht II-Handels- und Gesellschaf",
+      "lecturers": [
+        "ONLINE"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

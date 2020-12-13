@@ -1,0 +1,568 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de967702",
+      "start": "2020-12-07T13:00:00Z",
+      "end": "2020-12-07T14:30:00Z",
+      "module": "WI-101-Grdl.WiWi/BWL",
+      "lecturers": [
+        "Vieth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967704",
+      "start": "2020-12-07T14:45:00Z",
+      "end": "2020-12-07T15:30:00Z",
+      "module": "WI-101-Grdl.WiWi/BWL",
+      "lecturers": [
+        "Vieth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de957461",
+      "start": "2020-12-08T07:00:00Z",
+      "end": "2020-12-08T08:30:00Z",
+      "module": "WI-301 Mathem.-Theor.Grdl. IT",
+      "lecturers": [
+        "Ringhand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949005",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T10:15:00Z",
+      "module": "WI-101-Grdl. WiWi/VWL",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956263",
+      "start": "2020-12-08T10:30:00Z",
+      "end": "2020-12-08T12:00:00Z",
+      "module": "WI-301 Mathematik I - Finanzmathematik",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965897",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965899",
+      "start": "2020-12-08T14:45:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965954",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T09:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965956",
+      "start": "2020-12-10T09:45:00Z",
+      "end": "2020-12-10T11:15:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965776",
+      "start": "2020-12-10T12:00:00Z",
+      "end": "2020-12-10T13:30:00Z",
+      "module": "WI-109 IT/Grundlagen der WI",
+      "lecturers": [
+        "Lemke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956268",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T08:45:00Z",
+      "module": "WI-301 Mathematik I - Finanzmathematik",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965862",
+      "start": "2020-12-11T09:45:00Z",
+      "end": "2020-12-11T11:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": "CL: 6B.372 (WIL1)",
+      "type": "PCÜ",
+      "note": "CL: 6B.372 (WIL1)"
+    },
+    {
+      "uid": "sked.de965864",
+      "start": "2020-12-11T11:45:00Z",
+      "end": "2020-12-11T13:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": "CL: 6B.372 (WIL1)",
+      "type": "PCÜ",
+      "note": "CL: 6B.372 (WIL1)"
+    },
+    {
+      "uid": "sked.de978507",
+      "start": "2020-12-14T11:00:00Z",
+      "end": "2020-12-14T12:30:00Z",
+      "module": "WI-109 IT/Grundlagen der WI",
+      "lecturers": [
+        "Lemke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967710",
+      "start": "2020-12-14T13:00:00Z",
+      "end": "2020-12-14T14:30:00Z",
+      "module": "WI-101-Grdl.WiWi/BWL",
+      "lecturers": [
+        "Vieth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967712",
+      "start": "2020-12-14T14:45:00Z",
+      "end": "2020-12-14T15:30:00Z",
+      "module": "WI-101-Grdl.WiWi/BWL",
+      "lecturers": [
+        "Vieth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956270",
+      "start": "2020-12-15T07:00:00Z",
+      "end": "2020-12-15T08:30:00Z",
+      "module": "WI-301 Mathematik I - Finanzmathematik",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949006",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "WI-101-Grdl. WiWi/VWL",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de957460",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T12:00:00Z",
+      "module": "WI-301 Mathem.-Theor.Grdl. IT",
+      "lecturers": [
+        "Ringhand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965901",
+      "start": "2020-12-15T13:00:00Z",
+      "end": "2020-12-15T14:30:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965903",
+      "start": "2020-12-15T14:45:00Z",
+      "end": "2020-12-15T16:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965972",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T14:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965974",
+      "start": "2020-12-16T14:45:00Z",
+      "end": "2020-12-16T16:15:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965958",
+      "start": "2020-12-17T08:00:00Z",
+      "end": "2020-12-17T09:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965960",
+      "start": "2020-12-17T09:45:00Z",
+      "end": "2020-12-17T11:15:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965865",
+      "start": "2020-12-18T08:45:00Z",
+      "end": "2020-12-18T10:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965867",
+      "start": "2020-12-18T10:30:00Z",
+      "end": "2020-12-18T12:00:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de957472",
+      "start": "2021-01-04T07:00:00Z",
+      "end": "2021-01-04T08:30:00Z",
+      "module": "WI-301 Mathem.-Theor.Grdl. IT",
+      "lecturers": [
+        "Ringhand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970881",
+      "start": "2021-01-04T11:30:00Z",
+      "end": "2021-01-04T13:00:00Z",
+      "module": "WI-109 IT/WI-Einf.-RechnSys",
+      "lecturers": [
+        "Kocmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970883",
+      "start": "2021-01-04T13:15:00Z",
+      "end": "2021-01-04T14:00:00Z",
+      "module": "WI-109 IT/WI-Einf.-RechnSys",
+      "lecturers": [
+        "Kocmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956278",
+      "start": "2021-01-05T07:00:00Z",
+      "end": "2021-01-05T08:30:00Z",
+      "module": "WI-301 Mathematik I - Finanzmathematik",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de957459",
+      "start": "2021-01-05T08:45:00Z",
+      "end": "2021-01-05T10:15:00Z",
+      "module": "WI-301 Mathem.-Theor.Grdl. IT",
+      "lecturers": [
+        "Ringhand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949007",
+      "start": "2021-01-05T10:30:00Z",
+      "end": "2021-01-05T12:00:00Z",
+      "module": "WI-101-Grdl. WiWi/VWL",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965905",
+      "start": "2021-01-05T13:00:00Z",
+      "end": "2021-01-05T14:30:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965907",
+      "start": "2021-01-05T14:45:00Z",
+      "end": "2021-01-05T16:15:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de957464",
+      "start": "2021-01-06T07:00:00Z",
+      "end": "2021-01-06T08:30:00Z",
+      "module": "WI-301 Mathem.-Theor.Grdl. IT",
+      "lecturers": [
+        "Ringhand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "inkl. Klausurvorbereitung"
+    },
+    {
+      "uid": "sked.de949021",
+      "start": "2021-01-06T08:45:00Z",
+      "end": "2021-01-06T10:15:00Z",
+      "module": "WI-101-Grdl. WiWi/VWL",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Klausurvorbereitung"
+    },
+    {
+      "uid": "sked.de956279",
+      "start": "2021-01-06T10:30:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "WI-301 Mathematik I - Finanzmathematik",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "inkl. Klausurvorbereitung"
+    },
+    {
+      "uid": "sked.de965962",
+      "start": "2021-01-06T14:00:00Z",
+      "end": "2021-01-06T15:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965964",
+      "start": "2021-01-06T15:45:00Z",
+      "end": "2021-01-06T16:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971052",
+      "start": "2021-01-07T09:45:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "WI-109 IT/Grundlagen der WI",
+      "lecturers": [
+        "Lemke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972010",
+      "start": "2021-01-07T16:15:00Z",
+      "end": "2021-01-07T17:45:00Z",
+      "module": "WI-301 Mathematik I - Analysis",
+      "lecturers": [
+        "Magalashvili"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972012",
+      "start": "2021-01-07T18:00:00Z",
+      "end": "2021-01-07T19:30:00Z",
+      "module": "WI-301 Mathematik I - Analysis",
+      "lecturers": [
+        "Magalashvili"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965869",
+      "start": "2021-01-08T08:30:00Z",
+      "end": "2021-01-08T10:00:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965871",
+      "start": "2021-01-08T10:30:00Z",
+      "end": "2021-01-08T12:00:00Z",
+      "module": "WI-110 IT/Grundl.d.Programmrg.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": null
+    },
+    {
+      "uid": "sked.de965983",
+      "start": "2021-01-08T14:00:00Z",
+      "end": "2021-01-08T15:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965985",
+      "start": "2021-01-08T15:45:00Z",
+      "end": "2021-01-08T16:30:00Z",
+      "module": "WI-501 SQual-Meth.Komp.",
+      "lecturers": [
+        "Faustmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

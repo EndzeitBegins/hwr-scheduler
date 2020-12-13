@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de944053",
+      "start": "2020-11-02T13:00:00Z",
+      "end": "2020-11-02T14:30:00Z",
+      "module": "MB1031- Mathematik III",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de944054",
+      "start": "2020-11-04T07:00:00Z",
+      "end": "2020-11-04T09:00:00Z",
+      "module": "MB3032- Festigkeitslehre II",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de971948",
+      "start": "2020-11-04T09:10:00Z",
+      "end": "2020-11-04T09:40:00Z",
+      "module": "Infoveranstaltung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "*",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de944055",
+      "start": "2020-11-06T08:00:00Z",
+      "end": "2020-11-06T10:30:00Z",
+      "module": "MB2034- Fertigungsverfahren II",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    }
+  ]
+}

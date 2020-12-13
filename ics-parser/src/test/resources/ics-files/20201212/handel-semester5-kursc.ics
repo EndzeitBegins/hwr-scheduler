@@ -1,0 +1,130 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:2.0
+X-SKED-SYNC-DTSTART:20141027T000000
+X-SKED-SYNC-DTEND:20141103T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:6333
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648600
+SUMMARY:Klausur\,HD-4013WPft.-Unternehmensprä.\,
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: HD-4013WPft.-Unternehmensprä.\nVeranstaltung
+	suntergruppe: \nAnmerkung: \nDozent: Prof. Dr. Bleis\nRaum: CL: 1.Audimax
+	 hinten
+DTSTART;TZID=Europe/Berlin:20141028T090000
+DTEND;TZID=Europe/Berlin:20141028T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648601
+SUMMARY:Klausur\,HD-401WPfl.-Food Management\,
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: HD-401WPfl.-Food Management\nVeranstaltungsu
+	ntergruppe: \nAnmerkung: \nDozent: Prof. Dr. Bleis\nRaum: CL: 1.Audimax h
+	inten
+DTSTART;TZID=Europe/Berlin:20141028T090000
+DTEND;TZID=Europe/Berlin:20141028T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de602833
+SUMMARY:Klausur\,401-WPff.-Wirtschaftsenglisch - C 1\,
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401-WPff.-Wirtschaftsenglisch - C 1\nVeranst
+	altungsuntergruppe: \nAnmerkung: \nDozent: Prof. Dr. Schütt\nRaum: CL: 1.
+	Audimax vorn
+DTSTART;TZID=Europe/Berlin:20141028T090000
+DTEND;TZID=Europe/Berlin:20141028T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648788
+SUMMARY:Klausur\,401-Wpff. - Operations Research (Gr.2)\,
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401-Wpff. - Operations Research (Gr.2)\nVera
+	nstaltungsuntergruppe: \nAnmerkung: \nDozent: Prof. Dr. Brüggemann-Borck\n
+	Raum: CL: 5.0002
+DTSTART;TZID=Europe/Berlin:20141028T130000
+DTEND;TZID=Europe/Berlin:20141028T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648792
+SUMMARY:Klausur\,401-WPff.-Wirtschaftsenglisch - B1+B2\,+ Niveau A2
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401-WPff.-Wirtschaftsenglisch - B1+B2\nVeran
+	staltungsuntergruppe: \nAnmerkung: + Niveau A2\nDozent: Prof. Dr. Schmiet
+	endorf\nRaum: CL: 1.Audimax vorn
+DTSTART;TZID=Europe/Berlin:20141028T133000
+DTEND;TZID=Europe/Berlin:20141028T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648603
+SUMMARY:Klausur\,202-SBWL\,
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 202-SBWL\nVeranstaltungsuntergruppe: \nAnmer
+	kung: \nDozent: Prof. Dr. Schlösser\nRaum: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20141030T090000
+DTEND;TZID=Europe/Berlin:20141030T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20141102T200201
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de648604
+SUMMARY:Klausur\,104-ABWL-Management\,
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 104-ABWL-Management\nVeranstaltungsuntergrup
+	pe: \nAnmerkung: \nDozent: Prof. Dr. Faustmann\nRaum: CL: 1.Audimax vorn
+DTSTART;TZID=Europe/Berlin:20141031T100000
+DTEND;TZID=Europe/Berlin:20141031T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

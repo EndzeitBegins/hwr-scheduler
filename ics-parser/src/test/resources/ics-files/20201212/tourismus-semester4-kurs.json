@@ -1,0 +1,41 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de747214",
+      "start": "2016-05-17T11:00:00Z",
+      "end": "2016-05-17T13:00:00Z",
+      "module": "110-Bilanzierg./Steuern",
+      "lecturers": [
+        "Prof. Dr. Peter-Ollrogge",
+        "Prof. Dr. Schlösser"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de747080",
+      "start": "2016-05-18T12:15:00Z",
+      "end": "2016-05-18T15:15:00Z",
+      "module": "108-SBWL",
+      "lecturers": [
+        "Prof. Dr. Wissing"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de747374",
+      "start": "2016-05-19T12:00:00Z",
+      "end": "2016-05-19T14:00:00Z",
+      "module": "114-VWL-Konjunktur u. Wachstum",
+      "lecturers": [
+        "Prof. Dr. Deimer"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10795
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955745
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;Gruppe 1+2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: Gruppe 1+2\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T120000
+DTEND;TZID=Europe/Berlin:20201207T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955746
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;Gruppe 3+4
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: Gruppe 3+4\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T144500
+DTEND;TZID=Europe/Berlin:20201207T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971126
+SUMMARY:PCÜ\;BW1011-Meth.Grdl.:Darst.methoden\;Pepper\;ganzer Kurs - onli
+	ne
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: BW1011-Meth.Grdl.:Darst.methoden\nDo
+	zent: Pepper\nRaum: -\nAnmerkung: ganzer Kurs - online\nPause: inkl. 15 m
+	in Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965314
+SUMMARY:SU\;BW3014-Mechanik 1\;Schmeitzner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3014-Mechanik 1\nDozent: Schmeitzne
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T150000
+DTEND;TZID=Europe/Berlin:20201208T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959872
+SUMMARY:SU\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3013-Mathematik 1\nDozent: Mehlig\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965266
+SUMMARY:SU\;BW2015-Baukonstruktion 1\;Detzel\;CL: 6B.173 (T)\;Gruppe 1
+LOCATION:CL: 6B.173 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: BW2015-Baukonstruktion 1\nDozent: Det
+	zel\nRaum: CL: 6B.173 (T)\nAnmerkung: Gruppe 1\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T133000
+DTEND;TZID=Europe/Berlin:20201209T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959873
+SUMMARY:SU\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3013-Mathematik 1\nDozent: Mehlig\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965315
+SUMMARY:SU\;BW3014-Mechanik 1\;Schmeitzner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3014-Mechanik 1\nDozent: Schmeitzne
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T160000
+DTEND;TZID=Europe/Berlin:20201210T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970992
+SUMMARY:SU\;BW2012-Baustoffkunde\;Koenig\;CL: 6B.056 (BSt-L)\;Gruppe 1
+LOCATION:CL: 6B.056 (BSt-L)
+DESCRIPTION:Art: SU\nVeranstaltung: BW2012-Baustoffkunde\nDozent: Koenig\n
+	Raum: CL: 6B.056 (BSt-L)\nAnmerkung: Gruppe 1\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970991
+SUMMARY:PÜ\;BW2012-Labortechn. Übungen\;Koenig\;CL: 6B.056 (BSt-L)\;Grupp
+	e 1
+LOCATION:CL: 6B.056 (BSt-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: BW2012-Labortechn. Übungen\nDozent: K
+	oenig\nRaum: CL: 6B.056 (BSt-L)\nAnmerkung: Gruppe 1\nPause: inkl. 30 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T130000
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971127
+SUMMARY:PCÜ\;BW1011-Meth.Grdl.:Darst.methoden\;Pepper\;ganzer Kurs - onli
+	ne
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: BW1011-Meth.Grdl.:Darst.methoden\nDo
+	zent: Pepper\nRaum: -\nAnmerkung: ganzer Kurs - online\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955747
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T120000
+DTEND;TZID=Europe/Berlin:20201214T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955748
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;Gruppe 1+2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: Gruppe 1+2\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T144500
+DTEND;TZID=Europe/Berlin:20201214T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970993
+SUMMARY:SU\;BW2012-Baustoffkunde\;Koenig\;online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW2012-Baustoffkunde\nDozent: Koenig\n
+	Raum: -\nAnmerkung: online\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T083000
+DTEND;TZID=Europe/Berlin:20201215T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965317
+SUMMARY:SU\;BW3014-Mechanik 1\;Schmeitzner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3014-Mechanik 1\nDozent: Schmeitzne
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T150000
+DTEND;TZID=Europe/Berlin:20201215T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959874
+SUMMARY:SU\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3013-Mathematik 1\nDozent: Mehlig\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959875
+SUMMARY:SU\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3013-Mathematik 1\nDozent: Mehlig\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201217T090000
+DTEND;TZID=Europe/Berlin:20201217T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965316
+SUMMARY:SU\;BW3014-Mechanik 1\;Schmeitzner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3014-Mechanik 1\nDozent: Schmeitzne
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T121500
+DTEND;TZID=Europe/Berlin:20201217T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955751
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;Gruppe 1+2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: Gruppe 1+2\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T120000
+DTEND;TZID=Europe/Berlin:20210104T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955752
+SUMMARY:SI\;BW1011-Meth.Grdl.:Komm.+Dok.\;Brenninger\;Gruppe 3+4
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: BW1011-Meth.Grdl.:Komm.+Dok.\nDozent:
+	 Brenninger\nRaum: -\nAnmerkung: Gruppe 3+4\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T144500
+DTEND;TZID=Europe/Berlin:20210104T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965339
+SUMMARY:SU\;BW2015-Baukonstruktion 1\;Detzel\;CL: 6B.173 (T)\;Gruppe 3
+LOCATION:CL: 6B.173 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: BW2015-Baukonstruktion 1\nDozent: Det
+	zel\nRaum: CL: 6B.173 (T)\nAnmerkung: Gruppe 3\nPause: inkl. 30 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T090000
+DTEND;TZID=Europe/Berlin:20210105T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971612
+SUMMARY:PÜ\;Englisch\;Munby\;Teilnehmerzahl max. 10 Pers. - bitte unterei
+	nander absprechen
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnm
+	erkung: Teilnehmerzahl max. 10 Pers. - bitte untereinander absprechen\nPa
+	use: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T144500
+DTEND;TZID=Europe/Berlin:20210105T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959876
+SUMMARY:SU\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: BW3013-Mathematik 1\nDozent: Mehlig\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959896
+SUMMARY:Klausur\;BW3013-Mathematik 1\;Mehlig\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW3013-Mathematik 1\nDozent: Meh
+	lig\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T090000
+DTEND;TZID=Europe/Berlin:20210111T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975409
+SUMMARY:*\;PTB I Seminar\;Detzel\;CL: 6B.150 (T)\;Einführungsveranstaltun
+	g PTB I - Gruppe A
+LOCATION:CL: 6B.150 (T)
+DESCRIPTION:Art: *\nVeranstaltung: PTB I Seminar\nDozent: Detzel\nRaum: C
+	L: 6B.150 (T)\nAnmerkung: Einführungsveranstaltung PTB I - Gruppe A\nPaus
+	e: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T133000
+DTEND;TZID=Europe/Berlin:20210111T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975410
+SUMMARY:*\;PTB I Seminar\;Detzel\;CL: 6B.150 (T)\;Einführungsveranstaltun
+	g PTB I - Gruppe B
+LOCATION:CL: 6B.150 (T)
+DESCRIPTION:Art: *\nVeranstaltung: PTB I Seminar\nDozent: Detzel\nRaum: C
+	L: 6B.150 (T)\nAnmerkung: Einführungsveranstaltung PTB I - Gruppe B\nPaus
+	e: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T144500
+DTEND;TZID=Europe/Berlin:20210111T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959897
+SUMMARY:Klausur\;BW2012-Baustoffkunde\;Koenig\, Liess\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW2012-Baustoffkunde\nDozent: Ko
+	enig\, Liess\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201134Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959898
+SUMMARY:Klausur\;BW3014-Mechanik 1\;Schmeitzner\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW3014-Mechanik 1\nDozent: Schme
+	itzner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T090000
+DTEND;TZID=Europe/Berlin:20210115T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de953110",
+      "start": "2020-06-15T07:00:00Z",
+      "end": "2020-06-15T10:00:00Z",
+      "module": "ET7026 Betriebliches Management II",
+      "lecturers": [
+        "ONLINE - Infos folgen"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Gatzer\\, Heerma"
+    },
+    {
+      "uid": "sked.de958581",
+      "start": "2020-06-16T13:00:00Z",
+      "end": "2020-06-16T18:00:00Z",
+      "module": "ET2022 Elektrotechnische Grundlagen II",
+      "lecturers": [
+        "ONLINE - mündliche Prüfung"
+      ],
+      "room": null,
+      "type": "M",
+      "note": "M.Sc. Popova\\, Stürmer"
+    },
+    {
+      "uid": "sked.de958583",
+      "start": "2020-06-17T13:00:00Z",
+      "end": "2020-06-17T18:00:00Z",
+      "module": "ET2022 Elektrotechnische Grundlagen II",
+      "lecturers": [
+        "ONLINE - mündliche Prüfung"
+      ],
+      "room": null,
+      "type": "M",
+      "note": "M.Sc. Popova\\, Stürmer"
+    },
+    {
+      "uid": "sked.de958582",
+      "start": "2020-06-18T13:00:00Z",
+      "end": "2020-06-18T18:00:00Z",
+      "module": "ET2022 Elektrotechnische Grundlagen II",
+      "lecturers": [
+        "ONLINE - mündliche Prüfung"
+      ],
+      "room": null,
+      "type": "M",
+      "note": "M.Sc. Popova\\, Stürmer"
+    },
+    {
+      "uid": "sked.de953112",
+      "start": "2020-06-19T07:00:00Z",
+      "end": "2020-06-19T10:00:00Z",
+      "module": "ET2023 Messtechnik II",
+      "lecturers": [
+        "ONLINE - Infos folgen"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dr.  Ferreira Furtado\\, Prof. Dr. Lundszien"
+    }
+  ]
+}

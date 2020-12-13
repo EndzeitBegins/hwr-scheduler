@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de959095",
+      "start": "2020-06-29T08:00:00Z",
+      "end": "2020-06-29T10:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Prof. Dr. Rochnowski"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de959097",
+      "start": "2020-06-30T07:00:00Z",
+      "end": "2020-06-30T10:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "17 Teilnehmer im Audimax vorne und 17 Teilnehmer im Audimax hinten"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "17 Teilnehmer im Audimax vorne und 17 Teilnehmer imAudimax hinten"
+    },
+    {
+      "uid": "sked.de955965",
+      "start": "2020-07-02T08:00:00Z",
+      "end": "2020-07-02T10:00:00Z",
+      "module": "Handels- und Steuerbilanzen / Steuern",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Graßnick"
+    }
+  ]
+}

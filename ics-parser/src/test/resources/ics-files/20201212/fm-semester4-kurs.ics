@@ -1,0 +1,1221 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210104T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10827
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975962
+SUMMARY:SU\;FM 2004-Qualitätsmanagement\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Qualitätsmanagement\nDozent: 
+	Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978524
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T140000
+DTEND;TZID=Europe/Berlin:20210105T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978509
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975975
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;Lundszien\, Mugele\, Pelzete
+	r\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: Lundszien\, Mugele\, Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975976
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T140000
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978510
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T094500
+DTEND;TZID=Europe/Berlin:20210108T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975963
+SUMMARY:SU\;FM 2004-Qualitätsmanagement\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Qualitätsmanagement\nDozent: 
+	Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T094500
+DTEND;TZID=Europe/Berlin:20210112T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978526
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T140000
+DTEND;TZID=Europe/Berlin:20210112T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978525
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T094500
+DTEND;TZID=Europe/Berlin:20210113T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978511
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978512
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T094500
+DTEND;TZID=Europe/Berlin:20210114T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975977
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T094500
+DTEND;TZID=Europe/Berlin:20210115T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976778
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210118T094500
+DTEND;TZID=Europe/Berlin:20210118T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978527
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T140000
+DTEND;TZID=Europe/Berlin:20210118T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975964
+SUMMARY:SU\;FM 2004-Qualitätsmanagement\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Qualitätsmanagement\nDozent: 
+	Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T094500
+DTEND;TZID=Europe/Berlin:20210119T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975967
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T140000
+DTEND;TZID=Europe/Berlin:20210119T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975968
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T094500
+DTEND;TZID=Europe/Berlin:20210120T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976779
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210120T140000
+DTEND;TZID=Europe/Berlin:20210120T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978513
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210121T094500
+DTEND;TZID=Europe/Berlin:20210121T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975978
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T094500
+DTEND;TZID=Europe/Berlin:20210122T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976780
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210125T094500
+DTEND;TZID=Europe/Berlin:20210125T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975965
+SUMMARY:SU\;FM 2004-Qualitätsmanagement\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Qualitätsmanagement\nDozent: 
+	Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T094500
+DTEND;TZID=Europe/Berlin:20210126T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978528
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T140000
+DTEND;TZID=Europe/Berlin:20210126T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978514
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T094500
+DTEND;TZID=Europe/Berlin:20210127T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976781
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210127T140000
+DTEND;TZID=Europe/Berlin:20210127T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978529
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T094500
+DTEND;TZID=Europe/Berlin:20210128T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978515
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T140000
+DTEND;TZID=Europe/Berlin:20210128T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975979
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T094500
+DTEND;TZID=Europe/Berlin:20210129T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975980
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T094500
+DTEND;TZID=Europe/Berlin:20210201T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976782
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210202T094500
+DTEND;TZID=Europe/Berlin:20210202T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975966
+SUMMARY:SU\;FM 2004-Qualitätsmanagement\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Qualitätsmanagement\nDozent: 
+	Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T140000
+DTEND;TZID=Europe/Berlin:20210202T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978516
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210203T094500
+DTEND;TZID=Europe/Berlin:20210203T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976783
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210203T140000
+DTEND;TZID=Europe/Berlin:20210203T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978517
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210205T094500
+DTEND;TZID=Europe/Berlin:20210205T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975981
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T094500
+DTEND;TZID=Europe/Berlin:20210208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976784
+SUMMARY:SU\;FM 2005-Recht_2\;Rothenburg\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_2\nDozent: Rothenburg\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210209T094500
+DTEND;TZID=Europe/Berlin:20210209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978530
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T140000
+DTEND;TZID=Europe/Berlin:20210209T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978386
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210210T094500
+DTEND;TZID=Europe/Berlin:20210210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978518
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210210T140000
+DTEND;TZID=Europe/Berlin:20210210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975973
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T084500
+DTEND;TZID=Europe/Berlin:20210211T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975974
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T140000
+DTEND;TZID=Europe/Berlin:20210211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978519
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T094500
+DTEND;TZID=Europe/Berlin:20210212T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975982
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T094500
+DTEND;TZID=Europe/Berlin:20210215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978520
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T094500
+DTEND;TZID=Europe/Berlin:20210216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978387
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210216T140000
+DTEND;TZID=Europe/Berlin:20210216T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975969
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T094500
+DTEND;TZID=Europe/Berlin:20210217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980970
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 3
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 3\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T140000
+DTEND;TZID=Europe/Berlin:20210217T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980971
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T084500
+DTEND;TZID=Europe/Berlin:20210218T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975970
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T140000
+DTEND;TZID=Europe/Berlin:20210218T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975993
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T084500
+DTEND;TZID=Europe/Berlin:20210219T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975994
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T114500
+DTEND;TZID=Europe/Berlin:20210219T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975995
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 3
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 3\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T144500
+DTEND;TZID=Europe/Berlin:20210219T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975983
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T094500
+DTEND;TZID=Europe/Berlin:20210222T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978531
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T094500
+DTEND;TZID=Europe/Berlin:20210223T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978388
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210223T140000
+DTEND;TZID=Europe/Berlin:20210223T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978389
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210224T094500
+DTEND;TZID=Europe/Berlin:20210224T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980972
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T140000
+DTEND;TZID=Europe/Berlin:20210224T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979008
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T090000
+DTEND;TZID=Europe/Berlin:20210225T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979009
+SUMMARY:SU\;FM 2004-Orga. u. Personalmanagement\;Gruber-Beerfeltz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2004-Orga. u. Personalmanagement\n
+	Dozent: Gruber-Beerfeltz\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T140000
+DTEND;TZID=Europe/Berlin:20210225T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975990
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gurppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gurppe 2\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T084500
+DTEND;TZID=Europe/Berlin:20210226T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975991
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 3
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 3\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T114500
+DTEND;TZID=Europe/Berlin:20210226T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975992
+SUMMARY:PÜ\;FM 4002-Labor Elektrotechnik 2\;Lundszien\;CL: 6B.156 (AT-L)\;
+	Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: FM 4002-Labor Elektrotechnik 2\nDozen
+	t: Lundszien\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T144500
+DTEND;TZID=Europe/Berlin:20210226T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975984
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T094500
+DTEND;TZID=Europe/Berlin:20210301T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978534
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T094500
+DTEND;TZID=Europe/Berlin:20210302T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978390
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210302T140000
+DTEND;TZID=Europe/Berlin:20210302T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978391
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210303T094500
+DTEND;TZID=Europe/Berlin:20210303T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978535
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T094500
+DTEND;TZID=Europe/Berlin:20210304T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978536
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T094500
+DTEND;TZID=Europe/Berlin:20210309T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978392
+SUMMARY:SU\;FM 2005-Recht_1\;Scherwitzki\;Prüfungsvorbereitung
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 2005-Recht_1\nDozent: Scherwitzki\n
+	Raum: -\nAnmerkung: Prüfungsvorbereitung\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T140000
+DTEND;TZID=Europe/Berlin:20210309T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979010
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T094500
+DTEND;TZID=Europe/Berlin:20210310T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975985
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;Lundszien\, Mugele\, Pelzete
+	r\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: Lundszien\, Mugele\, Pelzeter\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T094500
+DTEND;TZID=Europe/Berlin:20210311T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975986
+SUMMARY:SU\;FM 7001-Studienprojektseminar 1\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7001-Studienprojektseminar 1\nDoze
+	nt: -\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T140000
+DTEND;TZID=Europe/Berlin:20210311T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978523
+SUMMARY:SU\;FM 4002-Elekrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4002-Elekrotechnik 2\nDozent: Lund
+	szien\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T140000
+DTEND;TZID=Europe/Berlin:20210312T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978537
+SUMMARY:SU\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung 2\nD
+	ozent: Mugele\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210315T113000
+DTEND;TZID=Europe/Berlin:20210315T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931224
+SUMMARY:I\;Tag des Dualen Studiums\;
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Tag des Dualen Studiums\nDozent: -\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T120000
+DTEND;TZID=Europe/Berlin:20210318T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975996
+SUMMARY:Klausur\;FM 2005-Recht\;Scherwitzki\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 2005-Recht\nDozent: Scherwitz
+	ki\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T090000
+DTEND;TZID=Europe/Berlin:20210319T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975997
+SUMMARY:Klausur\;FM 3004-Techn. Gebäudeausrüstung 2\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 3004-Techn. Gebäudeausrüstung
+	 2\nDozent: Mugele\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T140000
+DTEND;TZID=Europe/Berlin:20210322T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971957
+SUMMARY:R\;Reserviert\;FMK
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: FMK\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T084500
+DTEND;TZID=Europe/Berlin:20210324T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975998
+SUMMARY:Klausur\;FM 4002-Elektrotechnik 2\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 4002-Elektrotechnik 2\nDozent
+	: Lundszien\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210326T140000
+DTEND;TZID=Europe/Berlin:20210326T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

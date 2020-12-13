@@ -1,0 +1,98 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200511T000000
+X-SKED-SYNC-DTEND:20200518T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9293
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200517T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952771
+SUMMARY:M\;WI-401-11 Wpff.I - Wirtschaftsenglisch IT\;Mündliche Prüfung O
+	nline - siehe Aufteilung von businessweg\;business weg - WI
+LOCATION:
+DESCRIPTION:Art: M\nVeranstaltung: WI-401-11 Wpff.I - Wirtschaftsenglisch
+	 IT\nVeranstaltungsuntergruppe: -\nAnmerkung: Mündliche Prüfung Online - 
+	siehe Aufteilung von businessweg\nDozent: business weg - WI\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200513T090000
+DTEND;TZID=Europe/Berlin:20200513T140000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200517T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952798
+SUMMARY:Klausur\;WI-104 WIWI-MM-Personal\;Online-Klausur\n1 Studentin mit
+	 Nachteilsausgleich aus Kurs A bis 12.20 Uhr (je Klausurteil 10 Minuten l
+	änger)\;Schulz-Bücher
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-104 WIWI-MM-Personal\nVeranst
+	altungsuntergruppe: -\nAnmerkung: Online-Klausur\n1 Studentin mit Nachtei
+	lsausgleich aus Kurs A bis 12.20 Uhr (je Klausurteil 10 Minuten länger)\n
+	Dozent: Schulz-Bücher\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200515T100000
+DTEND;TZID=Europe/Berlin:20200515T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200517T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952799
+SUMMARY:Klausur\;WI-104 WIWI-MM-UF\;Online-Klausur\n1 Studentin mit Nacht
+	eilsausgleich aus Kurs A  bis 12.20 Uhr (je Klausurteil 10 Minuten)\;Schu
+	lz
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-104 WIWI-MM-UF\nVeranstaltung
+	suntergruppe: -\nAnmerkung: Online-Klausur\n1 Studentin mit Nachteilsausg
+	leich aus Kurs A  bis 12.20 Uhr (je Klausurteil 10 Minuten)\nDozent: Schu
+	lz\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200515T110000
+DTEND;TZID=Europe/Berlin:20200515T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200517T201139Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952800
+SUMMARY:Klausur\;WI-104 WIWI-MM-Contrg.\;Online-Klausur\n1 Studentin aus 
+	Kurs A bis 13.40 Uhr\;Prof. Dr. Schlösser
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-104 WIWI-MM-Contrg.\nVeransta
+	ltungsuntergruppe: -\nAnmerkung: Online-Klausur\n1 Studentin aus Kurs A b
+	is 13.40 Uhr\nDozent: Prof. Dr. Schlösser\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200515T123000
+DTEND;TZID=Europe/Berlin:20200515T133000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

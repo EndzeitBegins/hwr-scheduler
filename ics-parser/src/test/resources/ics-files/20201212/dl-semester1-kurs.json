@@ -1,0 +1,760 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de949753",
+      "start": "2020-12-07T07:00:00Z",
+      "end": "2020-12-07T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955383",
+      "start": "2020-12-07T10:30:00Z",
+      "end": "2020-12-07T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955385",
+      "start": "2020-12-07T12:15:00Z",
+      "end": "2020-12-07T13:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954532",
+      "start": "2020-12-07T14:00:00Z",
+      "end": "2020-12-07T15:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de967469",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T09:30:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Kaltschew"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967471",
+      "start": "2020-12-08T09:45:00Z",
+      "end": "2020-12-08T11:15:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Kaltschew"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964951",
+      "start": "2020-12-08T12:00:00Z",
+      "end": "2020-12-08T15:15:00Z",
+      "module": "SK: Wirtschaftsenglisch",
+      "lecturers": [
+        "business weg 1"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE a"
+    },
+    {
+      "uid": "sked.de970214",
+      "start": "2020-12-08T12:00:00Z",
+      "end": "2020-12-08T15:15:00Z",
+      "module": "SK: Wirtschaftsenglisch",
+      "lecturers": [
+        "business weg 2"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE b"
+    },
+    {
+      "uid": "sked.de964952",
+      "start": "2020-12-08T15:30:00Z",
+      "end": "2020-12-08T17:00:00Z",
+      "module": "SK: Wirtschaftsenglisch",
+      "lecturers": [
+        "business weg 1"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online-Prüfung GRUPPE a"
+    },
+    {
+      "uid": "sked.de970215",
+      "start": "2020-12-08T15:30:00Z",
+      "end": "2020-12-08T17:00:00Z",
+      "module": "SK: Wirtschaftsenglisch",
+      "lecturers": [
+        "business weg 2"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online-Prüfung GRUPPE b"
+    },
+    {
+      "uid": "sked.de949754",
+      "start": "2020-12-09T07:00:00Z",
+      "end": "2020-12-09T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955319",
+      "start": "2020-12-09T10:30:00Z",
+      "end": "2020-12-09T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955321",
+      "start": "2020-12-09T12:15:00Z",
+      "end": "2020-12-09T13:45:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955323",
+      "start": "2020-12-09T14:00:00Z",
+      "end": "2020-12-09T14:45:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972184",
+      "start": "2020-12-09T15:45:00Z",
+      "end": "2020-12-09T17:15:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de955514",
+      "start": "2020-12-10T07:00:00Z",
+      "end": "2020-12-10T08:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955271",
+      "start": "2020-12-10T08:45:00Z",
+      "end": "2020-12-10T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955273",
+      "start": "2020-12-10T10:30:00Z",
+      "end": "2020-12-10T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954901",
+      "start": "2020-12-10T14:30:00Z",
+      "end": "2020-12-10T16:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 1"
+    },
+    {
+      "uid": "sked.de954903",
+      "start": "2020-12-10T16:15:00Z",
+      "end": "2020-12-10T17:45:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 1"
+    },
+    {
+      "uid": "sked.de954525",
+      "start": "2020-12-11T10:45:00Z",
+      "end": "2020-12-11T12:15:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954527",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de949755",
+      "start": "2020-12-14T10:30:00Z",
+      "end": "2020-12-14T13:45:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972646",
+      "start": "2020-12-14T14:30:00Z",
+      "end": "2020-12-14T16:00:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de972648",
+      "start": "2020-12-14T16:15:00Z",
+      "end": "2020-12-14T17:00:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de967094",
+      "start": "2020-12-15T07:00:00Z",
+      "end": "2020-12-15T08:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 2"
+    },
+    {
+      "uid": "sked.de967096",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 2"
+    },
+    {
+      "uid": "sked.de981820",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T11:00:00Z",
+      "module": "Infoveranstaltung PTB I",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "*",
+      "note": "https://us02web.zoom.us/j/86329187568?pwd=L0F2TmtJTEo4a0cyeGNjMVRIRjNGZz09"
+    },
+    {
+      "uid": "sked.de949756",
+      "start": "2020-12-15T14:00:00Z",
+      "end": "2020-12-15T17:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955515",
+      "start": "2020-12-16T07:00:00Z",
+      "end": "2020-12-16T08:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955281",
+      "start": "2020-12-16T08:45:00Z",
+      "end": "2020-12-16T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955283",
+      "start": "2020-12-16T10:30:00Z",
+      "end": "2020-12-16T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972186",
+      "start": "2020-12-16T16:30:00Z",
+      "end": "2020-12-16T18:00:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de949757",
+      "start": "2020-12-17T07:00:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955403",
+      "start": "2020-12-17T10:30:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955405",
+      "start": "2020-12-17T12:15:00Z",
+      "end": "2020-12-17T13:00:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954727",
+      "start": "2020-12-17T14:00:00Z",
+      "end": "2020-12-17T15:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954729",
+      "start": "2020-12-17T15:45:00Z",
+      "end": "2020-12-17T17:15:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de979543",
+      "start": "2020-12-17T17:30:00Z",
+      "end": "2020-12-17T18:15:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954716",
+      "start": "2020-12-18T07:00:00Z",
+      "end": "2020-12-18T08:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954718",
+      "start": "2020-12-18T08:45:00Z",
+      "end": "2020-12-18T10:15:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954720",
+      "start": "2020-12-18T10:30:00Z",
+      "end": "2020-12-18T11:15:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de954842",
+      "start": "2020-12-18T12:30:00Z",
+      "end": "2020-12-18T14:00:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954844",
+      "start": "2020-12-18T14:15:00Z",
+      "end": "2020-12-18T15:45:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954854",
+      "start": "2020-12-18T16:00:00Z",
+      "end": "2020-12-18T17:30:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955409",
+      "start": "2021-01-04T07:00:00Z",
+      "end": "2021-01-04T08:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955411",
+      "start": "2021-01-04T08:45:00Z",
+      "end": "2021-01-04T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949758",
+      "start": "2021-01-04T10:30:00Z",
+      "end": "2021-01-04T13:45:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967089",
+      "start": "2021-01-05T07:00:00Z",
+      "end": "2021-01-05T08:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 3"
+    },
+    {
+      "uid": "sked.de967091",
+      "start": "2021-01-05T08:45:00Z",
+      "end": "2021-01-05T10:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 3"
+    },
+    {
+      "uid": "sked.de967093",
+      "start": "2021-01-05T10:30:00Z",
+      "end": "2021-01-05T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 3"
+    },
+    {
+      "uid": "sked.de972649",
+      "start": "2021-01-05T14:00:00Z",
+      "end": "2021-01-05T15:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de972651",
+      "start": "2021-01-05T15:45:00Z",
+      "end": "2021-01-05T16:30:00Z",
+      "module": "Fundamentals of Service Management (DL)",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": "CL: 6A.207",
+      "type": "SU-SBWL-DL",
+      "note": "CL: 6A.207"
+    },
+    {
+      "uid": "sked.de972188",
+      "start": "2021-01-06T16:30:00Z",
+      "end": "2021-01-06T18:00:00Z",
+      "module": "Mathe-Tutorium",
+      "lecturers": [
+        "Wenzel"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de955296",
+      "start": "2021-01-07T07:00:00Z",
+      "end": "2021-01-07T08:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955298",
+      "start": "2021-01-07T08:45:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Wagner, R."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949759",
+      "start": "2021-01-07T10:30:00Z",
+      "end": "2021-01-07T13:45:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Reservetermin"
+    },
+    {
+      "uid": "sked.de954905",
+      "start": "2021-01-07T14:30:00Z",
+      "end": "2021-01-07T16:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 1"
+    },
+    {
+      "uid": "sked.de954907",
+      "start": "2021-01-07T16:15:00Z",
+      "end": "2021-01-07T17:45:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Golz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "GRUPPE 1"
+    },
+    {
+      "uid": "sked.de954846",
+      "start": "2021-01-08T08:00:00Z",
+      "end": "2021-01-08T09:30:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954848",
+      "start": "2021-01-08T09:45:00Z",
+      "end": "2021-01-08T11:15:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de954850",
+      "start": "2021-01-08T11:30:00Z",
+      "end": "2021-01-08T13:00:00Z",
+      "module": "Digitalisierung in Unternehmen",
+      "lecturers": [
+        "Rohr"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de949721",
+      "start": "2021-01-08T14:00:00Z",
+      "end": "2021-01-08T17:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": "CL: 6A.008 (FB4)",
+      "type": "PV",
+      "note": "CL: 6A.008 (FB4)"
+    }
+  ]
+}

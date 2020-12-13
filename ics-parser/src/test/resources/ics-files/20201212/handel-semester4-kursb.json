@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de952788",
+      "start": "2020-05-12T08:00:00Z",
+      "end": "2020-05-12T09:10:00Z",
+      "module": "HD-108SBWL-MarketingIV-MaFo",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Schwertfeger"
+    },
+    {
+      "uid": "sked.de952796",
+      "start": "2020-05-15T08:00:00Z",
+      "end": "2020-05-15T09:10:00Z",
+      "module": "HD-110RW-Bilanzierung",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Wittmüß"
+    },
+    {
+      "uid": "sked.de952797",
+      "start": "2020-05-15T10:00:00Z",
+      "end": "2020-05-15T10:50:00Z",
+      "module": "HD-110RW-Steuern",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Graßnick"
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de952206",
+      "start": "2020-12-07T07:00:00Z",
+      "end": "2020-12-07T08:30:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952208",
+      "start": "2020-12-07T08:45:00Z",
+      "end": "2020-12-07T09:30:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951406",
+      "start": "2020-12-07T09:45:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951408",
+      "start": "2020-12-07T11:30:00Z",
+      "end": "2020-12-07T12:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960634",
+      "start": "2020-12-08T07:00:00Z",
+      "end": "2020-12-08T08:30:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960636",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T10:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960638",
+      "start": "2020-12-08T10:30:00Z",
+      "end": "2020-12-08T11:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951412",
+      "start": "2020-12-09T07:00:00Z",
+      "end": "2020-12-09T08:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951414",
+      "start": "2020-12-09T08:45:00Z",
+      "end": "2020-12-09T09:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952284",
+      "start": "2020-12-09T09:45:00Z",
+      "end": "2020-12-09T11:15:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952286",
+      "start": "2020-12-09T11:30:00Z",
+      "end": "2020-12-09T13:00:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951415",
+      "start": "2020-12-10T09:45:00Z",
+      "end": "2020-12-10T11:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951417",
+      "start": "2020-12-10T11:30:00Z",
+      "end": "2020-12-10T12:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960644",
+      "start": "2020-12-10T13:00:00Z",
+      "end": "2020-12-10T14:30:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960646",
+      "start": "2020-12-10T14:45:00Z",
+      "end": "2020-12-10T16:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960648",
+      "start": "2020-12-10T16:30:00Z",
+      "end": "2020-12-10T17:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969917",
+      "start": "2020-12-11T10:30:00Z",
+      "end": "2020-12-11T12:00:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Peter-Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960649",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:30:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960651",
+      "start": "2020-12-11T14:45:00Z",
+      "end": "2020-12-11T16:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960653",
+      "start": "2020-12-11T16:30:00Z",
+      "end": "2020-12-11T17:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951424",
+      "start": "2020-12-14T07:00:00Z",
+      "end": "2020-12-14T08:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951426",
+      "start": "2020-12-14T08:45:00Z",
+      "end": "2020-12-14T09:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955921",
+      "start": "2020-12-14T09:45:00Z",
+      "end": "2020-12-14T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955923",
+      "start": "2020-12-14T11:30:00Z",
+      "end": "2020-12-14T12:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de980238",
+      "start": "2020-12-14T13:00:00Z",
+      "end": "2020-12-14T14:30:00Z",
+      "module": "Informationen zum Studium",
+      "lecturers": [
+        "Peter-Ollrogge"
+      ],
+      "room": null,
+      "type": "I",
+      "note": "online Sprechstundefür Kurssprecher\\, Gruppensprecher\\, Buddies"
+    },
+    {
+      "uid": "sked.de960654",
+      "start": "2020-12-15T07:00:00Z",
+      "end": "2020-12-15T08:30:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960656",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960658",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T11:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955917",
+      "start": "2020-12-16T07:00:00Z",
+      "end": "2020-12-16T08:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955919",
+      "start": "2020-12-16T08:45:00Z",
+      "end": "2020-12-16T09:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951427",
+      "start": "2020-12-16T09:45:00Z",
+      "end": "2020-12-16T11:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951429",
+      "start": "2020-12-16T11:30:00Z",
+      "end": "2020-12-16T12:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951874",
+      "start": "2020-12-17T07:00:00Z",
+      "end": "2020-12-17T08:30:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951876",
+      "start": "2020-12-17T08:45:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951878",
+      "start": "2020-12-17T10:30:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951880",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T14:30:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951882",
+      "start": "2020-12-17T14:45:00Z",
+      "end": "2020-12-17T16:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951884",
+      "start": "2020-12-17T16:30:00Z",
+      "end": "2020-12-17T17:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951885",
+      "start": "2020-12-18T07:00:00Z",
+      "end": "2020-12-18T08:30:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951887",
+      "start": "2020-12-18T08:45:00Z",
+      "end": "2020-12-18T10:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951889",
+      "start": "2020-12-18T10:30:00Z",
+      "end": "2020-12-18T12:00:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951891",
+      "start": "2020-12-18T13:00:00Z",
+      "end": "2020-12-18T14:30:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951893",
+      "start": "2020-12-18T14:45:00Z",
+      "end": "2020-12-18T16:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951895",
+      "start": "2020-12-18T16:30:00Z",
+      "end": "2020-12-18T17:15:00Z",
+      "module": "SK: Planspiel",
+      "lecturers": [
+        "Ollrogge"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de955914",
+      "start": "2021-01-04T07:00:00Z",
+      "end": "2021-01-04T08:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952247",
+      "start": "2021-01-04T08:45:00Z",
+      "end": "2021-01-04T09:30:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951436",
+      "start": "2021-01-04T09:45:00Z",
+      "end": "2021-01-04T11:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951438",
+      "start": "2021-01-04T11:30:00Z",
+      "end": "2021-01-04T12:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960670",
+      "start": "2021-01-05T08:45:00Z",
+      "end": "2021-01-05T09:30:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de960671",
+      "start": "2021-01-05T09:30:00Z",
+      "end": "2021-01-05T10:15:00Z",
+      "module": "Marketing I - Grundlagen Handelsmarketing",
+      "lecturers": [
+        "Schwertfeger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952256",
+      "start": "2021-01-06T10:30:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952258",
+      "start": "2021-01-06T12:15:00Z",
+      "end": "2021-01-06T13:00:00Z",
+      "module": "Marketing I - Sortiments- u. Produktpolitik",
+      "lecturers": [
+        "Klingenberg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951439",
+      "start": "2021-01-07T07:00:00Z",
+      "end": "2021-01-07T08:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951441",
+      "start": "2021-01-07T08:45:00Z",
+      "end": "2021-01-07T09:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951442",
+      "start": "2021-01-08T07:00:00Z",
+      "end": "2021-01-08T08:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951464",
+      "start": "2021-01-08T08:45:00Z",
+      "end": "2021-01-08T09:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

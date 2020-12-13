@@ -1,0 +1,119 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20190422T000000
+X-SKED-SYNC-DTEND:20190429T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:8652
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de832750
+SUMMARY:Klausur\;402 Wpff. Wirtschaftsenglisch\;Niveau bis B1+B2 bis 12.0
+	0 Uhr\; Niveau C.1+C1.2 bis 13.00 Uhr\;business weg
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Wirtschaftsenglisch\nV
+	eranstaltungsuntergruppe: -\nAnmerkung: Niveau bis B1+B2 bis 12.00 Uhr\; 
+	Niveau C.1+C1.2 bis 13.00 Uhr\nDozent: business weg\nRaum: CL: 1.Audimax 
+	vorn
+DTSTART;TZID=Europe/Berlin:20190423T100000
+DTEND;TZID=Europe/Berlin:20190423T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de904527
+SUMMARY:Klausur\;402 Wpff. Nachhaltiges Wirtschaften\;Gapp
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Nachhaltiges Wirtschaf
+	ten\nVeranstaltungsuntergruppe: -\nAnmerkung: -\nDozent: Gapp\nRaum: CL: 
+	1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20190423T133000
+DTEND;TZID=Europe/Berlin:20190423T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de904530
+SUMMARY:Klausur\;402 Wpff. Ethik\;Prof. Dr. Weyer
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Ethik\nVeranstaltungsu
+	ntergruppe: -\nAnmerkung: -\nDozent: Prof. Dr. Weyer\nRaum: CL: 1.Audimax
+	 hinten
+DTSTART;TZID=Europe/Berlin:20190423T133000
+DTEND;TZID=Europe/Berlin:20190423T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de904606
+SUMMARY:Klausur\;Personal/Orga II\;Prof. Dr. Schütt
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: Personal/Orga II\nVeranstaltungs
+	untergruppe: -\nAnmerkung: -\nDozent: Prof. Dr. Schütt\nRaum: CL: 1.Audim
+	ax vorn
+DTSTART;TZID=Europe/Berlin:20190424T140000
+DTEND;TZID=Europe/Berlin:20190424T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de904612
+SUMMARY:Klausur\;Supply Chain Management II\;Prof. Dr. Afflerbach
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: Supply Chain Management II\nVera
+	nstaltungsuntergruppe: -\nAnmerkung: -\nDozent: Prof. Dr. Afflerbach\nRau
+	m: CL: 1.Audimax vorn
+DTSTART;TZID=Europe/Berlin:20190425T100000
+DTEND;TZID=Europe/Berlin:20190425T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190428T201326Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de904630
+SUMMARY:Klausur\;Finanz- u. Rechnungswesen II\;Kurs INA+C bis 15.00 Uhr\;
+	Prof. Dr. Faustmann
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: Finanz- u. Rechnungswesen II\nVe
+	ranstaltungsuntergruppe: -\nAnmerkung: Kurs INA+C bis 15.00 Uhr\nDozent: 
+	Prof. Dr. Faustmann\nRaum: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20190426T133000
+DTEND;TZID=Europe/Berlin:20190426T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

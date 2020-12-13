@@ -1,0 +1,65 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de977247",
+      "start": "2020-12-08T10:00:00Z",
+      "end": "2020-12-08T11:30:00Z",
+      "module": "Business Cycles and Economic Growth",
+      "lecturers": [
+        "Mertens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Konsultation"
+    },
+    {
+      "uid": "sked.de974570",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T14:50:00Z",
+      "module": "Business Cycles and Economic Growth",
+      "lecturers": [
+        "Mertens"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974049",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T11:00:00Z",
+      "module": "Statistik",
+      "lecturers": [
+        "Rosentreter",
+        "Wannemacher"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    },
+    {
+      "uid": "sked.de974692",
+      "start": "2020-12-17T08:00:00Z",
+      "end": "2020-12-17T09:30:00Z",
+      "module": "Foreign Expansion Modes",
+      "lecturers": [
+        "Tirpitz"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974700",
+      "start": "2020-12-18T09:00:00Z",
+      "end": "2020-12-18T11:00:00Z",
+      "module": "Commercial and Tax Balance Sheets/Taxation",
+      "lecturers": [
+        "Tippelhofer"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

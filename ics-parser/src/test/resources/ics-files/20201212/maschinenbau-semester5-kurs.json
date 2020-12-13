@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de944329",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T09:30:00Z",
+      "module": "MB3051- Leichtbau",
+      "lecturers": [
+        "Borutzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de948228",
+      "start": "2020-12-09T08:15:00Z",
+      "end": "2020-12-09T09:45:00Z",
+      "module": "MB3054- Grdl. erneuerbarer Energien",
+      "lecturers": [
+        "Klünder"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de948246",
+      "start": "2020-12-09T10:00:00Z",
+      "end": "2020-12-09T11:30:00Z",
+      "module": "MB3054- Labor Erneuerbare Energien",
+      "lecturers": [
+        "Klünder"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Alle"
+    },
+    {
+      "uid": "sked.de948231",
+      "start": "2020-12-10T08:15:00Z",
+      "end": "2020-12-10T09:45:00Z",
+      "module": "MB3054- Grdl. erneuerbarer Energien",
+      "lecturers": [
+        "Klünder"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de948247",
+      "start": "2020-12-10T10:00:00Z",
+      "end": "2020-12-10T11:30:00Z",
+      "module": "MB3054- Labor Erneuerbare Energien",
+      "lecturers": [
+        "Klünder"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Alle"
+    },
+    {
+      "uid": "sked.de948234",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T15:00:00Z",
+      "module": "MB3054- Erneuerbare Energien",
+      "lecturers": [
+        "Klünder"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    }
+  ]
+}

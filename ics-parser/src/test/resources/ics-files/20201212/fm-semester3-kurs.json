@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de966833",
+      "start": "2020-11-03T08:00:00Z",
+      "end": "2020-11-03T09:30:00Z",
+      "module": "Tutorium Elektrotechnik I",
+      "lecturers": [
+        "Moltenkin"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de945606",
+      "start": "2020-11-04T13:00:00Z",
+      "end": "2020-11-04T15:00:00Z",
+      "module": "FM 4001-Elektrotechnik 1",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    },
+    {
+      "uid": "sked.de945607",
+      "start": "2020-11-05T13:00:00Z",
+      "end": "2020-11-05T16:00:00Z",
+      "module": "FM 3003-Techn. Gebäudeausrüstung 1",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    }
+  ]
+}

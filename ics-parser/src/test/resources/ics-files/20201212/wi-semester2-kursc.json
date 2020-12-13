@@ -1,0 +1,41 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de955937",
+      "start": "2020-06-29T08:00:00Z",
+      "end": "2020-06-29T10:00:00Z",
+      "module": "WI-107 WIWI-VWL",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Wagner"
+    },
+    {
+      "uid": "sked.de959099",
+      "start": "2020-06-30T12:00:00Z",
+      "end": "2020-06-30T15:00:00Z",
+      "module": "WI-302 Mathematik II - OR",
+      "lecturers": [
+        "Kurs A und 18 Teilnehmer ausKurs B im Audimax vorne (Prof. Rosentreter",
+        "Prof. Kölling)"
+      ],
+      "room": "CL: 1.Audimax hinten\\, CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "18 Teilnehmer aus Kurs B und Kurs C im Audimax hinten (Prof. Schwertfeger\\, Prof. Woogt)"
+    },
+    {
+      "uid": "sked.de955964",
+      "start": "2020-07-01T08:00:00Z",
+      "end": "2020-07-01T11:00:00Z",
+      "module": "WI-103 WIWI-Projektmanagement",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Koschnick"
+    }
+  ]
+}

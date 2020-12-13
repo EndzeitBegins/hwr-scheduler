@@ -1,0 +1,75 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20190617T000000
+X-SKED-SYNC-DTEND:20190624T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:8461
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190623T201302Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de882630
+SUMMARY:Klausur\;IT1051-Analysis\;Studierender mit Nachteilsausgleich bis
+	 17.30 Uhr\;Dr. Luther
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT1051-Analysis\nVeranstaltungsu
+	ntergruppe: -\nAnmerkung: Studierender mit Nachteilsausgleich bis 17.30 U
+	hr\nDozent: Dr. Luther\nRaum: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20190617T150000
+DTEND;TZID=Europe/Berlin:20190617T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190623T201302Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de882632
+SUMMARY:Klausur\;IT2071-Objektorientierte Programmierung\;Studierender mi
+	t Nachteilsausgleich bis 15.15 Uhr\;Prof. Dr. Kalkbrenner
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT2071-Objektorientierte Program
+	mierung\nVeranstaltungsuntergruppe: -\nAnmerkung: Studierender mit Nachte
+	ilsausgleich bis 15.15 Uhr\nDozent: Prof. Dr. Kalkbrenner\nRaum: CL: 1.Au
+	dimax hinten
+DTSTART;TZID=Europe/Berlin:20190619T140000
+DTEND;TZID=Europe/Berlin:20190619T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190623T201302Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de882631
+SUMMARY:Klausur\;IT1081-BWL\;Studierender mit Nachteilsausgleich bis 11.0
+	5 Uhr\;Arkan
+LOCATION:CL: 6A.229 (FB4)
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT1081-BWL\nVeranstaltungsunterg
+	ruppe: -\nAnmerkung: Studierender mit Nachteilsausgleich bis 11.05 Uhr\nD
+	ozent: Arkan\nRaum: CL: 6A.229 (FB4)
+DTSTART;TZID=Europe/Berlin:20190621T080000
+DTEND;TZID=Europe/Berlin:20190621T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

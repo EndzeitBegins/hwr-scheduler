@@ -1,0 +1,904 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10932
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969296
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969298
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T104500
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969317
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T123000
+DTEND;TZID=Europe/Berlin:20201207T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972321
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T143000
+DTEND;TZID=Europe/Berlin:20201207T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972323
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T161500
+DTEND;TZID=Europe/Berlin:20201207T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969157
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969159
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969107
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969109
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965720
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965722
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T104500
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969120
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T140000
+DTEND;TZID=Europe/Berlin:20201209T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969122
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T154500
+DTEND;TZID=Europe/Berlin:20201209T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965629
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965631
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T104500
+DTEND;TZID=Europe/Berlin:20201210T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967383
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967385
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958391
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T083000
+DTEND;TZID=Europe/Berlin:20201211T100000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958393
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T101500
+DTEND;TZID=Europe/Berlin:20201211T114500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958395
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T121500
+DTEND;TZID=Europe/Berlin:20201211T134500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969161
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201214T094500
+DTEND;TZID=Europe/Berlin:20201214T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969163
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201214T113000
+DTEND;TZID=Europe/Berlin:20201214T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958411
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958413
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T154500
+DTEND;TZID=Europe/Berlin:20201214T171500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958415
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T173000
+DTEND;TZID=Europe/Berlin:20201214T181500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969318
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T084500
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969300
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969302
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969123
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969125
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201215T154500
+DTEND;TZID=Europe/Berlin:20201215T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965724
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965726
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T104500
+DTEND;TZID=Europe/Berlin:20201216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965633
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T090000
+DTEND;TZID=Europe/Berlin:20201217T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965635
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T104500
+DTEND;TZID=Europe/Berlin:20201217T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967387
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967389
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T154500
+DTEND;TZID=Europe/Berlin:20201217T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958396
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T083000
+DTEND;TZID=Europe/Berlin:20201218T100000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958398
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T101500
+DTEND;TZID=Europe/Berlin:20201218T114500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958400
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T121500
+DTEND;TZID=Europe/Berlin:20201218T134500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969165
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210104T084500
+DTEND;TZID=Europe/Berlin:20210104T101500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969167
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210104T103000
+DTEND;TZID=Europe/Berlin:20210104T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958416
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T143000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958418
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T144500
+DTEND;TZID=Europe/Berlin:20210104T161500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958420
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T163000
+DTEND;TZID=Europe/Berlin:20210104T171500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969304
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969306
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969115
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T140000
+DTEND;TZID=Europe/Berlin:20210105T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969117
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T154500
+DTEND;TZID=Europe/Berlin:20210105T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965728
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965730
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T104500
+DTEND;TZID=Europe/Berlin:20210106T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967397
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T131500
+DTEND;TZID=Europe/Berlin:20210106T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967399
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T150000
+DTEND;TZID=Europe/Berlin:20210106T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969126
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969128
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965736
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T131500
+DTEND;TZID=Europe/Berlin:20210107T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965738
+SUMMARY:SU\;Finanzbuchführung\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Tippelhofe
+	r\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T150000
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969308
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T080000
+DTEND;TZID=Europe/Berlin:20210108T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969310
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Rosentreter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Ros
+	entreter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T094500
+DTEND;TZID=Europe/Berlin:20210108T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969076
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210108T121500
+DTEND;TZID=Europe/Berlin:20210108T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969078
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210108T140000
+DTEND;TZID=Europe/Berlin:20210108T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de958289",
+      "start": "2020-06-29T08:00:00Z",
+      "end": "2020-06-29T10:00:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Schubert"
+    },
+    {
+      "uid": "sked.de955940",
+      "start": "2020-06-30T08:00:00Z",
+      "end": "2020-06-30T10:00:00Z",
+      "module": "Produktionswirtschaft (IN)",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur-SBWL-IN",
+      "note": "Prof. Dr. Erkens\\, Prof. Dr. Wildebrand"
+    },
+    {
+      "uid": "sked.de960138",
+      "start": "2020-07-02T08:00:00Z",
+      "end": "2020-07-02T10:00:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "RA Neumann"
+    }
+  ]
+}

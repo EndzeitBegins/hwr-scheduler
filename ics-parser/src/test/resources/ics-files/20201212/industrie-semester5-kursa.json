@@ -1,0 +1,77 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de956915",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Cross Cultural Management",
+      "lecturers": [
+        "Kassman"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de970607",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Ethik",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971082",
+      "start": "2020-10-28T07:30:00Z",
+      "end": "2020-10-28T08:45:00Z",
+      "module": "IN-204 Pers./Orga I",
+      "lecturers": [
+        "Schulz-Bücher"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971083",
+      "start": "2020-10-28T09:00:00Z",
+      "end": "2020-10-28T09:50:00Z",
+      "module": "IN-204 Pers./Orga I-Recht",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971873",
+      "start": "2020-10-29T09:00:00Z",
+      "end": "2020-10-29T10:00:00Z",
+      "module": "IN-401WPfl.-Innovationsmanagement",
+      "lecturers": [
+        "Becker",
+        "Ch."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945649",
+      "start": "2020-04-21T11:00:00Z",
+      "end": "2020-04-21T12:30:00Z",
+      "module": "WI-403-11Mmt. d. Inf.sicherh.",
+      "lecturers": [
+        "Online-Klausur Achtung! 2Studierende mit Nachteilsausgleich",
+        "Kurs A bis 14.55 Uhr und Kurs B bis15.30 Uhr"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Ringhand"
+    }
+  ]
+}

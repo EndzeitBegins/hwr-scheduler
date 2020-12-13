@@ -1,0 +1,54 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971078",
+      "start": "2020-10-28T08:00:00Z",
+      "end": "2020-10-28T09:00:00Z",
+      "module": "IM-104ABWL-UF",
+      "lecturers": [
+        "Vogt",
+        "Florian",
+        "Weber"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971079",
+      "start": "2020-10-28T13:00:00Z",
+      "end": "2020-10-28T13:35:00Z",
+      "module": "IM-104ABWL-Manmt.-Controlling",
+      "lecturers": [
+        "Kalenberg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971092",
+      "start": "2020-10-30T09:00:00Z",
+      "end": "2020-10-30T10:30:00Z",
+      "module": "202-SBWL",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

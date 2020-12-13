@@ -1,0 +1,42 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de810826",
+      "start": "2017-12-18T08:00:00Z",
+      "end": "2017-12-18T11:00:00Z",
+      "module": "BW2021-Konstruktiver Ingenieurbau I",
+      "lecturers": [
+        "Prof. Dr.-Ing. Detzel"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de810827",
+      "start": "2017-12-20T09:00:00Z",
+      "end": "2017-12-20T12:00:00Z",
+      "module": "BW4025-Baumanagement I",
+      "lecturers": [
+        "Dipl.-Kfm. Rottmann",
+        "Prof. Dr.Wotschke"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de810828",
+      "start": "2017-12-22T08:00:00Z",
+      "end": "2017-12-22T11:00:00Z",
+      "module": "BW2022-Geotechnik",
+      "lecturers": [
+        "Prof. Dr. Wotschke",
+        "Zimmermann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200420T000000
+X-SKED-SYNC-DTEND:20200427T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9341
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945648
+SUMMARY:Klausur\;402 Wpff. Statist. Verf. in d. Marktforschg.\;gem. Abspr
+	ache Prof. Dr. Brinner\;Prof. Dr. Brinner
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Statist. Verf. in d. M
+	arktforschg.\nVeranstaltungsuntergruppe: -\nAnmerkung: gem. Absprache Pro
+	f. Dr. Brinner\nDozent: Prof. Dr. Brinner\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200421T090000
+DTEND;TZID=Europe/Berlin:20200421T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945645
+SUMMARY:Klausur\;402 Wpff. Operations Research\;Präsenzklausur wird versc
+	hoben!\;Prof. Dr. Krüger
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Operations Research\nV
+	eranstaltungsuntergruppe: -\nAnmerkung: Präsenzklausur wird verschoben!\n
+	Dozent: Prof. Dr. Krüger\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200421T090000
+DTEND;TZID=Europe/Berlin:20200421T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945643
+SUMMARY:Klausur\;402 Wpff. Wirtschaftsenglisch Niveau B2\;Mündliche Prüfu
+	ng online - Termine siehe Übersicht von businessweg\;business weg
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Wirtschaftsenglisch Ni
+	veau B2\nVeranstaltungsuntergruppe: -\nAnmerkung: Mündliche Prüfung onlin
+	e - Termine siehe Übersicht von businessweg\nDozent: business weg\nRaum: 
+	-
+DTSTART;TZID=Europe/Berlin:20200421T100000
+DTEND;TZID=Europe/Berlin:20200421T123000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945644
+SUMMARY:Klausur\;402 Wpff. Wirtschaftsenglisch Niveau C1\;Mündliche Prüfu
+	ng online - Termine siehe businessweg\;business weg
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 402 Wpff. Wirtschaftsenglisch Ni
+	veau C1\nVeranstaltungsuntergruppe: -\nAnmerkung: Mündliche Prüfung onlin
+	e - Termine siehe businessweg\nDozent: business weg\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200421T100000
+DTEND;TZID=Europe/Berlin:20200421T140000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945652
+SUMMARY:Klausur\;204-SBWL\;Online-Klausur gem. Absprache\;Gimpel\, Ritsch
+	\, Werling
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 204-SBWL\nVeranstaltungsuntergru
+	ppe: -\nAnmerkung: Online-Klausur gem. Absprache\nDozent: Gimpel\, Ritsch
+	\, Werling\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200422T100000
+DTEND;TZID=Europe/Berlin:20200422T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200426T201330Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945664
+SUMMARY:Klausur\;115-VWL-Markt/Staat/Glob.\;Online-Klausur\;Prof. Dr. Köl
+	ling
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 115-VWL-Markt/Staat/Glob.\nVeran
+	staltungsuntergruppe: -\nAnmerkung: Online-Klausur\nDozent: Prof. Dr. Köl
+	ling\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200424T100000
+DTEND;TZID=Europe/Berlin:20200424T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

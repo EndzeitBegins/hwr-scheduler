@@ -1,0 +1,1399 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10930
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947742
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T100000
+DTEND;TZID=Europe/Berlin:20201207T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947746
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T100000
+DTEND;TZID=Europe/Berlin:20201207T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947744
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T114500
+DTEND;TZID=Europe/Berlin:20201207T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947748
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T114500
+DTEND;TZID=Europe/Berlin:20201207T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954532
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 2
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 2\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T150000
+DTEND;TZID=Europe/Berlin:20201207T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972435
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T173000
+DTEND;TZID=Europe/Berlin:20201207T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951188
+SUMMARY:S\;Fundamentals of Economics\;Kölling\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Economics\nDozent: Köl
+	ling\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T080000
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949820
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963485
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T150000
+DTEND;TZID=Europe/Berlin:20201208T163000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963487
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T164500
+DTEND;TZID=Europe/Berlin:20201208T173000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972437
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T200000
+DTEND;TZID=Europe/Berlin:20201208T213000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de942643
+SUMMARY:S\;Digitalization in a Company Context\;Kocmann\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Digitalization in a Company Context\nD
+	ozent: Kocmann\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947750
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T124500
+DTEND;TZID=Europe/Berlin:20201209T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947754
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T124500
+DTEND;TZID=Europe/Berlin:20201209T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947752
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T143000
+DTEND;TZID=Europe/Berlin:20201209T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947756
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T143000
+DTEND;TZID=Europe/Berlin:20201209T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964318
+SUMMARY:S\;KQ: Academic Working Practices I\;Wittmann\;CL: 6A.226\;Gruppe
+	 2
+LOCATION:CL: 6A.226
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Academic Working Practices I\nDoze
+	nt: Wittmann\nRaum: CL: 6A.226\nAnmerkung: Gruppe 2\nPause: -\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T170000
+DTEND;TZID=Europe/Berlin:20201209T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964320
+SUMMARY:S\;KQ: Academic Working Practices I\;Wittmann\;CL: 6A.226\;Gruppe
+	 2
+LOCATION:CL: 6A.226
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Academic Working Practices I\nDoze
+	nt: Wittmann\nRaum: CL: 6A.226\nAnmerkung: Gruppe 2\nPause: -\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T184500
+DTEND;TZID=Europe/Berlin:20201209T201500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949716
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201210T113000
+DTEND;TZID=Europe/Berlin:20201210T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963471
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T144500
+DTEND;TZID=Europe/Berlin:20201210T153000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963472
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958391
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T083000
+DTEND;TZID=Europe/Berlin:20201211T100000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958393
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T101500
+DTEND;TZID=Europe/Berlin:20201211T114500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954525
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T114500
+DTEND;TZID=Europe/Berlin:20201211T131500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958395
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T121500
+DTEND;TZID=Europe/Berlin:20201211T134500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954527
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951102
+SUMMARY:S\;Fundamentals of Business Administration\;Afflerbach\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Business Administratio
+	n\nDozent: Afflerbach\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958411
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972646
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T153000
+DTEND;TZID=Europe/Berlin:20201214T170000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958413
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T154500
+DTEND;TZID=Europe/Berlin:20201214T171500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972648
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T171500
+DTEND;TZID=Europe/Berlin:20201214T180000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958415
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T173000
+DTEND;TZID=Europe/Berlin:20201214T181500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972439
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T183000
+DTEND;TZID=Europe/Berlin:20201214T200000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945476
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945480
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945478
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945482
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949821
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971628
+SUMMARY:S\;Fundamentals of Economics\;Kölling\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Economics\nDozent: Köl
+	ling\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T151500
+DTEND;TZID=Europe/Berlin:20201215T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972441
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T200000
+DTEND;TZID=Europe/Berlin:20201215T213000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951189
+SUMMARY:S\;Fundamentals of Economics\;Kölling\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Economics\nDozent: Köl
+	ling\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949717
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963482
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T150000
+DTEND;TZID=Europe/Berlin:20201216T163000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963484
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T164500
+DTEND;TZID=Europe/Berlin:20201216T173000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947758
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T100000
+DTEND;TZID=Europe/Berlin:20201217T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947762
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T100000
+DTEND;TZID=Europe/Berlin:20201217T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947760
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T114500
+DTEND;TZID=Europe/Berlin:20201217T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947764
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T114500
+DTEND;TZID=Europe/Berlin:20201217T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963474
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951255
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Baumgärtn
+	er\;CL: 6B.353\;
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Baumgärtner\nRaum: CL: 6B.353\nAnmerkung: -\nPause
+	: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T171500
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954727
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 3
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 3\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T150000
+DTEND;TZID=Europe/Berlin:20201217T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963476
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T154500
+DTEND;TZID=Europe/Berlin:20201217T171500
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954729
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 3
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 3\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T164500
+DTEND;TZID=Europe/Berlin:20201217T181500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979543
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T183000
+DTEND;TZID=Europe/Berlin:20201217T191500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954716
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971706
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951293
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Rochnowsk
+	i\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T103000
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958396
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T083000
+DTEND;TZID=Europe/Berlin:20201218T100000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954718
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971708
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958398
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T101500
+DTEND;TZID=Europe/Berlin:20201218T114500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de954720
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;GRUPPE 1
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: GRUPPE 1\nPa
+	use: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T121500
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971710
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T130000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958400
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T121500
+DTEND;TZID=Europe/Berlin:20201218T134500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949718
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201218T140000
+DTEND;TZID=Europe/Berlin:20201218T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de942649
+SUMMARY:S\;Digitalization in a Company Context\;Kocmann\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Digitalization in a Company Context\nD
+	ozent: Kocmann\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958416
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T143000
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951297
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Rochnowsk
+	i\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T153000
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958418
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T144500
+DTEND;TZID=Europe/Berlin:20210104T161500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958420
+SUMMARY:SU-SBWL-SP\;Grundlagen Verkehrswirt. u. Logistik (SP)\;Schrörs\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-SP\nVeranstaltung: Grundlagen Verkehrswirt. u. L
+	ogistik (SP)\nDozent: Schrörs\nRaum: -\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T163000
+DTEND;TZID=Europe/Berlin:20210104T171500
+X-SKED-OUTLOOKFARBINDEX:6
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972443
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T173000
+DTEND;TZID=Europe/Berlin:20210104T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951105
+SUMMARY:S\;Fundamentals of Business Administration\;Afflerbach\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Business Administratio
+	n\nDozent: Afflerbach\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949719
+SUMMARY:S\;Mathematics\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963488
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T150000
+DTEND;TZID=Europe/Berlin:20210105T163000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972649
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T150000
+DTEND;TZID=Europe/Berlin:20210105T163000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951303
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Baumgärtn
+	er\;CL: 6B.353\;
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Baumgärtner\nRaum: CL: 6B.353\nAnmerkung: -\nPause
+	: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T154500
+DTEND;TZID=Europe/Berlin:20210105T181500
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963490
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T164500
+DTEND;TZID=Europe/Berlin:20210105T173000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972651
+SUMMARY:SU-SBWL-DL\;Fundamentals of Service Management (DL)\;Bustamante\;
+	CL: 6A.207\;
+LOCATION:CL: 6A.207
+DESCRIPTION:Art: SU-SBWL-DL\nVeranstaltung: Fundamentals of Service Manag
+	ement (DL)\nDozent: Bustamante\nRaum: CL: 6A.207\nAnmerkung: -\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T164500
+DTEND;TZID=Europe/Berlin:20210105T173000
+X-SKED-OUTLOOKFARBINDEX:4
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972445
+SUMMARY:Ü\;Mathe-Tutorium 2\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 2\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T200000
+DTEND;TZID=Europe/Berlin:20210105T213000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951106
+SUMMARY:S\;Fundamentals of Business Administration\;Afflerbach\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Business Administratio
+	n\nDozent: Afflerbach\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949720
+SUMMARY:S\;Mathematics\;Wannemacher\;Reservetermin
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Mathematics\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: Reservetermin\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963491
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T150000
+DTEND;TZID=Europe/Berlin:20210106T163000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963493
+SUMMARY:SU-SBWL-IN\;Materialwirtschaft (IN)\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-IN\nVeranstaltung: Materialwirtschaft (IN)\nDoze
+	nt: Erkens\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T164500
+DTEND;TZID=Europe/Berlin:20210106T173000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de942645
+SUMMARY:S\;Digitalization in a Company Context\;Kocmann\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Digitalization in a Company Context\nD
+	ozent: Kocmann\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T090000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951181
+SUMMARY:S\;Fundamentals of Economics\;Kölling\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Fundamentals of Economics\nDozent: Köl
+	ling\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T131500
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947766
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T100000
+DTEND;TZID=Europe/Berlin:20210108T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947770
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T100000
+DTEND;TZID=Europe/Berlin:20210108T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947768
+SUMMARY:S\;KQ: Spanish I Gruppe 1\;Gómez Hernández\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 1\nDozent: Gómez 
+	Hernández\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T114500
+DTEND;TZID=Europe/Berlin:20210108T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947772
+SUMMARY:S\;KQ: Spanish I Gruppe 2\;de Juan Herranz\;
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: KQ: Spanish I Gruppe 2\nDozent: de Jua
+	n Herranz\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T114500
+DTEND;TZID=Europe/Berlin:20210108T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201130Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949721
+SUMMARY:PV\;Mathematik\;Wannemacher\;CL: 6A.008 (FB4)\;Prüfungsvorbereitu
+	ng
+LOCATION:CL: 6A.008 (FB4)
+DESCRIPTION:Art: PV\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: CL: 6A.008 (FB4)\nAnmerkung: Prüfungsvorbereitung\nPause: inkl. 15 min 
+	Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T150000
+DTEND;TZID=Europe/Berlin:20210108T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

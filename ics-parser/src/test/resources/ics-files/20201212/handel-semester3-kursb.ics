@@ -1,0 +1,124 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20201221T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10864
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974526
+SUMMARY:Klausur\;Marketing III Standort-& Vertriebspolitik\;Klingenberg\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Marketing III Standort-& Vertrie
+	bspolitik\nDozent: Klingenberg\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T100000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974571
+SUMMARY:Klausur\;Efficient Consumer Response\;Schwertfeger\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Efficient Consumer Response\nDoz
+	ent: Schwertfeger\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974679
+SUMMARY:Klausur\;Kosten- und Leistungsrechnung\;Bleis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Kosten- und Leistungsrechnung\nD
+	ozent: Bleis\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201214T110000
+DTEND;TZID=Europe/Berlin:20201214T130000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980238
+SUMMARY:I\;Informationen zum Studium\;Peter-Ollrogge\;online Sprechstunde
+	 für Kurssprecher\, Gruppensprecher\, Buddies
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Informationen zum Studium\nDozent: Pet
+	er-Ollrogge\nRaum: -\nAnmerkung: online Sprechstunde für Kurssprecher\, G
+	ruppensprecher\, Buddies\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974685
+SUMMARY:M\;Wirtschaftsprivatrecht II\;Garnjost\;ONLINE - Aufteilung erfol
+	gt durch Frau Garnjost
+LOCATION:
+DESCRIPTION:Art: M\nVeranstaltung: Wirtschaftsprivatrecht II\nDozent: Gar
+	njost\nRaum: -\nAnmerkung: ONLINE - Aufteilung erfolgt durch Frau Garnjos
+	t\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T180000
+X-SKED-OUTLOOKFARBINDEX:2
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201127Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974696
+SUMMARY:Klausur\;Organisation und Personalmanagement\;Körkemeyer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Organisation und Personalmanagem
+	ent\nDozent: Körkemeyer\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T100000
+DTEND;TZID=Europe/Berlin:20201217T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

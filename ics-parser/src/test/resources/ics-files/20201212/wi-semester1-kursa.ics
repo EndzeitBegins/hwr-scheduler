@@ -1,0 +1,709 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:11100
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967702
+SUMMARY:SU\;WI-101-Grdl.WiWi/BWL\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl.WiWi/BWL\nDozent: Vieth\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T140000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967704
+SUMMARY:SU\;WI-101-Grdl.WiWi/BWL\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl.WiWi/BWL\nDozent: Vieth\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T154500
+DTEND;TZID=Europe/Berlin:20201207T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957461
+SUMMARY:SU\;WI-301 Mathem.-Theor.Grdl. IT\;Ringhand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathem.-Theor.Grdl. IT\nDozent
+	: Ringhand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T080000
+DTEND;TZID=Europe/Berlin:20201208T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949005
+SUMMARY:SU\;WI-101-Grdl. WiWi/VWL\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl. WiWi/VWL\nDozent: Wagner
+	\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956263
+SUMMARY:SU\;WI-301 Mathematik I - Finanzmathematik\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Finanzmathemati
+	k\nDozent: Wittmüß\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965897
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965899
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965954
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965956
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T104500
+DTEND;TZID=Europe/Berlin:20201210T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965776
+SUMMARY:SU\;WI-109 IT/Grundlagen der WI\;Lemke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-109 IT/Grundlagen der WI\nDozent: 
+	Lemke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T130000
+DTEND;TZID=Europe/Berlin:20201210T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956268
+SUMMARY:SU\;WI-301 Mathematik I - Finanzmathematik\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Finanzmathemati
+	k\nDozent: Wittmüß\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T094500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965862
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;CL: 6B.372 (WIL1)
+	\;
+LOCATION:CL: 6B.372 (WIL1)
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: CL: 6B.372 (WIL1)\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T104500
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965864
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;CL: 6B.372 (WIL1)
+	\;
+LOCATION:CL: 6B.372 (WIL1)
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: CL: 6B.372 (WIL1)\nAnmerkung: -\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T124500
+DTEND;TZID=Europe/Berlin:20201211T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978507
+SUMMARY:SU\;WI-109 IT/Grundlagen der WI\;Lemke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-109 IT/Grundlagen der WI\nDozent: 
+	Lemke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T120000
+DTEND;TZID=Europe/Berlin:20201214T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967710
+SUMMARY:SU\;WI-101-Grdl.WiWi/BWL\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl.WiWi/BWL\nDozent: Vieth\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967712
+SUMMARY:SU\;WI-101-Grdl.WiWi/BWL\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl.WiWi/BWL\nDozent: Vieth\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T154500
+DTEND;TZID=Europe/Berlin:20201214T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956270
+SUMMARY:SU\;WI-301 Mathematik I - Finanzmathematik\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Finanzmathemati
+	k\nDozent: Wittmüß\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949006
+SUMMARY:SU\;WI-101-Grdl. WiWi/VWL\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl. WiWi/VWL\nDozent: Wagner
+	\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957460
+SUMMARY:SU\;WI-301 Mathem.-Theor.Grdl. IT\;Ringhand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathem.-Theor.Grdl. IT\nDozent
+	: Ringhand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965901
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965903
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201215T154500
+DTEND;TZID=Europe/Berlin:20201215T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965972
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965974
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T154500
+DTEND;TZID=Europe/Berlin:20201216T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965958
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T090000
+DTEND;TZID=Europe/Berlin:20201217T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965960
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T104500
+DTEND;TZID=Europe/Berlin:20201217T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965865
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965867
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957472
+SUMMARY:SU\;WI-301 Mathem.-Theor.Grdl. IT\;Ringhand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathem.-Theor.Grdl. IT\nDozent
+	: Ringhand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T080000
+DTEND;TZID=Europe/Berlin:20210104T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970881
+SUMMARY:SU\;WI-109 IT/WI-Einf.-RechnSys\;Kocmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-109 IT/WI-Einf.-RechnSys\nDozent: 
+	Kocmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T123000
+DTEND;TZID=Europe/Berlin:20210104T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970883
+SUMMARY:SU\;WI-109 IT/WI-Einf.-RechnSys\;Kocmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-109 IT/WI-Einf.-RechnSys\nDozent: 
+	Kocmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T141500
+DTEND;TZID=Europe/Berlin:20210104T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956278
+SUMMARY:SU\;WI-301 Mathematik I - Finanzmathematik\;Wittmüß\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Finanzmathemati
+	k\nDozent: Wittmüß\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957459
+SUMMARY:SU\;WI-301 Mathem.-Theor.Grdl. IT\;Ringhand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathem.-Theor.Grdl. IT\nDozent
+	: Ringhand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949007
+SUMMARY:SU\;WI-101-Grdl. WiWi/VWL\;Wagner\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl. WiWi/VWL\nDozent: Wagner
+	\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965905
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210105T140000
+DTEND;TZID=Europe/Berlin:20210105T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965907
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210105T154500
+DTEND;TZID=Europe/Berlin:20210105T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957464
+SUMMARY:SU\;WI-301 Mathem.-Theor.Grdl. IT\;Ringhand\;inkl. Klausurvorbere
+	itung
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathem.-Theor.Grdl. IT\nDozent
+	: Ringhand\nRaum: -\nAnmerkung: inkl. Klausurvorbereitung\nPause: -\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949021
+SUMMARY:SU\;WI-101-Grdl. WiWi/VWL\;Wagner\, R.\;Klausurvorbereitung
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-101-Grdl. WiWi/VWL\nDozent: Wagner
+	\, R.\nRaum: -\nAnmerkung: Klausurvorbereitung\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956279
+SUMMARY:SU\;WI-301 Mathematik I - Finanzmathematik\;Wittmüß\;inkl. Klausu
+	rvorbereitung
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Finanzmathemati
+	k\nDozent: Wittmüß\nRaum: -\nAnmerkung: inkl. Klausurvorbereitung\nPause:
+	 -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965962
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T150000
+DTEND;TZID=Europe/Berlin:20210106T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965964
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T164500
+DTEND;TZID=Europe/Berlin:20210106T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971052
+SUMMARY:SU\;WI-109 IT/Grundlagen der WI\;Lemke\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-109 IT/Grundlagen der WI\nDozent: 
+	Lemke\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T104500
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972010
+SUMMARY:SU\;WI-301 Mathematik I - Analysis\;Magalashvili\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Analysis\nDozen
+	t: Magalashvili\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210107T171500
+DTEND;TZID=Europe/Berlin:20210107T184500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972012
+SUMMARY:SU\;WI-301 Mathematik I - Analysis\;Magalashvili\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-301 Mathematik I - Analysis\nDozen
+	t: Magalashvili\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210107T190000
+DTEND;TZID=Europe/Berlin:20210107T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965869
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210108T093000
+DTEND;TZID=Europe/Berlin:20210108T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965871
+SUMMARY:PCÜ\;WI-110 IT/Grundl.d.Programmrg.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: WI-110 IT/Grundl.d.Programmrg.\nDoze
+	nt: Faustmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210108T113000
+DTEND;TZID=Europe/Berlin:20210108T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965983
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T150000
+DTEND;TZID=Europe/Berlin:20210108T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201123Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965985
+SUMMARY:SU\;WI-501 SQual-Meth.Komp.\;Faustmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: WI-501 SQual-Meth.Komp.\nDozent: Faus
+	tmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T164500
+DTEND;TZID=Europe/Berlin:20210108T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

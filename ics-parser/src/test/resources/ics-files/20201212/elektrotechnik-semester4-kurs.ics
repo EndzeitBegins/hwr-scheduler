@@ -1,0 +1,1246 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210104T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10802
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972577
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T090000
+DTEND;TZID=Europe/Berlin:20210105T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972594
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T130000
+DTEND;TZID=Europe/Berlin:20210105T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972612
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972621
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T090000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972629
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T131500
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979681
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T100000
+DTEND;TZID=Europe/Berlin:20210108T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972586
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T090000
+DTEND;TZID=Europe/Berlin:20210111T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972566
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T090000
+DTEND;TZID=Europe/Berlin:20210112T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972604
+SUMMARY:SU\;ET5042 Elektrische Energieerzeugung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Elektrische Energieerzeugung\n
+	Dozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T130000
+DTEND;TZID=Europe/Berlin:20210112T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972613
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T080000
+DTEND;TZID=Europe/Berlin:20210113T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972622
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T090000
+DTEND;TZID=Europe/Berlin:20210114T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979686
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T130000
+DTEND;TZID=Europe/Berlin:20210114T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972587
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T090000
+DTEND;TZID=Europe/Berlin:20210118T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972596
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T130000
+DTEND;TZID=Europe/Berlin:20210118T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972567
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T090000
+DTEND;TZID=Europe/Berlin:20210119T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972630
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T130000
+DTEND;TZID=Europe/Berlin:20210119T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972614
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T080000
+DTEND;TZID=Europe/Berlin:20210120T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972623
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210121T090000
+DTEND;TZID=Europe/Berlin:20210121T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979687
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T100000
+DTEND;TZID=Europe/Berlin:20210122T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972588
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210125T090000
+DTEND;TZID=Europe/Berlin:20210125T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972597
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210125T130000
+DTEND;TZID=Europe/Berlin:20210125T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972568
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;ONLINE
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T090000
+DTEND;TZID=Europe/Berlin:20210126T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972606
+SUMMARY:SU\;ET5042 Elektrische Energieerzeugung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Elektrische Energieerzeugung\n
+	Dozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T130000
+DTEND;TZID=Europe/Berlin:20210126T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972615
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T080000
+DTEND;TZID=Europe/Berlin:20210127T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972574
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T090000
+DTEND;TZID=Europe/Berlin:20210128T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979688
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T130000
+DTEND;TZID=Europe/Berlin:20210128T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972589
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T090000
+DTEND;TZID=Europe/Berlin:20210201T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972598
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T130000
+DTEND;TZID=Europe/Berlin:20210201T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972625
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T090000
+DTEND;TZID=Europe/Berlin:20210202T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972607
+SUMMARY:SU\;ET5042 Elektrische Energieerzeugung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Elektrische Energieerzeugung\n
+	Dozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T130000
+DTEND;TZID=Europe/Berlin:20210202T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972616
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210203T080000
+DTEND;TZID=Europe/Berlin:20210203T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972569
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: -\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210204T084500
+DTEND;TZID=Europe/Berlin:20210204T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972631
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.153 (L)\;Projek
+	t I
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.153 (L)\nAnmerkung: Projekt I\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210204T130000
+DTEND;TZID=Europe/Berlin:20210204T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972590
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T090000
+DTEND;TZID=Europe/Berlin:20210208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972599
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T130000
+DTEND;TZID=Europe/Berlin:20210208T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972570
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;ONLINE
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T090000
+DTEND;TZID=Europe/Berlin:20210209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972608
+SUMMARY:SU\;ET5042 Elektrische Energieerzeugung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Elektrische Energieerzeugung\n
+	Dozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T130000
+DTEND;TZID=Europe/Berlin:20210209T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972617
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210210T080000
+DTEND;TZID=Europe/Berlin:20210210T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972632
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Lab
+	orübung 1\, Gruppe 1\, Teilgruppe A
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Laborübung 1\, Gruppe 1\, T
+	eilgruppe A\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T080000
+DTEND;TZID=Europe/Berlin:20210211T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972633
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Lab
+	orübung 1\, Gruppe 2\, Teilgruppe B
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Laborübung 1\, Gruppe 2\, T
+	eilgruppe B\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T134500
+DTEND;TZID=Europe/Berlin:20210211T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972634
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Lab
+	orübung 1\, Gruppe 2\, Teilgruppe A
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Laborübung 1\, Gruppe 2\, T
+	eilgruppe A\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T080000
+DTEND;TZID=Europe/Berlin:20210212T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972635
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Lab
+	orübung 1\, Gruppe 2\, Teilgruppe B
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Laborübung 1\, Gruppe 2\, T
+	eilgruppe B\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T134500
+DTEND;TZID=Europe/Berlin:20210212T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972591
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T090000
+DTEND;TZID=Europe/Berlin:20210215T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972600
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T130000
+DTEND;TZID=Europe/Berlin:20210215T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972626
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T090000
+DTEND;TZID=Europe/Berlin:20210216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972618
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T080000
+DTEND;TZID=Europe/Berlin:20210217T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972575
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;ONLINE
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T090000
+DTEND;TZID=Europe/Berlin:20210218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979689
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T130000
+DTEND;TZID=Europe/Berlin:20210218T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972571
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;ONLINE
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T090000
+DTEND;TZID=Europe/Berlin:20210219T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972572
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;CL: 6B.153 (L)\;ONLINE
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: CL: 6B.153 (L)\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T131500
+DTEND;TZID=Europe/Berlin:20210219T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972592
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T090000
+DTEND;TZID=Europe/Berlin:20210222T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972601
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T130000
+DTEND;TZID=Europe/Berlin:20210222T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972593
+SUMMARY:SU\;ET3043 Leistungselektronik\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3043 Leistungselektronik\nDozent: P
+	lotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T090000
+DTEND;TZID=Europe/Berlin:20210223T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972602
+SUMMARY:SU\;ET5042 Energieübertragung und -verteilung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Energieübertragung und -vertei
+	lung\nDozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T130000
+DTEND;TZID=Europe/Berlin:20210223T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972573
+SUMMARY:SU\;ET3044 Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3044 Regelungstechnik\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T090000
+DTEND;TZID=Europe/Berlin:20210224T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972611
+SUMMARY:SU\;ET5042 Elektrische Energieerzeugung\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5042 Elektrische Energieerzeugung\n
+	Dozent: Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T130000
+DTEND;TZID=Europe/Berlin:20210224T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972639
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.153 (L)\;LÜ 2\,
+	 Gruppe 2
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.153 (L)\nAnmerkung: LÜ 2\, Gruppe 2\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T090000
+DTEND;TZID=Europe/Berlin:20210225T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972641
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.153 (L)\;LÜ 2\,
+	 Gruppe 1
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.153 (L)\nAnmerkung: LÜ 2\, Gruppe 1\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T130000
+DTEND;TZID=Europe/Berlin:20210225T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972619
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T080000
+DTEND;TZID=Europe/Berlin:20210226T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972642
+SUMMARY:PÜ\;ET3043 Labor Leistungselektronik\;Plotkin\;CL: 6B.156 (AT-L)\;
+	Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3043 Labor Leistungselektronik\nDoz
+	ent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: inkl. 
+	30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T090000
+DTEND;TZID=Europe/Berlin:20210301T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972643
+SUMMARY:PÜ\;ET3043 Labor Leistungselektronik\;Plotkin\;CL: 6B.156 (AT-L)\;
+	Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3043 Labor Leistungselektronik\nDoz
+	ent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: inkl. 
+	30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T140000
+DTEND;TZID=Europe/Berlin:20210301T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972638
+SUMMARY:PÜ\;ET3043 Labor Leistungselektronik\;Plotkin\;CL: 6B.156 (AT-L)\;
+	Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3043 Labor Leistungselektronik\nDoz
+	ent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: inkl. 
+	30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T090000
+DTEND;TZID=Europe/Berlin:20210302T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972640
+SUMMARY:PÜ\;ET3043 Labor Leistungselektronik\;Plotkin\;CL: 6B.156 (AT-L)\;
+	Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3043 Labor Leistungselektronik\nDoz
+	ent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: inkl. 
+	30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T140000
+DTEND;TZID=Europe/Berlin:20210302T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972636
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.153 (L)\;LÜ 3\,
+	 Gruppe 2
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.153 (L)\nAnmerkung: LÜ 3\, Gruppe 2\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T090000
+DTEND;TZID=Europe/Berlin:20210303T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972637
+SUMMARY:PÜ\;ET3044 Labor Regelungstechnik\;Barten\;CL: 6B.153 (L)\;LÜ 3\,
+	 Gruppe 1
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3044 Labor Regelungstechnik\nDozent
+	: Barten\nRaum: CL: 6B.153 (L)\nAnmerkung: LÜ 3\, Gruppe 1\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T130000
+DTEND;TZID=Europe/Berlin:20210303T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972628
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T090000
+DTEND;TZID=Europe/Berlin:20210304T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972620
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T084500
+DTEND;TZID=Europe/Berlin:20210305T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974312
+SUMMARY:Klausur\;ET3043 Leistungselektronik\;Plotkin\;Präsenzklausur unte
+	r Vorbehalt\, Raum derzeit noch nicht bekannt
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: ET3043 Leistungselektronik\nDoze
+	nt: Plotkin\nRaum: -\nAnmerkung: Präsenzklausur unter Vorbehalt\, Raum de
+	rzeit noch nicht bekannt\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T100000
+DTEND;TZID=Europe/Berlin:20210305T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972624
+SUMMARY:SU\;ET5041 Steuerungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET5041 Steuerungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T090000
+DTEND;TZID=Europe/Berlin:20210309T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972644
+SUMMARY:SU\;ET6045 Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET6045 Studienprojektseminar\nDozent:
+	 -\nRaum: -\nAnmerkung: -\nPause: inkl. 225 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T080000
+DTEND;TZID=Europe/Berlin:20210310T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972578
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T090000
+DTEND;TZID=Europe/Berlin:20210315T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972582
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T130000
+DTEND;TZID=Europe/Berlin:20210315T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972579
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T090000
+DTEND;TZID=Europe/Berlin:20210316T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972583
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T130000
+DTEND;TZID=Europe/Berlin:20210316T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972580
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T090000
+DTEND;TZID=Europe/Berlin:20210317T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972584
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T130000
+DTEND;TZID=Europe/Berlin:20210317T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972581
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T090000
+DTEND;TZID=Europe/Berlin:20210318T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931223
+SUMMARY:I\;Tag des Dualen Studiums\;
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Tag des Dualen Studiums\nDozent: -\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T120000
+DTEND;TZID=Europe/Berlin:20210318T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972585
+SUMMARY:PÜ\;ET5041 Labor Steuerungstechnik\;Barten\;CL: 6B.156 (AT-L)\;Gr
+	uppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET5041 Labor Steuerungstechnik\nDozen
+	t: Barten\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T130000
+DTEND;TZID=Europe/Berlin:20210318T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977847
+SUMMARY:Klausur\;ET5041 Grundlagen der Automatisierungstechnik\;Barten\;T
+	ermin vom Prof. bestätigt
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: ET5041 Grundlagen der Automatisi
+	erungstechnik\nDozent: Barten\nRaum: -\nAnmerkung: Termin vom Prof. bestä
+	tigt\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T140000
+DTEND;TZID=Europe/Berlin:20210322T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

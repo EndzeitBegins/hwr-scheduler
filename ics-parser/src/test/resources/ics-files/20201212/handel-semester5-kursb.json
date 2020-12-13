@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de970607",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Ethik",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971075",
+      "start": "2020-10-28T09:00:00Z",
+      "end": "2020-10-28T09:50:00Z",
+      "module": "HD-104ABWL-Management-UF",
+      "lecturers": [
+        "Vieth"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971544",
+      "start": "2020-10-29T11:00:00Z",
+      "end": "2020-10-29T12:15:00Z",
+      "module": "108-SBWL-SPSS",
+      "lecturers": [
+        "Hedergott"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Onlineklausur"
+    },
+    {
+      "uid": "sked.de971091",
+      "start": "2020-10-30T09:00:00Z",
+      "end": "2020-10-30T11:00:00Z",
+      "module": "202-SBWL",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

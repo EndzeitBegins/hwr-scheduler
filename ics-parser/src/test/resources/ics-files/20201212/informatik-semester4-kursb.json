@@ -1,0 +1,993 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de973242",
+      "start": "2021-01-04T12:00:00Z",
+      "end": "2021-01-04T14:30:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971970",
+      "start": "2021-01-06T17:00:00Z",
+      "end": "2021-01-06T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973246",
+      "start": "2021-01-07T07:30:00Z",
+      "end": "2021-01-07T10:45:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973247",
+      "start": "2021-01-07T12:00:00Z",
+      "end": "2021-01-07T15:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973658",
+      "start": "2021-01-08T13:30:00Z",
+      "end": "2021-01-08T16:45:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ZOOM"
+    },
+    {
+      "uid": "sked.de973243",
+      "start": "2021-01-11T12:00:00Z",
+      "end": "2021-01-11T15:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de978978",
+      "start": "2021-01-11T13:00:00Z",
+      "end": "2021-01-11T15:00:00Z",
+      "module": "Wiederholungs- u. Nachklausur",
+      "lecturers": [
+        "Diskrete Mathematik",
+        "1.Sem."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Diskrete Mathematik\\, 1. Sem."
+    },
+    {
+      "uid": "sked.de972197",
+      "start": "2021-01-12T08:45:00Z",
+      "end": "2021-01-12T12:00:00Z",
+      "module": "IT1151-Datenanalyse",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971971",
+      "start": "2021-01-13T17:00:00Z",
+      "end": "2021-01-13T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de980978",
+      "start": "2021-01-14T08:00:00Z",
+      "end": "2021-01-14T10:30:00Z",
+      "module": "Wiederholungs- u. Nachklausur",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "BWL\\, 2. Sem.\\, ONLINE"
+    },
+    {
+      "uid": "sked.de970832",
+      "start": "2021-01-15T08:30:00Z",
+      "end": "2021-01-15T12:45:00Z",
+      "module": "IT3131-Skriptsprachen",
+      "lecturers": [
+        "Wehrmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973659",
+      "start": "2021-01-15T13:30:00Z",
+      "end": "2021-01-15T16:45:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ZOOM"
+    },
+    {
+      "uid": "sked.de973259",
+      "start": "2021-01-16T09:00:00Z",
+      "end": "2021-01-16T12:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973260",
+      "start": "2021-01-16T12:45:00Z",
+      "end": "2021-01-16T16:00:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de980291",
+      "start": "2021-01-18T13:00:00Z",
+      "end": "2021-01-18T15:00:00Z",
+      "module": "Wiederholungs- u. Nachklausur",
+      "lecturers": [
+        "Méndez Omana"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Analysis\\,2. Sem."
+    },
+    {
+      "uid": "sked.de972198",
+      "start": "2021-01-19T08:45:00Z",
+      "end": "2021-01-19T12:00:00Z",
+      "module": "IT1151-Datenanalyse",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973660",
+      "start": "2021-01-19T13:00:00Z",
+      "end": "2021-01-19T16:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ZOOM"
+    },
+    {
+      "uid": "sked.de973244",
+      "start": "2021-01-20T12:00:00Z",
+      "end": "2021-01-20T15:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971972",
+      "start": "2021-01-20T17:00:00Z",
+      "end": "2021-01-20T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973248",
+      "start": "2021-01-21T07:30:00Z",
+      "end": "2021-01-21T10:45:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973249",
+      "start": "2021-01-21T12:00:00Z",
+      "end": "2021-01-21T15:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970833",
+      "start": "2021-01-22T08:30:00Z",
+      "end": "2021-01-22T12:45:00Z",
+      "module": "IT3131-Skriptsprachen",
+      "lecturers": [
+        "Wehrmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973255",
+      "start": "2021-01-22T14:00:00Z",
+      "end": "2021-01-22T17:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972199",
+      "start": "2021-01-26T08:45:00Z",
+      "end": "2021-01-26T12:00:00Z",
+      "module": "IT1151-Datenanalyse",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973245",
+      "start": "2021-01-26T13:00:00Z",
+      "end": "2021-01-26T16:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971973",
+      "start": "2021-01-27T17:00:00Z",
+      "end": "2021-01-27T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970731",
+      "start": "2021-01-28T12:30:00Z",
+      "end": "2021-01-28T15:45:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973261",
+      "start": "2021-01-30T09:00:00Z",
+      "end": "2021-01-30T12:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973262",
+      "start": "2021-01-30T12:45:00Z",
+      "end": "2021-01-30T16:00:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972118",
+      "start": "2021-02-01T07:00:00Z",
+      "end": "2021-02-01T08:30:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Vorlesung online"
+    },
+    {
+      "uid": "sked.de972123",
+      "start": "2021-02-01T08:45:00Z",
+      "end": "2021-02-01T10:15:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Gruppengeteilte Übungen online - Einteilung erfolgt in der Vorlesung"
+    },
+    {
+      "uid": "sked.de972200",
+      "start": "2021-02-02T08:45:00Z",
+      "end": "2021-02-02T12:00:00Z",
+      "module": "IT1151-Datenanalyse",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973250",
+      "start": "2021-02-03T07:30:00Z",
+      "end": "2021-02-03T10:45:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973251",
+      "start": "2021-02-03T12:00:00Z",
+      "end": "2021-02-03T15:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971974",
+      "start": "2021-02-03T17:00:00Z",
+      "end": "2021-02-03T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970735",
+      "start": "2021-02-04T08:45:00Z",
+      "end": "2021-02-04T12:00:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970834",
+      "start": "2021-02-05T08:30:00Z",
+      "end": "2021-02-05T12:45:00Z",
+      "module": "IT3131-Skriptsprachen",
+      "lecturers": [
+        "Wehrmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973256",
+      "start": "2021-02-05T14:00:00Z",
+      "end": "2021-02-05T17:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972119",
+      "start": "2021-02-08T07:00:00Z",
+      "end": "2021-02-08T08:30:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Vorlesung online"
+    },
+    {
+      "uid": "sked.de972124",
+      "start": "2021-02-08T08:45:00Z",
+      "end": "2021-02-08T10:15:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Gruppengeteilte Übungen online - Einteilung erfolgt in der Vorlesung"
+    },
+    {
+      "uid": "sked.de973661",
+      "start": "2021-02-08T11:30:00Z",
+      "end": "2021-02-08T14:45:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ZOOM"
+    },
+    {
+      "uid": "sked.de972196",
+      "start": "2021-02-09T08:45:00Z",
+      "end": "2021-02-09T12:00:00Z",
+      "module": "IT1151-Datenanalyse",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971975",
+      "start": "2021-02-10T17:00:00Z",
+      "end": "2021-02-10T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970732",
+      "start": "2021-02-11T12:30:00Z",
+      "end": "2021-02-11T15:45:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972129",
+      "start": "2021-02-12T08:30:00Z",
+      "end": "2021-02-12T12:45:00Z",
+      "module": "IT1151-Opt.-verfahren",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973263",
+      "start": "2021-02-13T12:45:00Z",
+      "end": "2021-02-13T16:00:00Z",
+      "module": "IT2141-Labor SWE I: Gruppe 1 + 2",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Zwischenpräsentationen Online"
+    },
+    {
+      "uid": "sked.de972120",
+      "start": "2021-02-15T07:00:00Z",
+      "end": "2021-02-15T08:30:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Vorlesung online"
+    },
+    {
+      "uid": "sked.de972125",
+      "start": "2021-02-15T08:45:00Z",
+      "end": "2021-02-15T10:15:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Gruppengeteilte Übungen online - Einteilung erfolgt in der Vorlesung"
+    },
+    {
+      "uid": "sked.de973662",
+      "start": "2021-02-15T11:30:00Z",
+      "end": "2021-02-15T14:45:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ZOOM"
+    },
+    {
+      "uid": "sked.de971976",
+      "start": "2021-02-17T17:00:00Z",
+      "end": "2021-02-17T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970736",
+      "start": "2021-02-18T08:45:00Z",
+      "end": "2021-02-18T12:00:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972130",
+      "start": "2021-02-19T08:30:00Z",
+      "end": "2021-02-19T12:45:00Z",
+      "module": "IT1151-Opt.-verfahren",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973257",
+      "start": "2021-02-19T14:00:00Z",
+      "end": "2021-02-19T17:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973264",
+      "start": "2021-02-20T09:00:00Z",
+      "end": "2021-02-20T12:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973265",
+      "start": "2021-02-20T12:45:00Z",
+      "end": "2021-02-20T16:00:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972121",
+      "start": "2021-02-22T07:00:00Z",
+      "end": "2021-02-22T08:30:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Vorlesung online"
+    },
+    {
+      "uid": "sked.de972126",
+      "start": "2021-02-22T08:45:00Z",
+      "end": "2021-02-22T10:15:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Gruppengeteilte Übungen online - Einteilung erfolgt in der Vorlesung"
+    },
+    {
+      "uid": "sked.de973252",
+      "start": "2021-02-23T07:30:00Z",
+      "end": "2021-02-23T10:45:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973253",
+      "start": "2021-02-23T12:00:00Z",
+      "end": "2021-02-23T15:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972133",
+      "start": "2021-02-24T08:30:00Z",
+      "end": "2021-02-24T11:45:00Z",
+      "module": "IT1151-Opt.-verfahren",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971977",
+      "start": "2021-02-24T17:00:00Z",
+      "end": "2021-02-24T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970733",
+      "start": "2021-02-25T12:30:00Z",
+      "end": "2021-02-25T15:45:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970835",
+      "start": "2021-02-26T08:30:00Z",
+      "end": "2021-02-26T12:45:00Z",
+      "module": "IT3131-Skriptsprachen",
+      "lecturers": [
+        "Wehrmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972122",
+      "start": "2021-03-01T07:00:00Z",
+      "end": "2021-03-01T08:30:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Vorlesung online"
+    },
+    {
+      "uid": "sked.de972127",
+      "start": "2021-03-01T08:45:00Z",
+      "end": "2021-03-01T10:15:00Z",
+      "module": "IT3131-Programmieren in C++",
+      "lecturers": [
+        "Puschmann"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Gruppengeteilte Übungen online - Einteilung erfolgt in der Vorlesung"
+    },
+    {
+      "uid": "sked.de972134",
+      "start": "2021-03-03T08:30:00Z",
+      "end": "2021-03-03T11:45:00Z",
+      "module": "IT1151-Opt.-verfahren",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971978",
+      "start": "2021-03-03T17:00:00Z",
+      "end": "2021-03-03T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970737",
+      "start": "2021-03-04T08:45:00Z",
+      "end": "2021-03-04T12:00:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970836",
+      "start": "2021-03-05T08:30:00Z",
+      "end": "2021-03-05T11:00:00Z",
+      "module": "IT3131-Skriptsprachen",
+      "lecturers": [
+        "Wehrmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973258",
+      "start": "2021-03-05T16:45:00Z",
+      "end": "2021-03-05T19:15:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973266",
+      "start": "2021-03-06T09:00:00Z",
+      "end": "2021-03-06T12:15:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 2",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973267",
+      "start": "2021-03-06T12:45:00Z",
+      "end": "2021-03-06T16:00:00Z",
+      "module": "IT2141-Labor SWE II: Gruppe 1",
+      "lecturers": [
+        "Wiens"
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de971979",
+      "start": "2021-03-10T17:00:00Z",
+      "end": "2021-03-10T19:30:00Z",
+      "module": "IT3131-Webprogrammierung",
+      "lecturers": [
+        "Schmidt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de970734",
+      "start": "2021-03-11T12:30:00Z",
+      "end": "2021-03-11T15:45:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de972137",
+      "start": "2021-03-12T08:30:00Z",
+      "end": "2021-03-12T11:45:00Z",
+      "module": "IT1151-Opt.-verfahren",
+      "lecturers": [
+        "Winter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de973254",
+      "start": "2021-03-15T12:00:00Z",
+      "end": "2021-03-15T15:15:00Z",
+      "module": "IT2141-Labor SWE I: Gruppe 1 + 2",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Endpräsentationen Online"
+    },
+    {
+      "uid": "sked.de973663",
+      "start": "2021-03-16T07:00:00Z",
+      "end": "2021-03-16T16:00:00Z",
+      "module": "IT3161-Studienprojektseminar I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de973664",
+      "start": "2021-03-17T07:00:00Z",
+      "end": "2021-03-17T16:00:00Z",
+      "module": "IT3161-Studienprojektseminar I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970738",
+      "start": "2021-03-18T09:30:00Z",
+      "end": "2021-03-18T11:00:00Z",
+      "module": "IT1151-Statistik",
+      "lecturers": [
+        "Wannemacher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931226",
+      "start": "2021-03-18T12:00:00Z",
+      "end": "2021-03-18T17:00:00Z",
+      "module": "Tag des Dualen Studiums",
+      "lecturers": [],
+      "room": null,
+      "type": "I",
+      "note": null
+    },
+    {
+      "uid": "sked.de973665",
+      "start": "2021-03-19T07:00:00Z",
+      "end": "2021-03-19T16:00:00Z",
+      "module": "IT3161-Studienprojektseminar I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972201",
+      "start": "2021-03-22T08:00:00Z",
+      "end": "2021-03-22T11:00:00Z",
+      "module": "IT1151-Spez.math.Methoden",
+      "lecturers": [
+        "Höhne"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "vorbehaltlich Klausurraumverfügbarkeit"
+    },
+    {
+      "uid": "sked.de972202",
+      "start": "2021-03-24T13:00:00Z",
+      "end": "2021-03-24T15:00:00Z",
+      "module": "IT2141-Software-Engineering II",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de552896",
+      "start": "2013-07-01T11:30:00Z",
+      "end": "2013-07-01T14:30:00Z",
+      "module": "102-ABWL",
+      "lecturers": [
+        "Prof. Dr. Hofstetter",
+        "Prof. Dr. Ringhand",
+        "Prof. Dr. Rosentreter"
+      ],
+      "room": "CL: 6A.008 (VAK)",
+      "type": "102-ABWL",
+      "note": null
+    },
+    {
+      "uid": "sked.de552918",
+      "start": "2013-07-03T11:00:00Z",
+      "end": "2013-07-03T14:00:00Z",
+      "module": "112-Finanzierung und Investition",
+      "lecturers": [
+        "Prof. Dr. Petschke",
+        "Prof. Dr. Soller"
+      ],
+      "room": "CL: 6A.008 (VAK)",
+      "type": "112-Finanzierung und Investition",
+      "note": null
+    },
+    {
+      "uid": "sked.de565884",
+      "start": "2013-07-05T07:00:00Z",
+      "end": "2013-07-05T09:00:00Z",
+      "module": "113-Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Prof. Dr. Buchholz",
+        "Prof. Dr. Rigas"
+      ],
+      "room": null,
+      "type": "113-Volkswirtschaftliche Allokation",
+      "note": "Raum 6B.259"
+    }
+  ]
+}

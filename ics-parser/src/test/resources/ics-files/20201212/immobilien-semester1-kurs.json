@@ -1,0 +1,707 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de960125",
+      "start": "2020-12-07T08:45:00Z",
+      "end": "2020-12-07T10:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960127",
+      "start": "2020-12-07T10:30:00Z",
+      "end": "2020-12-07T12:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de965377",
+      "start": "2020-12-07T13:00:00Z",
+      "end": "2020-12-07T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Peter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de953356",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T10:15:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de953358",
+      "start": "2020-12-08T10:30:00Z",
+      "end": "2020-12-08T12:00:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de953386",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de969990",
+      "start": "2020-12-08T14:45:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Conrad"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960129",
+      "start": "2020-12-09T08:45:00Z",
+      "end": "2020-12-09T10:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960131",
+      "start": "2020-12-09T10:30:00Z",
+      "end": "2020-12-09T12:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de967062",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T14:30:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967064",
+      "start": "2020-12-09T14:45:00Z",
+      "end": "2020-12-09T16:15:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Wildebrand"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de953352",
+      "start": "2020-12-10T08:45:00Z",
+      "end": "2020-12-10T10:15:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de953354",
+      "start": "2020-12-10T10:30:00Z",
+      "end": "2020-12-10T12:00:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de960133",
+      "start": "2020-12-10T13:00:00Z",
+      "end": "2020-12-10T14:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960135",
+      "start": "2020-12-10T14:45:00Z",
+      "end": "2020-12-10T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960301",
+      "start": "2020-12-11T08:45:00Z",
+      "end": "2020-12-11T10:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de960303",
+      "start": "2020-12-11T10:30:00Z",
+      "end": "2020-12-11T12:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de965352",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965354",
+      "start": "2020-12-11T14:45:00Z",
+      "end": "2020-12-11T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de953360",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de953362",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T12:00:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL:6A.206"
+    },
+    {
+      "uid": "sked.de953384",
+      "start": "2020-12-15T13:00:00Z",
+      "end": "2020-12-15T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de953390",
+      "start": "2020-12-16T08:45:00Z",
+      "end": "2020-12-16T10:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de953392",
+      "start": "2020-12-16T10:30:00Z",
+      "end": "2020-12-16T12:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de972952",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T14:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter Vorbereitung Onlineklausur"
+    },
+    {
+      "uid": "sked.de972954",
+      "start": "2020-12-16T14:45:00Z",
+      "end": "2020-12-16T15:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter Vorbereitung Onlineklausur"
+    },
+    {
+      "uid": "sked.de967340",
+      "start": "2020-12-17T08:45:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "von Gizycki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967342",
+      "start": "2020-12-17T10:30:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "von Gizycki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972955",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T14:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter Vorbereitung Onlineklausur"
+    },
+    {
+      "uid": "sked.de972957",
+      "start": "2020-12-17T14:45:00Z",
+      "end": "2020-12-17T15:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter Vorbereitung Onlineklausur"
+    },
+    {
+      "uid": "sked.de967231",
+      "start": "2020-12-18T07:45:00Z",
+      "end": "2020-12-18T08:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Meiners"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de967232",
+      "start": "2020-12-18T08:45:00Z",
+      "end": "2020-12-18T10:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Meiners"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de967234",
+      "start": "2020-12-18T10:30:00Z",
+      "end": "2020-12-18T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Meiners"
+      ],
+      "room": "CL: 6A.206",
+      "type": "SU",
+      "note": "CL: 6A.206"
+    },
+    {
+      "uid": "sked.de974966",
+      "start": "2020-12-18T12:00:00Z",
+      "end": "2020-12-18T12:45:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Grüner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974967",
+      "start": "2020-12-18T13:00:00Z",
+      "end": "2020-12-18T14:30:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Grüner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971261",
+      "start": "2021-01-04T07:45:00Z",
+      "end": "2021-01-04T08:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter: Klausurvorbereitung - Online Klausur\\, keine LV"
+    },
+    {
+      "uid": "sked.de971262",
+      "start": "2021-01-04T08:45:00Z",
+      "end": "2021-01-04T10:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Vorbereitung PTBI"
+    },
+    {
+      "uid": "sked.de971264",
+      "start": "2021-01-04T10:30:00Z",
+      "end": "2021-01-04T11:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Technischer Test: Online Klausur\\, Moodle"
+    },
+    {
+      "uid": "sked.de971265",
+      "start": "2021-01-04T11:15:00Z",
+      "end": "2021-01-04T12:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Raethel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Platzhalter: Klausurvorbereitung - Online Klausur\\, keine LV"
+    },
+    {
+      "uid": "sked.de974969",
+      "start": "2021-01-04T13:00:00Z",
+      "end": "2021-01-04T14:30:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Grüner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974971",
+      "start": "2021-01-04T14:45:00Z",
+      "end": "2021-01-04T15:30:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Grüner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974435",
+      "start": "2021-01-05T07:45:00Z",
+      "end": "2021-01-05T08:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Herkenhoff",
+        "A.-S."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de977080",
+      "start": "2021-01-05T08:30:00Z",
+      "end": "2021-01-05T17:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Mündliche Prüfung"
+    },
+    {
+      "uid": "sked.de967356",
+      "start": "2021-01-06T08:00:00Z",
+      "end": "2021-01-06T09:30:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "von Gizycki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de967358",
+      "start": "2021-01-06T09:45:00Z",
+      "end": "2021-01-06T11:15:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "von Gizycki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974972",
+      "start": "2021-01-06T13:00:00Z",
+      "end": "2021-01-06T14:30:00Z",
+      "module": "Bewirtschaftg. v. Mietobj. u. Wohnungseigentum",
+      "lecturers": [
+        "Grüner"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971019",
+      "start": "2021-01-07T08:00:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 1",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971027",
+      "start": "2021-01-07T08:00:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 2",
+      "lecturers": [
+        "Hall"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971022",
+      "start": "2021-01-07T10:30:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 1",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971030",
+      "start": "2021-01-07T10:30:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 2",
+      "lecturers": [
+        "Hall"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965379",
+      "start": "2021-01-07T13:45:00Z",
+      "end": "2021-01-07T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965380",
+      "start": "2021-01-07T14:45:00Z",
+      "end": "2021-01-07T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971023",
+      "start": "2021-01-08T08:00:00Z",
+      "end": "2021-01-08T10:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 1",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971031",
+      "start": "2021-01-08T08:00:00Z",
+      "end": "2021-01-08T10:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 2",
+      "lecturers": [
+        "Hall"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971026",
+      "start": "2021-01-08T10:30:00Z",
+      "end": "2021-01-08T11:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 1",
+      "lecturers": [
+        "Wittmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971034",
+      "start": "2021-01-08T10:30:00Z",
+      "end": "2021-01-08T11:15:00Z",
+      "module": "SK: Wirtschaftsenglisch Gruppe 2",
+      "lecturers": [
+        "Hall"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965356",
+      "start": "2021-01-08T13:45:00Z",
+      "end": "2021-01-08T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965357",
+      "start": "2021-01-08T14:45:00Z",
+      "end": "2021-01-08T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Vogt",
+        "Florian"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

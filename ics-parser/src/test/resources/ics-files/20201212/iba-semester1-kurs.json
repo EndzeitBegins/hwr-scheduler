@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de842288",
+      "start": "2018-01-23T09:00:00Z",
+      "end": "2018-01-23T11:00:00Z",
+      "module": "105-SBWL",
+      "lecturers": [
+        "Prof. Dr. Roxin"
+      ],
+      "room": "CL: 6A.013",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de843421",
+      "start": "2018-01-23T11:30:00Z",
+      "end": "2018-01-23T12:30:00Z",
+      "module": "fakultative Konsultation zur Klausurvorbereitung V",
+      "lecturers": [],
+      "room": "CL: 6A.227",
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de842295",
+      "start": "2018-01-24T09:00:00Z",
+      "end": "2018-01-24T11:00:00Z",
+      "module": "113-vwl Allokation",
+      "lecturers": [
+        "Prof. Dr. Baumgärtner",
+        "Prof. Dr. Mertens",
+        "Prof. Dr. Soller"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

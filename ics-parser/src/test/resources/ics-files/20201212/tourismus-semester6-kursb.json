@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945648",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T09:00:00Z",
+      "module": "402 Wpff. Statist. Verf. in d. Marktforschg.",
+      "lecturers": [
+        "gem. Absprache Prof. Dr. Brinner"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Brinner"
+    },
+    {
+      "uid": "sked.de945645",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T10:00:00Z",
+      "module": "402 Wpff. Operations Research",
+      "lecturers": [
+        "Präsenzklausur wird verschoben!"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Krüger"
+    },
+    {
+      "uid": "sked.de945663",
+      "start": "2020-04-22T08:00:00Z",
+      "end": "2020-04-22T10:00:00Z",
+      "module": "TM-205Vert.-Hotel II",
+      "lecturers": [
+        "gem. Absprache"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Baumgärtner"
+    }
+  ]
+}

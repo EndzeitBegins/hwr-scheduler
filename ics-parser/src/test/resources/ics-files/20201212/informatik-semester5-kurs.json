@@ -1,0 +1,116 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de948346",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T17:00:00Z",
+      "module": "IT3201-Studienprojektseminar II",
+      "lecturers": [
+        "also for Incomings Informatik"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948335",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T11:15:00Z",
+      "module": "IT3181-Wpff. I: Graphical Data Processing",
+      "lecturers": [
+        "also for IncomingsInformatik",
+        "Hackbarth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de955599",
+      "start": "2020-12-08T12:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "IT3181-Wpff. I: Multimedia Systems",
+      "lecturers": [
+        "also for Incomings Informatik",
+        "Hackbarth"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de948348",
+      "start": "2020-12-09T08:00:00Z",
+      "end": "2020-12-09T17:00:00Z",
+      "module": "IT3201-Studienprojektseminar II",
+      "lecturers": [
+        "also for Incomings Informatik"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948349",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T17:00:00Z",
+      "module": "IT3201-Studienprojektseminar II",
+      "lecturers": [
+        "also for Incomings Informatik"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948350",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T17:00:00Z",
+      "module": "IT3201-Studienprojektseminar II",
+      "lecturers": [
+        "also for Incomings Informatik"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948345",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T11:00:00Z",
+      "module": "IT3191-Wpff. I: Artificial Intelligence",
+      "lecturers": [
+        "also for Incomings Informatik",
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de948344",
+      "start": "2020-12-16T12:00:00Z",
+      "end": "2020-12-16T14:00:00Z",
+      "module": "IT3181-Wpff. I: Graphical Data Processing",
+      "lecturers": [
+        "also for Incomings Informatik",
+        "Hackbarth"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de950560",
+      "start": "2020-12-18T08:00:00Z",
+      "end": "2020-12-18T11:15:00Z",
+      "module": "IT4171-Labor Agile Methoden",
+      "lecturers": [
+        "Monett Diaz, D."
+      ],
+      "room": null,
+      "type": "La",
+      "note": "Online - Endpräsentationen"
+    }
+  ]
+}

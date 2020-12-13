@@ -1,0 +1,554 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de968732",
+      "start": "2020-12-11T14:00:00Z",
+      "end": "2020-12-11T17:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968739",
+      "start": "2020-12-12T08:00:00Z",
+      "end": "2020-12-12T11:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968740",
+      "start": "2020-12-12T12:00:00Z",
+      "end": "2020-12-12T15:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968760",
+      "start": "2020-12-18T14:00:00Z",
+      "end": "2020-12-18T17:15:00Z",
+      "module": "PPM 3.2.09 Rechtl. Aspekte des Ideenmanagements",
+      "lecturers": [
+        "Forchert"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968759",
+      "start": "2020-12-19T08:00:00Z",
+      "end": "2020-12-19T11:15:00Z",
+      "module": "PPM 3.4.12 Begleitseminar SA/FS III",
+      "lecturers": [
+        "Brenninger",
+        "Wotschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968733",
+      "start": "2021-01-08T14:00:00Z",
+      "end": "2021-01-08T17:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968741",
+      "start": "2021-01-09T08:00:00Z",
+      "end": "2021-01-09T11:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968742",
+      "start": "2021-01-09T12:00:00Z",
+      "end": "2021-01-09T15:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968734",
+      "start": "2021-01-15T14:00:00Z",
+      "end": "2021-01-15T17:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968765",
+      "start": "2021-01-16T08:00:00Z",
+      "end": "2021-01-16T11:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968743",
+      "start": "2021-01-16T12:00:00Z",
+      "end": "2021-01-16T15:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968744",
+      "start": "2021-01-18T08:00:00Z",
+      "end": "2021-01-18T11:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968745",
+      "start": "2021-01-18T12:00:00Z",
+      "end": "2021-01-18T15:15:00Z",
+      "module": "PPM 3.5.10 Vertragsrecht und Vertragsdurchsetzung",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968761",
+      "start": "2021-01-19T08:00:00Z",
+      "end": "2021-01-19T11:15:00Z",
+      "module": "PPM 3.5.10 Arbeitsrecht",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968762",
+      "start": "2021-01-19T12:00:00Z",
+      "end": "2021-01-19T15:15:00Z",
+      "module": "PPM 3.5.10 Arbeitsrecht",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968763",
+      "start": "2021-01-20T08:00:00Z",
+      "end": "2021-01-20T11:15:00Z",
+      "module": "PPM 3.5.10 Arbeitsrecht",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968764",
+      "start": "2021-01-20T12:00:00Z",
+      "end": "2021-01-20T15:15:00Z",
+      "module": "PPM 3.5.10 Arbeitsrecht",
+      "lecturers": [
+        "Braun, A.",
+        "Koch-Rust"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968518",
+      "start": "2021-01-21T08:00:00Z",
+      "end": "2021-01-21T11:15:00Z",
+      "module": "PPM 3.2.09 Methodik des Innovationsprozesses",
+      "lecturers": [
+        "Forchert"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968519",
+      "start": "2021-01-21T12:00:00Z",
+      "end": "2021-01-21T15:15:00Z",
+      "module": "PPM 3.2.09 Methodik des Innovationsprozesses",
+      "lecturers": [
+        "Forchert"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968521",
+      "start": "2021-01-22T08:00:00Z",
+      "end": "2021-01-22T11:15:00Z",
+      "module": "PPM 3.2.09 Methodik des Innovationsprozesses",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968520",
+      "start": "2021-01-22T12:00:00Z",
+      "end": "2021-01-22T15:15:00Z",
+      "module": "PPM 3.2.09 Methodik des Innovationsprozesses",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968750",
+      "start": "2021-01-23T08:00:00Z",
+      "end": "2021-01-23T11:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968751",
+      "start": "2021-01-23T12:00:00Z",
+      "end": "2021-01-23T15:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968727",
+      "start": "2021-01-29T14:00:00Z",
+      "end": "2021-01-29T17:15:00Z",
+      "module": "PPM 3.5.10 Vergaberecht",
+      "lecturers": [
+        "Janitzek"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968758",
+      "start": "2021-01-30T08:00:00Z",
+      "end": "2021-01-30T11:15:00Z",
+      "module": "PPM 3.4.12 Begleitseminar SA/FS III",
+      "lecturers": [
+        "Brenninger",
+        "Wotschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968725",
+      "start": "2021-01-30T12:00:00Z",
+      "end": "2021-01-30T15:15:00Z",
+      "module": "PPM 3.4.12 Wissenschaftliches Arbeiten",
+      "lecturers": [
+        "Brenninger"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968782",
+      "start": "2021-02-05T14:00:00Z",
+      "end": "2021-02-05T18:00:00Z",
+      "module": "PPM 3.5.10  Rechtliche Aspekte des Prozess- und Pr",
+      "lecturers": [
+        "Janitzek"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de968772",
+      "start": "2021-02-06T08:00:00Z",
+      "end": "2021-02-06T11:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968773",
+      "start": "2021-02-06T12:00:00Z",
+      "end": "2021-02-06T15:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968780",
+      "start": "2021-02-12T14:00:00Z",
+      "end": "2021-02-12T17:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968774",
+      "start": "2021-02-13T08:00:00Z",
+      "end": "2021-02-13T11:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968775",
+      "start": "2021-02-13T12:00:00Z",
+      "end": "2021-02-13T15:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968781",
+      "start": "2021-02-19T14:00:00Z",
+      "end": "2021-02-19T17:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968777",
+      "start": "2021-02-20T08:00:00Z",
+      "end": "2021-02-20T11:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968776",
+      "start": "2021-02-20T12:00:00Z",
+      "end": "2021-02-20T15:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968752",
+      "start": "2021-02-26T08:00:00Z",
+      "end": "2021-02-26T11:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968753",
+      "start": "2021-02-26T12:00:00Z",
+      "end": "2021-02-26T15:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Exkursion\\, weitere Informationen folgen"
+    },
+    {
+      "uid": "sked.de968778",
+      "start": "2021-02-27T08:00:00Z",
+      "end": "2021-02-27T11:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968779",
+      "start": "2021-02-27T12:00:00Z",
+      "end": "2021-02-27T15:15:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "Lange",
+        "Steffen"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968784",
+      "start": "2021-03-05T12:00:00Z",
+      "end": "2021-03-05T13:30:00Z",
+      "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
+      "lecturers": [
+        "freiwillig",
+        "Beginn der Prüfung noch nicht bestätigt",
+        "weitere Informationenfolgen"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "freiwillig\\, Beginn der Prüfung noch nicht bestätigt\\, weitere Informationen folgen"
+    },
+    {
+      "uid": "sked.de968754",
+      "start": "2021-03-06T08:00:00Z",
+      "end": "2021-03-06T11:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Forchert",
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968755",
+      "start": "2021-03-06T12:00:00Z",
+      "end": "2021-03-06T15:15:00Z",
+      "module": "PPM 3.2.09 Produktentwicklungs- und Produktplanung",
+      "lecturers": [
+        "Forchert",
+        "Kaschka"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968785",
+      "start": "2021-03-26T09:00:00Z",
+      "end": "2021-03-26T10:30:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Wotschke"
+      ],
+      "room": null,
+      "type": "R",
+      "note": "Feedbackgespräche"
+    },
+    {
+      "uid": "sked.de968786",
+      "start": "2021-03-26T12:00:00Z",
+      "end": "2021-03-26T15:30:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Öffentliche Infoveranstaltung"
+      ],
+      "room": null,
+      "type": "R",
+      "note": "Öffentliche Infoveranstaltung"
+    }
+  ]
+}

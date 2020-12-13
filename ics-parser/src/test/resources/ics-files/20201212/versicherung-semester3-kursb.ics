@@ -1,0 +1,172 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10881
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974528
+SUMMARY:Klausur\;Versicherungszweige II - Cyberversicherung\;Golz_T\;ONLI
+	NE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Versicherungszweige II - Cyberve
+	rsicherung\nDozent: Golz_T\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T100000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974529
+SUMMARY:Klausur\;Versicherungszweige II - BU/ Maschinen\;Mauga\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Versicherungszweige II - BU/ Mas
+	chinen\nDozent: Mauga\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T101500
+DTEND;TZID=Europe/Berlin:20201208T104000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974530
+SUMMARY:Klausur\;Versicherungszweige II - BU/ Feuer\;Kölling\, H.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Versicherungszweige II - BU/ Feu
+	er\nDozent: Kölling\, H.\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T105500
+DTEND;TZID=Europe/Berlin:20201208T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974048
+SUMMARY:Klausur\;Statistik\;Kasten\, Nastansky\;CL: 1.Audimax hinten\;
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: Statistik\nDozent: Kasten\, Nast
+	ansky\nRaum: CL: 1.Audimax hinten\nAnmerkung: -\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T100000
+DTEND;TZID=Europe/Berlin:20201210T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974673
+SUMMARY:Klausur\;RW-HS Steuern\;Ostwald\;ONLINE - Achtung 1 Studierende a
+	us dem Kurs VS Nachteilsausgleich bis 10.15 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: RW-HS Steuern\nDozent: Ostwald\n
+	Raum: -\nAnmerkung: ONLINE - Achtung 1 Studierende aus dem Kurs VS Nachte
+	ilsausgleich bis 10.15 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T095000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974674
+SUMMARY:Klausur\;RW-HS Handels- und Steuerbilanzen\;Jacob\, S.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: RW-HS Handels- und Steuerbilanze
+	n\nDozent: Jacob\, S.\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T101000
+DTEND;TZID=Europe/Berlin:20201214T112000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974689
+SUMMARY:Klausur\;Konjunktur und Wachstum\;Wagner\, R.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Konjunktur und Wachstum\nDozent:
+	 Wagner\, R.\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T150000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974691
+SUMMARY:Klausur\;Versicherungszweige I\;Hilverkus\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Versicherungszweige I\nDozent: H
+	ilverkus\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201217T090000
+DTEND;TZID=Europe/Berlin:20201217T100000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979070
+SUMMARY:SU\;Test Aktive Teilnahme Datenanalyse\;Wolz\;Online-Test / Aktiv
+	e Teilnahme
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Test Aktive Teilnahme Datenanalyse\nD
+	ozent: Wolz\nRaum: -\nAnmerkung: Online-Test / Aktive Teilnahme\nPause: -
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T120000
+DTEND;TZID=Europe/Berlin:20201218T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,172 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20201221T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10806
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948346
+SUMMARY:SU\;IT3201-Studienprojektseminar II\;also for Incomings Informati
+	k\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3201-Studienprojektseminar II\nDoze
+	nt: also for Incomings Informatik\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948335
+SUMMARY:SU\;IT3181-Wpff. I: Graphical Data Processing\;also for Incomings
+	 Informatik\, Hackbarth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3181-Wpff. I: Graphical Data Proces
+	sing\nDozent: also for Incomings Informatik\, Hackbarth\nRaum: -\nAnmerku
+	ng: Online\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955599
+SUMMARY:SU\;IT3181-Wpff. I: Multimedia Systems\;also for Incomings Inform
+	atik\, Hackbarth\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3181-Wpff. I: Multimedia Systems\nD
+	ozent: also for Incomings Informatik\, Hackbarth\nRaum: -\nAnmerkung: Onl
+	ine\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T130000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948348
+SUMMARY:SU\;IT3201-Studienprojektseminar II\;also for Incomings Informati
+	k\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3201-Studienprojektseminar II\nDoze
+	nt: also for Incomings Informatik\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948349
+SUMMARY:SU\;IT3201-Studienprojektseminar II\;also for Incomings Informati
+	k\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3201-Studienprojektseminar II\nDoze
+	nt: also for Incomings Informatik\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948350
+SUMMARY:SU\;IT3201-Studienprojektseminar II\;also for Incomings Informati
+	k\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3201-Studienprojektseminar II\nDoze
+	nt: also for Incomings Informatik\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948345
+SUMMARY:Klausur\;IT3191-Wpff. I: Artificial Intelligence\;also for Incomi
+	ngs Informatik\, Monett Diaz\, D.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT3191-Wpff. I: Artificial Intel
+	ligence\nDozent: also for Incomings Informatik\, Monett Diaz\, D.\nRaum: 
+	-\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948344
+SUMMARY:Klausur\;IT3181-Wpff. I: Graphical Data Processing\;also for Inco
+	mings Informatik\, Hackbarth\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT3181-Wpff. I: Graphical Data P
+	rocessing\nDozent: also for Incomings Informatik\, Hackbarth\nRaum: -\nAn
+	merkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T150000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950560
+SUMMARY:La\;IT4171-Labor Agile Methoden\;Monett Diaz\, D.\;Online - Endpr
+	äsentationen
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT4171-Labor Agile Methoden\nDozent: 
+	Monett Diaz\, D.\nRaum: -\nAnmerkung: Online - Endpräsentationen\nPause: 
+	inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T090000
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

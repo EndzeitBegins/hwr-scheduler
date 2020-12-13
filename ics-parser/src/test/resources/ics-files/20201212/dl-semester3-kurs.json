@@ -1,0 +1,65 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de977246",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T09:30:00Z",
+      "module": "Konjunktur und Wachstum",
+      "lecturers": [
+        "Mertens"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Konsultation"
+    },
+    {
+      "uid": "sked.de974535",
+      "start": "2020-12-09T09:00:00Z",
+      "end": "2020-12-09T10:50:00Z",
+      "module": "Konjunktur und Wachstum",
+      "lecturers": [
+        "Mertens"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974049",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T11:00:00Z",
+      "module": "Statistik",
+      "lecturers": [
+        "Rosentreter",
+        "Wannemacher"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "CL: 1.Audimax vorn"
+    },
+    {
+      "uid": "sked.de974690",
+      "start": "2020-12-17T08:00:00Z",
+      "end": "2020-12-17T10:00:00Z",
+      "module": "Handels- und Steuerbilanzen / Steuern",
+      "lecturers": [
+        "Heintel-Schachtschneider"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974699",
+      "start": "2020-12-18T08:00:00Z",
+      "end": "2020-12-18T10:00:00Z",
+      "module": "Service Marketing",
+      "lecturers": [
+        "Brenninger"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

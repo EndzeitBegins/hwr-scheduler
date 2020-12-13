@@ -1,0 +1,28 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de926680",
+      "start": "2020-03-27T12:00:00Z",
+      "end": "2020-03-27T13:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Feedbackgespräche"
+      ],
+      "room": "CL: 6B.454",
+      "type": "R",
+      "note": "Prof. Dr. Wotschke"
+    },
+    {
+      "uid": "sked.de926681",
+      "start": "2020-03-27T14:00:00Z",
+      "end": "2020-03-27T16:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Öffentliche Infoveranstaltung"
+      ],
+      "room": "CL: 6B.454",
+      "type": "R",
+      "note": "Prof. Dr. Wotschke"
+    }
+  ]
+}

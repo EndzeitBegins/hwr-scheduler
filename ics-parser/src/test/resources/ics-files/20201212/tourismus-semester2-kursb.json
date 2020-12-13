@@ -1,0 +1,29 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de912576",
+      "start": "2019-07-02T11:00:00Z",
+      "end": "2019-07-02T12:30:00Z",
+      "module": "102-ABWL",
+      "lecturers": [
+        "Prof. Dr. Baumgärtner",
+        "Prof. Dr. Erkens"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de912604",
+      "start": "2019-07-04T08:00:00Z",
+      "end": "2019-07-04T10:00:00Z",
+      "module": "112-Finanzierg. u. Investition",
+      "lecturers": [
+        "Prof. Dr. Soller"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

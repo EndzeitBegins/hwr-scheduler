@@ -1,0 +1,772 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10934
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967698
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vieth\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967700
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vieth\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201207T113000
+DTEND;TZID=Europe/Berlin:20201207T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971818
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T133000
+DTEND;TZID=Europe/Berlin:20201207T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971820
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T151500
+DTEND;TZID=Europe/Berlin:20201207T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969003
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969005
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T104500
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971822
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T123000
+DTEND;TZID=Europe/Berlin:20201208T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971824
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T141500
+DTEND;TZID=Europe/Berlin:20201208T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971183
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T080000
+DTEND;TZID=Europe/Berlin:20201209T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971185
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971172
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T120000
+DTEND;TZID=Europe/Berlin:20201209T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971174
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T134500
+DTEND;TZID=Europe/Berlin:20201209T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956412
+SUMMARY:SU\;FB: Marketing\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Brenninger\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T080000
+DTEND;TZID=Europe/Berlin:20201210T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956414
+SUMMARY:SU\;FB: Marketing\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Brenninger\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965676
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T131500
+DTEND;TZID=Europe/Berlin:20201210T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965678
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T150000
+DTEND;TZID=Europe/Berlin:20201210T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971134
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T080000
+DTEND;TZID=Europe/Berlin:20201211T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971136
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T094500
+DTEND;TZID=Europe/Berlin:20201211T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971138
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T113000
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967706
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vieth\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201214T094500
+DTEND;TZID=Europe/Berlin:20201214T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967708
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vieth\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vieth\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201214T113000
+DTEND;TZID=Europe/Berlin:20201214T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971187
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971189
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971176
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T120000
+DTEND;TZID=Europe/Berlin:20201215T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971178
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T134500
+DTEND;TZID=Europe/Berlin:20201215T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971191
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971193
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971180
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T120000
+DTEND;TZID=Europe/Berlin:20201216T133000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971182
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T134500
+DTEND;TZID=Europe/Berlin:20201216T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956416
+SUMMARY:SU\;FB: Marketing\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Brenninger\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956418
+SUMMARY:SU\;FB: Marketing\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Brenninger\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956420
+SUMMARY:SU\;FB: Marketing\;Brenninger\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Brenninger\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965682
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965683
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T150000
+DTEND;TZID=Europe/Berlin:20201217T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971148
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971150
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971775
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Gatzer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Gatzer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971826
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T123000
+DTEND;TZID=Europe/Berlin:20201218T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971828
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T141500
+DTEND;TZID=Europe/Berlin:20201218T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969019
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T090000
+DTEND;TZID=Europe/Berlin:20210105T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969021
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T104500
+DTEND;TZID=Europe/Berlin:20210105T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969022
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969024
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T104500
+DTEND;TZID=Europe/Berlin:20210106T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971836
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T121500
+DTEND;TZID=Europe/Berlin:20210106T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971838
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T140000
+DTEND;TZID=Europe/Berlin:20210106T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971840
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T154500
+DTEND;TZID=Europe/Berlin:20210106T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965732
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T090000
+DTEND;TZID=Europe/Berlin:20210107T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965734
+SUMMARY:SU\;Verfahrensrecht\;Tippelhofer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Verfahrensrecht\nDozent: Tippelhofer\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T104500
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970220
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T140000
+DTEND;TZID=Europe/Berlin:20210107T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970222
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Koch-Rust\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Koc
+	h-Rust\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T154500
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971830
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T080000
+DTEND;TZID=Europe/Berlin:20210108T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971832
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T094500
+DTEND;TZID=Europe/Berlin:20210108T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201131Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971834
+SUMMARY:SU\;Finanzbuchführung\;Krafzek\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Krafzek\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T113000
+DTEND;TZID=Europe/Berlin:20210108T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

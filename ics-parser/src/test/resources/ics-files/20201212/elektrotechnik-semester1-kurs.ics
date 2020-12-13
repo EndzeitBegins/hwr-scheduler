@@ -1,0 +1,360 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10804
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945030
+SUMMARY:SU\;ET7016 Betriebswirtschaftslehre I\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7016 Betriebswirtschaftslehre I\nDo
+	zent: Gatzer\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T080000
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971227
+SUMMARY:PÜ\;Tutorium Grundlagen der Elektrotechnik I\;Lange\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Tutorium Grundlagen der Elektrotechni
+	k I\nDozent: Lange\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T150000
+DTEND;TZID=Europe/Berlin:20201207T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970312
+SUMMARY:PCÜ\;ET4014 Labor Softwareentwicklung\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: ET4014 Labor Softwareentwicklung\nDo
+	zent: Barten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970320
+SUMMARY:SU\;ET2012 Werkstoffe der Elektrotechnik\;Keller\;Nachholtermin!
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET2012 Werkstoffe der Elektrotechnik\n
+	Dozent: Keller\nRaum: -\nAnmerkung: Nachholtermin!\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T124500
+DTEND;TZID=Europe/Berlin:20201208T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970311
+SUMMARY:PCÜ\;ET4014 Labor Softwareentwicklung\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PCÜ\nVeranstaltung: ET4014 Labor Softwareentwicklung\nDo
+	zent: Barten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970271
+SUMMARY:SU\;ET2012 Elektrotechnik I\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET2012 Elektrotechnik I\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T140000
+DTEND;TZID=Europe/Berlin:20201209T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970322
+SUMMARY:SU\;ET2012 Werkstoffe der Elektrotechnik\;Keller\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET2012 Werkstoffe der Elektrotechnik\n
+	Dozent: Keller\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T100000
+DTEND;TZID=Europe/Berlin:20201211T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945031
+SUMMARY:SU\;ET7016 Betriebswirtschaftslehre I\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7016 Betriebswirtschaftslehre I\nDo
+	zent: Gatzer\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T080000
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970270
+SUMMARY:SU\;ET2012 Elektrotechnik I\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET2012 Elektrotechnik I\nDozent: Bart
+	en\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T140000
+DTEND;TZID=Europe/Berlin:20201214T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970300
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.153 (L)\;Gruppe 1
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.153 (L)\nAnmerkung: Gruppe 1\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T090000
+DTEND;TZID=Europe/Berlin:20201215T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970301
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.153 (L)\;Gruppe 2
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.153 (L)\nAnmerkung: Gruppe 2\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T130000
+DTEND;TZID=Europe/Berlin:20201215T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970303
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.153 (L)\;Gruppe 3
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.153 (L)\nAnmerkung: Gruppe 3\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970302
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.158 (E-L)\;Gruppe 1
+LOCATION:CL: 6B.158 (E-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.158 (E-L)\nAnmerkung: Gruppe 1\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970304
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.158 (E-L)\;Gruppe 2
+LOCATION:CL: 6B.158 (E-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.158 (E-L)\nAnmerkung: Gruppe 2\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970305
+SUMMARY:PÜ\;ET2013 Labor Messtechnik\;Barten\;CL: 6B.158 (E-L)\;Gruppe 3
+LOCATION:CL: 6B.158 (E-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET2013 Labor Messtechnik\nDozent: Bar
+	ten\nRaum: CL: 6B.158 (E-L)\nAnmerkung: Gruppe 3\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970323
+SUMMARY:SU\;ET2012 Werkstoffe der Elektrotechnik\;Keller\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET2012 Werkstoffe der Elektrotechnik\n
+	Dozent: Keller\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T100000
+DTEND;TZID=Europe/Berlin:20201218T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978198
+SUMMARY:PÜ\;Tutorium Grundlagen der Elektrotechnik I\;Lange\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Tutorium Grundlagen der Elektrotechni
+	k I\nDozent: Lange\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T130000
+DTEND;TZID=Europe/Berlin:20201218T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975216
+SUMMARY:SU\;ET1011 Mathematik I\;Magalashvili\;Klausurvorbereitung ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET1011 Mathematik I\nDozent: Magalash
+	vili\nRaum: -\nAnmerkung: Klausurvorbereitung ONLINE\nPause: inkl. 15 min
+	 Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T171500
+DTEND;TZID=Europe/Berlin:20210105T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976256
+SUMMARY:PÜ\;Tutorium Grundlagen der Elektrotechnik I\;Lange\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Tutorium Grundlagen der Elektrotechni
+	k I\nDozent: Lange\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T153000
+DTEND;TZID=Europe/Berlin:20210107T193000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de975211
+SUMMARY:Klausur\;ET1011 Mathematik I\;Magalashvili\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: ET1011 Mathematik I\nDozent: Mag
+	alashvili\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20210111T090000
+DTEND;TZID=Europe/Berlin:20210111T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977846
+SUMMARY:Klausur\;ET7016 Betriebliches Management I\;Gatzer\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: ET7016 Betriebliches Management 
+	I\nDozent: Gatzer\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T090000
+DTEND;TZID=Europe/Berlin:20210113T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978595
+SUMMARY:Klausur\;ET2012 Elektrotechnische Grundlagen I\;Barten\, Keller\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: ET2012 Elektrotechnische Grundla
+	gen I\nDozent: Barten\, Keller\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T090000
+DTEND;TZID=Europe/Berlin:20210115T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

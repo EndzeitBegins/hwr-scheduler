@@ -1,0 +1,1094 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945033",
+      "start": "2021-01-04T07:00:00Z",
+      "end": "2021-01-04T07:25:00Z",
+      "module": "Informationsveranstaltung neues Semester",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "I",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945034",
+      "start": "2021-01-04T07:30:00Z",
+      "end": "2021-01-04T11:45:00Z",
+      "module": "MB2042- Strömungsmechanik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945035",
+      "start": "2021-01-05T07:00:00Z",
+      "end": "2021-01-05T11:15:00Z",
+      "module": "MB2042- Strömungsmechanik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de969995",
+      "start": "2021-01-05T12:00:00Z",
+      "end": "2021-01-05T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970160",
+      "start": "2021-01-06T07:00:00Z",
+      "end": "2021-01-06T08:30:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970161",
+      "start": "2021-01-06T08:30:00Z",
+      "end": "2021-01-06T10:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970163",
+      "start": "2021-01-06T10:00:00Z",
+      "end": "2021-01-06T11:30:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970162",
+      "start": "2021-01-06T11:30:00Z",
+      "end": "2021-01-06T12:15:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [
+        "Borutzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945036",
+      "start": "2021-01-07T07:00:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "MB2042- Strömungsmechanik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945037",
+      "start": "2021-01-08T07:00:00Z",
+      "end": "2021-01-08T11:15:00Z",
+      "module": "MB2042- Strömungsmechanik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977794",
+      "start": "2021-01-08T12:00:00Z",
+      "end": "2021-01-08T13:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945038",
+      "start": "2021-01-11T07:00:00Z",
+      "end": "2021-01-11T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978705",
+      "start": "2021-01-11T08:00:00Z",
+      "end": "2021-01-11T09:30:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Mathe III",
+        "Raum 5.3001"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Mathe III\\, Raum 5.3001"
+    },
+    {
+      "uid": "sked.de978398",
+      "start": "2021-01-11T13:00:00Z",
+      "end": "2021-01-11T14:30:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Mathe II",
+        "Raum: 6B350",
+        "Aufsicht: Prof. Schomäcker"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Mathe II\\, Raum: 6B350\\, Aufsicht: Prof. Schomäcker"
+    },
+    {
+      "uid": "sked.de945039",
+      "start": "2021-01-12T07:00:00Z",
+      "end": "2021-01-12T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de969996",
+      "start": "2021-01-12T12:00:00Z",
+      "end": "2021-01-12T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970165",
+      "start": "2021-01-13T07:00:00Z",
+      "end": "2021-01-13T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978397",
+      "start": "2021-01-13T08:00:00Z",
+      "end": "2021-01-13T10:00:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Festigkeitslehre II\\, Raum 5.3001"
+    },
+    {
+      "uid": "sked.de945040",
+      "start": "2021-01-14T07:00:00Z",
+      "end": "2021-01-14T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": "CL: 6B.350 (T)",
+      "type": "SU",
+      "note": "CL: 6B.350 (T)"
+    },
+    {
+      "uid": "sked.de945075",
+      "start": "2021-01-14T13:00:00Z",
+      "end": "2021-01-14T16:30:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "Kurzawa",
+        "Schomäcker",
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "R",
+      "note": "Technik-Museum"
+    },
+    {
+      "uid": "sked.de945041",
+      "start": "2021-01-15T07:00:00Z",
+      "end": "2021-01-15T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977795",
+      "start": "2021-01-15T12:00:00Z",
+      "end": "2021-01-15T13:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945042",
+      "start": "2021-01-18T07:00:00Z",
+      "end": "2021-01-18T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945043",
+      "start": "2021-01-19T07:00:00Z",
+      "end": "2021-01-19T11:15:00Z",
+      "module": "MB2042- Thermodynamik",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de969997",
+      "start": "2021-01-19T12:00:00Z",
+      "end": "2021-01-19T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970166",
+      "start": "2021-01-20T07:00:00Z",
+      "end": "2021-01-20T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978393",
+      "start": "2021-01-20T10:00:00Z",
+      "end": "2021-01-20T12:00:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Kinematik und Kinetik\\, Raum 5.3001"
+    },
+    {
+      "uid": "sked.de970181",
+      "start": "2021-01-21T08:00:00Z",
+      "end": "2021-01-21T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970011",
+      "start": "2021-01-22T08:30:00Z",
+      "end": "2021-01-22T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977796",
+      "start": "2021-01-22T12:00:00Z",
+      "end": "2021-01-22T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978707",
+      "start": "2021-01-25T08:00:00Z",
+      "end": "2021-01-25T10:00:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Grundlagen BWL\\, Raum: 5.3001"
+    },
+    {
+      "uid": "sked.de970183",
+      "start": "2021-01-25T12:00:00Z",
+      "end": "2021-01-25T15:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977797",
+      "start": "2021-01-26T09:30:00Z",
+      "end": "2021-01-26T11:00:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978569",
+      "start": "2021-01-26T10:00:00Z",
+      "end": "2021-01-26T12:00:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Kurzawa",
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Mündl. Schwingungsmechanik\\, Raum: 5.4001"
+    },
+    {
+      "uid": "sked.de969999",
+      "start": "2021-01-26T12:00:00Z",
+      "end": "2021-01-26T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de976321",
+      "start": "2021-01-27T07:00:00Z",
+      "end": "2021-01-27T15:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978706",
+      "start": "2021-01-27T08:00:00Z",
+      "end": "2021-01-27T10:30:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Fügetechnik + Ausgew. Verfahren\\, Raum 5.3001"
+    },
+    {
+      "uid": "sked.de976322",
+      "start": "2021-01-28T07:00:00Z",
+      "end": "2021-01-28T09:30:00Z",
+      "module": "MB2042- Mechanik IV",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de970012",
+      "start": "2021-01-29T08:30:00Z",
+      "end": "2021-01-29T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970570",
+      "start": "2021-01-29T12:00:00Z",
+      "end": "2021-01-29T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977800",
+      "start": "2021-02-01T14:00:00Z",
+      "end": "2021-02-01T17:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970572",
+      "start": "2021-02-02T08:30:00Z",
+      "end": "2021-02-02T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970000",
+      "start": "2021-02-02T12:00:00Z",
+      "end": "2021-02-02T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970168",
+      "start": "2021-02-03T07:00:00Z",
+      "end": "2021-02-03T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970591",
+      "start": "2021-02-04T12:00:00Z",
+      "end": "2021-02-04T15:15:00Z",
+      "module": "MB2043- Labor Arbeitsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "La",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de970013",
+      "start": "2021-02-05T08:30:00Z",
+      "end": "2021-02-05T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970574",
+      "start": "2021-02-05T12:00:00Z",
+      "end": "2021-02-05T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970180",
+      "start": "2021-02-08T08:00:00Z",
+      "end": "2021-02-08T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970576",
+      "start": "2021-02-09T08:30:00Z",
+      "end": "2021-02-09T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970001",
+      "start": "2021-02-09T12:00:00Z",
+      "end": "2021-02-09T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970169",
+      "start": "2021-02-10T07:00:00Z",
+      "end": "2021-02-10T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970184",
+      "start": "2021-02-11T08:00:00Z",
+      "end": "2021-02-11T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970592",
+      "start": "2021-02-11T12:00:00Z",
+      "end": "2021-02-11T15:15:00Z",
+      "module": "MB2043- Labor Arbeitsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "La",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de970014",
+      "start": "2021-02-12T08:30:00Z",
+      "end": "2021-02-12T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970575",
+      "start": "2021-02-12T12:00:00Z",
+      "end": "2021-02-12T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970179",
+      "start": "2021-02-15T08:00:00Z",
+      "end": "2021-02-15T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970571",
+      "start": "2021-02-16T08:30:00Z",
+      "end": "2021-02-16T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970002",
+      "start": "2021-02-16T12:00:00Z",
+      "end": "2021-02-16T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970170",
+      "start": "2021-02-17T07:00:00Z",
+      "end": "2021-02-17T15:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970185",
+      "start": "2021-02-18T08:00:00Z",
+      "end": "2021-02-18T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977799",
+      "start": "2021-02-18T14:00:00Z",
+      "end": "2021-02-18T15:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970015",
+      "start": "2021-02-19T08:30:00Z",
+      "end": "2021-02-19T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970578",
+      "start": "2021-02-19T12:00:00Z",
+      "end": "2021-02-19T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970182",
+      "start": "2021-02-22T08:00:00Z",
+      "end": "2021-02-22T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970580",
+      "start": "2021-02-23T08:30:00Z",
+      "end": "2021-02-23T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970003",
+      "start": "2021-02-23T12:00:00Z",
+      "end": "2021-02-23T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970171",
+      "start": "2021-02-24T07:00:00Z",
+      "end": "2021-02-24T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970186",
+      "start": "2021-02-25T08:00:00Z",
+      "end": "2021-02-25T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970595",
+      "start": "2021-02-25T12:00:00Z",
+      "end": "2021-02-25T15:15:00Z",
+      "module": "MB2043- Labor Arbeitsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "La",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de970016",
+      "start": "2021-02-26T08:30:00Z",
+      "end": "2021-02-26T11:00:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970579",
+      "start": "2021-02-26T12:00:00Z",
+      "end": "2021-02-26T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977798",
+      "start": "2021-03-01T12:00:00Z",
+      "end": "2021-03-01T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970582",
+      "start": "2021-03-02T08:30:00Z",
+      "end": "2021-03-02T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970004",
+      "start": "2021-03-02T12:00:00Z",
+      "end": "2021-03-02T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970172",
+      "start": "2021-03-03T07:00:00Z",
+      "end": "2021-03-03T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970187",
+      "start": "2021-03-04T08:00:00Z",
+      "end": "2021-03-04T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970593",
+      "start": "2021-03-04T12:00:00Z",
+      "end": "2021-03-04T15:15:00Z",
+      "module": "MB2043- Labor Arbeitsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "La",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de970017",
+      "start": "2021-03-05T08:30:00Z",
+      "end": "2021-03-05T10:15:00Z",
+      "module": "MB2044- Messtechnik",
+      "lecturers": [
+        "Gawande"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970581",
+      "start": "2021-03-05T10:45:00Z",
+      "end": "2021-03-05T13:15:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970584",
+      "start": "2021-03-09T08:30:00Z",
+      "end": "2021-03-09T11:00:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de969998",
+      "start": "2021-03-09T12:00:00Z",
+      "end": "2021-03-09T14:30:00Z",
+      "module": "MB2044- Regelungstechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970173",
+      "start": "2021-03-10T07:00:00Z",
+      "end": "2021-03-10T16:00:00Z",
+      "module": "MB3045- Studienprojekt I",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970188",
+      "start": "2021-03-11T08:00:00Z",
+      "end": "2021-03-11T11:15:00Z",
+      "module": "MB2041- Konstruktion III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SU",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de970594",
+      "start": "2021-03-11T12:00:00Z",
+      "end": "2021-03-11T15:15:00Z",
+      "module": "MB2043- Labor Arbeitsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 6B.055 (MB-L)",
+      "type": "La",
+      "note": "CL: 6B.055 (MB-L)"
+    },
+    {
+      "uid": "sked.de970583",
+      "start": "2021-03-12T08:30:00Z",
+      "end": "2021-03-12T11:00:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970589",
+      "start": "2021-03-12T12:00:00Z",
+      "end": "2021-03-12T14:30:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970569",
+      "start": "2021-03-15T08:30:00Z",
+      "end": "2021-03-15T11:00:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970577",
+      "start": "2021-03-15T11:45:00Z",
+      "end": "2021-03-15T13:15:00Z",
+      "module": "MB2043- Arbeitsvorbereitung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970590",
+      "start": "2021-03-16T08:30:00Z",
+      "end": "2021-03-16T11:00:00Z",
+      "module": "MB2043- Werkzeugmaschinen und Fertigungssysteme",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de931230",
+      "start": "2021-03-18T11:00:00Z",
+      "end": "2021-03-18T16:00:00Z",
+      "module": "Tag des Dualen Studiums",
+      "lecturers": [],
+      "room": null,
+      "type": "I",
+      "note": null
+    },
+    {
+      "uid": "sked.de970599",
+      "start": "2021-03-22T08:00:00Z",
+      "end": "2021-03-22T10:30:00Z",
+      "module": "MB2044- Mess- und Regelungstechnik",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de970600",
+      "start": "2021-03-25T08:00:00Z",
+      "end": "2021-03-25T10:30:00Z",
+      "module": "MB2043- Fertigungsplanung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "CL: 5.0002"
+    }
+  ]
+}

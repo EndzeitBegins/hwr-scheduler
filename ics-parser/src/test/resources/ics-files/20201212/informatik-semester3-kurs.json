@@ -1,0 +1,40 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de895191",
+      "start": "2019-11-04T08:00:00Z",
+      "end": "2019-11-04T11:00:00Z",
+      "module": "IT2121-Betriebl. Hard- u. Softwaresysteme",
+      "lecturers": [
+        "Prof. Dr. Höhne"
+      ],
+      "room": "CL: 6B.259 (FB5)",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de895193",
+      "start": "2019-11-06T13:00:00Z",
+      "end": "2019-11-06T15:00:00Z",
+      "module": "IT2101-Software-Engineering I",
+      "lecturers": [
+        "Prof. Dr. Monett Diaz"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de895192",
+      "start": "2019-11-08T13:00:00Z",
+      "end": "2019-11-08T15:00:00Z",
+      "module": "IT2091-Embedded Systems",
+      "lecturers": [
+        "M.Eng. Buck"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945641",
+      "start": "2020-04-20T08:00:00Z",
+      "end": "2020-04-20T09:30:00Z",
+      "module": "204-SBWL",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dr. Braun"
+    }
+  ]
+}

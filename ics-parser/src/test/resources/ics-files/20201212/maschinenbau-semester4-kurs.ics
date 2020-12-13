@@ -1,0 +1,1414 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210104T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10820
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945033
+SUMMARY:I\;Informationsveranstaltung neues Semester\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Informationsveranstaltung neues Semest
+	er\nDozent: Steinmann\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T080000
+DTEND;TZID=Europe/Berlin:20210104T082500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945034
+SUMMARY:SU\;MB2042- Strömungsmechanik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Strömungsmechanik\nDozent: St
+	einmann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T083000
+DTEND;TZID=Europe/Berlin:20210104T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945035
+SUMMARY:SU\;MB2042- Strömungsmechanik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Strömungsmechanik\nDozent: St
+	einmann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969995
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T130000
+DTEND;TZID=Europe/Berlin:20210105T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970160
+SUMMARY:SU\;MB3045- Studienprojekt I\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: Ste
+	inmann\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970161
+SUMMARY:SU\;MB3045- Studienprojekt I\;Kurzawa\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: Kur
+	zawa\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T093000
+DTEND;TZID=Europe/Berlin:20210106T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970163
+SUMMARY:SU\;MB3045- Studienprojekt I\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: Sch
+	omäcker\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210106T110000
+DTEND;TZID=Europe/Berlin:20210106T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970162
+SUMMARY:SU\;MB3045- Studienprojekt I\;Borutzki\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: Bor
+	utzki\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T123000
+DTEND;TZID=Europe/Berlin:20210106T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945036
+SUMMARY:SU\;MB2042- Strömungsmechanik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Strömungsmechanik\nDozent: St
+	einmann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T080000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945037
+SUMMARY:SU\;MB2042- Strömungsmechanik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Strömungsmechanik\nDozent: St
+	einmann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T080000
+DTEND;TZID=Europe/Berlin:20210108T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977794
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T130000
+DTEND;TZID=Europe/Berlin:20210108T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945038
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T080000
+DTEND;TZID=Europe/Berlin:20210111T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978705
+SUMMARY:Klausur\;Wieder-/Nachholung\;Mathe III\, Raum 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: -\nR
+	aum: -\nAnmerkung: Mathe III\, Raum 5.3001\nPause: -\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T090000
+DTEND;TZID=Europe/Berlin:20210111T103000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978398
+SUMMARY:Klausur\;Wieder-/Nachholung\;Mathe II\, Raum: 6B350\, Aufsicht: P
+	rof. Schomäcker
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: -\nR
+	aum: -\nAnmerkung: Mathe II\, Raum: 6B350\, Aufsicht: Prof. Schomäcker\nP
+	ause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T140000
+DTEND;TZID=Europe/Berlin:20210111T153000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945039
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T080000
+DTEND;TZID=Europe/Berlin:20210112T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969996
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T130000
+DTEND;TZID=Europe/Berlin:20210112T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970165
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T080000
+DTEND;TZID=Europe/Berlin:20210113T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978397
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Festigkeitslehre II\, Rau
+	m 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Festigkeitslehre II\, Raum 5.3001\nPause: -\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T090000
+DTEND;TZID=Europe/Berlin:20210113T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945040
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;CL: 6B.350 (T)\;ONLINE
+LOCATION:CL: 6B.350 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: CL: 6B.350 (T)\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T080000
+DTEND;TZID=Europe/Berlin:20210114T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945075
+SUMMARY:R\;Reserviert\;Kurzawa\, Schomäcker\, Steinmann\;Technik-Museum
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: Kurzawa\, Schomäck
+	er\, Steinmann\nRaum: -\nAnmerkung: Technik-Museum\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T140000
+DTEND;TZID=Europe/Berlin:20210114T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945041
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T080000
+DTEND;TZID=Europe/Berlin:20210115T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977795
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T130000
+DTEND;TZID=Europe/Berlin:20210115T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945042
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T080000
+DTEND;TZID=Europe/Berlin:20210118T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945043
+SUMMARY:SU\;MB2042- Thermodynamik\;Steinmann\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2042- Thermodynamik\nDozent: Steinm
+	ann\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T080000
+DTEND;TZID=Europe/Berlin:20210119T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969997
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T130000
+DTEND;TZID=Europe/Berlin:20210119T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970166
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T080000
+DTEND;TZID=Europe/Berlin:20210120T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978393
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Kinematik und Kinetik\, R
+	aum 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Kinematik und Kinetik\, Raum 5.3001\nPause: -\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T110000
+DTEND;TZID=Europe/Berlin:20210120T130000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970181
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210121T090000
+DTEND;TZID=Europe/Berlin:20210121T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970011
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T093000
+DTEND;TZID=Europe/Berlin:20210122T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977796
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210122T130000
+DTEND;TZID=Europe/Berlin:20210122T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978707
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Grundlagen BWL\, Raum: 5.
+	3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Grundlagen BWL\, Raum: 5.3001\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210125T090000
+DTEND;TZID=Europe/Berlin:20210125T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970183
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210125T130000
+DTEND;TZID=Europe/Berlin:20210125T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977797
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T103000
+DTEND;TZID=Europe/Berlin:20210126T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978569
+SUMMARY:Klausur\;Wieder-/Nachholung\;Kurzawa\, Steinmann\;Mündl. Schwingu
+	ngsmechanik\, Raum: 5.4001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Kurz
+	awa\, Steinmann\nRaum: -\nAnmerkung: Mündl. Schwingungsmechanik\, Raum: 5
+	.4001\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T110000
+DTEND;TZID=Europe/Berlin:20210126T130000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969999
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T130000
+DTEND;TZID=Europe/Berlin:20210126T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976321
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T080000
+DTEND;TZID=Europe/Berlin:20210127T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978706
+SUMMARY:Klausur\;Wieder-/Nachholung\;Steinmann\;Fügetechnik + Ausgew. Ver
+	fahren\, Raum 5.3001
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wieder-/Nachholung\nDozent: Stei
+	nmann\nRaum: -\nAnmerkung: Fügetechnik + Ausgew. Verfahren\, Raum 5.3001\n
+	Pause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T090000
+DTEND;TZID=Europe/Berlin:20210127T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de976322
+SUMMARY:Klausur\;MB2042- Mechanik IV\;Steinmann\;CL: 5.0002\;
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB2042- Mechanik IV\nDozent: Ste
+	inmann\nRaum: CL: 5.0002\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210128T080000
+DTEND;TZID=Europe/Berlin:20210128T103000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970012
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T093000
+DTEND;TZID=Europe/Berlin:20210129T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970570
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T130000
+DTEND;TZID=Europe/Berlin:20210129T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977800
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T150000
+DTEND;TZID=Europe/Berlin:20210201T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970572
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T093000
+DTEND;TZID=Europe/Berlin:20210202T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970000
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T130000
+DTEND;TZID=Europe/Berlin:20210202T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970168
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210203T080000
+DTEND;TZID=Europe/Berlin:20210203T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970591
+SUMMARY:La\;MB2043- Labor Arbeitsplanung\;Schomäcker\;CL: 6B.055 (MB-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB2043- Labor Arbeitsplanung\nDozent:
+	 Schomäcker\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210204T130000
+DTEND;TZID=Europe/Berlin:20210204T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970013
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210205T093000
+DTEND;TZID=Europe/Berlin:20210205T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970574
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210205T130000
+DTEND;TZID=Europe/Berlin:20210205T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970180
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T090000
+DTEND;TZID=Europe/Berlin:20210208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970576
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T093000
+DTEND;TZID=Europe/Berlin:20210209T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970001
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T130000
+DTEND;TZID=Europe/Berlin:20210209T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970169
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210210T080000
+DTEND;TZID=Europe/Berlin:20210210T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970184
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T090000
+DTEND;TZID=Europe/Berlin:20210211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970592
+SUMMARY:La\;MB2043- Labor Arbeitsplanung\;Schomäcker\;CL: 6B.055 (MB-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB2043- Labor Arbeitsplanung\nDozent:
+	 Schomäcker\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T130000
+DTEND;TZID=Europe/Berlin:20210211T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970014
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T093000
+DTEND;TZID=Europe/Berlin:20210212T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970575
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T130000
+DTEND;TZID=Europe/Berlin:20210212T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970179
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T090000
+DTEND;TZID=Europe/Berlin:20210215T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970571
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T093000
+DTEND;TZID=Europe/Berlin:20210216T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970002
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T130000
+DTEND;TZID=Europe/Berlin:20210216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970170
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T080000
+DTEND;TZID=Europe/Berlin:20210217T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970185
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T090000
+DTEND;TZID=Europe/Berlin:20210218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977799
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T150000
+DTEND;TZID=Europe/Berlin:20210218T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970015
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T093000
+DTEND;TZID=Europe/Berlin:20210219T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970578
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T130000
+DTEND;TZID=Europe/Berlin:20210219T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970182
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T090000
+DTEND;TZID=Europe/Berlin:20210222T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970580
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T093000
+DTEND;TZID=Europe/Berlin:20210223T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970003
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T130000
+DTEND;TZID=Europe/Berlin:20210223T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970171
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T080000
+DTEND;TZID=Europe/Berlin:20210224T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970186
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T090000
+DTEND;TZID=Europe/Berlin:20210225T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970595
+SUMMARY:La\;MB2043- Labor Arbeitsplanung\;Schomäcker\;CL: 6B.055 (MB-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB2043- Labor Arbeitsplanung\nDozent:
+	 Schomäcker\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T130000
+DTEND;TZID=Europe/Berlin:20210225T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970016
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T093000
+DTEND;TZID=Europe/Berlin:20210226T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970579
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T130000
+DTEND;TZID=Europe/Berlin:20210226T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977798
+SUMMARY:S\;Englisch\;Munby\;ONLINE
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T130000
+DTEND;TZID=Europe/Berlin:20210301T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970582
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T093000
+DTEND;TZID=Europe/Berlin:20210302T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970004
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T130000
+DTEND;TZID=Europe/Berlin:20210302T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970172
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T080000
+DTEND;TZID=Europe/Berlin:20210303T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970187
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T090000
+DTEND;TZID=Europe/Berlin:20210304T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970593
+SUMMARY:La\;MB2043- Labor Arbeitsplanung\;Schomäcker\;CL: 6B.055 (MB-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB2043- Labor Arbeitsplanung\nDozent:
+	 Schomäcker\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T130000
+DTEND;TZID=Europe/Berlin:20210304T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970017
+SUMMARY:SU\;MB2044- Messtechnik\;Gawande\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Messtechnik\nDozent: Gawande\n
+	Raum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T093000
+DTEND;TZID=Europe/Berlin:20210305T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970581
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T114500
+DTEND;TZID=Europe/Berlin:20210305T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970584
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVerans
+	taltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T093000
+DTEND;TZID=Europe/Berlin:20210309T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969998
+SUMMARY:SU\;MB2044- Regelungstechnik\;Barten\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2044- Regelungstechnik\nDozent: Bar
+	ten\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T130000
+DTEND;TZID=Europe/Berlin:20210309T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970173
+SUMMARY:SU\;MB3045- Studienprojekt I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB3045- Studienprojekt I\nDozent: -\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T080000
+DTEND;TZID=Europe/Berlin:20210310T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970188
+SUMMARY:SU\;MB2041- Konstruktion III\;Kurzawa\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: SU\nVeranstaltung: MB2041- Konstruktion III\nDozent: Kur
+	zawa\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: inkl. 15 min Pause\n
+	Veranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T090000
+DTEND;TZID=Europe/Berlin:20210311T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970594
+SUMMARY:La\;MB2043- Labor Arbeitsplanung\;Schomäcker\;CL: 6B.055 (MB-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB2043- Labor Arbeitsplanung\nDozent:
+	 Schomäcker\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: inkl. 15 min P
+	ause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T130000
+DTEND;TZID=Europe/Berlin:20210311T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970583
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T093000
+DTEND;TZID=Europe/Berlin:20210312T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970589
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T130000
+DTEND;TZID=Europe/Berlin:20210312T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970569
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T093000
+DTEND;TZID=Europe/Berlin:20210315T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970577
+SUMMARY:SU\;MB2043- Arbeitsvorbereitung\;Schomäcker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Arbeitsvorbereitung\nDozent: 
+	Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210315T124500
+DTEND;TZID=Europe/Berlin:20210315T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970590
+SUMMARY:SU\;MB2043- Werkzeugmaschinen und Fertigungssysteme\;Schomäcker\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2043- Werkzeugmaschinen und Fertigu
+	ngssysteme\nDozent: Schomäcker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T093000
+DTEND;TZID=Europe/Berlin:20210316T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931230
+SUMMARY:I\;Tag des Dualen Studiums\;
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Tag des Dualen Studiums\nDozent: -\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T120000
+DTEND;TZID=Europe/Berlin:20210318T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970599
+SUMMARY:Klausur\;MB2044- Mess- und Regelungstechnik\;Schomäcker\;CL: 5.00
+	02\;
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB2044- Mess- und Regelungstechn
+	ik\nDozent: Schomäcker\nRaum: CL: 5.0002\nAnmerkung: -\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T090000
+DTEND;TZID=Europe/Berlin:20210322T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970600
+SUMMARY:Klausur\;MB2043- Fertigungsplanung\;Schomäcker\;CL: 5.0002\;
+LOCATION:CL: 5.0002
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB2043- Fertigungsplanung\nDozen
+	t: Schomäcker\nRaum: CL: 5.0002\nAnmerkung: -\nPause: -\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T090000
+DTEND;TZID=Europe/Berlin:20210325T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

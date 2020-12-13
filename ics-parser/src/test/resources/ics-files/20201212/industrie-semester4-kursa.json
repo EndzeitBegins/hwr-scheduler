@@ -1,0 +1,28 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de952793",
+      "start": "2020-05-13T08:00:00Z",
+      "end": "2020-05-13T09:00:00Z",
+      "module": "303-W.informatik",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Witte"
+    },
+    {
+      "uid": "sked.de954551",
+      "start": "2020-05-15T08:00:00Z",
+      "end": "2020-05-15T08:45:00Z",
+      "module": "IN-117Recht-WPR II-ArbR",
+      "lecturers": [
+        "Onlineklausur\\nAbgabe Seminarbeit - Herr Neumann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Hesse"
+    }
+  ]
+}

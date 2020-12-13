@@ -1,0 +1,1250 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de978538",
+      "start": "2021-02-15T08:45:00Z",
+      "end": "2021-02-15T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Mietrecht",
+      "lecturers": [
+        "Beuthan"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978539",
+      "start": "2021-02-15T13:00:00Z",
+      "end": "2021-02-15T16:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976785",
+      "start": "2021-02-16T08:00:00Z",
+      "end": "2021-02-16T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de980969",
+      "start": "2021-02-16T11:15:00Z",
+      "end": "2021-02-16T12:00:00Z",
+      "module": "Studienprojekt II - Referat",
+      "lecturers": [],
+      "room": null,
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de976853",
+      "start": "2021-02-16T13:00:00Z",
+      "end": "2021-02-16T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976834",
+      "start": "2021-02-17T07:45:00Z",
+      "end": "2021-02-17T12:00:00Z",
+      "module": "Studienprojekt II - Referat",
+      "lecturers": [
+        "Lundszien",
+        "Mugele",
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de980967",
+      "start": "2021-02-17T13:00:00Z",
+      "end": "2021-02-17T17:00:00Z",
+      "module": "Studienprojekt II - Referat",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de976835",
+      "start": "2021-02-18T07:45:00Z",
+      "end": "2021-02-18T12:00:00Z",
+      "module": "Studienprojekt II - Referat",
+      "lecturers": [
+        "Mugele",
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de980968",
+      "start": "2021-02-18T12:00:00Z",
+      "end": "2021-02-18T14:00:00Z",
+      "module": "Studienprojekt II - Referat",
+      "lecturers": [],
+      "room": null,
+      "type": "*",
+      "note": null
+    },
+    {
+      "uid": "sked.de976846",
+      "start": "2021-02-19T08:45:00Z",
+      "end": "2021-02-19T12:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976836",
+      "start": "2021-02-19T13:00:00Z",
+      "end": "2021-02-19T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976795",
+      "start": "2021-02-22T08:45:00Z",
+      "end": "2021-02-22T12:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976796",
+      "start": "2021-02-22T13:00:00Z",
+      "end": "2021-02-22T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976786",
+      "start": "2021-02-23T08:00:00Z",
+      "end": "2021-02-23T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976797",
+      "start": "2021-02-23T12:00:00Z",
+      "end": "2021-02-23T15:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978553",
+      "start": "2021-02-24T08:45:00Z",
+      "end": "2021-02-24T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Grundst.",
+      "lecturers": [
+        "Discher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de980966",
+      "start": "2021-02-24T13:00:00Z",
+      "end": "2021-02-24T16:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976848",
+      "start": "2021-02-25T08:45:00Z",
+      "end": "2021-02-25T12:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976888",
+      "start": "2021-02-25T13:00:00Z",
+      "end": "2021-02-25T16:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976849",
+      "start": "2021-02-26T08:45:00Z",
+      "end": "2021-02-26T12:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976837",
+      "start": "2021-02-26T13:00:00Z",
+      "end": "2021-02-26T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976850",
+      "start": "2021-03-01T08:45:00Z",
+      "end": "2021-03-01T12:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978544",
+      "start": "2021-03-01T13:00:00Z",
+      "end": "2021-03-01T16:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976787",
+      "start": "2021-03-02T08:00:00Z",
+      "end": "2021-03-02T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976854",
+      "start": "2021-03-02T13:00:00Z",
+      "end": "2021-03-02T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976799",
+      "start": "2021-03-03T08:45:00Z",
+      "end": "2021-03-03T12:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976801",
+      "start": "2021-03-03T13:00:00Z",
+      "end": "2021-03-03T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976802",
+      "start": "2021-03-04T08:45:00Z",
+      "end": "2021-03-04T12:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976803",
+      "start": "2021-03-04T13:00:00Z",
+      "end": "2021-03-04T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976890",
+      "start": "2021-03-05T08:45:00Z",
+      "end": "2021-03-05T12:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976838",
+      "start": "2021-03-05T13:00:00Z",
+      "end": "2021-03-05T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976788",
+      "start": "2021-03-09T08:00:00Z",
+      "end": "2021-03-09T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976889",
+      "start": "2021-03-09T13:00:00Z",
+      "end": "2021-03-09T16:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976856",
+      "start": "2021-03-10T08:45:00Z",
+      "end": "2021-03-10T12:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976855",
+      "start": "2021-03-10T13:00:00Z",
+      "end": "2021-03-10T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978554",
+      "start": "2021-03-11T08:45:00Z",
+      "end": "2021-03-11T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Grundst.",
+      "lecturers": [
+        "Discher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976852",
+      "start": "2021-03-11T13:00:00Z",
+      "end": "2021-03-11T16:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976851",
+      "start": "2021-03-12T08:45:00Z",
+      "end": "2021-03-12T12:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976839",
+      "start": "2021-03-12T13:00:00Z",
+      "end": "2021-03-12T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978540",
+      "start": "2021-03-15T08:45:00Z",
+      "end": "2021-03-15T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Mietrecht",
+      "lecturers": [
+        "Beuthan"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978545",
+      "start": "2021-03-15T13:00:00Z",
+      "end": "2021-03-15T16:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976789",
+      "start": "2021-03-16T08:00:00Z",
+      "end": "2021-03-16T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976861",
+      "start": "2021-03-16T13:00:00Z",
+      "end": "2021-03-16T16:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976859",
+      "start": "2021-03-17T08:45:00Z",
+      "end": "2021-03-17T12:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976860",
+      "start": "2021-03-17T13:00:00Z",
+      "end": "2021-03-17T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978555",
+      "start": "2021-03-18T08:45:00Z",
+      "end": "2021-03-18T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Grundst.",
+      "lecturers": [
+        "Discher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976858",
+      "start": "2021-03-18T13:00:00Z",
+      "end": "2021-03-18T16:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976857",
+      "start": "2021-03-19T08:45:00Z",
+      "end": "2021-03-19T12:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976840",
+      "start": "2021-03-19T13:00:00Z",
+      "end": "2021-03-19T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978541",
+      "start": "2021-03-22T08:45:00Z",
+      "end": "2021-03-22T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Mietrecht",
+      "lecturers": [
+        "Beuthan"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978546",
+      "start": "2021-03-22T13:00:00Z",
+      "end": "2021-03-22T16:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976790",
+      "start": "2021-03-23T08:00:00Z",
+      "end": "2021-03-23T11:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976862",
+      "start": "2021-03-23T13:00:00Z",
+      "end": "2021-03-23T16:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978558",
+      "start": "2021-03-24T08:45:00Z",
+      "end": "2021-03-24T12:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-BIM",
+      "lecturers": [
+        "Pham"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976866",
+      "start": "2021-03-24T13:00:00Z",
+      "end": "2021-03-24T16:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978556",
+      "start": "2021-03-25T08:45:00Z",
+      "end": "2021-03-25T12:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Grundst.",
+      "lecturers": [
+        "Discher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976863",
+      "start": "2021-03-25T13:00:00Z",
+      "end": "2021-03-25T16:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de980965",
+      "start": "2021-03-26T08:45:00Z",
+      "end": "2021-03-26T12:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976841",
+      "start": "2021-03-26T13:00:00Z",
+      "end": "2021-03-26T16:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978547",
+      "start": "2021-03-29T07:45:00Z",
+      "end": "2021-03-29T11:00:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976891",
+      "start": "2021-03-29T12:00:00Z",
+      "end": "2021-03-29T15:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976791",
+      "start": "2021-03-30T07:00:00Z",
+      "end": "2021-03-30T10:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976871",
+      "start": "2021-03-30T12:00:00Z",
+      "end": "2021-03-30T15:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976869",
+      "start": "2021-03-31T07:45:00Z",
+      "end": "2021-03-31T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976867",
+      "start": "2021-03-31T12:00:00Z",
+      "end": "2021-03-31T14:30:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976868",
+      "start": "2021-04-01T07:45:00Z",
+      "end": "2021-04-01T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976870",
+      "start": "2021-04-01T12:00:00Z",
+      "end": "2021-04-01T15:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976792",
+      "start": "2021-04-06T07:00:00Z",
+      "end": "2021-04-06T10:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978548",
+      "start": "2021-04-06T12:00:00Z",
+      "end": "2021-04-06T15:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976809",
+      "start": "2021-04-07T07:45:00Z",
+      "end": "2021-04-07T11:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976810",
+      "start": "2021-04-07T12:00:00Z",
+      "end": "2021-04-07T15:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976811",
+      "start": "2021-04-08T07:45:00Z",
+      "end": "2021-04-08T11:00:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976812",
+      "start": "2021-04-08T12:00:00Z",
+      "end": "2021-04-08T15:15:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Projekt",
+      "lecturers": [
+        "Zuch"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978557",
+      "start": "2021-04-09T07:45:00Z",
+      "end": "2021-04-09T11:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Grundst.",
+      "lecturers": [
+        "Discher"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976842",
+      "start": "2021-04-09T12:00:00Z",
+      "end": "2021-04-09T15:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978542",
+      "start": "2021-04-12T07:45:00Z",
+      "end": "2021-04-12T11:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Mietrecht",
+      "lecturers": [
+        "Beuthan"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978549",
+      "start": "2021-04-12T12:00:00Z",
+      "end": "2021-04-12T15:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976793",
+      "start": "2021-04-13T07:00:00Z",
+      "end": "2021-04-13T10:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976892",
+      "start": "2021-04-13T12:00:00Z",
+      "end": "2021-04-13T13:30:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976875",
+      "start": "2021-04-14T07:45:00Z",
+      "end": "2021-04-14T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976876",
+      "start": "2021-04-14T12:00:00Z",
+      "end": "2021-04-14T13:30:00Z",
+      "module": "FM 6002-Wahl. Digitalisierung im FM-Produkte",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de976886",
+      "start": "2021-04-14T13:45:00Z",
+      "end": "2021-04-14T15:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976874",
+      "start": "2021-04-15T07:45:00Z",
+      "end": "2021-04-15T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976872",
+      "start": "2021-04-15T12:00:00Z",
+      "end": "2021-04-15T15:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976873",
+      "start": "2021-04-16T07:45:00Z",
+      "end": "2021-04-16T11:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976843",
+      "start": "2021-04-16T12:00:00Z",
+      "end": "2021-04-16T15:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978543",
+      "start": "2021-04-19T07:45:00Z",
+      "end": "2021-04-19T11:00:00Z",
+      "module": "FM 1005-Immobilienwirtschaft_Mietrecht",
+      "lecturers": [
+        "Beuthan"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978550",
+      "start": "2021-04-19T12:00:00Z",
+      "end": "2021-04-19T15:15:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976794",
+      "start": "2021-04-20T07:00:00Z",
+      "end": "2021-04-20T08:30:00Z",
+      "module": "FM 6002-Wahl. Brandschutz-baulich",
+      "lecturers": [
+        "Elsäßer"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978551",
+      "start": "2021-04-20T09:30:00Z",
+      "end": "2021-04-20T11:00:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976882",
+      "start": "2021-04-20T12:00:00Z",
+      "end": "2021-04-20T15:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976877",
+      "start": "2021-04-21T07:45:00Z",
+      "end": "2021-04-21T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976879",
+      "start": "2021-04-21T12:00:00Z",
+      "end": "2021-04-21T15:15:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976881",
+      "start": "2021-04-22T07:45:00Z",
+      "end": "2021-04-22T11:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976878",
+      "start": "2021-04-22T12:00:00Z",
+      "end": "2021-04-22T15:15:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976880",
+      "start": "2021-04-23T07:45:00Z",
+      "end": "2021-04-23T11:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976844",
+      "start": "2021-04-23T12:00:00Z",
+      "end": "2021-04-23T15:15:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de978552",
+      "start": "2021-04-26T12:00:00Z",
+      "end": "2021-04-26T14:30:00Z",
+      "module": "FM 1005-Immobilienw._Projektentwicklung",
+      "lecturers": [
+        "Müller",
+        "Matthias"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976883",
+      "start": "2021-04-27T07:45:00Z",
+      "end": "2021-04-27T11:00:00Z",
+      "module": "FM 1006-Nachhaltig Bauen und Betreiben",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976884",
+      "start": "2021-04-29T07:45:00Z",
+      "end": "2021-04-29T11:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976845",
+      "start": "2021-04-30T12:00:00Z",
+      "end": "2021-04-30T13:30:00Z",
+      "module": "FM 6002-Wahl. Brandschutz",
+      "lecturers": [
+        "Richter, F."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": null
+    },
+    {
+      "uid": "sked.de979071",
+      "start": "2021-05-03T12:00:00Z",
+      "end": "2021-05-03T14:00:00Z",
+      "module": "FM 6002-Wahlpflichtfach 2",
+      "lecturers": [
+        "Richter, F.",
+        "Zuch"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de978559",
+      "start": "2021-05-07T12:00:00Z",
+      "end": "2021-05-07T14:00:00Z",
+      "module": "FM 4004-Energiemanagement",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

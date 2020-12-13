@@ -1,0 +1,582 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10813
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950233
+SUMMARY:SU\;IT1011-Diskrete Mathematik\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Diskrete Mathematik\nDozent: W
+	inter\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951085
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T130000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970450
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T160000
+DTEND;TZID=Europe/Berlin:20201207T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971319
+SUMMARY:SU\;IT4021-Präsentationstechnik\;Seeliger-Würtz\;CL: 6B.450\;Grup
+	pe 3
+LOCATION:CL: 6B.450
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Präsentationstechnik\nDozent: 
+	Seeliger-Würtz\nRaum: CL: 6B.450\nAnmerkung: Gruppe 3\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971320
+SUMMARY:SU\;IT4021-Präsentationstechnik\;Seeliger-Würtz\;CL: 6B.450\;Grup
+	pe 4
+LOCATION:CL: 6B.450
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Präsentationstechnik\nDozent: 
+	Seeliger-Würtz\nRaum: CL: 6B.450\nAnmerkung: Gruppe 4\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T120000
+DTEND;TZID=Europe/Berlin:20201208T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950523
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201208T161500
+DTEND;TZID=Europe/Berlin:20201208T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950149
+SUMMARY:SU\;IT2031- Logik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: -
+	\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T180000
+DTEND;TZID=Europe/Berlin:20201208T193000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950507
+SUMMARY:SU\;IT2031-Algorithmen und Datenstrukturen\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Algorithmen und Datenstrukture
+	n\nDozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T194500
+DTEND;TZID=Europe/Berlin:20201208T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951503
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951504
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T130000
+DTEND;TZID=Europe/Berlin:20201209T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971321
+SUMMARY:SU\;IT4021-Präsentationstechnik\;Seeliger-Würtz\;CL: 6B.450\;Grup
+	pe 3
+LOCATION:CL: 6B.450
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Präsentationstechnik\nDozent: 
+	Seeliger-Würtz\nRaum: CL: 6B.450\nAnmerkung: Gruppe 3\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971322
+SUMMARY:SU\;IT4021-Präsentationstechnik\;Seeliger-Würtz\;CL: 6B.450\;Grup
+	pe 4
+LOCATION:CL: 6B.450
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Präsentationstechnik\nDozent: 
+	Seeliger-Würtz\nRaum: CL: 6B.450\nAnmerkung: Gruppe 4\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T133000
+DTEND;TZID=Europe/Berlin:20201210T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950244
+SUMMARY:SU\;IT1011-Diskrete Mathematik\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Diskrete Mathematik\nDozent: W
+	inter\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T084500
+DTEND;TZID=Europe/Berlin:20201211T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951505
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T133000
+DTEND;TZID=Europe/Berlin:20201211T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950234
+SUMMARY:SU\;IT1011-Diskrete Mathematik\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Diskrete Mathematik\nDozent: W
+	inter\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951086
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T130000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970451
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T160000
+DTEND;TZID=Europe/Berlin:20201214T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951506
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T103000
+DTEND;TZID=Europe/Berlin:20201215T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950524
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201215T144500
+DTEND;TZID=Europe/Berlin:20201215T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950150
+SUMMARY:SU\;IT2031- Logik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: -
+	\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T163000
+DTEND;TZID=Europe/Berlin:20201215T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950508
+SUMMARY:SU\;IT2031-Algorithmen und Datenstrukturen\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Algorithmen und Datenstrukture
+	n\nDozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T181500
+DTEND;TZID=Europe/Berlin:20201215T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951507
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951508
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950245
+SUMMARY:SU\;IT1011-Diskrete Mathematik\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Diskrete Mathematik\nDozent: W
+	inter\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T090000
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970817
+SUMMARY:S\;Englisch\;Munby\;Online
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T130000
+DTEND;TZID=Europe/Berlin:20201218T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950235
+SUMMARY:SU\;IT1011-Diskrete Mathematik\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Diskrete Mathematik\nDozent: W
+	inter\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951087
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950536
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210104T163000
+DTEND;TZID=Europe/Berlin:20210104T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951509
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T084500
+DTEND;TZID=Europe/Berlin:20210105T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950190
+SUMMARY:Ü\;IT2031- Logik\;Höhne\;CL: 6B.052 (IT-L)\;
+LOCATION:CL: 6B.052 (IT-L)
+DESCRIPTION:Art: Ü\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: CL
+	: 6B.052 (IT-L)\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T140000
+DTEND;TZID=Europe/Berlin:20210105T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951510
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951511
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T130000
+DTEND;TZID=Europe/Berlin:20210106T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970452
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T103000
+DTEND;TZID=Europe/Berlin:20210108T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978979
+SUMMARY:Klausur\;IT1011-Diskrete Mathematik\;Winter\;vorbehaltlich Klausu
+	rraumverfügbarkeit
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT1011-Diskrete Mathematik\nDoze
+	nt: Winter\nRaum: -\nAnmerkung: vorbehaltlich Klausurraumverfügbarkeit\nP
+	ause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T140000
+DTEND;TZID=Europe/Berlin:20210111T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950888
+SUMMARY:Klausur\;IT4021-Basics\;Zimmermann\, A.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT4021-Basics\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950889
+SUMMARY:Klausur\;IT2031-Grundlagen der Informatik\;Höhne\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT2031-Grundlagen der Informatik
+	\nDozent: Höhne\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T090000
+DTEND;TZID=Europe/Berlin:20210115T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,269 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945030",
+      "start": "2020-12-07T07:00:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "ET7016 Betriebswirtschaftslehre I",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971227",
+      "start": "2020-12-07T14:00:00Z",
+      "end": "2020-12-07T18:00:00Z",
+      "module": "Tutorium Grundlagen der Elektrotechnik I",
+      "lecturers": [
+        "Lange"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970312",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T11:15:00Z",
+      "module": "ET4014 Labor Softwareentwicklung",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970320",
+      "start": "2020-12-08T11:45:00Z",
+      "end": "2020-12-08T14:15:00Z",
+      "module": "ET2012 Werkstoffe der Elektrotechnik",
+      "lecturers": [
+        "Keller"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Nachholtermin!"
+    },
+    {
+      "uid": "sked.de970311",
+      "start": "2020-12-09T08:00:00Z",
+      "end": "2020-12-09T11:15:00Z",
+      "module": "ET4014 Labor Softwareentwicklung",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "PCÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970271",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T16:15:00Z",
+      "module": "ET2012 Elektrotechnik I",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970322",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T11:30:00Z",
+      "module": "ET2012 Werkstoffe der Elektrotechnik",
+      "lecturers": [
+        "Keller"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de945031",
+      "start": "2020-12-14T07:00:00Z",
+      "end": "2020-12-14T11:15:00Z",
+      "module": "ET7016 Betriebswirtschaftslehre I",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970270",
+      "start": "2020-12-14T13:00:00Z",
+      "end": "2020-12-14T16:15:00Z",
+      "module": "ET2012 Elektrotechnik I",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de970300",
+      "start": "2020-12-15T08:00:00Z",
+      "end": "2020-12-15T11:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de970301",
+      "start": "2020-12-15T12:00:00Z",
+      "end": "2020-12-15T15:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de970303",
+      "start": "2020-12-16T08:00:00Z",
+      "end": "2020-12-16T11:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de970302",
+      "start": "2020-12-16T12:00:00Z",
+      "end": "2020-12-16T17:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.158 (E-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.158 (E-L)"
+    },
+    {
+      "uid": "sked.de970304",
+      "start": "2020-12-17T07:00:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.158 (E-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.158 (E-L)"
+    },
+    {
+      "uid": "sked.de970305",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T18:00:00Z",
+      "module": "ET2013 Labor Messtechnik",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": "CL: 6B.158 (E-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.158 (E-L)"
+    },
+    {
+      "uid": "sked.de970323",
+      "start": "2020-12-18T09:00:00Z",
+      "end": "2020-12-18T11:30:00Z",
+      "module": "ET2012 Werkstoffe der Elektrotechnik",
+      "lecturers": [
+        "Keller"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978198",
+      "start": "2020-12-18T12:00:00Z",
+      "end": "2020-12-18T15:00:00Z",
+      "module": "Tutorium Grundlagen der Elektrotechnik I",
+      "lecturers": [
+        "Lange"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975216",
+      "start": "2021-01-05T16:15:00Z",
+      "end": "2021-01-05T19:30:00Z",
+      "module": "ET1011 Mathematik I",
+      "lecturers": [
+        "Magalashvili"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Klausurvorbereitung ONLINE"
+    },
+    {
+      "uid": "sked.de976256",
+      "start": "2021-01-07T14:30:00Z",
+      "end": "2021-01-07T18:30:00Z",
+      "module": "Tutorium Grundlagen der Elektrotechnik I",
+      "lecturers": [
+        "Lange"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975211",
+      "start": "2021-01-11T08:00:00Z",
+      "end": "2021-01-11T10:00:00Z",
+      "module": "ET1011 Mathematik I",
+      "lecturers": [
+        "Magalashvili"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977846",
+      "start": "2021-01-13T08:00:00Z",
+      "end": "2021-01-13T10:00:00Z",
+      "module": "ET7016 Betriebliches Management I",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978595",
+      "start": "2021-01-15T08:00:00Z",
+      "end": "2021-01-15T11:00:00Z",
+      "module": "ET2012 Elektrotechnische Grundlagen I",
+      "lecturers": [
+        "Barten",
+        "Keller"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

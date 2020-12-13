@@ -1,0 +1,53 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de740359",
+      "start": "2016-06-13T07:00:00Z",
+      "end": "2016-06-13T10:00:00Z",
+      "module": "BW1007-Mathem.-naturwiss.Grdl.II",
+      "lecturers": [
+        "Prof. Dr.-Ing. Detzel",
+        "Prof. Dr. Winter"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de741051",
+      "start": "2016-06-15T12:00:00Z",
+      "end": "2016-06-15T15:00:00Z",
+      "module": "BW1006-Wirtschaftliche Grundlagen II",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": "CL: 6A.008 (FB4)",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de741052",
+      "start": "2016-06-17T07:00:00Z",
+      "end": "2016-06-17T10:00:00Z",
+      "module": "BW2009-Grundlg.d.Bauverf.techn.",
+      "lecturers": [
+        "Raum 6b.277/278"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Wotschke"
+    },
+    {
+      "uid": "sked.de741234",
+      "start": "2016-06-17T10:15:00Z",
+      "end": "2016-06-17T11:15:00Z",
+      "module": "BW2008-Bautechnische Grundlagen II",
+      "lecturers": [
+        "Klausur Baugeräte imRaum 6b.277/278"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Wotschke"
+    }
+  ]
+}

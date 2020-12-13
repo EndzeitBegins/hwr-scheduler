@@ -1,0 +1,754 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de964197",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T09:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964199",
+      "start": "2020-12-07T09:45:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964201",
+      "start": "2020-12-07T11:30:00Z",
+      "end": "2020-12-07T12:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966597",
+      "start": "2020-12-07T13:00:00Z",
+      "end": "2020-12-07T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966599",
+      "start": "2020-12-07T14:45:00Z",
+      "end": "2020-12-07T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966601",
+      "start": "2020-12-07T16:30:00Z",
+      "end": "2020-12-07T17:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972403",
+      "start": "2020-12-07T18:15:00Z",
+      "end": "2020-12-07T19:45:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de968637",
+      "start": "2020-12-08T08:45:00Z",
+      "end": "2020-12-08T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968639",
+      "start": "2020-12-08T10:30:00Z",
+      "end": "2020-12-08T11:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964159",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964161",
+      "start": "2020-12-08T14:45:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972405",
+      "start": "2020-12-08T17:15:00Z",
+      "end": "2020-12-08T18:45:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de950492",
+      "start": "2020-12-09T08:45:00Z",
+      "end": "2020-12-09T10:15:00Z",
+      "module": "Bankbetriebliche Grundlagen",
+      "lecturers": [
+        "Wilhelm"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948915",
+      "start": "2020-12-09T12:00:00Z",
+      "end": "2020-12-09T13:30:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948917",
+      "start": "2020-12-09T13:45:00Z",
+      "end": "2020-12-09T15:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948962",
+      "start": "2020-12-09T15:30:00Z",
+      "end": "2020-12-09T17:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de948930",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T09:30:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948932",
+      "start": "2020-12-10T09:45:00Z",
+      "end": "2020-12-10T11:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948934",
+      "start": "2020-12-10T12:00:00Z",
+      "end": "2020-12-10T13:30:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948936",
+      "start": "2020-12-10T13:45:00Z",
+      "end": "2020-12-10T15:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de953398",
+      "start": "2020-12-10T15:30:00Z",
+      "end": "2020-12-10T16:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948965",
+      "start": "2020-12-10T16:15:00Z",
+      "end": "2020-12-10T17:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de948938",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T09:30:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948940",
+      "start": "2020-12-11T09:45:00Z",
+      "end": "2020-12-11T11:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948942",
+      "start": "2020-12-11T12:00:00Z",
+      "end": "2020-12-11T13:30:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948944",
+      "start": "2020-12-11T13:45:00Z",
+      "end": "2020-12-11T15:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de953399",
+      "start": "2020-12-11T15:30:00Z",
+      "end": "2020-12-11T16:15:00Z",
+      "module": "SK: Teambildung",
+      "lecturers": [
+        "Drebing"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de948967",
+      "start": "2020-12-11T16:15:00Z",
+      "end": "2020-12-11T17:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [],
+      "room": null,
+      "type": "R",
+      "note": null
+    },
+    {
+      "uid": "sked.de965484",
+      "start": "2020-12-14T07:45:00Z",
+      "end": "2020-12-14T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965485",
+      "start": "2020-12-14T08:45:00Z",
+      "end": "2020-12-14T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de965487",
+      "start": "2020-12-14T10:30:00Z",
+      "end": "2020-12-14T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971700",
+      "start": "2020-12-14T13:00:00Z",
+      "end": "2020-12-14T14:30:00Z",
+      "module": "Bankbetriebliche Grundlagen",
+      "lecturers": [
+        "Wilhelm"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972407",
+      "start": "2020-12-14T15:45:00Z",
+      "end": "2020-12-14T17:15:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de964163",
+      "start": "2020-12-15T07:45:00Z",
+      "end": "2020-12-15T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964164",
+      "start": "2020-12-15T08:45:00Z",
+      "end": "2020-12-15T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964166",
+      "start": "2020-12-15T10:30:00Z",
+      "end": "2020-12-15T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de970762",
+      "start": "2020-12-15T12:40:00Z",
+      "end": "2020-12-15T14:10:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972409",
+      "start": "2020-12-15T17:15:00Z",
+      "end": "2020-12-15T18:45:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de968640",
+      "start": "2020-12-16T08:00:00Z",
+      "end": "2020-12-16T09:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968642",
+      "start": "2020-12-16T09:45:00Z",
+      "end": "2020-12-16T10:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971702",
+      "start": "2020-12-16T10:45:00Z",
+      "end": "2020-12-16T12:15:00Z",
+      "module": "Bankbetriebliche Grundlagen",
+      "lecturers": [
+        "Wilhelm"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964168",
+      "start": "2020-12-17T07:45:00Z",
+      "end": "2020-12-17T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964169",
+      "start": "2020-12-17T08:45:00Z",
+      "end": "2020-12-17T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964171",
+      "start": "2020-12-17T10:30:00Z",
+      "end": "2020-12-17T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de971704",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T14:30:00Z",
+      "module": "Bankbetriebliche Grundlagen",
+      "lecturers": [
+        "Wilhelm"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966632",
+      "start": "2020-12-18T09:00:00Z",
+      "end": "2020-12-18T10:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966634",
+      "start": "2020-12-18T10:45:00Z",
+      "end": "2020-12-18T11:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966635",
+      "start": "2020-12-18T12:30:00Z",
+      "end": "2020-12-18T14:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968643",
+      "start": "2021-01-04T08:45:00Z",
+      "end": "2021-01-04T10:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968645",
+      "start": "2021-01-04T10:30:00Z",
+      "end": "2021-01-04T11:15:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972411",
+      "start": "2021-01-04T18:15:00Z",
+      "end": "2021-01-04T19:45:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de966647",
+      "start": "2021-01-05T09:00:00Z",
+      "end": "2021-01-05T10:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966649",
+      "start": "2021-01-05T10:45:00Z",
+      "end": "2021-01-05T11:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de966650",
+      "start": "2021-01-05T12:30:00Z",
+      "end": "2021-01-05T14:00:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Petschke"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972413",
+      "start": "2021-01-05T17:15:00Z",
+      "end": "2021-01-05T18:45:00Z",
+      "module": "Mathe-Tutorium 1",
+      "lecturers": [
+        "Fotia"
+      ],
+      "room": null,
+      "type": "Ü",
+      "note": null
+    },
+    {
+      "uid": "sked.de964173",
+      "start": "2021-01-06T07:45:00Z",
+      "end": "2021-01-06T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964174",
+      "start": "2021-01-06T08:45:00Z",
+      "end": "2021-01-06T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964176",
+      "start": "2021-01-06T10:30:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964178",
+      "start": "2021-01-07T07:45:00Z",
+      "end": "2021-01-07T08:30:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964179",
+      "start": "2021-01-07T08:45:00Z",
+      "end": "2021-01-07T10:15:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de964181",
+      "start": "2021-01-07T10:30:00Z",
+      "end": "2021-01-07T12:00:00Z",
+      "module": "Mathematik",
+      "lecturers": [
+        "Wolz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968646",
+      "start": "2021-01-08T08:00:00Z",
+      "end": "2021-01-08T09:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968648",
+      "start": "2021-01-08T09:45:00Z",
+      "end": "2021-01-08T10:30:00Z",
+      "module": "Volkswirtschaftliche Allokation",
+      "lecturers": [
+        "Nagel"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de962036",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "ET5052 Auslegung der Energieversorgungsnetzeplo",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962063",
+      "start": "2020-12-07T12:00:00Z",
+      "end": "2020-12-07T13:30:00Z",
+      "module": "ET5052 Betrieb der Energieversorgungsnetze",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975008",
+      "start": "2020-12-07T14:00:00Z",
+      "end": "2020-12-07T17:00:00Z",
+      "module": "ET6055 Studienprojektseminar",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Vorstellung ErgebnisseSP II \\nONLINE"
+    },
+    {
+      "uid": "sked.de945568",
+      "start": "2020-12-08T08:00:00Z",
+      "end": "2020-12-08T10:30:00Z",
+      "module": "ET3054 Konstruktionslehre",
+      "lecturers": [
+        "Sporbert"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962083",
+      "start": "2020-12-08T12:00:00Z",
+      "end": "2020-12-08T15:15:00Z",
+      "module": "ET3053 Vertiefung Elektrische Maschinen",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962028",
+      "start": "2020-12-09T08:00:00Z",
+      "end": "2020-12-09T10:30:00Z",
+      "module": "ET3053 Elektromagnetische Verträglichkeit",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962042",
+      "start": "2020-12-09T13:00:00Z",
+      "end": "2020-12-09T18:00:00Z",
+      "module": "ET5051 Vernetzte Automatisierungssystemeda",
+      "lecturers": [
+        "Damerow"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979970",
+      "start": "2020-12-10T09:00:00Z",
+      "end": "2020-12-10T10:30:00Z",
+      "module": "ET3053 Vertiefung Elektrische Maschinen",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "DurchspracheProbeklausur\\, Teilnahme freiwillig"
+    },
+    {
+      "uid": "sked.de962024",
+      "start": "2020-12-10T12:00:00Z",
+      "end": "2020-12-10T14:30:00Z",
+      "module": "ET3053 Elektromagnetische Verträglichkeit",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962073",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T11:15:00Z",
+      "module": "ET3054 Entwurf und Fertigung von Flachbaugruppen",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de962080",
+      "start": "2020-12-11T12:00:00Z",
+      "end": "2020-12-11T15:15:00Z",
+      "module": "ET3054 Entwurf und Fertigung von Flachbaugruppen",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974376",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T11:00:00Z",
+      "module": "ET3053 Antriebstechnik I",
+      "lecturers": [
+        "Barten",
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974377",
+      "start": "2020-12-16T08:00:00Z",
+      "end": "2020-12-16T11:00:00Z",
+      "module": "ET5052 Wahlpflichtbereich Energietechnik I",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

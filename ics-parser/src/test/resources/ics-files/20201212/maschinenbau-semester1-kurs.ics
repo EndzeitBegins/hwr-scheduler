@@ -1,0 +1,453 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10822
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949960
+SUMMARY:SU\;MB1012- Mechanik I - Statik\;Steinmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB1012- Mechanik I - Statik\nDozent: 
+	Steinmann\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T080000
+DTEND;TZID=Europe/Berlin:20201207T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949964
+SUMMARY:SU\;MB2014- Metallische Werkstoffe\;Schomäcker\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2014- Metallische Werkstoffe\nDozen
+	t: Schomäcker\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T121500
+DTEND;TZID=Europe/Berlin:20201207T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964227
+SUMMARY:La\;MB1015- Labor Elektrotechnik\;D'Arino\;CL: 6B.156 (AT-L)\, CL
+	: 6B.158 (E-L)\;Gruppe 2 und Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)\, CL: 6B.158 (E-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB1015- Labor Elektrotechnik\nDozent:
+	 D'Arino\nRaum: CL: 6B.156 (AT-L)\, CL: 6B.158 (E-L)\nAnmerkung: Gruppe 2
+	 und Gruppe 1\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T080000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950605
+SUMMARY:I\;Laborunterweisung MB-Labor\;Erhardt\, Steinmann\;CL: 6B.055 (M
+	B-L)\;
+LOCATION:CL: 6B.055 (MB-L)
+DESCRIPTION:Art: I\nVeranstaltung: Laborunterweisung MB-Labor\nDozent: Er
+	hardt\, Steinmann\nRaum: CL: 6B.055 (MB-L)\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T131000
+DTEND;TZID=Europe/Berlin:20201208T135500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964228
+SUMMARY:La\;MB1015- Labor Elektrotechnik\;D'Arino\;CL: 6B.156 (AT-L)\, CL
+	: 6B.158 (E-L)\;Gruppe 1 und Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)\, CL: 6B.158 (E-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB1015- Labor Elektrotechnik\nDozent:
+	 D'Arino\nRaum: CL: 6B.156 (AT-L)\, CL: 6B.158 (E-L)\nAnmerkung: Gruppe 1
+	 und Gruppe 2\nPause: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950018
+SUMMARY:SU\;MB1011- Mathematik I\;Wolz\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB1011- Mathematik I\nDozent: Wolz\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T084500
+DTEND;TZID=Europe/Berlin:20201209T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971944
+SUMMARY:Ü\;Tutorium Mathematik\;Lazaar\;Online
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathematik\nDozent: Lazaar\nR
+	aum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T163000
+DTEND;TZID=Europe/Berlin:20201209T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970634
+SUMMARY:SU\;MB2013- Einführung Programmierung\;Hubrich\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2013- Einführung Programmierung\nDo
+	zent: Hubrich\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T080000
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970621
+SUMMARY:SU\;MB2013- Technisches Zeichnen\;Warwel\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2013- Technisches Zeichnen\nDozent:
+	 Warwel\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T080000
+DTEND;TZID=Europe/Berlin:20201211T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950598
+SUMMARY:SU\;MB2014- Einführung Fertigungsverfahren\;Schomäcker\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2014- Einführung Fertigungsverfahre
+	n\nDozent: Schomäcker\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T121500
+DTEND;TZID=Europe/Berlin:20201211T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949972
+SUMMARY:SU\;MB1012- Mechanik I - Statik\;Steinmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB1012- Mechanik I - Statik\nDozent: 
+	Steinmann\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T080000
+DTEND;TZID=Europe/Berlin:20201214T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949968
+SUMMARY:SU\;MB2014- Metallische Werkstoffe\;Schomäcker\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2014- Metallische Werkstoffe\nDozen
+	t: Schomäcker\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T121500
+DTEND;TZID=Europe/Berlin:20201214T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950585
+SUMMARY:La\;MB1015- Labor Elektrotechnik Gruppe 1\;D'Arino\;CL: 6B.156 (A
+	T-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB1015- Labor Elektrotechnik Gruppe 1
+	\nDozent: D'Arino\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: -\nPause: inkl. 30
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950586
+SUMMARY:La\;MB1015- Labor Elektrotechnik Gruppe 2\;D'Arino\;CL: 6B.156 (A
+	T-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: La\nVeranstaltung: MB1015- Labor Elektrotechnik Gruppe 2
+	\nDozent: D'Arino\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: -\nPause: inkl. 30
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950019
+SUMMARY:SU\;MB1011- Mathematik I\;Wolz\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB1011- Mathematik I\nDozent: Wolz\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T084500
+DTEND;TZID=Europe/Berlin:20201216T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971945
+SUMMARY:Ü\;Tutorium Mathematik\;Lazaar\;Online
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathematik\nDozent: Lazaar\nR
+	aum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T163000
+DTEND;TZID=Europe/Berlin:20201216T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970635
+SUMMARY:SU\;MB2013- Einführung Programmierung\;Hubrich\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2013- Einführung Programmierung\nDo
+	zent: Hubrich\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970622
+SUMMARY:SU\;MB2013- Technisches Zeichnen\;Warwel\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2013- Technisches Zeichnen\nDozent:
+	 Warwel\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T121500
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950599
+SUMMARY:SU\;MB2014- Einführung Fertigungsverfahren\;Schomäcker\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2014- Einführung Fertigungsverfahre
+	n\nDozent: Schomäcker\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949977
+SUMMARY:Klausur\;MB2014- Grundlagen der Fertigungstechnik\;Schomäcker\;On
+	line
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB2014- Grundlagen der Fertigung
+	stechnik\nDozent: Schomäcker\nRaum: -\nAnmerkung: Online\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950587
+SUMMARY:SU\;MB1015- Grundlagen Elektrotechnik\;D'Arino\;CL: 6B.350 (T)\;
+LOCATION:CL: 6B.350 (T)
+DESCRIPTION:Art: SU\nVeranstaltung: MB1015- Grundlagen Elektrotechnik\nDo
+	zent: D'Arino\nRaum: CL: 6B.350 (T)\nAnmerkung: -\nPause: inkl. 30 min Pa
+	use\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971946
+SUMMARY:Ü\;Tutorium Mathematik\;Lazaar\;Online
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathematik\nDozent: Lazaar\nR
+	aum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T163000
+DTEND;TZID=Europe/Berlin:20210106T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970636
+SUMMARY:SU\;MB2013- Einführung Programmierung\;Hubrich\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: MB2013- Einführung Programmierung\nDo
+	zent: Hubrich\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T080000
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971947
+SUMMARY:Ü\;Tutorium Mathematik\;Lazaar\;Online
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathematik\nDozent: Lazaar\nR
+	aum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T163000
+DTEND;TZID=Europe/Berlin:20210108T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949975
+SUMMARY:Klausur\;MB1011- Mathematik I\;Schomäcker\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB1011- Mathematik I\nDozent: Sc
+	homäcker\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T140000
+DTEND;TZID=Europe/Berlin:20210111T153000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949976
+SUMMARY:Klausur\;MB1015- Elektrotechnik\;D'Arino\;CL: 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB1015- Elektrotechnik\nDozent: 
+	D'Arino\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949974
+SUMMARY:Klausur\;MB1012- Mechanik I - Statik\;Schomäcker\, Steinmann\;CL:
+	 6B.151 (CAD-L)\;
+LOCATION:CL: 6B.151 (CAD-L)
+DESCRIPTION:Art: Klausur\nVeranstaltung: MB1012- Mechanik I - Statik\nDoz
+	ent: Schomäcker\, Steinmann\nRaum: CL: 6B.151 (CAD-L)\nAnmerkung: -\nPaus
+	e: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T130000
+DTEND;TZID=Europe/Berlin:20210115T150000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950603
+SUMMARY:I\;Vorbereitung Praxistransfer I\;Steinmann\;CL: 6B.350 (T)\;
+LOCATION:CL: 6B.350 (T)
+DESCRIPTION:Art: I\nVeranstaltung: Vorbereitung Praxistransfer I\nDozent:
+	 Steinmann\nRaum: CL: 6B.350 (T)\nAnmerkung: -\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T153000
+DTEND;TZID=Europe/Berlin:20210115T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,741 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10914
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952475
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T084500
+DTEND;TZID=Europe/Berlin:20201207T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952476
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952478
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T113000
+DTEND;TZID=Europe/Berlin:20201207T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952480
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T140000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972403
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T191500
+DTEND;TZID=Europe/Berlin:20201207T204500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949780
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201208T080000
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950513
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972405
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T181500
+DTEND;TZID=Europe/Berlin:20201208T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970760
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949781
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T113000
+DTEND;TZID=Europe/Berlin:20201209T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950470
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966862
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966864
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968704
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T094500
+DTEND;TZID=Europe/Berlin:20201211T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968706
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T113000
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965047
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Gerling\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Gerling\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965049
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Gerling\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Gerling\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T154500
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949782
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201214T080000
+DTEND;TZID=Europe/Berlin:20201214T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971694
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T113000
+DTEND;TZID=Europe/Berlin:20201214T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972407
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T164500
+DTEND;TZID=Europe/Berlin:20201214T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949783
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201215T080000
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971696
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966898
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966900
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201215T154500
+DTEND;TZID=Europe/Berlin:20201215T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972409
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T181500
+DTEND;TZID=Europe/Berlin:20201215T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952495
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952497
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950509
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952499
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T080000
+DTEND;TZID=Europe/Berlin:20201217T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952501
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949784
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968711
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968713
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971698
+SUMMARY:SU\;Bankbetriebliche Grundlagen\;Wilhelm\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bankbetriebliche Grundlagen\nDozent: 
+	Wilhelm\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T140000
+DTEND;TZID=Europe/Berlin:20201218T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949785
+SUMMARY:SU\;Mathematik\;Wannemacher\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T080000
+DTEND;TZID=Europe/Berlin:20210104T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966918
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210104T131500
+DTEND;TZID=Europe/Berlin:20210104T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966920
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210104T150000
+DTEND;TZID=Europe/Berlin:20210104T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972411
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T191500
+DTEND;TZID=Europe/Berlin:20210104T204500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952503
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952505
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952507
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972413
+SUMMARY:Ü\;Mathe-Tutorium 1\;Fotia\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium 1\nDozent: Fotia\nRaum:
+	 -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T181500
+DTEND;TZID=Europe/Berlin:20210105T194500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949786
+SUMMARY:SU\;Mathematik\;Wannemacher\;Reservetermin
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: -\nAnmerkung: Reservetermin\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T080000
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968717
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Nagel\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Nagel\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T130000
+DTEND;TZID=Europe/Berlin:20210106T143000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952515
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T084500
+DTEND;TZID=Europe/Berlin:20210107T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952516
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952518
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952520
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T140000
+DTEND;TZID=Europe/Berlin:20210107T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952522
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Deimer\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Deimer\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T154500
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201125Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949721
+SUMMARY:PV\;Mathematik\;Wannemacher\;CL: 6A.008 (FB4)\;Prüfungsvorbereitu
+	ng
+LOCATION:CL: 6A.008 (FB4)
+DESCRIPTION:Art: PV\nVeranstaltung: Mathematik\nDozent: Wannemacher\nRaum
+	: CL: 6A.008 (FB4)\nAnmerkung: Prüfungsvorbereitung\nPause: inkl. 15 min 
+	Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T150000
+DTEND;TZID=Europe/Berlin:20210108T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

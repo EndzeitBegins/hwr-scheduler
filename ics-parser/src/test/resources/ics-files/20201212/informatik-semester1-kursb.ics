@@ -1,0 +1,605 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210118T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10814
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950263
+SUMMARY:SU\;IT1011-Algebra/Lineare Algebra\;Méndez Omana\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Algebra/Lineare Algebra\nDozen
+	t: Méndez Omana\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T093000
+DTEND;TZID=Europe/Berlin:20201207T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951085
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T130000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951515
+SUMMARY:SU\;IT1011- Graphentheorie\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011- Graphentheorie\nDozent: Winte
+	r\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T160000
+DTEND;TZID=Europe/Berlin:20201207T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970825
+SUMMARY:S\;Englisch\;Munby\;Online
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T160000
+DTEND;TZID=Europe/Berlin:20201208T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950149
+SUMMARY:SU\;IT2031- Logik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: -
+	\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T180000
+DTEND;TZID=Europe/Berlin:20201208T193000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950507
+SUMMARY:SU\;IT2031-Algorithmen und Datenstrukturen\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Algorithmen und Datenstrukture
+	n\nDozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T194500
+DTEND;TZID=Europe/Berlin:20201208T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951503
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951504
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T130000
+DTEND;TZID=Europe/Berlin:20201209T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950530
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201210T150000
+DTEND;TZID=Europe/Berlin:20201210T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950279
+SUMMARY:SU\;IT4021-Datenbanken (Einführung)\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Datenbanken (Einführung)\nDoze
+	nt: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T091500
+DTEND;TZID=Europe/Berlin:20201211T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951505
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T133000
+DTEND;TZID=Europe/Berlin:20201211T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970466
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T170000
+DTEND;TZID=Europe/Berlin:20201211T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950264
+SUMMARY:SU\;IT1011-Algebra/Lineare Algebra\;Méndez Omana\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Algebra/Lineare Algebra\nDozen
+	t: Méndez Omana\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T093000
+DTEND;TZID=Europe/Berlin:20201214T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951086
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T130000
+DTEND;TZID=Europe/Berlin:20201214T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951506
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T103000
+DTEND;TZID=Europe/Berlin:20201215T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970826
+SUMMARY:S\;Englisch\;Munby\;Online
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T143000
+DTEND;TZID=Europe/Berlin:20201215T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950150
+SUMMARY:SU\;IT2031- Logik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: -
+	\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T163000
+DTEND;TZID=Europe/Berlin:20201215T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950508
+SUMMARY:SU\;IT2031-Algorithmen und Datenstrukturen\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Algorithmen und Datenstrukture
+	n\nDozent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T181500
+DTEND;TZID=Europe/Berlin:20201215T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951507
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951508
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970827
+SUMMARY:S\;Englisch\;Munby\;Online
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T100000
+DTEND;TZID=Europe/Berlin:20201217T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950266
+SUMMARY:SU\;IT1011-Algebra/Lineare Algebra\;Méndez Omana\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Algebra/Lineare Algebra\nDozen
+	t: Méndez Omana\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T114500
+DTEND;TZID=Europe/Berlin:20201217T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950533
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201217T150000
+DTEND;TZID=Europe/Berlin:20201217T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970467
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950280
+SUMMARY:SU\;IT4021-Datenbanken (Einführung)\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Datenbanken (Einführung)\nDoze
+	nt: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950265
+SUMMARY:SU\;IT1011-Algebra/Lineare Algebra\;Méndez Omana\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011-Algebra/Lineare Algebra\nDozen
+	t: Méndez Omana\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T093000
+DTEND;TZID=Europe/Berlin:20210104T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951087
+SUMMARY:SU\;IT2041-Einführung in die Programmierung\;Zimmermann\, A.\;Onl
+	ine
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2041-Einführung in die Programmieru
+	ng\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951516
+SUMMARY:SU\;IT1011- Graphentheorie\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1011- Graphentheorie\nDozent: Winte
+	r\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T160000
+DTEND;TZID=Europe/Berlin:20210104T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951509
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 2\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 2
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T084500
+DTEND;TZID=Europe/Berlin:20210105T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951510
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 3\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 3
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951511
+SUMMARY:La\;IT2041-Labor Programmierung: Gruppe 1\;Zimmermann\, A.\;Onlin
+	e
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2041-Labor Programmierung: Gruppe 1
+	\nDozent: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 mi
+	n Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T130000
+DTEND;TZID=Europe/Berlin:20210106T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950201
+SUMMARY:Ü\;IT2031- Logik\;Höhne\;CL: 6B.052 (IT-L)\;
+LOCATION:CL: 6B.052 (IT-L)
+DESCRIPTION:Art: Ü\nVeranstaltung: IT2031- Logik\nDozent: Höhne\nRaum: CL
+	: 6B.052 (IT-L)\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T123000
+DTEND;TZID=Europe/Berlin:20210107T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950535
+SUMMARY:SU\;IT2031-Grundlagen der Informatik\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Grundlagen der Informatik\nDoz
+	ent: Höhne\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210107T160000
+DTEND;TZID=Europe/Berlin:20210107T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951089
+SUMMARY:SU\;IT4021-Datenbanken (Einführung)\;Zimmermann\, A.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT4021-Datenbanken (Einführung)\nDoze
+	nt: Zimmermann\, A.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T091500
+DTEND;TZID=Europe/Berlin:20210108T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970468
+SUMMARY:SU\;IT2031-Automatentheorie und formale Sprachen\;Haase\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2031-Automatentheorie und formale S
+	prachen\nDozent: Haase\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T170000
+DTEND;TZID=Europe/Berlin:20210108T183000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978980
+SUMMARY:Klausur\;IT1011-Diskrete Mathematik\;Méndez Omana\;vorbehaltlich 
+	Klausurraumverfügbarkeit
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT1011-Diskrete Mathematik\nDoze
+	nt: Méndez Omana\nRaum: -\nAnmerkung: vorbehaltlich Klausurraumverfügbark
+	eit\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T140000
+DTEND;TZID=Europe/Berlin:20210111T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950888
+SUMMARY:Klausur\;IT4021-Basics\;Zimmermann\, A.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT4021-Basics\nDozent: Zimmerman
+	n\, A.\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de950889
+SUMMARY:Klausur\;IT2031-Grundlagen der Informatik\;Höhne\;ONLINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT2031-Grundlagen der Informatik
+	\nDozent: Höhne\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T090000
+DTEND;TZID=Europe/Berlin:20210115T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

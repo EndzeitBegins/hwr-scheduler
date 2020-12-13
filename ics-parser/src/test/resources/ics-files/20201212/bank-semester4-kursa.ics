@@ -1,0 +1,64 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200511T000000
+X-SKED-SYNC-DTEND:20200518T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9310
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200517T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952783
+SUMMARY:Klausur\;117-Wp.recht II\;Mündliche Onlineprüfung - Termine nach 
+	Abstimmung\;RA Garnjost
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 117-Wp.recht II\nVeranstaltungsu
+	ntergruppe: -\nAnmerkung: Mündliche Onlineprüfung - Termine nach Abstimmu
+	ng\nDozent: RA Garnjost\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200511T080000
+DTEND;TZID=Europe/Berlin:20200511T180000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200517T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952794
+SUMMARY:Klausur\;303-W.informatik\;Online Klausur - von 10.00 -11.00 Uhr 
+	Vorbereitung Klausurdauer von 11.-14.00 Uhr\n3 Studenten mit Nachteilsaus
+	gleich - Kurs A  bis 15.30 / Kurs B bis 14.35 Uhr - Kurs C bis 14.50 Uhr\;
+	Kocmann
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 303-W.informatik\nVeranstaltungs
+	untergruppe: -\nAnmerkung: Online Klausur - von 10.00 -11.00 Uhr Vorberei
+	tung Klausurdauer von 11.-14.00 Uhr\n3 Studenten mit Nachteilsausgleich -
+	 Kurs A  bis 15.30 / Kurs B bis 14.35 Uhr - Kurs C bis 14.50 Uhr\nDozent:
+	 Kocmann\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200515T100000
+DTEND;TZID=Europe/Berlin:20200515T140000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

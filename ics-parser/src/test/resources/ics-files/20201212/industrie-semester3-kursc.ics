@@ -1,0 +1,91 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20171218T000000
+X-SKED-SYNC-DTEND:20171225T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:8093
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20171224T201401Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de835030
+SUMMARY:Klausur\;107-SBWL\;Prof. Dr. Peter-Ollrogge\, Prof. Dr. Raethel\,
+	 Prof. Dr. Wildebrand
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 107-SBWL\nVeranstaltungsuntergru
+	ppe: -\nAnmerkung: -\nDozent: Prof. Dr. Peter-Ollrogge\, Prof. Dr. Raethe
+	l\, Prof. Dr. Wildebrand\nRaum: CL: 1.Audimax vorn
+DTSTART;TZID=Europe/Berlin:20171218T140000
+DTEND;TZID=Europe/Berlin:20171218T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171224T201401Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de835038
+SUMMARY:Klausur\;112-Finanzierg. u. Investition\;+ 3 Nachklausuren Modul 
+	103 FR TM JG 15\;Prof. Dr. Bleis\, Prof. Dr. Rigas
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: 112-Finanzierg. u. Investition\n
+	Veranstaltungsuntergruppe: -\nAnmerkung: + 3 Nachklausuren Modul 103 FR T
+	M JG 15\nDozent: Prof. Dr. Bleis\, Prof. Dr. Rigas\nRaum: CL: 1.Audimax v
+	orn
+DTSTART;TZID=Europe/Berlin:20171220T100000
+DTEND;TZID=Europe/Berlin:20171220T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171224T201401Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de837173
+SUMMARY:R\;Reserviert\;Konsultation VWL- Herr Wagner\;
+LOCATION:CL: 6A.226
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nVeranstaltungsuntergruppe:
+	 -\nAnmerkung: Konsultation VWL- Herr Wagner\nDozent: -\nRaum: CL: 6A.226
+DTSTART;TZID=Europe/Berlin:20171220T130000
+DTEND;TZID=Europe/Berlin:20171220T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20171224T201401Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de835045
+SUMMARY:Klausur\;114-VWL-Konjunktur u. Wachstum\;Nachteilsausgleich: 1 St
+	udentin FR BKC bis 16.25 Uhr+1 Studentin FR DL bis 16.00 Uhr\;Prof. Dr. K
+	irchner\, Wagner\, Prof. Dr. Weyer
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 114-VWL-Konjunktur u. Wachstum\n
+	Veranstaltungsuntergruppe: -\nAnmerkung: Nachteilsausgleich: 1 Studentin 
+	FR BKC bis 16.25 Uhr+1 Studentin FR DL bis 16.00 Uhr\nDozent: Prof. Dr. K
+	irchner\, Wagner\, Prof. Dr. Weyer\nRaum: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20171221T140000
+DTEND;TZID=Europe/Berlin:20171221T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de777298",
+      "start": "2017-03-27T12:00:00Z",
+      "end": "2017-03-27T15:00:00Z",
+      "module": "BW2016-Baubetrieb II",
+      "lecturers": [
+        "Prof. Dr. Wotschke"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de777288",
+      "start": "2017-03-29T07:00:00Z",
+      "end": "2017-03-29T10:00:00Z",
+      "module": "BW2018-Tragwerkslehre II",
+      "lecturers": [],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de778042",
+      "start": "2017-03-31T08:00:00Z",
+      "end": "2017-03-31T10:00:00Z",
+      "module": "BW2017-Baukonstruktion II",
+      "lecturers": [
+        "Prof. Dr.-Ing. Detzel"
+      ],
+      "room": "CL: 6B.259 (FB5)",
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de971069",
+      "start": "2020-10-27T08:00:00Z",
+      "end": "2020-10-27T10:00:00Z",
+      "module": "International Management / Business Simulation",
+      "lecturers": [
+        "Tirpitz"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de956915",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Cross Cultural Management",
+      "lecturers": [
+        "Kassman"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de970607",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T10:30:00Z",
+      "module": "401 Wpff. Ethik",
+      "lecturers": [
+        "Bustamante"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Online"
+    },
+    {
+      "uid": "sked.de931167",
+      "start": "2020-10-27T09:00:00Z",
+      "end": "2020-10-27T12:00:00Z",
+      "module": "Klausur/Mündliche Prüfung 401-Wpff.",
+      "lecturers": [
+        "business weg"
+      ],
+      "room": null,
+      "type": "Prüfung",
+      "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
+    },
+    {
+      "uid": "sked.de971087",
+      "start": "2020-10-28T13:00:00Z",
+      "end": "2020-10-28T13:40:00Z",
+      "module": "201-SBWL",
+      "lecturers": [
+        "Brenninger"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

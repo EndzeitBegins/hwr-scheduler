@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de974525",
+      "start": "2020-12-07T12:30:00Z",
+      "end": "2020-12-07T14:30:00Z",
+      "module": "Wirtschaftsprivatrecht II",
+      "lecturers": [
+        "Rosentreter"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974667",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T10:15:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Kalenberg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975831",
+      "start": "2020-12-14T07:00:00Z",
+      "end": "2020-12-14T17:00:00Z",
+      "module": "Verkehrspolitik",
+      "lecturers": [
+        "Firgt"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Präsentationen"
+    },
+    {
+      "uid": "sked.de974686",
+      "start": "2020-12-16T09:00:00Z",
+      "end": "2020-12-16T09:30:00Z",
+      "module": "Märkte der Güterverkehrswirtschaft / Ländermärkte",
+      "lecturers": [
+        "Rahn"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974687",
+      "start": "2020-12-16T09:30:00Z",
+      "end": "2020-12-16T10:30:00Z",
+      "module": "Märkte der Güterverkehrswirtschaft / Branchenmärkt",
+      "lecturers": [
+        "Schrörs"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE"
+    }
+  ]
+}

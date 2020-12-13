@@ -1,0 +1,934 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de975962",
+      "start": "2021-01-05T08:45:00Z",
+      "end": "2021-01-05T12:00:00Z",
+      "module": "FM 2004-Qualitätsmanagement",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978524",
+      "start": "2021-01-05T13:00:00Z",
+      "end": "2021-01-05T16:15:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978509",
+      "start": "2021-01-06T08:45:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975975",
+      "start": "2021-01-07T08:45:00Z",
+      "end": "2021-01-07T12:00:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [
+        "Lundszien",
+        "Mugele",
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975976",
+      "start": "2021-01-07T13:00:00Z",
+      "end": "2021-01-07T15:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978510",
+      "start": "2021-01-08T08:45:00Z",
+      "end": "2021-01-08T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975963",
+      "start": "2021-01-12T08:45:00Z",
+      "end": "2021-01-12T12:00:00Z",
+      "module": "FM 2004-Qualitätsmanagement",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978526",
+      "start": "2021-01-12T13:00:00Z",
+      "end": "2021-01-12T16:15:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978525",
+      "start": "2021-01-13T08:45:00Z",
+      "end": "2021-01-13T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978511",
+      "start": "2021-01-13T13:00:00Z",
+      "end": "2021-01-13T16:15:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978512",
+      "start": "2021-01-14T08:45:00Z",
+      "end": "2021-01-14T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975977",
+      "start": "2021-01-15T08:45:00Z",
+      "end": "2021-01-15T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976778",
+      "start": "2021-01-18T08:45:00Z",
+      "end": "2021-01-18T12:00:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978527",
+      "start": "2021-01-18T13:00:00Z",
+      "end": "2021-01-18T16:15:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975964",
+      "start": "2021-01-19T08:45:00Z",
+      "end": "2021-01-19T12:00:00Z",
+      "module": "FM 2004-Qualitätsmanagement",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975967",
+      "start": "2021-01-19T13:00:00Z",
+      "end": "2021-01-19T16:15:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975968",
+      "start": "2021-01-20T08:45:00Z",
+      "end": "2021-01-20T12:00:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976779",
+      "start": "2021-01-20T13:00:00Z",
+      "end": "2021-01-20T16:15:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978513",
+      "start": "2021-01-21T08:45:00Z",
+      "end": "2021-01-21T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975978",
+      "start": "2021-01-22T08:45:00Z",
+      "end": "2021-01-22T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976780",
+      "start": "2021-01-25T08:45:00Z",
+      "end": "2021-01-25T12:00:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975965",
+      "start": "2021-01-26T08:45:00Z",
+      "end": "2021-01-26T12:00:00Z",
+      "module": "FM 2004-Qualitätsmanagement",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978528",
+      "start": "2021-01-26T13:00:00Z",
+      "end": "2021-01-26T16:15:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978514",
+      "start": "2021-01-27T08:45:00Z",
+      "end": "2021-01-27T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976781",
+      "start": "2021-01-27T13:00:00Z",
+      "end": "2021-01-27T16:15:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978529",
+      "start": "2021-01-28T08:45:00Z",
+      "end": "2021-01-28T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978515",
+      "start": "2021-01-28T13:00:00Z",
+      "end": "2021-01-28T16:15:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975979",
+      "start": "2021-01-29T08:45:00Z",
+      "end": "2021-01-29T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975980",
+      "start": "2021-02-01T08:45:00Z",
+      "end": "2021-02-01T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976782",
+      "start": "2021-02-02T08:45:00Z",
+      "end": "2021-02-02T12:00:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975966",
+      "start": "2021-02-02T13:00:00Z",
+      "end": "2021-02-02T16:15:00Z",
+      "module": "FM 2004-Qualitätsmanagement",
+      "lecturers": [
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978516",
+      "start": "2021-02-03T08:45:00Z",
+      "end": "2021-02-03T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976783",
+      "start": "2021-02-03T13:00:00Z",
+      "end": "2021-02-03T16:15:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978517",
+      "start": "2021-02-05T08:45:00Z",
+      "end": "2021-02-05T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975981",
+      "start": "2021-02-08T08:45:00Z",
+      "end": "2021-02-08T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de976784",
+      "start": "2021-02-09T08:45:00Z",
+      "end": "2021-02-09T12:00:00Z",
+      "module": "FM 2005-Recht_2",
+      "lecturers": [
+        "Rothenburg"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978530",
+      "start": "2021-02-09T13:00:00Z",
+      "end": "2021-02-09T16:15:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978386",
+      "start": "2021-02-10T08:45:00Z",
+      "end": "2021-02-10T12:00:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978518",
+      "start": "2021-02-10T13:00:00Z",
+      "end": "2021-02-10T16:15:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975973",
+      "start": "2021-02-11T07:45:00Z",
+      "end": "2021-02-11T12:00:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975974",
+      "start": "2021-02-11T13:00:00Z",
+      "end": "2021-02-11T16:15:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978519",
+      "start": "2021-02-12T08:45:00Z",
+      "end": "2021-02-12T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975982",
+      "start": "2021-02-15T08:45:00Z",
+      "end": "2021-02-15T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978520",
+      "start": "2021-02-16T08:45:00Z",
+      "end": "2021-02-16T12:00:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978387",
+      "start": "2021-02-16T13:00:00Z",
+      "end": "2021-02-16T16:15:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975969",
+      "start": "2021-02-17T08:45:00Z",
+      "end": "2021-02-17T12:00:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de980970",
+      "start": "2021-02-17T13:00:00Z",
+      "end": "2021-02-17T16:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de980971",
+      "start": "2021-02-18T07:45:00Z",
+      "end": "2021-02-18T11:00:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975970",
+      "start": "2021-02-18T13:00:00Z",
+      "end": "2021-02-18T16:15:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975993",
+      "start": "2021-02-19T07:45:00Z",
+      "end": "2021-02-19T10:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975994",
+      "start": "2021-02-19T10:45:00Z",
+      "end": "2021-02-19T13:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975995",
+      "start": "2021-02-19T13:45:00Z",
+      "end": "2021-02-19T16:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975983",
+      "start": "2021-02-22T08:45:00Z",
+      "end": "2021-02-22T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978531",
+      "start": "2021-02-23T08:45:00Z",
+      "end": "2021-02-23T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978388",
+      "start": "2021-02-23T13:00:00Z",
+      "end": "2021-02-23T16:15:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978389",
+      "start": "2021-02-24T08:45:00Z",
+      "end": "2021-02-24T12:00:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de980972",
+      "start": "2021-02-24T13:00:00Z",
+      "end": "2021-02-24T16:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de979008",
+      "start": "2021-02-25T08:00:00Z",
+      "end": "2021-02-25T12:15:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de979009",
+      "start": "2021-02-25T13:00:00Z",
+      "end": "2021-02-25T16:15:00Z",
+      "module": "FM 2004-Orga. u. Personalmanagement",
+      "lecturers": [
+        "Gruber-Beerfeltz"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975990",
+      "start": "2021-02-26T07:45:00Z",
+      "end": "2021-02-26T10:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975991",
+      "start": "2021-02-26T10:45:00Z",
+      "end": "2021-02-26T13:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975992",
+      "start": "2021-02-26T13:45:00Z",
+      "end": "2021-02-26T16:15:00Z",
+      "module": "FM 4002-Labor Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975984",
+      "start": "2021-03-01T08:45:00Z",
+      "end": "2021-03-01T14:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978534",
+      "start": "2021-03-02T08:45:00Z",
+      "end": "2021-03-02T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978390",
+      "start": "2021-03-02T13:00:00Z",
+      "end": "2021-03-02T16:15:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978391",
+      "start": "2021-03-03T08:45:00Z",
+      "end": "2021-03-03T12:00:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978535",
+      "start": "2021-03-04T08:45:00Z",
+      "end": "2021-03-04T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978536",
+      "start": "2021-03-09T08:45:00Z",
+      "end": "2021-03-09T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978392",
+      "start": "2021-03-09T13:00:00Z",
+      "end": "2021-03-09T15:30:00Z",
+      "module": "FM 2005-Recht_1",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "Prüfungsvorbereitung"
+    },
+    {
+      "uid": "sked.de979010",
+      "start": "2021-03-10T08:45:00Z",
+      "end": "2021-03-10T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975985",
+      "start": "2021-03-11T08:45:00Z",
+      "end": "2021-03-11T12:00:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [
+        "Lundszien",
+        "Mugele",
+        "Pelzeter"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de975986",
+      "start": "2021-03-11T13:00:00Z",
+      "end": "2021-03-11T15:30:00Z",
+      "module": "FM 7001-Studienprojektseminar 1",
+      "lecturers": [],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978523",
+      "start": "2021-03-12T13:00:00Z",
+      "end": "2021-03-12T14:30:00Z",
+      "module": "FM 4002-Elekrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de978537",
+      "start": "2021-03-15T10:30:00Z",
+      "end": "2021-03-15T12:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de931224",
+      "start": "2021-03-18T11:00:00Z",
+      "end": "2021-03-18T16:00:00Z",
+      "module": "Tag des Dualen Studiums",
+      "lecturers": [],
+      "room": null,
+      "type": "I",
+      "note": null
+    },
+    {
+      "uid": "sked.de975996",
+      "start": "2021-03-19T08:00:00Z",
+      "end": "2021-03-19T11:00:00Z",
+      "module": "FM 2005-Recht",
+      "lecturers": [
+        "Scherwitzki"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de975997",
+      "start": "2021-03-22T13:00:00Z",
+      "end": "2021-03-22T15:00:00Z",
+      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "lecturers": [
+        "Mugele"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de971957",
+      "start": "2021-03-24T07:45:00Z",
+      "end": "2021-03-24T17:00:00Z",
+      "module": "Reserviert",
+      "lecturers": [
+        "FMK"
+      ],
+      "room": null,
+      "type": "R",
+      "note": "FMK"
+    },
+    {
+      "uid": "sked.de975998",
+      "start": "2021-03-26T13:00:00Z",
+      "end": "2021-03-26T15:00:00Z",
+      "module": "FM 4002-Elektrotechnik 2",
+      "lecturers": [
+        "Lundszien"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

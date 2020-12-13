@@ -1,0 +1,138 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20201221T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10838
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974628
+SUMMARY:Klausur\;WI-106 WIWI-IFRW-KLR\;Wittmüß\;ONLINE - Achtung 3 Studie
+	rende mit Nachteilsausgleich\; aus dem Kurs B+C je 1 x bis 11.10 Uhr und 
+	aus dem Kurs A bis 11.25 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-106 WIWI-IFRW-KLR\nDozent: Wi
+	ttmüß\nRaum: -\nAnmerkung: ONLINE - Achtung 3 Studierende mit Nachteilsau
+	sgleich\; aus dem Kurs B+C je 1 x bis 11.10 Uhr und aus dem Kurs A bis 11
+	.25 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T090000
+DTEND;TZID=Europe/Berlin:20201210T104000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974665
+SUMMARY:Klausur\;WI-106 WIWI-IFRW-Fin/Inv\;Schlösser\;ONLINE - Achtung 3 
+	Studierende mit Nachteilsausgleich\; aus dem Kurs B+C je 1 x bis 13.40 Uh
+	r\, aus dem Kurs A bis 13.50 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-106 WIWI-IFRW-Fin/Inv\nDozent
+	: Schlösser\nRaum: -\nAnmerkung: ONLINE - Achtung 3 Studierende mit Nacht
+	eilsausgleich\; aus dem Kurs B+C je 1 x bis 13.40 Uhr\, aus dem Kurs A bi
+	s 13.50 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T120000
+DTEND;TZID=Europe/Berlin:20201210T131500
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974668
+SUMMARY:Klausur\;WI-112 IT/WI-BetrSys-BS-Praxis\;Goestl\;ONLINE - Achtung
+	 drei Studierende mit Nachteilsausgleich\; aus Kurs B+C je 1 x bis 11.05 
+	Uhr und aus Kurs A bis 11.15 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-112 IT/WI-BetrSys-BS-Praxis\n
+	Dozent: Goestl\nRaum: -\nAnmerkung: ONLINE - Achtung drei Studierende mit
+	 Nachteilsausgleich\; aus Kurs B+C je 1 x bis 11.05 Uhr und aus Kurs A bi
+	s 11.15 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T100000
+DTEND;TZID=Europe/Berlin:20201211T105000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974670
+SUMMARY:Klausur\;WI-112 IT/WI-BetrSys-Th.Grdl.\;Witte\, R.\;ONLINE - Acht
+	ung 3 Studierende mit Nachteilsausgleich\; aus Kurs B+C je 1 x bis 15.20 
+	Uhr\, aus Kurs A bis 15.30 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-112 IT/WI-BetrSys-Th.Grdl.\nD
+	ozent: Witte\, R.\nRaum: -\nAnmerkung: ONLINE - Achtung 3 Studierende mit
+	 Nachteilsausgleich\; aus Kurs B+C je 1 x bis 15.20 Uhr\, aus Kurs A bis 
+	15.30 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T150000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974676
+SUMMARY:Klausur\;WI-114 IT/WI-DatBk\;Witte\, R.\;ONLINE\; Achtung: 1 Stud
+	ierende/r mit Nachteilsausgleich bis 11.20 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-114 IT/WI-DatBk\nDozent: Witt
+	e\, R.\nRaum: -\nAnmerkung: ONLINE\; Achtung: 1 Studierende/r mit Nachtei
+	lsausgleich bis 11.20 Uhr\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T100000
+DTEND;TZID=Europe/Berlin:20201214T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201122Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974694
+SUMMARY:Klausur\;WI-102WIWI-Betr.FB\;Gatzer\;ONLINE - Achtung 2 Studieren
+	de mit Nachteilsausgleich\; 1 x aus Kurs B bis 11.40 Uhr\, 1 x aus Kurs A
+	 bis 12.00 Uhr
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-102WIWI-Betr.FB\nDozent: Gatz
+	er\nRaum: -\nAnmerkung: ONLINE - Achtung 2 Studierende mit Nachteilsausgl
+	eich\; 1 x aus Kurs B bis 11.40 Uhr\, 1 x aus Kurs A bis 12.00 Uhr\nPause
+	: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T090000
+DTEND;TZID=Europe/Berlin:20201217T110000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

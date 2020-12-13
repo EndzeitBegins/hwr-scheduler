@@ -1,0 +1,184 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201026T000000
+X-SKED-SYNC-DTEND:20201102T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10845
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971118
+SUMMARY:SU\;401 -Wppff. betriebliche Altersvorsorge\;Kothe\;Online-Klausu
+	r
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 401 -Wppff. betriebliche Altersvorsor
+	ge\nDozent: Kothe\nRaum: -\nAnmerkung: Online-Klausur\nPause: -\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T090000
+DTEND;TZID=Europe/Berlin:20201027T100000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970607
+SUMMARY:Klausur\;401 Wpff. Ethik\;Bustamante\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401 Wpff. Ethik\nDozent: Bustama
+	nte\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T100000
+DTEND;TZID=Europe/Berlin:20201027T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931167
+SUMMARY:Prüfung\;Klausur/Mündliche Prüfung 401-Wpff.\;business weg\;ONLIN
+	E - Businessweg informiert Sie über alles Weitere.
+LOCATION:
+DESCRIPTION:Art: Prüfung\nVeranstaltung: Klausur/Mündliche Prüfung 401-Wp
+	ff.\nDozent: business weg\nRaum: -\nAnmerkung: ONLINE - Businessweg infor
+	miert Sie über alles Weitere.\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T100000
+DTEND;TZID=Europe/Berlin:20201027T130000
+X-SKED-OUTLOOKFARBINDEX:1
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971769
+SUMMARY:Klausur\;201-SBWL\;ONLINE  Modul BK-201 - Geschäftspolitik der Kr
+	editinstitute I\nRiskmanagement  -  Herr Lennart Wagner 9.00 - 10.25\nRis
+	kmanagement - Herr JanniK de Winter 10.35 - 12.00\nBilanzielle Risikovors
+	orge der KI - Dr. Hans-Peter Jurscha 12.10 -  12.55
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 201-SBWL\nDozent: -\nRaum: -\nAn
+	merkung: ONLINE  Modul BK-201 - Geschäftspolitik der Kreditinstitute I\nR
+	iskmanagement  -  Herr Lennart Wagner 9.00 - 10.25\nRiskmanagement - Herr
+	 JanniK de Winter 10.35 - 12.00\nBilanzielle Risikovorsorge der KI - Dr. 
+	Hans-Peter Jurscha 12.10 -  12.55\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201028T090000
+DTEND;TZID=Europe/Berlin:20201028T125500
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971770
+SUMMARY:Klausur\;202-SBWL\;ONLINE  Modul BK-202 - Vertiefung Kreditgeschä
+	fte\nTeil 1 - Prof. Schütt 9.00 - 10.45\nTeil 2 - Hr. Liesegang 10.55 - 1
+	2.00\nTeil 3 - Herr Heublein 12.10-13.00
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 202-SBWL\nDozent: -\nRaum: -\nAn
+	merkung: ONLINE  Modul BK-202 - Vertiefung Kreditgeschäfte\nTeil 1 - Prof
+	. Schütt 9.00 - 10.45\nTeil 2 - Hr. Liesegang 10.55 - 12.00\nTeil 3 - Her
+	r Heublein 12.10-13.00\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201029T090000
+DTEND;TZID=Europe/Berlin:20201029T130000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958545
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T080000
+DTEND;TZID=Europe/Berlin:20201030T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958547
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T094500
+DTEND;TZID=Europe/Berlin:20201030T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958549
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T113000
+DTEND;TZID=Europe/Berlin:20201030T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958551
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T140000
+DTEND;TZID=Europe/Berlin:20201030T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201137Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de958553
+SUMMARY:R\;Reserviert\;
+LOCATION:
+DESCRIPTION:Art: R\nVeranstaltung: Reserviert\nDozent: -\nRaum: -\nAnmerk
+	ung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T154500
+DTEND;TZID=Europe/Berlin:20201030T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

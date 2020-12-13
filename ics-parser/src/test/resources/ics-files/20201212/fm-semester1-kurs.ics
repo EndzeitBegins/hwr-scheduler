@@ -1,0 +1,518 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10829
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963568
+SUMMARY:SU\;6001-Mathematik 1\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6001-Mathematik 1\nDozent: Mugele\nRa
+	um: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970865
+SUMMARY:SU\;1001-Grundlagen des FM\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 1001-Grundlagen des FM\nDozent: Pelze
+	ter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T133000
+DTEND;TZID=Europe/Berlin:20201207T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960186
+SUMMARY:SU\;6003-Mechanik 1\;Kurzawa\;CL: 6A.228\;Gruppe A
+LOCATION:CL: 6A.228
+DESCRIPTION:Art: SU\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa\nRau
+	m: CL: 6A.228\nAnmerkung: Gruppe A\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T090000
+DTEND;TZID=Europe/Berlin:20201208T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963538
+SUMMARY:SU\;5001-Informatik für FM\;Bieker\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5001-Informatik für FM\nDozent: Bieke
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T130000
+DTEND;TZID=Europe/Berlin:20201208T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960168
+SUMMARY:SU\;6003-Mechanik 1\;Kurzawa\;CL: 6A.228\;Gruppe B
+LOCATION:CL: 6A.228
+DESCRIPTION:Art: SU\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa\nRau
+	m: CL: 6A.228\nAnmerkung: Gruppe B\nPause: inkl. 15 min Pause\nVeranstalt
+	ungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T090000
+DTEND;TZID=Europe/Berlin:20201209T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963534
+SUMMARY:SU\;5001-Informatik für FM\;Bieker\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5001-Informatik für FM\nDozent: Bieke
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T130000
+DTEND;TZID=Europe/Berlin:20201209T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970514
+SUMMARY:Ü\;Tutorium Mathe I\;Bolsenkötter\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathe I\nDozent: Bolsenkötter
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T163000
+DTEND;TZID=Europe/Berlin:20201209T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963548
+SUMMARY:SU\;1001-Grundlagen des FM\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 1001-Grundlagen des FM\nDozent: Pelze
+	ter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963558
+SUMMARY:SU\;2001-Dokumentation\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Dokumentation\nDozent: Lundszien
+	\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963555
+SUMMARY:SU\;2001-Dokumentation\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Dokumentation\nDozent: Lundszien
+	\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201211T094500
+DTEND;TZID=Europe/Berlin:20201211T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947549
+SUMMARY:SU\;2001-Kommunikation\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Kommunikation\nDozent: Drebing\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947551
+SUMMARY:SU\;2001-Kommunikation\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Kommunikation\nDozent: Drebing\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T104500
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947553
+SUMMARY:SU\;2001-Kommunikation\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Kommunikation\nDozent: Drebing\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T124500
+DTEND;TZID=Europe/Berlin:20201214T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de947559
+SUMMARY:SU\;2001-Kommunikation\;Drebing\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Kommunikation\nDozent: Drebing\n
+	Raum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T143000
+DTEND;TZID=Europe/Berlin:20201214T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960177
+SUMMARY:SU\;6003-Mechanik 1\;Kurzawa\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa\nRau
+	m: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201215T090000
+DTEND;TZID=Europe/Berlin:20201215T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963569
+SUMMARY:SU\;6001-Mathematik 1\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6001-Mathematik 1\nDozent: Mugele\nRa
+	um: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201215T130000
+DTEND;TZID=Europe/Berlin:20201215T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960169
+SUMMARY:SU\;6003-Mechanik 1\;Kurzawa\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa\nRau
+	m: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201216T090000
+DTEND;TZID=Europe/Berlin:20201216T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963535
+SUMMARY:SU\;5001-Informatik für FM\;Bieker\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5001-Informatik für FM\nDozent: Bieke
+	r\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunterg
+	ruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T130000
+DTEND;TZID=Europe/Berlin:20201216T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970515
+SUMMARY:Ü\;Tutorium Mathe I\;Bolsenkötter\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathe I\nDozent: Bolsenkötter
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T163000
+DTEND;TZID=Europe/Berlin:20201216T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963549
+SUMMARY:SU\;1001-Grundlagen des FM\;Pelzeter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 1001-Grundlagen des FM\nDozent: Pelze
+	ter\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963895
+SUMMARY:SU\;2001-Dokumentation\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Dokumentation\nDozent: Lundszien
+	\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963556
+SUMMARY:SU\;2001-Dokumentation\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 2001-Dokumentation\nDozent: Lundszien
+	\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960172
+SUMMARY:SU\;6001-Mathematik 1\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6001-Mathematik 1\nDozent: Mugele\nRa
+	um: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960171
+SUMMARY:SU\;6003-Mechanik 1\;Kurzawa\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa\nRau
+	m: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210105T090000
+DTEND;TZID=Europe/Berlin:20210105T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960173
+SUMMARY:SU\;6001-Mathematik 1\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 6001-Mathematik 1\nDozent: Mugele\nRa
+	um: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963536
+SUMMARY:SU\;5001-Informatik für FM\;Bieker\;Gruppe nach Absprache mit Doz
+	ent
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5001-Informatik für FM\nDozent: Bieke
+	r\nRaum: -\nAnmerkung: Gruppe nach Absprache mit Dozent\nPause: inkl. 15 
+	min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T140000
+DTEND;TZID=Europe/Berlin:20210106T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970516
+SUMMARY:Ü\;Tutorium Mathe I\;Bolsenkötter\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Tutorium Mathe I\nDozent: Bolsenkötter
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T160000
+DTEND;TZID=Europe/Berlin:20210107T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963574
+SUMMARY:Klausur\;6001-Mathematik 1\;Mugele\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 6001-Mathematik 1\nDozent: Mugel
+	e\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T090000
+DTEND;TZID=Europe/Berlin:20210111T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963575
+SUMMARY:Klausur\;6003-Mechanik 1\;Kurzawa\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 6003-Mechanik 1\nDozent: Kurzawa
+	\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T140000
+DTEND;TZID=Europe/Berlin:20210113T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de963576
+SUMMARY:Klausur\;5001-Informatik für FM\;Bieker\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 5001-Informatik für FM\nDozent: 
+	Bieker\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T140000
+DTEND;TZID=Europe/Berlin:20210115T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978566
+SUMMARY:SU\;5002-Praxistransfer 1 - Digitalisierung im FM\;Bieker\, Meede
+	r\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5002-Praxistransfer 1 - Digitalisieru
+	ng im FM\nDozent: Bieker\, Meeder\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T160000
+DTEND;TZID=Europe/Berlin:20210128T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978567
+SUMMARY:SU\;5002-Praxistransfer 1 - Digitalisierung im FM\;Bieker\, Meede
+	r\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5002-Praxistransfer 1 - Digitalisieru
+	ng im FM\nDozent: Bieker\, Meeder\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T160000
+DTEND;TZID=Europe/Berlin:20210217T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201140Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978568
+SUMMARY:SU\;5002-Praxistransfer 1 - Digitalisierung im FM\;Bieker\, Meede
+	r\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 5002-Praxistransfer 1 - Digitalisieru
+	ng im FM\nDozent: Bieker\, Meeder\nRaum: -\nAnmerkung: -\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T160000
+DTEND;TZID=Europe/Berlin:20210315T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

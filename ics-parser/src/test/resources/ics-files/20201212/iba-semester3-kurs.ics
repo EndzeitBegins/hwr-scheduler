@@ -1,0 +1,61 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20181217T000000
+X-SKED-SYNC-DTEND:20181224T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:8671
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20181223T201510Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de887907
+SUMMARY:Klausur\;114-VWL-Konjunktur u. Wachstum\;Prof. Dr. Mertens\, Prof
+	. Dr. Roxin
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 114-VWL-Konjunktur u. Wachstum\n
+	Veranstaltungsuntergruppe: -\nAnmerkung: -\nDozent: Prof. Dr. Mertens\, P
+	rof. Dr. Roxin\nRaum: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20181217T093000
+DTEND;TZID=Europe/Berlin:20181217T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181223T201510Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de888023
+SUMMARY:Klausur\;112-Finanzierg. u. Investition\;Achtung! 2 Studierende d
+	er FR IN haben einen Nachteilsausgleich: Kurs IN A bis 12.25 Uhr und Kurs
+	 IN B bis 12.50 Uhr\;Prof. Dr. Tippelhofer\, Prof. Dr. Weyer
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: 112-Finanzierg. u. Investition\n
+	Veranstaltungsuntergruppe: -\nAnmerkung: Achtung! 2 Studierende der FR IN
+	 haben einen Nachteilsausgleich: Kurs IN A bis 12.25 Uhr und Kurs IN B bi
+	s 12.50 Uhr\nDozent: Prof. Dr. Tippelhofer\, Prof. Dr. Weyer\nRaum: CL: 1
+	.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20181220T100000
+DTEND;TZID=Europe/Berlin:20181220T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

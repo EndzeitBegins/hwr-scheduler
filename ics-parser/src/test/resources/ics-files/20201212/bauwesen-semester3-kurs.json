@@ -1,0 +1,53 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de771775",
+      "start": "2016-11-07T08:00:00Z",
+      "end": "2016-11-07T11:00:00Z",
+      "module": "BW2011-Baubetrieb I",
+      "lecturers": [
+        "Wotschke"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de771585",
+      "start": "2016-11-08T09:00:00Z",
+      "end": "2016-11-08T10:40:00Z",
+      "module": "BW4014-Recht I",
+      "lecturers": [
+        "Termin noch nicht bestätigt"
+      ],
+      "room": "CL: 5.0002",
+      "type": "Klausur",
+      "note": "Heerma"
+    },
+    {
+      "uid": "sked.de771582",
+      "start": "2016-11-09T08:00:00Z",
+      "end": "2016-11-09T11:00:00Z",
+      "module": "BW2012-Baukonstruktion I",
+      "lecturers": [
+        "Kowalke",
+        "Dipl.-Ing. (FH) Woge"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de761210",
+      "start": "2016-11-11T08:00:00Z",
+      "end": "2016-11-11T11:00:00Z",
+      "module": "BW2013-TWL I",
+      "lecturers": [
+        "Raum 6b.259"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Schmeitzner"
+    }
+  ]
+}

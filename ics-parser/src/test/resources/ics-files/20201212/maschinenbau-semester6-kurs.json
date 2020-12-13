@@ -1,0 +1,1092 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de973141",
+      "start": "2021-02-15T07:00:00Z",
+      "end": "2021-02-15T10:15:00Z",
+      "module": "MB3064- Vertiefung BWL",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973150",
+      "start": "2021-02-15T10:30:00Z",
+      "end": "2021-02-15T10:55:00Z",
+      "module": "Informationsveranstaltung neues Semester",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "I",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977249",
+      "start": "2021-02-15T11:30:00Z",
+      "end": "2021-02-15T14:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977340",
+      "start": "2021-02-16T08:00:00Z",
+      "end": "2021-02-16T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977255",
+      "start": "2021-02-16T12:00:00Z",
+      "end": "2021-02-16T15:15:00Z",
+      "module": "MB3061- Produktdatenmmt.",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973161",
+      "start": "2021-02-17T07:00:00Z",
+      "end": "2021-02-17T10:15:00Z",
+      "module": "MB3064- Vertiefung BWL",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975402",
+      "start": "2021-02-17T12:00:00Z",
+      "end": "2021-02-17T16:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973162",
+      "start": "2021-02-18T07:00:00Z",
+      "end": "2021-02-18T10:15:00Z",
+      "module": "MB3064- Vertiefung BWL",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977801",
+      "start": "2021-02-18T11:00:00Z",
+      "end": "2021-02-18T12:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975401",
+      "start": "2021-02-19T07:00:00Z",
+      "end": "2021-02-19T11:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973163",
+      "start": "2021-02-22T07:00:00Z",
+      "end": "2021-02-22T10:15:00Z",
+      "module": "MB3064- Vertiefung BWL",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977252",
+      "start": "2021-02-22T11:30:00Z",
+      "end": "2021-02-22T14:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973164",
+      "start": "2021-02-23T07:00:00Z",
+      "end": "2021-02-23T10:15:00Z",
+      "module": "MB3064- Vertiefung BWL",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977256",
+      "start": "2021-02-23T11:30:00Z",
+      "end": "2021-02-23T14:45:00Z",
+      "module": "MB3061- Produktdatenmmt.",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973213",
+      "start": "2021-02-24T07:00:00Z",
+      "end": "2021-02-24T14:00:00Z",
+      "module": "MB3063-WPF III: VBA",
+      "lecturers": [
+        "Platzer"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SI",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977808",
+      "start": "2021-02-25T07:30:00Z",
+      "end": "2021-02-25T09:00:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978570",
+      "start": "2021-02-25T08:00:00Z",
+      "end": "2021-02-25T11:00:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Fluidenergiemaschinen + Werkzeugmaschinen/Fertigungssysteme\\, Raum: 5.3001"
+    },
+    {
+      "uid": "sked.de973214",
+      "start": "2021-02-25T11:30:00Z",
+      "end": "2021-02-25T14:45:00Z",
+      "module": "MB3063-WPF III: VBA",
+      "lecturers": [
+        "Platzer"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SI",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de973215",
+      "start": "2021-02-26T07:00:00Z",
+      "end": "2021-02-26T14:00:00Z",
+      "module": "MB3063-WPF III: VBA",
+      "lecturers": [
+        "Platzer"
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "SI",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977337",
+      "start": "2021-03-01T08:00:00Z",
+      "end": "2021-03-01T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978571",
+      "start": "2021-03-02T08:00:00Z",
+      "end": "2021-03-02T10:30:00Z",
+      "module": "Wieder-/Nachholung",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Techn Logistik + Sensorik/Aktorik\\, Raum: 5.3001"
+    },
+    {
+      "uid": "sked.de977253",
+      "start": "2021-03-02T11:30:00Z",
+      "end": "2021-03-02T14:45:00Z",
+      "module": "MB3061- Produktdatenmmt.",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977258",
+      "start": "2021-03-03T07:00:00Z",
+      "end": "2021-03-03T10:15:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977254",
+      "start": "2021-03-03T11:30:00Z",
+      "end": "2021-03-03T14:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de976200",
+      "start": "2021-03-04T07:00:00Z",
+      "end": "2021-03-04T09:30:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977802",
+      "start": "2021-03-04T10:30:00Z",
+      "end": "2021-03-04T12:00:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975403",
+      "start": "2021-03-05T07:00:00Z",
+      "end": "2021-03-05T11:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977336",
+      "start": "2021-03-09T08:00:00Z",
+      "end": "2021-03-09T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977257",
+      "start": "2021-03-09T12:00:00Z",
+      "end": "2021-03-09T15:15:00Z",
+      "module": "MB3061- Produktdatenmmt.",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974511",
+      "start": "2021-03-10T07:00:00Z",
+      "end": "2021-03-10T16:00:00Z",
+      "module": "MB3063-WPF I/II: Verfahrenstechnik",
+      "lecturers": [
+        "Timm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975833",
+      "start": "2021-03-11T07:00:00Z",
+      "end": "2021-03-11T09:30:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977803",
+      "start": "2021-03-11T10:30:00Z",
+      "end": "2021-03-11T12:00:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975404",
+      "start": "2021-03-12T07:00:00Z",
+      "end": "2021-03-12T11:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974518",
+      "start": "2021-03-12T14:00:00Z",
+      "end": "2021-03-12T18:00:00Z",
+      "module": "MB3063-WPF I/II: Verfahrenstechnik",
+      "lecturers": [
+        "Timm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977335",
+      "start": "2021-03-15T08:00:00Z",
+      "end": "2021-03-15T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de978934",
+      "start": "2021-03-15T14:00:00Z",
+      "end": "2021-03-15T15:30:00Z",
+      "module": "MB3064- BWL II",
+      "lecturers": [
+        "Gatzer",
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de973211",
+      "start": "2021-03-16T07:00:00Z",
+      "end": "2021-03-16T10:15:00Z",
+      "module": "MB3061- Labor Prod.planung u. -steuerg.",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977259",
+      "start": "2021-03-16T11:30:00Z",
+      "end": "2021-03-16T14:45:00Z",
+      "module": "MB3061- Produktdatenmmt.",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977339",
+      "start": "2021-03-17T08:00:00Z",
+      "end": "2021-03-17T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977261",
+      "start": "2021-03-17T12:00:00Z",
+      "end": "2021-03-17T15:15:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975834",
+      "start": "2021-03-18T07:00:00Z",
+      "end": "2021-03-18T10:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977260",
+      "start": "2021-03-18T11:30:00Z",
+      "end": "2021-03-18T14:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975405",
+      "start": "2021-03-19T07:00:00Z",
+      "end": "2021-03-19T11:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977804",
+      "start": "2021-03-19T12:00:00Z",
+      "end": "2021-03-19T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977334",
+      "start": "2021-03-22T08:00:00Z",
+      "end": "2021-03-22T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973208",
+      "start": "2021-03-23T07:00:00Z",
+      "end": "2021-03-23T10:15:00Z",
+      "module": "MB3061- Labor Prod.planung u. -steuerg.",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977262",
+      "start": "2021-03-23T11:30:00Z",
+      "end": "2021-03-23T14:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977333",
+      "start": "2021-03-24T08:00:00Z",
+      "end": "2021-03-24T11:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977805",
+      "start": "2021-03-24T12:00:00Z",
+      "end": "2021-03-24T13:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975835",
+      "start": "2021-03-25T07:00:00Z",
+      "end": "2021-03-25T10:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977272",
+      "start": "2021-03-25T11:30:00Z",
+      "end": "2021-03-25T14:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977291",
+      "start": "2021-03-26T07:00:00Z",
+      "end": "2021-03-26T10:15:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977284",
+      "start": "2021-03-26T11:30:00Z",
+      "end": "2021-03-26T14:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971967",
+      "start": "2021-03-29T06:00:00Z",
+      "end": "2021-03-29T13:30:00Z",
+      "module": "MB3062- Projektmanagement",
+      "lecturers": [
+        "Hartmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "SU",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de973209",
+      "start": "2021-03-30T06:00:00Z",
+      "end": "2021-03-30T09:15:00Z",
+      "module": "MB3061- Labor Prod.planung u. -steuerg.",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977263",
+      "start": "2021-03-30T10:30:00Z",
+      "end": "2021-03-30T13:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de971968",
+      "start": "2021-03-31T06:00:00Z",
+      "end": "2021-03-31T13:30:00Z",
+      "module": "MB3062- Projektmanagement",
+      "lecturers": [
+        "Hartmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "SU",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de971969",
+      "start": "2021-04-01T06:00:00Z",
+      "end": "2021-04-01T09:15:00Z",
+      "module": "MB3062- Projektmanagement",
+      "lecturers": [
+        "Hartmann"
+      ],
+      "room": "CL: 5.0002",
+      "type": "SU",
+      "note": "CL: 5.0002"
+    },
+    {
+      "uid": "sked.de977271",
+      "start": "2021-04-01T10:30:00Z",
+      "end": "2021-04-01T13:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de973210",
+      "start": "2021-04-06T06:00:00Z",
+      "end": "2021-04-06T09:15:00Z",
+      "module": "MB3061- Labor Prod.planung u. -steuerg.",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977264",
+      "start": "2021-04-06T10:30:00Z",
+      "end": "2021-04-06T13:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977332",
+      "start": "2021-04-07T07:00:00Z",
+      "end": "2021-04-07T10:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977806",
+      "start": "2021-04-07T11:00:00Z",
+      "end": "2021-04-07T14:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977270",
+      "start": "2021-04-08T06:00:00Z",
+      "end": "2021-04-08T09:15:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977273",
+      "start": "2021-04-08T10:30:00Z",
+      "end": "2021-04-08T13:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975759",
+      "start": "2021-04-09T06:00:00Z",
+      "end": "2021-04-09T10:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975767",
+      "start": "2021-04-09T11:00:00Z",
+      "end": "2021-04-09T15:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de977338",
+      "start": "2021-04-12T07:00:00Z",
+      "end": "2021-04-12T10:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974517",
+      "start": "2021-04-12T12:30:00Z",
+      "end": "2021-04-12T16:30:00Z",
+      "module": "MB3063-WPF I/II: Verfahrenstechnik",
+      "lecturers": [
+        "Timm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974516",
+      "start": "2021-04-13T06:00:00Z",
+      "end": "2021-04-13T15:00:00Z",
+      "module": "MB3063-WPF I/II: Verfahrenstechnik",
+      "lecturers": [
+        "Timm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977331",
+      "start": "2021-04-14T07:00:00Z",
+      "end": "2021-04-14T10:15:00Z",
+      "module": "MB3063-WPF I/II/III: Kfz-Technik",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977807",
+      "start": "2021-04-14T11:00:00Z",
+      "end": "2021-04-14T12:30:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Munby"
+      ],
+      "room": null,
+      "type": "S",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977269",
+      "start": "2021-04-15T06:00:00Z",
+      "end": "2021-04-15T09:15:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977274",
+      "start": "2021-04-15T10:30:00Z",
+      "end": "2021-04-15T13:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975406",
+      "start": "2021-04-16T06:00:00Z",
+      "end": "2021-04-16T10:15:00Z",
+      "module": "MB3064- Ingenieurrecht",
+      "lecturers": [
+        "Faden",
+        "Ch."
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de976178",
+      "start": "2021-04-19T06:00:00Z",
+      "end": "2021-04-19T10:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de976179",
+      "start": "2021-04-19T11:00:00Z",
+      "end": "2021-04-19T15:15:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de973212",
+      "start": "2021-04-20T06:00:00Z",
+      "end": "2021-04-20T09:15:00Z",
+      "module": "MB3061- Labor Prod.planung u. -steuerg.",
+      "lecturers": [
+        "Lange, P."
+      ],
+      "room": "CL: 6B.151 (CAD-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.151 (CAD-L)"
+    },
+    {
+      "uid": "sked.de977265",
+      "start": "2021-04-20T10:30:00Z",
+      "end": "2021-04-20T13:45:00Z",
+      "module": "MB3061- Fabrikbetrieb",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974515",
+      "start": "2021-04-21T06:00:00Z",
+      "end": "2021-04-21T15:00:00Z",
+      "module": "MB3063-WPF I/II: Verfahrenstechnik",
+      "lecturers": [
+        "Timm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977267",
+      "start": "2021-04-22T06:00:00Z",
+      "end": "2021-04-22T09:15:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de977281",
+      "start": "2021-04-22T10:30:00Z",
+      "end": "2021-04-22T13:45:00Z",
+      "module": "MB3062- Qualitätsmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de975830",
+      "start": "2021-04-23T06:00:00Z",
+      "end": "2021-04-23T11:00:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 1",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de975829",
+      "start": "2021-04-23T11:30:00Z",
+      "end": "2021-04-23T16:30:00Z",
+      "module": "MB3063-WPF II: Ölhydraulik und Pneumatik Gruppe 2",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "S+L",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de977341",
+      "start": "2021-04-28T07:00:00Z",
+      "end": "2021-04-28T09:00:00Z",
+      "module": "MB3063 - Wahlpflichtfach I/II/III",
+      "lecturers": [
+        "Kurzawa"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de977343",
+      "start": "2021-04-30T07:00:00Z",
+      "end": "2021-04-30T09:30:00Z",
+      "module": "MB3062-Qual.u. Projektmanagement",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de977344",
+      "start": "2021-05-03T07:00:00Z",
+      "end": "2021-05-03T09:00:00Z",
+      "module": "MB3061- Produktionssteuerung",
+      "lecturers": [
+        "Schomäcker"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de977345",
+      "start": "2021-05-05T07:00:00Z",
+      "end": "2021-05-05T09:00:00Z",
+      "module": "MB3063 - Wahlpflichtfach I/II/III",
+      "lecturers": [
+        "Steinmann",
+        "Timm"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Verfahrenstechnik"
+    },
+    {
+      "uid": "sked.de978932",
+      "start": "2021-05-07T06:00:00Z",
+      "end": "2021-05-07T18:00:00Z",
+      "module": "Studienreise",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "E",
+      "note": null
+    },
+    {
+      "uid": "sked.de978933",
+      "start": "2021-05-08T06:00:00Z",
+      "end": "2021-05-08T18:00:00Z",
+      "module": "Studienreise",
+      "lecturers": [
+        "Steinmann"
+      ],
+      "room": null,
+      "type": "E",
+      "note": null
+    }
+  ]
+}

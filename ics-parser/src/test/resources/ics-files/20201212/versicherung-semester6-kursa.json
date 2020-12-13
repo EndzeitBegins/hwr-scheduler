@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945639",
+      "start": "2020-04-20T07:00:00Z",
+      "end": "2020-04-20T10:00:00Z",
+      "module": "203-SBWL",
+      "lecturers": [
+        "Präsenzklausur wird verschoben"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Köhne"
+    },
+    {
+      "uid": "sked.de945648",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T09:00:00Z",
+      "module": "402 Wpff. Statist. Verf. in d. Marktforschg.",
+      "lecturers": [
+        "gem. Absprache Prof. Dr. Brinner"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Brinner"
+    },
+    {
+      "uid": "sked.de945643",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T10:30:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945651",
+      "start": "2020-04-23T07:00:00Z",
+      "end": "2020-04-23T09:00:00Z",
+      "module": "204-SBWL",
+      "lecturers": [
+        "Präsenzklausur wird verschoben"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Köhne"
+    }
+  ]
+}

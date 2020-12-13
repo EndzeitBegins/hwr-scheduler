@@ -1,0 +1,842 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10925
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968226
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968228
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979129
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979131
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968276
+SUMMARY:SU\;Digitalisierung in Unternehmen\;von Saucken\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: von Saucken\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968278
+SUMMARY:SU\;Digitalisierung in Unternehmen\;von Saucken\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: von Saucken\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20201209T113000
+DTEND;TZID=Europe/Berlin:20201209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968024
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T140000
+DTEND;TZID=Europe/Berlin:20201209T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968026
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201209T154500
+DTEND;TZID=Europe/Berlin:20201209T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972184
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T164500
+DTEND;TZID=Europe/Berlin:20201209T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968242
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T080000
+DTEND;TZID=Europe/Berlin:20201210T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967058
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967060
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T113000
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968407
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968409
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966749
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966751
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201211T104500
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967953
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967955
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201211T154500
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966719
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966721
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201214T104500
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968281
+SUMMARY:SU\;Digitalisierung in Unternehmen\;von Saucken\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: von Saucken\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968283
+SUMMARY:SU\;Digitalisierung in Unternehmen\;von Saucken\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: von Saucken\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967074
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967076
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T154500
+DTEND;TZID=Europe/Berlin:20201215T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968230
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T080000
+DTEND;TZID=Europe/Berlin:20201216T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968232
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967082
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967066
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967068
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T154500
+DTEND;TZID=Europe/Berlin:20201216T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972186
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T173000
+DTEND;TZID=Europe/Berlin:20201216T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967956
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967958
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973268
+SUMMARY:SU\;Digitalisierung in Unternehmen\;von Saucken\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: von Saucken\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrupp
+	e: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973272
+SUMMARY:Klausur\;Digitalisierung in Unternehmen\;von Saucken\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Digitalisierung in Unternehmen\n
+	Dozent: von Saucken\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T154500
+DTEND;TZID=Europe/Berlin:20201217T171500
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966744
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T090000
+DTEND;TZID=Europe/Berlin:20201218T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966746
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T104500
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966748
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20201218T123000
+DTEND;TZID=Europe/Berlin:20201218T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967969
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201218T150000
+DTEND;TZID=Europe/Berlin:20201218T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968318
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201218T164500
+DTEND;TZID=Europe/Berlin:20201218T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967972
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967974
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T113000
+DTEND;TZID=Europe/Berlin:20210104T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966715
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T090000
+DTEND;TZID=Europe/Berlin:20210105T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966717
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T104500
+DTEND;TZID=Europe/Berlin:20210105T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966753
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T134500
+DTEND;TZID=Europe/Berlin:20210105T151500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966755
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Bergmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Bergmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T153000
+DTEND;TZID=Europe/Berlin:20210105T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968234
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968236
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972188
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T173000
+DTEND;TZID=Europe/Berlin:20210106T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979062
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979064
+SUMMARY:SU\;Materialwirtschaft\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Wildebran
+	d\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967985
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T144500
+DTEND;TZID=Europe/Berlin:20210107T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967987
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T163000
+DTEND;TZID=Europe/Berlin:20210107T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968162
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T080000
+DTEND;TZID=Europe/Berlin:20210108T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968164
+SUMMARY:SU\;Mathematik\;Brinner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Brinner\nRaum: -\n
+	Anmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T094500
+DTEND;TZID=Europe/Berlin:20210108T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968411
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T114500
+DTEND;TZID=Europe/Berlin:20210108T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968413
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T133000
+DTEND;TZID=Europe/Berlin:20210108T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

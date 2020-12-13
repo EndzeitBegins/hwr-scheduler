@@ -1,0 +1,81 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200629T000000
+X-SKED-SYNC-DTEND:20200706T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9300
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200705T201241Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955937
+SUMMARY:Klausur\;WI-107 WIWI-VWL\;Online\;Wagner
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-107 WIWI-VWL\nVeranstaltungsu
+	ntergruppe: -\nAnmerkung: Online\nDozent: Wagner\nRaum: -
+DTSTART;TZID=Europe/Berlin:20200629T100000
+DTEND;TZID=Europe/Berlin:20200629T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200705T201241Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959099
+SUMMARY:Klausur\;WI-302 Mathematik II - OR\;Kurs A und 18 Teilnehmer aus 
+	Kurs B im Audimax vorne (Prof. Rosentreter\, Prof. Kölling)\; 18 Teilnehm
+	er aus Kurs B und Kurs C im Audimax hinten (Prof. Schwertfeger\, Prof. Wo
+	ogt)\; + 3 NH/WH WI-18/1 + 4 NH/WH WI-18/2 im Audimax hinten\;Prof. Dr. K
+	ölling\, Prof. Dr. Rosentreter\, Prof. Dr. Schwertfeger\, Prof. Dr. Woogt
+LOCATION:CL: 1.Audimax hinten\, CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-302 Mathematik II - OR\nVeran
+	staltungsuntergruppe: -\nAnmerkung: Kurs A und 18 Teilnehmer aus Kurs B i
+	m Audimax vorne (Prof. Rosentreter\, Prof. Kölling)\; 18 Teilnehmer aus K
+	urs B und Kurs C im Audimax hinten (Prof. Schwertfeger\, Prof. Woogt)\; +
+	 3 NH/WH WI-18/1 + 4 NH/WH WI-18/2 im Audimax hinten\nDozent: Prof. Dr. K
+	ölling\, Prof. Dr. Rosentreter\, Prof. Dr. Schwertfeger\, Prof. Dr. Woogt
+	\nRaum: CL: 1.Audimax vorn\, CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20200630T140000
+DTEND;TZID=Europe/Berlin:20200630T170000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200705T201241Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955964
+SUMMARY:Klausur\;WI-103 WIWI-Projektmanagement\;Online\;Koschnick
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: WI-103 WIWI-Projektmanagement\nV
+	eranstaltungsuntergruppe: -\nAnmerkung: Online\nDozent: Koschnick\nRaum: 
+	-
+DTSTART;TZID=Europe/Berlin:20200701T100000
+DTEND;TZID=Europe/Berlin:20200701T130000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

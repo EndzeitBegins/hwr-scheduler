@@ -1,0 +1,780 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10924
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966870
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966872
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201207T104500
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968020
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201207T131500
+DTEND;TZID=Europe/Berlin:20201207T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968022
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201207T150000
+DTEND;TZID=Europe/Berlin:20201207T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959618
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T084500
+DTEND;TZID=Europe/Berlin:20201208T101500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959620
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T103000
+DTEND;TZID=Europe/Berlin:20201208T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959652
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T121500
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964597
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201208T143000
+DTEND;TZID=Europe/Berlin:20201208T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964599
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201208T161500
+DTEND;TZID=Europe/Berlin:20201208T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959614
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T123000
+DTEND;TZID=Europe/Berlin:20201209T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959616
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T141500
+DTEND;TZID=Europe/Berlin:20201209T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972184
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T164500
+DTEND;TZID=Europe/Berlin:20201209T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964126
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964128
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T113000
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964130
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T131500
+DTEND;TZID=Europe/Berlin:20201210T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967948
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967950
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201211T104500
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966882
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966884
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201214T104500
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966894
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966896
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964593
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201215T143000
+DTEND;TZID=Europe/Berlin:20201215T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964595
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201215T161500
+DTEND;TZID=Europe/Berlin:20201215T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959627
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T123000
+DTEND;TZID=Europe/Berlin:20201216T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959629
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T141500
+DTEND;TZID=Europe/Berlin:20201216T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959631
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T160000
+DTEND;TZID=Europe/Berlin:20201216T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972186
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T173000
+DTEND;TZID=Europe/Berlin:20201216T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964131
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964133
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967961
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T150000
+DTEND;TZID=Europe/Berlin:20201217T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967963
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201217T164500
+DTEND;TZID=Europe/Berlin:20201217T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968307
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201218T084500
+DTEND;TZID=Europe/Berlin:20201218T101500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967965
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20201218T103000
+DTEND;TZID=Europe/Berlin:20201218T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968401
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T140000
+DTEND;TZID=Europe/Berlin:20201218T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968403
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T154500
+DTEND;TZID=Europe/Berlin:20201218T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966914
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de966916
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Roxin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Roxin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210104T104500
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967976
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T140000
+DTEND;TZID=Europe/Berlin:20210104T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967978
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210104T154500
+DTEND;TZID=Europe/Berlin:20210104T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959653
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T084500
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959654
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de959656
+SUMMARY:SU\;Mathematik\;Wolz\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Mathematik\nDozent: Wolz\nRaum: -\nAn
+	merkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T113000
+DTEND;TZID=Europe/Berlin:20210105T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964589
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210105T143000
+DTEND;TZID=Europe/Berlin:20210105T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964591
+SUMMARY:SU\;Digitalisierung in Unternehmen\;Witte\, R.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Digitalisierung in Unternehmen\nDozen
+	t: Witte\, R.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210105T161500
+DTEND;TZID=Europe/Berlin:20210105T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964135
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964137
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de964139
+SUMMARY:SU\;Materialwirtschaft\;Erkens\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Materialwirtschaft\nDozent: Erkens\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T131500
+DTEND;TZID=Europe/Berlin:20210106T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972188
+SUMMARY:Ü\;Mathe-Tutorium\;Wenzel\;
+LOCATION:
+DESCRIPTION:Art: Ü\nVeranstaltung: Mathe-Tutorium\nDozent: Wenzel\nRaum: 
+	-\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T173000
+DTEND;TZID=Europe/Berlin:20210106T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967980
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T094500
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967982
+SUMMARY:SU\;Volkswirtschaftliche Allokation\;Bartsch\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Volkswirtschaftliche Allokation\nDoze
+	nt: Bartsch\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: 
+	-
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968415
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T150000
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201129Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968417
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Jung\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Jung\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T164500
+DTEND;TZID=Europe/Berlin:20210107T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

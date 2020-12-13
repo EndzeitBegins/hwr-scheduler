@@ -1,0 +1,80 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20200323T000000
+X-SKED-SYNC-DTEND:20200330T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:9234
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200329T201150Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de926744
+SUMMARY:Klausur\;BW6044-Baubetrieb 2\;1 Studentin aus Kurs A mit Nachteil
+	sausgleich bis 12.20 Uhr.\;Dipl.-Kfm. Rottmann\, Prof. Dr. Wotschke
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW6044-Baubetrieb 2\nVeranstaltu
+	ngsuntergruppe: -\nAnmerkung: 1 Studentin aus Kurs A mit Nachteilsausglei
+	ch bis 12.20 Uhr.\nDozent: Dipl.-Kfm. Rottmann\, Prof. Dr. Wotschke\nRaum
+	: CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20200323T090000
+DTEND;TZID=Europe/Berlin:20200323T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200329T201150Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de926743
+SUMMARY:Klausur\;BW4041-Geotechnik\;1 Studentin aus Kurs A mit Nachteilsa
+	usgleich bis 12.20 Uhr\;Prof. Dr.-Ing. Schüßler
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW4041-Geotechnik\nVeranstaltung
+	suntergruppe: -\nAnmerkung: 1 Studentin aus Kurs A mit Nachteilsausgleich
+	 bis 12.20 Uhr\nDozent: Prof. Dr.-Ing. Schüßler\nRaum: CL: 1.Audimax hint
+	en
+DTSTART;TZID=Europe/Berlin:20200325T090000
+DTEND;TZID=Europe/Berlin:20200325T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200329T201150Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de926742
+SUMMARY:Klausur\;BW4042-Holz- und Mauerwerksbau\;1 Studentin aus Kurs A m
+	it Nachteilsausgleich bis 12.20 Uhr\;Prof. Dr.-Ing. Detzel\, Liess
+LOCATION:CL: 1.Audimax hinten
+DESCRIPTION:Art: Klausur\nVeranstaltung: BW4042-Holz- und Mauerwerksbau\n
+	Veranstaltungsuntergruppe: -\nAnmerkung: 1 Studentin aus Kurs A mit Nacht
+	eilsausgleich bis 12.20 Uhr\nDozent: Prof. Dr.-Ing. Detzel\, Liess\nRaum:
+	 CL: 1.Audimax hinten
+DTSTART;TZID=Europe/Berlin:20200327T090000
+DTEND;TZID=Europe/Berlin:20200327T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

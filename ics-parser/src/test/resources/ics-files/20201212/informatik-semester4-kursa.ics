@@ -1,0 +1,1278 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210104T000000
+X-SKED-SYNC-DTEND:20210329T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10810
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973216
+SUMMARY:SU\;IT2141-Software-Engineering II\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973224
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T083000
+DTEND;TZID=Europe/Berlin:20210106T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973225
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T130000
+DTEND;TZID=Europe/Berlin:20210106T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971970
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T180000
+DTEND;TZID=Europe/Berlin:20210106T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980977
+SUMMARY:Klausur\;Wiederholungs- u. Nachklausur\;Arkan\;BWL\, 2. Sem.\, ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wiederholungs- u. Nachklausur\nD
+	ozent: Arkan\nRaum: -\nAnmerkung: BWL\, 2. Sem.\, ONLINE\nPause: -\nVeran
+	staltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T140000
+DTEND;TZID=Europe/Berlin:20210107T163000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970828
+SUMMARY:SU\;IT3131-Skriptsprachen\;Wehrmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Skriptsprachen\nDozent: Wehrma
+	nn\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T093000
+DTEND;TZID=Europe/Berlin:20210108T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973658
+SUMMARY:S\;Englisch\;Munby\;ZOOM
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ZOOM\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T143000
+DTEND;TZID=Europe/Berlin:20210108T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973217
+SUMMARY:SU\;IT2141-Software-Engineering II\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T083000
+DTEND;TZID=Europe/Berlin:20210111T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de978978
+SUMMARY:Klausur\;Wiederholungs- u. Nachklausur\;Diskrete Mathematik\, 1. 
+	Sem.
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wiederholungs- u. Nachklausur\nD
+	ozent: -\nRaum: -\nAnmerkung: Diskrete Mathematik\, 1. Sem.\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210111T140000
+DTEND;TZID=Europe/Berlin:20210111T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972197
+SUMMARY:SU\;IT1151-Datenanalyse\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Datenanalyse\nDozent: Höhne\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210112T094500
+DTEND;TZID=Europe/Berlin:20210112T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971971
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210113T180000
+DTEND;TZID=Europe/Berlin:20210113T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973226
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T083000
+DTEND;TZID=Europe/Berlin:20210114T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973227
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210114T130000
+DTEND;TZID=Europe/Berlin:20210114T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973659
+SUMMARY:S\;Englisch\;Munby\;ZOOM
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ZOOM\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210115T143000
+DTEND;TZID=Europe/Berlin:20210115T174500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de980291
+SUMMARY:Klausur\;Wiederholungs- u. Nachklausur\;Méndez Omana\;Analysis\, 
+	2. Sem.
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: Wiederholungs- u. Nachklausur\nD
+	ozent: Méndez Omana\nRaum: -\nAnmerkung: Analysis\, 2. Sem.\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210118T140000
+DTEND;TZID=Europe/Berlin:20210118T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972198
+SUMMARY:SU\;IT1151-Datenanalyse\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Datenanalyse\nDozent: Höhne\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T094500
+DTEND;TZID=Europe/Berlin:20210119T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973660
+SUMMARY:S\;Englisch\;Munby\;ZOOM
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ZOOM\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210119T140000
+DTEND;TZID=Europe/Berlin:20210119T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973218
+SUMMARY:SU\;IT2141-Software-Engineering II\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T083000
+DTEND;TZID=Europe/Berlin:20210120T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971972
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210120T180000
+DTEND;TZID=Europe/Berlin:20210120T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973233
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210123T100000
+DTEND;TZID=Europe/Berlin:20210123T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973234
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210123T134500
+DTEND;TZID=Europe/Berlin:20210123T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972199
+SUMMARY:SU\;IT1151-Datenanalyse\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Datenanalyse\nDozent: Höhne\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210126T094500
+DTEND;TZID=Europe/Berlin:20210126T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973228
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T083000
+DTEND;TZID=Europe/Berlin:20210127T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973229
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T130000
+DTEND;TZID=Europe/Berlin:20210127T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971973
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210127T180000
+DTEND;TZID=Europe/Berlin:20210127T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970723
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210128T094500
+DTEND;TZID=Europe/Berlin:20210128T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970829
+SUMMARY:SU\;IT3131-Skriptsprachen\;Wehrmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Skriptsprachen\nDozent: Wehrma
+	nn\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T093000
+DTEND;TZID=Europe/Berlin:20210129T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973220
+SUMMARY:SU\;IT2141-Software-Engineering II\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210129T150000
+DTEND;TZID=Europe/Berlin:20210129T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972118
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Vorlesung online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Vorlesung online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T080000
+DTEND;TZID=Europe/Berlin:20210201T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972123
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Gruppengeteilte Übung
+	en online - Einteilung erfolgt in der Vorlesung
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Gruppengeteilte Übungen online - Einteilun
+	g erfolgt in der Vorlesung\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210201T094500
+DTEND;TZID=Europe/Berlin:20210201T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972200
+SUMMARY:SU\;IT1151-Datenanalyse\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Datenanalyse\nDozent: Höhne\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T094500
+DTEND;TZID=Europe/Berlin:20210202T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973219
+SUMMARY:SU\;IT2141-Software-Engineering II\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Paus
+	e\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210202T140000
+DTEND;TZID=Europe/Berlin:20210202T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971974
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210203T180000
+DTEND;TZID=Europe/Berlin:20210203T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970727
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210204T133000
+DTEND;TZID=Europe/Berlin:20210204T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973235
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210206T100000
+DTEND;TZID=Europe/Berlin:20210206T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973236
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210206T134500
+DTEND;TZID=Europe/Berlin:20210206T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972119
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Vorlesung online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Vorlesung online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T080000
+DTEND;TZID=Europe/Berlin:20210208T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972124
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Gruppengeteilte Übung
+	en online - Einteilung erfolgt in der Vorlesung
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Gruppengeteilte Übungen online - Einteilun
+	g erfolgt in der Vorlesung\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T094500
+DTEND;TZID=Europe/Berlin:20210208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973661
+SUMMARY:S\;Englisch\;Munby\;ZOOM
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ZOOM\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210208T123000
+DTEND;TZID=Europe/Berlin:20210208T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972196
+SUMMARY:SU\;IT1151-Datenanalyse\;Höhne\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Datenanalyse\nDozent: Höhne\nR
+	aum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsunter
+	gruppe: -
+DTSTART;TZID=Europe/Berlin:20210209T094500
+DTEND;TZID=Europe/Berlin:20210209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972128
+SUMMARY:SU\;IT1151-Opt.-verfahren\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Opt.-verfahren\nDozent: Winter
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210210T093000
+DTEND;TZID=Europe/Berlin:20210210T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971975
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210210T180000
+DTEND;TZID=Europe/Berlin:20210210T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970724
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210211T094500
+DTEND;TZID=Europe/Berlin:20210211T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970830
+SUMMARY:SU\;IT3131-Skriptsprachen\;Wehrmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Skriptsprachen\nDozent: Wehrma
+	nn\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T093000
+DTEND;TZID=Europe/Berlin:20210212T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973221
+SUMMARY:SU\;IT2141-Software-Engineering II\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210212T150000
+DTEND;TZID=Europe/Berlin:20210212T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973237
+SUMMARY:La\;IT2141-Labor SWE I: Gruppe 1 + 2\;Wiens\;Zwischenpräsentation
+	en Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE I: Gruppe 1 + 2\nDoz
+	ent: Wiens\nRaum: -\nAnmerkung: Zwischenpräsentationen Online\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210213T100000
+DTEND;TZID=Europe/Berlin:20210213T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972120
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Vorlesung online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Vorlesung online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T080000
+DTEND;TZID=Europe/Berlin:20210215T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972125
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Gruppengeteilte Übung
+	en online - Einteilung erfolgt in der Vorlesung
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Gruppengeteilte Übungen online - Einteilun
+	g erfolgt in der Vorlesung\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T094500
+DTEND;TZID=Europe/Berlin:20210215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973662
+SUMMARY:S\;Englisch\;Munby\;ZOOM
+LOCATION:
+DESCRIPTION:Art: S\nVeranstaltung: Englisch\nDozent: Munby\nRaum: -\nAnme
+	rkung: ZOOM\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210215T123000
+DTEND;TZID=Europe/Berlin:20210215T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973230
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T083000
+DTEND;TZID=Europe/Berlin:20210216T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973231
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause
+	\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210216T130000
+DTEND;TZID=Europe/Berlin:20210216T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972131
+SUMMARY:SU\;IT1151-Opt.-verfahren\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Opt.-verfahren\nDozent: Winter
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T093000
+DTEND;TZID=Europe/Berlin:20210217T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971976
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210217T180000
+DTEND;TZID=Europe/Berlin:20210217T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970728
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T133000
+DTEND;TZID=Europe/Berlin:20210218T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970831
+SUMMARY:SU\;IT3131-Skriptsprachen\;Wehrmann\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Skriptsprachen\nDozent: Wehrma
+	nn\nRaum: -\nAnmerkung: Online\nPause: inkl. 30 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T093000
+DTEND;TZID=Europe/Berlin:20210219T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972121
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Vorlesung online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Vorlesung online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T080000
+DTEND;TZID=Europe/Berlin:20210222T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972126
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Gruppengeteilte Übung
+	en online - Einteilung erfolgt in der Vorlesung
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Gruppengeteilte Übungen online - Einteilun
+	g erfolgt in der Vorlesung\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T094500
+DTEND;TZID=Europe/Berlin:20210222T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971977
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T180000
+DTEND;TZID=Europe/Berlin:20210224T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970725
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T094500
+DTEND;TZID=Europe/Berlin:20210225T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972132
+SUMMARY:SU\;IT1151-Opt.-verfahren\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Opt.-verfahren\nDozent: Winter
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T093000
+DTEND;TZID=Europe/Berlin:20210226T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973222
+SUMMARY:SU\;IT2141-Software-Engineering II\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T150000
+DTEND;TZID=Europe/Berlin:20210226T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973238
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210227T100000
+DTEND;TZID=Europe/Berlin:20210227T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973239
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210227T134500
+DTEND;TZID=Europe/Berlin:20210227T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972122
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Vorlesung online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Vorlesung online\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T080000
+DTEND;TZID=Europe/Berlin:20210301T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972127
+SUMMARY:La\;IT3131-Programmieren in C++\;Puschmann\;Gruppengeteilte Übung
+	en online - Einteilung erfolgt in der Vorlesung
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT3131-Programmieren in C++\nDozent: 
+	Puschmann\nRaum: -\nAnmerkung: Gruppengeteilte Übungen online - Einteilun
+	g erfolgt in der Vorlesung\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T094500
+DTEND;TZID=Europe/Berlin:20210301T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971978
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T180000
+DTEND;TZID=Europe/Berlin:20210303T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972135
+SUMMARY:SU\;IT1151-Opt.-verfahren\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Opt.-verfahren\nDozent: Winter
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T093000
+DTEND;TZID=Europe/Berlin:20210304T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970729
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T133000
+DTEND;TZID=Europe/Berlin:20210304T164500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970836
+SUMMARY:Klausur\;IT3131-Skriptsprachen\;Wehrmann\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT3131-Skriptsprachen\nDozent: W
+	ehrmann\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210305T093000
+DTEND;TZID=Europe/Berlin:20210305T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973223
+SUMMARY:SU\;IT2141-Software-Engineering II\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT2141-Software-Engineering II\nDozen
+	t: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T150000
+DTEND;TZID=Europe/Berlin:20210305T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972136
+SUMMARY:SU\;IT1151-Opt.-verfahren\;Winter\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Opt.-verfahren\nDozent: Winter
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T093000
+DTEND;TZID=Europe/Berlin:20210310T124500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971979
+SUMMARY:SU\;IT3131-Webprogrammierung\;Schmidt\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3131-Webprogrammierung\nDozent: Sch
+	midt\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T180000
+DTEND;TZID=Europe/Berlin:20210310T203000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970726
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstaltungsun
+	tergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T094500
+DTEND;TZID=Europe/Berlin:20210311T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973240
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 2\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 2\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210313T100000
+DTEND;TZID=Europe/Berlin:20210313T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973241
+SUMMARY:La\;IT2141-Labor SWE II: Gruppe 1\;Wiens\;Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE II: Gruppe 1\nDozent
+	: Wiens\nRaum: -\nAnmerkung: Online\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210313T134500
+DTEND;TZID=Europe/Berlin:20210313T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973232
+SUMMARY:La\;IT2141-Labor SWE I: Gruppe 1 + 2\;Monett Diaz\, D.\;Endpräsen
+	tationen Online
+LOCATION:
+DESCRIPTION:Art: La\nVeranstaltung: IT2141-Labor SWE I: Gruppe 1 + 2\nDoz
+	ent: Monett Diaz\, D.\nRaum: -\nAnmerkung: Endpräsentationen Online\nPaus
+	e: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T083000
+DTEND;TZID=Europe/Berlin:20210315T114500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973663
+SUMMARY:SU\;IT3161-Studienprojektseminar I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3161-Studienprojektseminar I\nDozen
+	t: -\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T080000
+DTEND;TZID=Europe/Berlin:20210316T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973664
+SUMMARY:SU\;IT3161-Studienprojektseminar I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3161-Studienprojektseminar I\nDozen
+	t: -\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T080000
+DTEND;TZID=Europe/Berlin:20210317T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970730
+SUMMARY:SU\;IT1151-Statistik\;Wannemacher\;Online
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT1151-Statistik\nDozent: Wannemacher
+	\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T084500
+DTEND;TZID=Europe/Berlin:20210318T101500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931225
+SUMMARY:I\;Tag des Dualen Studiums\;
+LOCATION:
+DESCRIPTION:Art: I\nVeranstaltung: Tag des Dualen Studiums\nDozent: -\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T130000
+DTEND;TZID=Europe/Berlin:20210318T180000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973665
+SUMMARY:SU\;IT3161-Studienprojektseminar I\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: IT3161-Studienprojektseminar I\nDozen
+	t: -\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T080000
+DTEND;TZID=Europe/Berlin:20210319T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972201
+SUMMARY:Klausur\;IT1151-Spez.math.Methoden\;Höhne\;vorbehaltlich Klausurr
+	aumverfügbarkeit
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT1151-Spez.math.Methoden\nDozen
+	t: Höhne\nRaum: -\nAnmerkung: vorbehaltlich Klausurraumverfügbarkeit\nPau
+	se: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T090000
+DTEND;TZID=Europe/Berlin:20210322T120000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201136Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972202
+SUMMARY:Klausur\;IT2141-Software-Engineering II\;Monett Diaz\, D.\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: IT2141-Software-Engineering II\n
+	Dozent: Monett Diaz\, D.\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T140000
+DTEND;TZID=Europe/Berlin:20210324T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

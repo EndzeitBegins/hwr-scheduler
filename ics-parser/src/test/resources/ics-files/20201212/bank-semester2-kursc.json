@@ -1,0 +1,28 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de955936",
+      "start": "2020-06-29T07:00:00Z",
+      "end": "2020-06-29T09:10:00Z",
+      "module": "Effektengeschäfte und Anlageberatung",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Siegert"
+    },
+    {
+      "uid": "sked.de955963",
+      "start": "2020-07-01T08:00:00Z",
+      "end": "2020-07-01T10:15:00Z",
+      "module": "Kosten- und Leistungsrechnung",
+      "lecturers": [
+        "Online"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Dr. Jurscha"
+    }
+  ]
+}

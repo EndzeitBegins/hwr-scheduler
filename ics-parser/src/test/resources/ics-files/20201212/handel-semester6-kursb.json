@@ -1,0 +1,77 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945645",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T10:00:00Z",
+      "module": "402 Wpff. Operations Research",
+      "lecturers": [
+        "Präsenzklausur wird verschoben!"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Krüger"
+    },
+    {
+      "uid": "sked.de945647",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T13:30:00Z",
+      "module": "402 Wpff. Ökonometrie",
+      "lecturers": [
+        "Mündliche Prüfung - Online",
+        "siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Nastansky"
+    },
+    {
+      "uid": "sked.de945643",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T10:30:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de950884",
+      "start": "2020-04-23T11:00:00Z",
+      "end": "2020-04-23T12:00:00Z",
+      "module": "HD-204Vert.-HanMM II-AR",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Hesse"
+    },
+    {
+      "uid": "sked.de950885",
+      "start": "2020-04-23T12:30:00Z",
+      "end": "2020-04-23T14:30:00Z",
+      "module": "HD-204Vert.-HanMM II-PersEntw.",
+      "lecturers": [
+        "Online-Klausur"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Schulz-Bücher"
+    },
+    {
+      "uid": "sked.de945658",
+      "start": "2020-04-24T10:30:00Z",
+      "end": "2020-04-24T12:00:00Z",
+      "module": "115-VWL-Markt/Staat/Glob.",
+      "lecturers": [
+        "gem. Absprache mit Dozentin"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Mahnkopf"
+    }
+  ]
+}

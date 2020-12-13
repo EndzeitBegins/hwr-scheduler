@@ -1,0 +1,76 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de832750",
+      "start": "2019-04-23T08:00:00Z",
+      "end": "2019-04-23T11:00:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch",
+      "lecturers": [
+        "Niveau bis B1+B2 bis 12.00 Uhr"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": "Niveau C.1+C1.2 bis 13.00 Uhr"
+    },
+    {
+      "uid": "sked.de904527",
+      "start": "2019-04-23T11:30:00Z",
+      "end": "2019-04-23T13:00:00Z",
+      "module": "402 Wpff. Nachhaltiges Wirtschaften",
+      "lecturers": [
+        "Gapp"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de904530",
+      "start": "2019-04-23T11:30:00Z",
+      "end": "2019-04-23T13:00:00Z",
+      "module": "402 Wpff. Ethik",
+      "lecturers": [
+        "Prof. Dr. Weyer"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de904606",
+      "start": "2019-04-24T12:00:00Z",
+      "end": "2019-04-24T14:00:00Z",
+      "module": "Personal/Orga II",
+      "lecturers": [
+        "Prof. Dr. Schütt"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de904612",
+      "start": "2019-04-25T08:00:00Z",
+      "end": "2019-04-25T10:00:00Z",
+      "module": "Supply Chain Management II",
+      "lecturers": [
+        "Prof. Dr. Afflerbach"
+      ],
+      "room": "CL: 1.Audimax vorn",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de904630",
+      "start": "2019-04-26T11:30:00Z",
+      "end": "2019-04-26T13:30:00Z",
+      "module": "Finanz- u. Rechnungswesen II",
+      "lecturers": [
+        "Kurs INA+C bis 15.00 Uhr"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": "Prof. Dr. Faustmann"
+    }
+  ]
+}

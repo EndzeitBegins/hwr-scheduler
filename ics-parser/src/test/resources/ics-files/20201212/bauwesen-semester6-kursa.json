@@ -1,0 +1,30 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de926746",
+      "start": "2020-05-04T07:00:00Z",
+      "end": "2020-05-04T10:00:00Z",
+      "module": "BW4061-Konstruktiver Ingenieurbau 2",
+      "lecturers": [
+        "Prof. Dr.-Ing. Detzel",
+        "Prof. Dick"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de926745",
+      "start": "2020-05-06T07:00:00Z",
+      "end": "2020-05-06T10:00:00Z",
+      "module": "BW6065-Bauprojektmanagement",
+      "lecturers": [
+        "Prof. Dr.-Ing. Pepper",
+        "Prof. Dr. Wotschke"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": null
+    }
+  ]
+}

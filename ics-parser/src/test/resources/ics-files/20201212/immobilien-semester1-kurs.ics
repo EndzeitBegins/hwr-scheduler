@@ -1,0 +1,894 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10922
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960125
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960127
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T113000
+DTEND;TZID=Europe/Berlin:20201207T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965377
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Peter\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Peter\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201207T140000
+DTEND;TZID=Europe/Berlin:20201207T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953356
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953358
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T113000
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953386
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969990
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Conrad\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Con
+	rad\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960129
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960131
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T113000
+DTEND;TZID=Europe/Berlin:20201209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967062
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Wildebrand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201209T140000
+DTEND;TZID=Europe/Berlin:20201209T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967064
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Wildebrand\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Wildebrand\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201209T154500
+DTEND;TZID=Europe/Berlin:20201209T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953352
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953354
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T113000
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960133
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960135
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960301
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T094500
+DTEND;TZID=Europe/Berlin:20201211T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de960303
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T113000
+DTEND;TZID=Europe/Berlin:20201211T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965352
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965354
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T154500
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953360
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T094500
+DTEND;TZID=Europe/Berlin:20201215T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953362
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Raethel\;CL: 
+	6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVer
+	anstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T113000
+DTEND;TZID=Europe/Berlin:20201215T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953384
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953390
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953392
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972952
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Raethel\;Platzhalter Vorbereitung O
+	nlineklausur
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Rae
+	thel\nRaum: -\nAnmerkung: Platzhalter Vorbereitung Onlineklausur\nPause: 
+	-\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972954
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Raethel\;Platzhalter Vorbereitung O
+	nlineklausur
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Rae
+	thel\nRaum: -\nAnmerkung: Platzhalter Vorbereitung Onlineklausur\nPause: 
+	-\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T154500
+DTEND;TZID=Europe/Berlin:20201216T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967340
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T094500
+DTEND;TZID=Europe/Berlin:20201217T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967342
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T113000
+DTEND;TZID=Europe/Berlin:20201217T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972955
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Raethel\;Platzhalter Vorbereitung O
+	nlineklausur
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Rae
+	thel\nRaum: -\nAnmerkung: Platzhalter Vorbereitung Onlineklausur\nPause: 
+	-\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972957
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Raethel\;Platzhalter Vorbereitung O
+	nlineklausur
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Rae
+	thel\nRaum: -\nAnmerkung: Platzhalter Vorbereitung Onlineklausur\nPause: 
+	-\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T154500
+DTEND;TZID=Europe/Berlin:20201217T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967231
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Meiners\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mei
+	ners\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201218T084500
+DTEND;TZID=Europe/Berlin:20201218T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967232
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Meiners\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mei
+	ners\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201218T094500
+DTEND;TZID=Europe/Berlin:20201218T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967234
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Meiners\;CL: 6A.206\;
+LOCATION:CL: 6A.206
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mei
+	ners\nRaum: CL: 6A.206\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974966
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Grüner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Grüner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T130000
+DTEND;TZID=Europe/Berlin:20201218T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974967
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Grüner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Grüner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T140000
+DTEND;TZID=Europe/Berlin:20201218T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971261
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;Platzhalter: Kla
+	usurvorbereitung - Online Klausur\, keine LV
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: -\nAnmerkung: Platzhalter: Klausurvorbereitung - On
+	line Klausur\, keine LV\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T084500
+DTEND;TZID=Europe/Berlin:20210104T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971262
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;Vorbereitung PTB
+	 I
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: -\nAnmerkung: Vorbereitung PTB I\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T094500
+DTEND;TZID=Europe/Berlin:20210104T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971264
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;Technischer Test
+	: Online Klausur\, Moodle
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: -\nAnmerkung: Technischer Test: Online Klausur\, Mo
+	odle\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T113000
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971265
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Raethel\;Platzhalter: Kla
+	usurvorbereitung - Online Klausur\, keine LV
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Raethel\nRaum: -\nAnmerkung: Platzhalter: Klausurvorbereitung - On
+	line Klausur\, keine LV\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T121500
+DTEND;TZID=Europe/Berlin:20210104T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974969
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Grüner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Grüner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T140000
+DTEND;TZID=Europe/Berlin:20210104T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974971
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Grüner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Grüner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T154500
+DTEND;TZID=Europe/Berlin:20210104T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974435
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Herkenhoff\, A.-S.\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Her
+	kenhoff\, A.-S.\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergrup
+	pe: -
+DTSTART;TZID=Europe/Berlin:20210105T084500
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de977080
+SUMMARY:SU\;Finanzbuchführung\;Wittmann\;Mündliche Prüfung
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Wittmann\n
+	Raum: -\nAnmerkung: Mündliche Prüfung\nPause: inkl. 60 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T093000
+DTEND;TZID=Europe/Berlin:20210105T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967356
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T090000
+DTEND;TZID=Europe/Berlin:20210106T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de967358
+SUMMARY:SU\;FB: Marketing\;von Gizycki\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: von Gizycki\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T104500
+DTEND;TZID=Europe/Berlin:20210106T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974972
+SUMMARY:SU\;Bewirtschaftg. v. Mietobj. u. Wohnungseigentum\;Grüner\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Bewirtschaftg. v. Mietobj. u. Wohnung
+	seigentum\nDozent: Grüner\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T140000
+DTEND;TZID=Europe/Berlin:20210106T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971019
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 1\;Wittmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 1\nDoz
+	ent: Wittmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210107T090000
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971027
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 2\;Hall\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 2\nDoz
+	ent: Hall\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T090000
+DTEND;TZID=Europe/Berlin:20210107T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971022
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 1\;Wittmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 1\nDoz
+	ent: Wittmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971030
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 2\;Hall\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 2\nDoz
+	ent: Hall\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T113000
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965379
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T144500
+DTEND;TZID=Europe/Berlin:20210107T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965380
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T154500
+DTEND;TZID=Europe/Berlin:20210107T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971023
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 1\;Wittmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 1\nDoz
+	ent: Wittmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210108T090000
+DTEND;TZID=Europe/Berlin:20210108T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971031
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 2\;Hall\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 2\nDoz
+	ent: Hall\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T090000
+DTEND;TZID=Europe/Berlin:20210108T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971026
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 1\;Wittmann\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 1\nDoz
+	ent: Wittmann\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210108T113000
+DTEND;TZID=Europe/Berlin:20210108T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971034
+SUMMARY:SU\;SK: Wirtschaftsenglisch Gruppe 2\;Hall\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wirtschaftsenglisch Gruppe 2\nDoz
+	ent: Hall\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T113000
+DTEND;TZID=Europe/Berlin:20210108T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965356
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T144500
+DTEND;TZID=Europe/Berlin:20210108T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201128Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de965357
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Vogt\, Florian\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Vogt\, Florian\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T154500
+DTEND;TZID=Europe/Berlin:20210108T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

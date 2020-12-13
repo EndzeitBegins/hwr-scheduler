@@ -1,0 +1,64 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de974628",
+      "start": "2020-12-10T08:00:00Z",
+      "end": "2020-12-10T09:40:00Z",
+      "module": "WI-106 WIWI-IFRW-KLR",
+      "lecturers": [
+        "Wittmüß"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich"
+    },
+    {
+      "uid": "sked.de974665",
+      "start": "2020-12-10T11:00:00Z",
+      "end": "2020-12-10T12:15:00Z",
+      "module": "WI-106 WIWI-IFRW-Fin/Inv",
+      "lecturers": [
+        "Schlösser"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Achtung 3Studierende mit Nachteilsausgleich"
+    },
+    {
+      "uid": "sked.de974668",
+      "start": "2020-12-11T09:00:00Z",
+      "end": "2020-12-11T09:50:00Z",
+      "module": "WI-112 IT/WI-BetrSys-BS-Praxis",
+      "lecturers": [
+        "Goestl"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Achtungdrei Studierende mit Nachteilsausgleich"
+    },
+    {
+      "uid": "sked.de974670",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:00:00Z",
+      "module": "WI-112 IT/WI-BetrSys-Th.Grdl.",
+      "lecturers": [
+        "Witte, R."
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich"
+    },
+    {
+      "uid": "sked.de974694",
+      "start": "2020-12-17T08:00:00Z",
+      "end": "2020-12-17T10:00:00Z",
+      "module": "WI-102WIWI-Betr.FB",
+      "lecturers": [
+        "Gatzer"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "ONLINE - Achtung 2 Studierende mit Nachteilsausgleich"
+    }
+  ]
+}

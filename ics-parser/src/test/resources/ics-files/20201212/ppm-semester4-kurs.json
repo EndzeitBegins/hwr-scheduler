@@ -1,0 +1,17 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de958195",
+      "start": "2020-06-19T12:00:00Z",
+      "end": "2020-06-19T15:15:00Z",
+      "module": "PPM 4.7.13 Begleitseminar zur Masterarbeit",
+      "lecturers": [
+        "Brenninger",
+        "Prof.Dr. Wotschke"
+      ],
+      "room": "CL: 6B.453",
+      "type": "S",
+      "note": null
+    }
+  ]
+}

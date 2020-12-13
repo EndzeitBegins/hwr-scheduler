@@ -1,0 +1,1072 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de973690",
+      "start": "2021-02-15T08:00:00Z",
+      "end": "2021-02-15T14:00:00Z",
+      "module": "Referate zum Studienprojekt II",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "Präs.",
+      "note": null
+    },
+    {
+      "uid": "sked.de973691",
+      "start": "2021-02-16T08:00:00Z",
+      "end": "2021-02-16T14:00:00Z",
+      "module": "Referate zum Studienprojekt II",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "Präs.",
+      "note": null
+    },
+    {
+      "uid": "sked.de973692",
+      "start": "2021-02-17T08:00:00Z",
+      "end": "2021-02-17T14:00:00Z",
+      "module": "Referate zum Studienprojekt II",
+      "lecturers": [
+        "Barten"
+      ],
+      "room": null,
+      "type": "Präs.",
+      "note": null
+    },
+    {
+      "uid": "sked.de974191",
+      "start": "2021-02-18T08:00:00Z",
+      "end": "2021-02-18T10:30:00Z",
+      "module": "ET3064 Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974129",
+      "start": "2021-02-18T11:00:00Z",
+      "end": "2021-02-18T16:00:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974128",
+      "start": "2021-02-19T08:00:00Z",
+      "end": "2021-02-19T15:00:00Z",
+      "module": "ET3064 Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974187",
+      "start": "2021-02-22T08:00:00Z",
+      "end": "2021-02-22T11:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974237",
+      "start": "2021-02-22T12:45:00Z",
+      "end": "2021-02-22T16:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974141",
+      "start": "2021-02-23T09:00:00Z",
+      "end": "2021-02-23T13:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974145",
+      "start": "2021-02-23T13:45:00Z",
+      "end": "2021-02-23T16:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974176",
+      "start": "2021-02-24T08:00:00Z",
+      "end": "2021-02-24T10:30:00Z",
+      "module": "ET3064 Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de974188",
+      "start": "2021-02-24T11:30:00Z",
+      "end": "2021-02-24T14:45:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974132",
+      "start": "2021-02-25T08:00:00Z",
+      "end": "2021-02-25T15:00:00Z",
+      "module": "ET3064 Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974153",
+      "start": "2021-02-26T08:00:00Z",
+      "end": "2021-02-26T12:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974155",
+      "start": "2021-02-26T13:00:00Z",
+      "end": "2021-02-26T16:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974189",
+      "start": "2021-03-01T08:00:00Z",
+      "end": "2021-03-01T11:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974261",
+      "start": "2021-03-01T12:00:00Z",
+      "end": "2021-03-01T16:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974239",
+      "start": "2021-03-02T08:00:00Z",
+      "end": "2021-03-02T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974190",
+      "start": "2021-03-02T12:00:00Z",
+      "end": "2021-03-02T15:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974173",
+      "start": "2021-03-03T08:00:00Z",
+      "end": "2021-03-03T15:00:00Z",
+      "module": "ET3064 Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974171",
+      "start": "2021-03-04T07:00:00Z",
+      "end": "2021-03-04T11:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de974172",
+      "start": "2021-03-04T12:00:00Z",
+      "end": "2021-03-04T16:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.153 (L)",
+      "type": "PÜ",
+      "note": "CL: 6B.153 (L)"
+    },
+    {
+      "uid": "sked.de974181",
+      "start": "2021-03-05T08:00:00Z",
+      "end": "2021-03-05T12:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974184",
+      "start": "2021-03-05T13:00:00Z",
+      "end": "2021-03-05T16:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974157",
+      "start": "2021-03-09T07:00:00Z",
+      "end": "2021-03-09T11:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974163",
+      "start": "2021-03-09T12:00:00Z",
+      "end": "2021-03-09T16:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974158",
+      "start": "2021-03-10T07:00:00Z",
+      "end": "2021-03-10T11:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974164",
+      "start": "2021-03-10T12:00:00Z",
+      "end": "2021-03-10T16:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974160",
+      "start": "2021-03-11T07:00:00Z",
+      "end": "2021-03-11T11:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974165",
+      "start": "2021-03-11T12:00:00Z",
+      "end": "2021-03-11T16:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974161",
+      "start": "2021-03-12T07:00:00Z",
+      "end": "2021-03-12T11:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974166",
+      "start": "2021-03-12T12:00:00Z",
+      "end": "2021-03-12T16:30:00Z",
+      "module": "ET3063 Labor Antriebstechnik",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974240",
+      "start": "2021-03-15T08:00:00Z",
+      "end": "2021-03-15T11:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979744",
+      "start": "2021-03-15T12:00:00Z",
+      "end": "2021-03-15T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974271",
+      "start": "2021-03-16T09:00:00Z",
+      "end": "2021-03-16T13:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974272",
+      "start": "2021-03-16T13:45:00Z",
+      "end": "2021-03-16T16:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974241",
+      "start": "2021-03-17T08:00:00Z",
+      "end": "2021-03-17T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974293",
+      "start": "2021-03-17T12:00:00Z",
+      "end": "2021-03-17T15:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974264",
+      "start": "2021-03-18T08:00:00Z",
+      "end": "2021-03-18T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979749",
+      "start": "2021-03-18T12:00:00Z",
+      "end": "2021-03-18T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974259",
+      "start": "2021-03-19T08:00:00Z",
+      "end": "2021-03-19T12:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974244",
+      "start": "2021-03-19T13:00:00Z",
+      "end": "2021-03-19T17:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974204",
+      "start": "2021-03-22T07:00:00Z",
+      "end": "2021-03-22T11:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974212",
+      "start": "2021-03-22T12:00:00Z",
+      "end": "2021-03-22T16:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974206",
+      "start": "2021-03-23T07:00:00Z",
+      "end": "2021-03-23T11:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974213",
+      "start": "2021-03-23T12:00:00Z",
+      "end": "2021-03-23T16:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974208",
+      "start": "2021-03-24T07:00:00Z",
+      "end": "2021-03-24T11:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974214",
+      "start": "2021-03-24T12:00:00Z",
+      "end": "2021-03-24T16:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974210",
+      "start": "2021-03-25T07:00:00Z",
+      "end": "2021-03-25T11:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974215",
+      "start": "2021-03-25T12:00:00Z",
+      "end": "2021-03-25T16:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974211",
+      "start": "2021-03-26T07:00:00Z",
+      "end": "2021-03-26T11:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974216",
+      "start": "2021-03-26T12:00:00Z",
+      "end": "2021-03-26T16:30:00Z",
+      "module": "ET3064 Labor Erneuerbare Energien",
+      "lecturers": [
+        "Plotkin"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "PÜ",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974288",
+      "start": "2021-03-29T07:00:00Z",
+      "end": "2021-03-29T10:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974286",
+      "start": "2021-03-29T11:00:00Z",
+      "end": "2021-03-29T13:30:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974273",
+      "start": "2021-03-30T08:00:00Z",
+      "end": "2021-03-30T12:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974274",
+      "start": "2021-03-30T12:45:00Z",
+      "end": "2021-03-30T15:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974287",
+      "start": "2021-03-31T07:00:00Z",
+      "end": "2021-03-31T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979750",
+      "start": "2021-03-31T12:00:00Z",
+      "end": "2021-03-31T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974296",
+      "start": "2021-04-01T07:00:00Z",
+      "end": "2021-04-01T11:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de979755",
+      "start": "2021-04-01T12:00:00Z",
+      "end": "2021-04-01T15:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974275",
+      "start": "2021-04-06T08:00:00Z",
+      "end": "2021-04-06T12:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974276",
+      "start": "2021-04-06T12:45:00Z",
+      "end": "2021-04-06T15:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974284",
+      "start": "2021-04-07T11:00:00Z",
+      "end": "2021-04-07T13:30:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974277",
+      "start": "2021-04-08T07:00:00Z",
+      "end": "2021-04-08T10:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "SI",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974278",
+      "start": "2021-04-08T11:00:00Z",
+      "end": "2021-04-08T14:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "LCN-Übung\\, Gruppe 2"
+    },
+    {
+      "uid": "sked.de974297",
+      "start": "2021-04-09T07:00:00Z",
+      "end": "2021-04-09T11:15:00Z",
+      "module": "ET3063 Elektrische Antriebe",
+      "lecturers": [
+        "Podlewski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974246",
+      "start": "2021-04-09T12:00:00Z",
+      "end": "2021-04-09T16:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974290",
+      "start": "2021-04-12T07:00:00Z",
+      "end": "2021-04-12T10:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974291",
+      "start": "2021-04-12T10:45:00Z",
+      "end": "2021-04-12T14:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974302",
+      "start": "2021-04-13T08:00:00Z",
+      "end": "2021-04-13T11:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974305",
+      "start": "2021-04-13T12:00:00Z",
+      "end": "2021-04-13T13:30:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974279",
+      "start": "2021-04-14T07:00:00Z",
+      "end": "2021-04-14T10:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "SI",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974281",
+      "start": "2021-04-14T11:00:00Z",
+      "end": "2021-04-14T14:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "LCN-Übung\\, Gruppe 2"
+    },
+    {
+      "uid": "sked.de974280",
+      "start": "2021-04-15T07:00:00Z",
+      "end": "2021-04-15T10:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "SI",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974282",
+      "start": "2021-04-15T11:00:00Z",
+      "end": "2021-04-15T14:00:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Gebäudeautomation",
+      "lecturers": [
+        "Roßbach, B."
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "LCN-Übung\\, Gruppe 2"
+    },
+    {
+      "uid": "sked.de974283",
+      "start": "2021-04-16T07:00:00Z",
+      "end": "2021-04-16T10:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974254",
+      "start": "2021-04-16T12:00:00Z",
+      "end": "2021-04-16T15:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974295",
+      "start": "2021-04-19T07:00:00Z",
+      "end": "2021-04-19T10:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974298",
+      "start": "2021-04-20T08:00:00Z",
+      "end": "2021-04-20T12:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974300",
+      "start": "2021-04-20T12:45:00Z",
+      "end": "2021-04-20T15:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974306",
+      "start": "2021-04-21T07:00:00Z",
+      "end": "2021-04-21T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "SI",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de974375",
+      "start": "2021-04-22T07:00:00Z",
+      "end": "2021-04-22T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": "CL: 6B.156 (AT-L)",
+      "type": "SI",
+      "note": "CL: 6B.156 (AT-L)"
+    },
+    {
+      "uid": "sked.de979760",
+      "start": "2021-04-22T13:00:00Z",
+      "end": "2021-04-22T16:15:00Z",
+      "module": "Englisch",
+      "lecturers": [
+        "Davis"
+      ],
+      "room": null,
+      "type": "PÜ",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974250",
+      "start": "2021-04-23T12:00:00Z",
+      "end": "2021-04-23T15:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974294",
+      "start": "2021-04-26T07:00:00Z",
+      "end": "2021-04-26T10:15:00Z",
+      "module": "ET5062 Wahlpflichtbereich II - Schaltvorgänge & En",
+      "lecturers": [
+        "Schramm"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974299",
+      "start": "2021-04-27T08:00:00Z",
+      "end": "2021-04-27T12:15:00Z",
+      "module": "ET7066 Projektmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974301",
+      "start": "2021-04-27T12:45:00Z",
+      "end": "2021-04-27T15:15:00Z",
+      "module": "ET7066 Qualitätsmanagement",
+      "lecturers": [
+        "Bieker"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974307",
+      "start": "2021-04-28T07:00:00Z",
+      "end": "2021-04-28T11:15:00Z",
+      "module": "ET5061 Wahlpflichtbereich II - Funkbasierte Kommun",
+      "lecturers": [
+        "Cichos"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    },
+    {
+      "uid": "sked.de974248",
+      "start": "2021-04-30T12:00:00Z",
+      "end": "2021-04-30T15:15:00Z",
+      "module": "ET5062 Wahlpflichtfbereich II - Hochspannungstechn",
+      "lecturers": [
+        "Habel"
+      ],
+      "room": null,
+      "type": "SI",
+      "note": "ONLINE"
+    }
+  ]
+}

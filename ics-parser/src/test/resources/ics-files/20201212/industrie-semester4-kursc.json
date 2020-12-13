@@ -1,0 +1,29 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de859955",
+      "start": "2018-05-16T12:00:00Z",
+      "end": "2018-05-16T13:30:00Z",
+      "module": "108-SBWL",
+      "lecturers": [
+        "Prof. Dr. Hesse",
+        "Prof. Dr. Wildebrand"
+      ],
+      "room": "CL: 6A.008 (FB4)",
+      "type": "Klausur",
+      "note": null
+    },
+    {
+      "uid": "sked.de859958",
+      "start": "2018-05-17T12:00:00Z",
+      "end": "2018-05-17T15:00:00Z",
+      "module": "117-Wp.recht II",
+      "lecturers": [
+        "1 Nkl. Modul 202 - Logistikrecht SP A JG 15\\nbis 15.30 Uhr 3. Aufsicht Prof. Dr. Raethel"
+      ],
+      "room": "CL: 1.Audimax hinten",
+      "type": "Klausur",
+      "note": "Prof. Dr. Baumgärtner\\,Prof. Dr. Soller"
+    }
+  ]
+}

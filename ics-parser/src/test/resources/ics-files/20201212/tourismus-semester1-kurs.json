@@ -1,0 +1,676 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de968815",
+      "start": "2020-12-07T08:00:00Z",
+      "end": "2020-12-07T09:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968817",
+      "start": "2020-12-07T09:45:00Z",
+      "end": "2020-12-07T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956181",
+      "start": "2020-12-07T14:45:00Z",
+      "end": "2020-12-07T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956183",
+      "start": "2020-12-07T16:30:00Z",
+      "end": "2020-12-07T18:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952589",
+      "start": "2020-12-08T13:00:00Z",
+      "end": "2020-12-08T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de952591",
+      "start": "2020-12-08T14:45:00Z",
+      "end": "2020-12-08T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de969189",
+      "start": "2020-12-09T10:30:00Z",
+      "end": "2020-12-09T12:00:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969191",
+      "start": "2020-12-09T12:15:00Z",
+      "end": "2020-12-09T13:45:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956185",
+      "start": "2020-12-09T14:45:00Z",
+      "end": "2020-12-09T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956187",
+      "start": "2020-12-09T16:30:00Z",
+      "end": "2020-12-09T18:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968842",
+      "start": "2020-12-10T09:45:00Z",
+      "end": "2020-12-10T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968844",
+      "start": "2020-12-10T11:30:00Z",
+      "end": "2020-12-10T12:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952593",
+      "start": "2020-12-10T13:00:00Z",
+      "end": "2020-12-10T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de952595",
+      "start": "2020-12-10T14:45:00Z",
+      "end": "2020-12-10T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de969062",
+      "start": "2020-12-11T08:00:00Z",
+      "end": "2020-12-11T09:30:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969064",
+      "start": "2020-12-11T09:45:00Z",
+      "end": "2020-12-11T11:15:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972313",
+      "start": "2020-12-11T13:00:00Z",
+      "end": "2020-12-11T14:30:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de972315",
+      "start": "2020-12-11T14:45:00Z",
+      "end": "2020-12-11T16:15:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968819",
+      "start": "2020-12-14T08:00:00Z",
+      "end": "2020-12-14T09:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968821",
+      "start": "2020-12-14T09:45:00Z",
+      "end": "2020-12-14T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956189",
+      "start": "2020-12-14T14:45:00Z",
+      "end": "2020-12-14T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956191",
+      "start": "2020-12-14T16:30:00Z",
+      "end": "2020-12-14T18:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969196",
+      "start": "2020-12-15T11:15:00Z",
+      "end": "2020-12-15T12:45:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969198",
+      "start": "2020-12-15T13:00:00Z",
+      "end": "2020-12-15T13:45:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956193",
+      "start": "2020-12-15T14:45:00Z",
+      "end": "2020-12-15T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956195",
+      "start": "2020-12-15T16:30:00Z",
+      "end": "2020-12-15T18:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969091",
+      "start": "2020-12-16T08:45:00Z",
+      "end": "2020-12-16T10:15:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969093",
+      "start": "2020-12-16T10:30:00Z",
+      "end": "2020-12-16T12:00:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952597",
+      "start": "2020-12-16T13:00:00Z",
+      "end": "2020-12-16T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de952599",
+      "start": "2020-12-16T14:45:00Z",
+      "end": "2020-12-16T16:15:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de968845",
+      "start": "2020-12-17T09:45:00Z",
+      "end": "2020-12-17T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968847",
+      "start": "2020-12-17T11:30:00Z",
+      "end": "2020-12-17T12:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951255",
+      "start": "2020-12-17T13:00:00Z",
+      "end": "2020-12-17T16:15:00Z",
+      "module": "Grundlagen der Tourismusbetriebslehre (TM)",
+      "lecturers": [
+        "Baumgärtner"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU-SBWL-TM",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de951293",
+      "start": "2020-12-18T07:00:00Z",
+      "end": "2020-12-18T09:30:00Z",
+      "module": "Grundlagen der Tourismusbetriebslehre (TM)",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU-SBWL-TM",
+      "note": null
+    },
+    {
+      "uid": "sked.de969065",
+      "start": "2020-12-18T10:30:00Z",
+      "end": "2020-12-18T12:00:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969046",
+      "start": "2020-12-18T12:15:00Z",
+      "end": "2020-12-18T13:00:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968823",
+      "start": "2021-01-04T08:00:00Z",
+      "end": "2021-01-04T09:30:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968825",
+      "start": "2021-01-04T09:45:00Z",
+      "end": "2021-01-04T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951297",
+      "start": "2021-01-04T12:00:00Z",
+      "end": "2021-01-04T14:30:00Z",
+      "module": "Grundlagen der Tourismusbetriebslehre (TM)",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU-SBWL-TM",
+      "note": null
+    },
+    {
+      "uid": "sked.de956197",
+      "start": "2021-01-04T14:45:00Z",
+      "end": "2021-01-04T16:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956199",
+      "start": "2021-01-04T16:30:00Z",
+      "end": "2021-01-04T18:00:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956201",
+      "start": "2021-01-05T07:00:00Z",
+      "end": "2021-01-05T08:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de956203",
+      "start": "2021-01-05T08:45:00Z",
+      "end": "2021-01-05T10:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969193",
+      "start": "2021-01-05T11:15:00Z",
+      "end": "2021-01-05T12:45:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969195",
+      "start": "2021-01-05T13:00:00Z",
+      "end": "2021-01-05T13:45:00Z",
+      "module": "SK: Wissenschaftliches Arbeiten I",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de951303",
+      "start": "2021-01-05T14:45:00Z",
+      "end": "2021-01-05T17:15:00Z",
+      "module": "Grundlagen der Tourismusbetriebslehre (TM)",
+      "lecturers": [
+        "Baumgärtner"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU-SBWL-TM",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de969095",
+      "start": "2021-01-06T08:45:00Z",
+      "end": "2021-01-06T10:15:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969097",
+      "start": "2021-01-06T10:30:00Z",
+      "end": "2021-01-06T12:00:00Z",
+      "module": "FB: Beschaffung und Produktion",
+      "lecturers": [
+        "Woogt"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de952601",
+      "start": "2021-01-06T13:00:00Z",
+      "end": "2021-01-06T14:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de952603",
+      "start": "2021-01-06T14:45:00Z",
+      "end": "2021-01-06T15:30:00Z",
+      "module": "Betriebswirtschaftliche Grundlagen",
+      "lecturers": [
+        "Harloff"
+      ],
+      "room": "CL: 6B.353",
+      "type": "SU",
+      "note": "CL: 6B.353"
+    },
+    {
+      "uid": "sked.de968848",
+      "start": "2021-01-07T09:45:00Z",
+      "end": "2021-01-07T11:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de968850",
+      "start": "2021-01-07T11:30:00Z",
+      "end": "2021-01-07T12:15:00Z",
+      "module": "Wirtschaftsprivatrecht I",
+      "lecturers": [
+        "Martina Hesse"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de957960",
+      "start": "2021-01-07T14:00:00Z",
+      "end": "2021-01-07T15:30:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de957962",
+      "start": "2021-01-07T15:45:00Z",
+      "end": "2021-01-07T17:15:00Z",
+      "module": "Finanzbuchführung",
+      "lecturers": [
+        "Zieting"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969067",
+      "start": "2021-01-08T08:00:00Z",
+      "end": "2021-01-08T09:30:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    },
+    {
+      "uid": "sked.de969069",
+      "start": "2021-01-08T09:45:00Z",
+      "end": "2021-01-08T10:30:00Z",
+      "module": "FB: Marketing",
+      "lecturers": [
+        "Rochnowski"
+      ],
+      "room": null,
+      "type": "SU",
+      "note": null
+    }
+  ]
+}

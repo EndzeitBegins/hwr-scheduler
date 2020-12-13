@@ -1,0 +1,1408 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20210215T000000
+X-SKED-SYNC-DTEND:20210510T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10800
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973690
+SUMMARY:Präs.\;Referate zum Studienprojekt II\;Cichos\;
+LOCATION:
+DESCRIPTION:Art: Präs.\nVeranstaltung: Referate zum Studienprojekt II\nDo
+	zent: Cichos\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210215T090000
+DTEND;TZID=Europe/Berlin:20210215T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973691
+SUMMARY:Präs.\;Referate zum Studienprojekt II\;Plotkin\;
+LOCATION:
+DESCRIPTION:Art: Präs.\nVeranstaltung: Referate zum Studienprojekt II\nDo
+	zent: Plotkin\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe
+	: -
+DTSTART;TZID=Europe/Berlin:20210216T090000
+DTEND;TZID=Europe/Berlin:20210216T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de973692
+SUMMARY:Präs.\;Referate zum Studienprojekt II\;Barten\;
+LOCATION:
+DESCRIPTION:Art: Präs.\nVeranstaltung: Referate zum Studienprojekt II\nDo
+	zent: Barten\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe:
+	 -
+DTSTART;TZID=Europe/Berlin:20210217T090000
+DTEND;TZID=Europe/Berlin:20210217T150000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974191
+SUMMARY:SU\;ET3064 Erneuerbare Energien\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3064 Erneuerbare Energien\nDozent: 
+	Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T090000
+DTEND;TZID=Europe/Berlin:20210218T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974129
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210218T120000
+DTEND;TZID=Europe/Berlin:20210218T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974128
+SUMMARY:SU\;ET3064 Erneuerbare Energien\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3064 Erneuerbare Energien\nDozent: 
+	Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 60 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210219T090000
+DTEND;TZID=Europe/Berlin:20210219T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974187
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T090000
+DTEND;TZID=Europe/Berlin:20210222T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974237
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210222T134500
+DTEND;TZID=Europe/Berlin:20210222T170000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974141
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T100000
+DTEND;TZID=Europe/Berlin:20210223T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974145
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210223T144500
+DTEND;TZID=Europe/Berlin:20210223T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974176
+SUMMARY:SU\;ET3064 Erneuerbare Energien\;Plotkin\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3064 Erneuerbare Energien\nDozent: 
+	Plotkin\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T090000
+DTEND;TZID=Europe/Berlin:20210224T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974188
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210224T123000
+DTEND;TZID=Europe/Berlin:20210224T154500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974132
+SUMMARY:SU\;ET3064 Erneuerbare Energien\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3064 Erneuerbare Energien\nDozent: 
+	Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 60 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210225T090000
+DTEND;TZID=Europe/Berlin:20210225T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974153
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T090000
+DTEND;TZID=Europe/Berlin:20210226T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974155
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210226T140000
+DTEND;TZID=Europe/Berlin:20210226T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974189
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T090000
+DTEND;TZID=Europe/Berlin:20210301T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974261
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210301T130000
+DTEND;TZID=Europe/Berlin:20210301T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974239
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T090000
+DTEND;TZID=Europe/Berlin:20210302T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974190
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210302T130000
+DTEND;TZID=Europe/Berlin:20210302T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974173
+SUMMARY:SU\;ET3064 Erneuerbare Energien\;Plotkin\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3064 Erneuerbare Energien\nDozent: 
+	Plotkin\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 60 min Pause\nVeranstal
+	tungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210303T090000
+DTEND;TZID=Europe/Berlin:20210303T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974171
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.153 (L)\;
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.153 (L)\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T080000
+DTEND;TZID=Europe/Berlin:20210304T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974172
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.153 (L)\;
+LOCATION:CL: 6B.153 (L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.153 (L)\nAnmerkung: -\nPause: -\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20210304T130000
+DTEND;TZID=Europe/Berlin:20210304T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974181
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T090000
+DTEND;TZID=Europe/Berlin:20210305T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974184
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210305T140000
+DTEND;TZID=Europe/Berlin:20210305T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974157
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T080000
+DTEND;TZID=Europe/Berlin:20210309T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974163
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210309T130000
+DTEND;TZID=Europe/Berlin:20210309T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974158
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T080000
+DTEND;TZID=Europe/Berlin:20210310T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974164
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210310T130000
+DTEND;TZID=Europe/Berlin:20210310T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974160
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T080000
+DTEND;TZID=Europe/Berlin:20210311T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974165
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210311T130000
+DTEND;TZID=Europe/Berlin:20210311T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974161
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T080000
+DTEND;TZID=Europe/Berlin:20210312T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974166
+SUMMARY:PÜ\;ET3063 Labor Antriebstechnik\;Plotkin\;CL: 6B.156 (AT-L)\;Gru
+	ppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3063 Labor Antriebstechnik\nDozent:
+	 Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210312T130000
+DTEND;TZID=Europe/Berlin:20210312T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974240
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T090000
+DTEND;TZID=Europe/Berlin:20210315T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979744
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210315T130000
+DTEND;TZID=Europe/Berlin:20210315T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974271
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T100000
+DTEND;TZID=Europe/Berlin:20210316T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974272
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210316T144500
+DTEND;TZID=Europe/Berlin:20210316T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974241
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T090000
+DTEND;TZID=Europe/Berlin:20210317T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974293
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210317T130000
+DTEND;TZID=Europe/Berlin:20210317T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974264
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T090000
+DTEND;TZID=Europe/Berlin:20210318T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979749
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210318T130000
+DTEND;TZID=Europe/Berlin:20210318T161500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974259
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T090000
+DTEND;TZID=Europe/Berlin:20210319T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974244
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210319T140000
+DTEND;TZID=Europe/Berlin:20210319T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974204
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T080000
+DTEND;TZID=Europe/Berlin:20210322T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974212
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210322T130000
+DTEND;TZID=Europe/Berlin:20210322T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974206
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T080000
+DTEND;TZID=Europe/Berlin:20210323T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974213
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210323T130000
+DTEND;TZID=Europe/Berlin:20210323T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974208
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T080000
+DTEND;TZID=Europe/Berlin:20210324T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974214
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210324T130000
+DTEND;TZID=Europe/Berlin:20210324T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974210
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T080000
+DTEND;TZID=Europe/Berlin:20210325T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974215
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210325T130000
+DTEND;TZID=Europe/Berlin:20210325T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974211
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 1\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T080000
+DTEND;TZID=Europe/Berlin:20210326T123000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974216
+SUMMARY:PÜ\;ET3064 Labor Erneuerbare Energien\;Plotkin\;CL: 6B.156 (AT-L)
+	\;Gruppe 2
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: PÜ\nVeranstaltung: ET3064 Labor Erneuerbare Energien\nDo
+	zent: Plotkin\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: Gruppe 2\nPause: -\nVe
+	ranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210326T130000
+DTEND;TZID=Europe/Berlin:20210326T173000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974288
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T090000
+DTEND;TZID=Europe/Berlin:20210329T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974286
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210329T130000
+DTEND;TZID=Europe/Berlin:20210329T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974273
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T100000
+DTEND;TZID=Europe/Berlin:20210330T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974274
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210330T144500
+DTEND;TZID=Europe/Berlin:20210330T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974287
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 3
+	0 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T090000
+DTEND;TZID=Europe/Berlin:20210331T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979750
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210331T140000
+DTEND;TZID=Europe/Berlin:20210331T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974296
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T090000
+DTEND;TZID=Europe/Berlin:20210401T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979755
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210401T140000
+DTEND;TZID=Europe/Berlin:20210401T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974275
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T100000
+DTEND;TZID=Europe/Berlin:20210406T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974276
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210406T144500
+DTEND;TZID=Europe/Berlin:20210406T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974284
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: ONLINE\nPause: ink
+	l. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210407T130000
+DTEND;TZID=Europe/Berlin:20210407T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974277
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;CL: 6B.156 (AT-L)\;LCN-Übung\, Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: LC
+	N-Übung\, Gruppe 1\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T090000
+DTEND;TZID=Europe/Berlin:20210408T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974278
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;LCN-Übung\, Gruppe 2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: LCN-Übung\, Gruppe
+	 2\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210408T130000
+DTEND;TZID=Europe/Berlin:20210408T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974297
+SUMMARY:SU\;ET3063 Elektrische Antriebe\;Podlewski\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET3063 Elektrische Antriebe\nDozent: 
+	Podlewski\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranst
+	altungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T090000
+DTEND;TZID=Europe/Berlin:20210409T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974246
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210409T140000
+DTEND;TZID=Europe/Berlin:20210409T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974290
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T090000
+DTEND;TZID=Europe/Berlin:20210412T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974291
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210412T124500
+DTEND;TZID=Europe/Berlin:20210412T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974302
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T100000
+DTEND;TZID=Europe/Berlin:20210413T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974305
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210413T140000
+DTEND;TZID=Europe/Berlin:20210413T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974279
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;CL: 6B.156 (AT-L)\;LCN-Übung\, Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: LC
+	N-Übung\, Gruppe 1\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T090000
+DTEND;TZID=Europe/Berlin:20210414T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974281
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;LCN-Übung\, Gruppe 2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: LCN-Übung\, Gruppe
+	 2\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210414T130000
+DTEND;TZID=Europe/Berlin:20210414T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974280
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;CL: 6B.156 (AT-L)\;LCN-Übung\, Gruppe 1
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: LC
+	N-Übung\, Gruppe 1\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T090000
+DTEND;TZID=Europe/Berlin:20210415T120000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974282
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Gebäudeautomation\;Roßbach\, B
+	.\;LCN-Übung\, Gruppe 2
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Gebäud
+	eautomation\nDozent: Roßbach\, B.\nRaum: -\nAnmerkung: LCN-Übung\, Gruppe
+	 2\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210415T130000
+DTEND;TZID=Europe/Berlin:20210415T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974283
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 1
+	5 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T090000
+DTEND;TZID=Europe/Berlin:20210416T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974254
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210416T140000
+DTEND;TZID=Europe/Berlin:20210416T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974295
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210419T090000
+DTEND;TZID=Europe/Berlin:20210419T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974298
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210420T100000
+DTEND;TZID=Europe/Berlin:20210420T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974300
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210420T144500
+DTEND;TZID=Europe/Berlin:20210420T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974306
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;C
+	L: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: -\nPau
+	se: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210421T090000
+DTEND;TZID=Europe/Berlin:20210421T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974375
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;C
+	L: 6B.156 (AT-L)\;
+LOCATION:CL: 6B.156 (AT-L)
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: CL: 6B.156 (AT-L)\nAnmerkung: -\nPau
+	se: inkl. 30 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T090000
+DTEND;TZID=Europe/Berlin:20210422T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de979760
+SUMMARY:PÜ\;Englisch\;Davis\;ONLINE
+LOCATION:
+DESCRIPTION:Art: PÜ\nVeranstaltung: Englisch\nDozent: Davis\nRaum: -\nAnm
+	erkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210422T150000
+DTEND;TZID=Europe/Berlin:20210422T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974250
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210423T140000
+DTEND;TZID=Europe/Berlin:20210423T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974294
+SUMMARY:SI\;ET5062 Wahlpflichtbereich II - Schaltvorgänge & En\;Schramm\;
+	ONLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtbereich II - Schalt
+	vorgänge & En\nDozent: Schramm\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 
+	15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210426T090000
+DTEND;TZID=Europe/Berlin:20210426T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974299
+SUMMARY:SU\;ET7066 Projektmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Projektmanagement\nDozent: Bie
+	ker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 30 min Pause\nVeranstaltung
+	suntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210427T100000
+DTEND;TZID=Europe/Berlin:20210427T141500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974301
+SUMMARY:SU\;ET7066 Qualitätsmanagement\;Bieker\;ONLINE
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: ET7066 Qualitätsmanagement\nDozent: B
+	ieker\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15 min Pause\nVeranstaltu
+	ngsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210427T144500
+DTEND;TZID=Europe/Berlin:20210427T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974307
+SUMMARY:SI\;ET5061 Wahlpflichtbereich II - Funkbasierte Kommun\;Cichos\;O
+	NLINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5061 Wahlpflichtbereich II - Funkba
+	sierte Kommun\nDozent: Cichos\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 3
+	0 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210428T090000
+DTEND;TZID=Europe/Berlin:20210428T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201135Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de974248
+SUMMARY:SI\;ET5062 Wahlpflichtfbereich II - Hochspannungstechn\;Habel\;ON
+	LINE
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: ET5062 Wahlpflichtfbereich II - Hochs
+	pannungstechn\nDozent: Habel\nRaum: -\nAnmerkung: ONLINE\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210430T140000
+DTEND;TZID=Europe/Berlin:20210430T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

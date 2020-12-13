@@ -1,0 +1,89 @@
+{
+  "lessons": [
+    {
+      "uid": "sked.de945648",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T09:00:00Z",
+      "module": "402 Wpff. Statist. Verf. in d. Marktforschg.",
+      "lecturers": [
+        "gem. Absprache Prof. Dr. Brinner"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Brinner"
+    },
+    {
+      "uid": "sked.de945645",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T10:00:00Z",
+      "module": "402 Wpff. Operations Research",
+      "lecturers": [
+        "Präsenzklausur wird verschoben!"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Krüger"
+    },
+    {
+      "uid": "sked.de945647",
+      "start": "2020-04-21T07:00:00Z",
+      "end": "2020-04-21T13:30:00Z",
+      "module": "402 Wpff. Ökonometrie",
+      "lecturers": [
+        "Mündliche Prüfung - Online",
+        "siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Nastansky"
+    },
+    {
+      "uid": "sked.de945643",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T10:30:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945644",
+      "start": "2020-04-21T08:00:00Z",
+      "end": "2020-04-21T12:00:00Z",
+      "module": "402 Wpff. Wirtschaftsenglisch Niveau C1",
+      "lecturers": [
+        "Mündliche Prüfung online - Termine siehe businessweg"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "business weg"
+    },
+    {
+      "uid": "sked.de945653",
+      "start": "2020-04-22T12:00:00Z",
+      "end": "2020-04-22T14:00:00Z",
+      "module": "IN-206 Supply Chain Management II",
+      "lecturers": [
+        "gem. Absprache mit Dozenten: Abgabetermin 24.04.2020 - Studierende mit Nachteilsausgleich bis30.04.2020"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "Prof. Dr. Erkens\\, Prof. Dr. Wildebrand"
+    },
+    {
+      "uid": "sked.de945661",
+      "start": "2020-04-24T08:00:00Z",
+      "end": "2020-04-24T09:30:00Z",
+      "module": "Finanz- u. Rechnungswesen II",
+      "lecturers": [
+        "gem. Absprache mit Prof. Dr. Bleis"
+      ],
+      "room": null,
+      "type": "Klausur",
+      "note": "gem. Absprache mit Prof. Dr. Bleis"
+    }
+  ]
+}

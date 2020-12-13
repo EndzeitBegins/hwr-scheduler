@@ -1,0 +1,147 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20201221T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10824
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953996
+SUMMARY:SU\;FM 7002-Studienprojektseminar\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 7002-Studienprojektseminar\nDozent
+	: -\nRaum: -\nAnmerkung: -\nPause: inkl. 60 min Pause\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T094500
+DTEND;TZID=Europe/Berlin:20201207T160000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de948929
+SUMMARY:SU\;FM 1004-Betreiberkonzept - berufl. Praxis\;Sachse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 1004-Betreiberkonzept - berufl. Pr
+	axis\nDozent: Sachse\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nV
+	eranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T094500
+DTEND;TZID=Europe/Berlin:20201208T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955884
+SUMMARY:SI\;FM 6001-Wahl_Arbeits- u. Orga.psychol.\;Pankau\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6001-Wahl_Arbeits- u. Orga.psychol
+	.\nDozent: Pankau\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953993
+SUMMARY:SU\;FM 4003-Energietechnik\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4003-Energietechnik\nDozent: Lunds
+	zien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T094500
+DTEND;TZID=Europe/Berlin:20201209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de949172
+SUMMARY:SI\;FM 6001-Wahl-Arbeitssicherheit\;Kim\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6001-Wahl-Arbeitssicherheit\nDozen
+	t: Kim\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVeranstaltungsu
+	ntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T140000
+DTEND;TZID=Europe/Berlin:20201209T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de953987
+SUMMARY:SU\;FM 4003-Energietechnik\;Lundszien\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FM 4003-Energietechnik\nDozent: Lunds
+	zien\nRaum: -\nAnmerkung: -\nPause: inkl. 15 min Pause\nVeranstaltungsunt
+	ergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T094500
+DTEND;TZID=Europe/Berlin:20201210T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de955885
+SUMMARY:SI\;FM 6001-Wahl_Arbeits- u. Orga.psychol.\;Pankau\;
+LOCATION:
+DESCRIPTION:Art: SI\nVeranstaltung: FM 6001-Wahl_Arbeits- u. Orga.psychol
+	.\nDozent: Pankau\nRaum: -\nAnmerkung: -\nPause: inkl. 30 min Pause\nVera
+	nstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201138Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de945611
+SUMMARY:Klausur\;FM 4003-Energietechnik\;Lundszien\;CL: 1.Audimax vorn\;
+LOCATION:CL: 1.Audimax vorn
+DESCRIPTION:Art: Klausur\nVeranstaltung: FM 4003-Energietechnik\nDozent: 
+	Lundszien\nRaum: CL: 1.Audimax vorn\nAnmerkung: -\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T160000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

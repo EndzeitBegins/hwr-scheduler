@@ -1,0 +1,121 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201026T000000
+X-SKED-SYNC-DTEND:20201102T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10901
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971118
+SUMMARY:SU\;401 -Wppff. betriebliche Altersvorsorge\;Kothe\;Online-Klausu
+	r
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: 401 -Wppff. betriebliche Altersvorsor
+	ge\nDozent: Kothe\nRaum: -\nAnmerkung: Online-Klausur\nPause: -\nVeransta
+	ltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T090000
+DTEND;TZID=Europe/Berlin:20201027T100000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956915
+SUMMARY:Klausur\;401 Wpff. Cross Cultural Management\;Kassman\;
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401 Wpff. Cross Cultural Managem
+	ent\nDozent: Kassman\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsunte
+	rgruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T100000
+DTEND;TZID=Europe/Berlin:20201027T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de970607
+SUMMARY:Klausur\;401 Wpff. Ethik\;Bustamante\;Online
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 401 Wpff. Ethik\nDozent: Bustama
+	nte\nRaum: -\nAnmerkung: Online\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T100000
+DTEND;TZID=Europe/Berlin:20201027T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de931167
+SUMMARY:Prüfung\;Klausur/Mündliche Prüfung 401-Wpff.\;business weg\;ONLIN
+	E - Businessweg informiert Sie über alles Weitere.
+LOCATION:
+DESCRIPTION:Art: Prüfung\nVeranstaltung: Klausur/Mündliche Prüfung 401-Wp
+	ff.\nDozent: business weg\nRaum: -\nAnmerkung: ONLINE - Businessweg infor
+	miert Sie über alles Weitere.\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201027T100000
+DTEND;TZID=Europe/Berlin:20201027T130000
+X-SKED-OUTLOOKFARBINDEX:1
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971452
+SUMMARY:SU\;VS-201 VBL I\;Köhne\;Online-Klausur Versicherungsvertrieb I
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: VS-201 VBL I\nDozent: Köhne\nRaum: -\n
+	Anmerkung: Online-Klausur Versicherungsvertrieb I\nPause: -\nVeranstaltun
+	gsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201029T100000
+DTEND;TZID=Europe/Berlin:20201029T110000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201101T201149Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de971119
+SUMMARY:Klausur\;115-VWL-Markt/Staat/Glob.\;Findikci\;Online-Klausur
+LOCATION:
+DESCRIPTION:Art: Klausur\nVeranstaltung: 115-VWL-Markt/Staat/Glob.\nDozen
+	t: Findikci\nRaum: -\nAnmerkung: Online-Klausur\nPause: -\nVeranstaltungs
+	untergruppe: -
+DTSTART;TZID=Europe/Berlin:20201030T100000
+DTEND;TZID=Europe/Berlin:20201030T113000
+X-SKED-OUTLOOKFARBINDEX:16
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

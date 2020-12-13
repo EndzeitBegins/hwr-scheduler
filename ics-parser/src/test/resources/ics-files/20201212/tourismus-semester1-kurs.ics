@@ -1,0 +1,868 @@
+﻿BEGIN:VCALENDAR
+PRODID:-//www.sked.de//EN
+X-SKED-VERSION-TERMINSYNC:3.0
+X-SKED-SYNC-DTSTART:20201207T000000
+X-SKED-SYNC-DTEND:20210125T000000
+X-SKED-LIZENZNEHMER:22
+X-SKED-RESSOURCE:10936
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19960101T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968815
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T090000
+DTEND;TZID=Europe/Berlin:20201207T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968817
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T104500
+DTEND;TZID=Europe/Berlin:20201207T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956181
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T154500
+DTEND;TZID=Europe/Berlin:20201207T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956183
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201207T173000
+DTEND;TZID=Europe/Berlin:20201207T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952589
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201208T140000
+DTEND;TZID=Europe/Berlin:20201208T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952591
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201208T154500
+DTEND;TZID=Europe/Berlin:20201208T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969189
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20201209T113000
+DTEND;TZID=Europe/Berlin:20201209T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969191
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20201209T131500
+DTEND;TZID=Europe/Berlin:20201209T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956185
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T154500
+DTEND;TZID=Europe/Berlin:20201209T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956187
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201209T173000
+DTEND;TZID=Europe/Berlin:20201209T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968842
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T104500
+DTEND;TZID=Europe/Berlin:20201210T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968844
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201210T123000
+DTEND;TZID=Europe/Berlin:20201210T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952593
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201210T140000
+DTEND;TZID=Europe/Berlin:20201210T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952595
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201210T154500
+DTEND;TZID=Europe/Berlin:20201210T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969062
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T090000
+DTEND;TZID=Europe/Berlin:20201211T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969064
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T104500
+DTEND;TZID=Europe/Berlin:20201211T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972313
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T140000
+DTEND;TZID=Europe/Berlin:20201211T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de972315
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201211T154500
+DTEND;TZID=Europe/Berlin:20201211T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968819
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T090000
+DTEND;TZID=Europe/Berlin:20201214T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968821
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T104500
+DTEND;TZID=Europe/Berlin:20201214T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956189
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T154500
+DTEND;TZID=Europe/Berlin:20201214T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956191
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201214T173000
+DTEND;TZID=Europe/Berlin:20201214T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969196
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20201215T121500
+DTEND;TZID=Europe/Berlin:20201215T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969198
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20201215T140000
+DTEND;TZID=Europe/Berlin:20201215T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956193
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T154500
+DTEND;TZID=Europe/Berlin:20201215T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956195
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201215T173000
+DTEND;TZID=Europe/Berlin:20201215T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969091
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T094500
+DTEND;TZID=Europe/Berlin:20201216T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969093
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201216T113000
+DTEND;TZID=Europe/Berlin:20201216T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952597
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201216T140000
+DTEND;TZID=Europe/Berlin:20201216T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952599
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20201216T154500
+DTEND;TZID=Europe/Berlin:20201216T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968845
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T104500
+DTEND;TZID=Europe/Berlin:20201217T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968847
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T123000
+DTEND;TZID=Europe/Berlin:20201217T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951255
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Baumgärtn
+	er\;CL: 6B.353\;
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Baumgärtner\nRaum: CL: 6B.353\nAnmerkung: -\nPause
+	: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201217T140000
+DTEND;TZID=Europe/Berlin:20201217T171500
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951293
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Rochnowsk
+	i\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T080000
+DTEND;TZID=Europe/Berlin:20201218T103000
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969065
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T113000
+DTEND;TZID=Europe/Berlin:20201218T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969046
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20201218T131500
+DTEND;TZID=Europe/Berlin:20201218T140000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968823
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T090000
+DTEND;TZID=Europe/Berlin:20210104T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968825
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T104500
+DTEND;TZID=Europe/Berlin:20210104T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951297
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Rochnowsk
+	i\;
+LOCATION:
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: inkl. 15
+	 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T130000
+DTEND;TZID=Europe/Berlin:20210104T153000
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956197
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T154500
+DTEND;TZID=Europe/Berlin:20210104T171500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956199
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210104T173000
+DTEND;TZID=Europe/Berlin:20210104T190000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956201
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T080000
+DTEND;TZID=Europe/Berlin:20210105T093000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de956203
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T094500
+DTEND;TZID=Europe/Berlin:20210105T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969193
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210105T121500
+DTEND;TZID=Europe/Berlin:20210105T134500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969195
+SUMMARY:SU\;SK: Wissenschaftliches Arbeiten I\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: SK: Wissenschaftliches Arbeiten I\nDo
+	zent: Rochnowski\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergru
+	ppe: -
+DTSTART;TZID=Europe/Berlin:20210105T140000
+DTEND;TZID=Europe/Berlin:20210105T144500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de951303
+SUMMARY:SU-SBWL-TM\;Grundlagen der Tourismusbetriebslehre (TM)\;Baumgärtn
+	er\;CL: 6B.353\;
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU-SBWL-TM\nVeranstaltung: Grundlagen der Tourismusbetri
+	ebslehre (TM)\nDozent: Baumgärtner\nRaum: CL: 6B.353\nAnmerkung: -\nPause
+	: inkl. 15 min Pause\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210105T154500
+DTEND;TZID=Europe/Berlin:20210105T181500
+X-SKED-OUTLOOKFARBINDEX:9
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969095
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T094500
+DTEND;TZID=Europe/Berlin:20210106T111500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969097
+SUMMARY:SU\;FB: Beschaffung und Produktion\;Woogt\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Beschaffung und Produktion\nDozen
+	t: Woogt\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210106T113000
+DTEND;TZID=Europe/Berlin:20210106T130000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952601
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210106T140000
+DTEND;TZID=Europe/Berlin:20210106T153000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de952603
+SUMMARY:SU\;Betriebswirtschaftliche Grundlagen\;Harloff\;CL: 6B.353\;In d
+	iesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsr
+	egel von 1\,5 m. Ausserdem ist er für Blended Learning geeignet.
+LOCATION:CL: 6B.353
+DESCRIPTION:Art: SU\nVeranstaltung: Betriebswirtschaftliche Grundlagen\nD
+	ozent: Harloff\nRaum: CL: 6B.353\nAnmerkung: In diesen Vorlesungsraum pas
+	sen 20 Studierende unter Einhaltung der Abstandsregel von 1\,5 m. Ausserd
+	em ist er für Blended Learning geeignet.\nPause: -\nVeranstaltungsuntergr
+	uppe: -
+DTSTART;TZID=Europe/Berlin:20210106T154500
+DTEND;TZID=Europe/Berlin:20210106T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968848
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T104500
+DTEND;TZID=Europe/Berlin:20210107T121500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de968850
+SUMMARY:SU\;Wirtschaftsprivatrecht I\;Martina Hesse\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Wirtschaftsprivatrecht I\nDozent: Mar
+	tina Hesse\nRaum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T123000
+DTEND;TZID=Europe/Berlin:20210107T131500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957960
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T150000
+DTEND;TZID=Europe/Berlin:20210107T163000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de957962
+SUMMARY:SU\;Finanzbuchführung\;Zieting\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: Finanzbuchführung\nDozent: Zieting\nR
+	aum: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210107T164500
+DTEND;TZID=Europe/Berlin:20210107T181500
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969067
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T090000
+DTEND;TZID=Europe/Berlin:20210108T103000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201212T201132Z
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:sked.de969069
+SUMMARY:SU\;FB: Marketing\;Rochnowski\;
+LOCATION:
+DESCRIPTION:Art: SU\nVeranstaltung: FB: Marketing\nDozent: Rochnowski\nRa
+	um: -\nAnmerkung: -\nPause: -\nVeranstaltungsuntergruppe: -
+DTSTART;TZID=Europe/Berlin:20210108T104500
+DTEND;TZID=Europe/Berlin:20210108T113000
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
