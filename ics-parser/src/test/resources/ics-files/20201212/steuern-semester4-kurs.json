@@ -6,11 +6,11 @@
       "end": "2020-05-11T13:00:00Z",
       "module": "103-ABWL Personal/Orga",
       "lecturers": [
-        "Online-Klausur"
+        "Dipl.-Kfm. Lange"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dipl.-Kfm. Lange"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952789",
@@ -18,11 +18,11 @@
       "end": "2020-05-13T11:00:00Z",
       "module": "114-VWL-Konjunktur u. Wachstum",
       "lecturers": [
-        "Online-Klausur"
+        "Wagner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Wagner"
+      "note": "Online-Klausur"
     }
   ]
 }

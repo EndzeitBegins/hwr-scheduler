@@ -8,7 +8,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Vieth"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -33,7 +33,7 @@
         "Röder",
         "Uwe"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -45,7 +45,7 @@
       "lecturers": [
         "Langner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

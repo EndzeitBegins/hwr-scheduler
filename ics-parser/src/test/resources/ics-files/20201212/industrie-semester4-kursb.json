@@ -6,11 +6,11 @@
       "end": "2020-05-13T09:00:00Z",
       "module": "303-W.informatik",
       "lecturers": [
-        "Online-Klausur"
+        "Witte"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Witte"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de954551",
@@ -18,11 +18,11 @@
       "end": "2020-05-15T08:45:00Z",
       "module": "IN-117Recht-WPR II-ArbR",
       "lecturers": [
-        "Onlineklausur\\nAbgabe Seminarbeit - Herr Neumann"
+        "Prof. Dr. Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Hesse"
+      "note": "Onlineklausur"
     }
   ]
 }

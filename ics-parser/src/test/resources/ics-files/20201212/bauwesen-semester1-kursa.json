@@ -8,7 +8,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "Gruppe 1+2"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "Gruppe 3+4"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Pepper"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "ganzer Kurs - online"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,9 +68,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.173 (T)",
+      "rooms": [
+        "CL: 6B.173 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.173 (T)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de959873",
@@ -80,7 +82,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -92,7 +94,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,9 +106,11 @@
       "lecturers": [
         "Koenig"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de970991",
@@ -116,9 +120,11 @@
       "lecturers": [
         "Koenig"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de971127",
@@ -128,7 +134,7 @@
       "lecturers": [
         "Pepper"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "ganzer Kurs - online"
     },
@@ -140,7 +146,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -152,7 +158,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "Gruppe 1+2"
     },
@@ -164,7 +170,7 @@
       "lecturers": [
         "Koenig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "online"
     },
@@ -176,7 +182,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -188,7 +194,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +206,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +218,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +230,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "Gruppe 1+2"
     },
@@ -236,7 +242,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "Gruppe 3+4"
     },
@@ -248,9 +254,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.173 (T)",
+      "rooms": [
+        "CL: 6B.173 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.173 (T)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de971612",
@@ -260,7 +268,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "Teilnehmerzahl max. 10 Pers. - bitte untereinander absprechen"
     },
@@ -272,7 +280,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -284,7 +292,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -296,9 +304,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "*",
-      "note": "CL: 6B.150 (T)"
+      "note": "Einführungsveranstaltung PTB I - Gruppe A"
     },
     {
       "uid": "sked.de975410",
@@ -308,9 +318,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "*",
-      "note": "CL: 6B.150 (T)"
+      "note": "Einführungsveranstaltung PTB I - Gruppe B"
     },
     {
       "uid": "sked.de959897",
@@ -321,7 +333,7 @@
         "Koenig",
         "Liess"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -333,7 +345,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

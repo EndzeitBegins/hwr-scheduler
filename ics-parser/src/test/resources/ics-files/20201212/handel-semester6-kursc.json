@@ -6,11 +6,13 @@
       "end": "2015-04-21T08:30:00Z",
       "module": "HD-402WPfl.II- Mode Marketing",
       "lecturers": [
-        "+ 1 FM-Studierende mit Nachteilsausgleich Modul 402-Personalmanagement bis 10.30 Uhr"
+        "Prof. Dr. Wilhelm"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Wilhelm"
+      "note": "+ 1 FM-Studierende mit Nachteilsausgleich Modul 402-Personalmanagement bis 10.30 Uhr"
     },
     {
       "uid": "sked.de677656",
@@ -20,7 +22,9 @@
       "lecturers": [
         "Prof. Dr. Raethel"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -33,7 +37,9 @@
         "Prof. Dr. Peter-Ollrogge",
         "Prof. Dr. Wissing"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     }

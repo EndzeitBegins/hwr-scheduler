@@ -8,7 +8,9 @@
       "lecturers": [
         "Prof. Dr.-Ing. Detzel"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -19,9 +21,11 @@
       "module": "BW4025-Baumanagement I",
       "lecturers": [
         "Dipl.-Kfm. Rottmann",
-        "Prof. Dr.Wotschke"
+        "Prof. Dr. Wotschke"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -34,7 +38,9 @@
         "Prof. Dr. Wotschke",
         "Zimmermann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
       "note": null
     }

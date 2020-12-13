@@ -8,7 +8,7 @@
       "lecturers": [
         "Klingenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Garnjost"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
       "note": "ONLINE - Aufteilung erfolgt durch Frau Garnjost"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Schwertfeger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Bleis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -56,9 +56,9 @@
       "lecturers": [
         "Peter-Ollrogge"
       ],
-      "room": null,
+      "rooms": [],
       "type": "I",
-      "note": "online Sprechstundefür Kurssprecher\\, Gruppensprecher\\, Buddies"
+      "note": "online Sprechstunde für Kurssprecher, Gruppensprecher, Buddies"
     },
     {
       "uid": "sked.de974696",
@@ -68,7 +68,7 @@
       "lecturers": [
         "Körkemeyer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

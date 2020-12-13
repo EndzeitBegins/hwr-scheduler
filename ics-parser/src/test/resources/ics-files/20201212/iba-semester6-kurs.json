@@ -6,11 +6,11 @@
       "end": "2020-04-20T10:00:00Z",
       "module": "203-SBWL",
       "lecturers": [
-        "gem. Absprache mit Dozenten"
+        "Prof. Dr. Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Roxin"
+      "note": "gem. Absprache mit Dozenten"
     },
     {
       "uid": "sked.de945648",
@@ -18,11 +18,11 @@
       "end": "2020-04-21T09:00:00Z",
       "module": "402 Wpff. Statist. Verf. in d. Marktforschg.",
       "lecturers": [
-        "gem. Absprache Prof. Dr. Brinner"
+        "Prof. Dr. Brinner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Brinner"
+      "note": "gem. Absprache Prof. Dr. Brinner"
     },
     {
       "uid": "sked.de945647",
@@ -30,22 +30,19 @@
       "end": "2020-04-21T13:30:00Z",
       "module": "402 Wpff. Ökonometrie",
       "lecturers": [
-        "Mündliche Prüfung - Online",
-        "siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
+        "Prof. Dr. Nastansky"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Nastansky"
+      "note": "Mündliche Prüfung - Online, siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
     },
     {
       "uid": "sked.de945662",
       "start": "2020-04-22T08:00:00Z",
       "end": "2020-04-22T10:00:00Z",
       "module": "204-SBWL",
-      "lecturers": [
-        "gem. Absprache mit Prof. Dr. Bleis"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "gem. Absprache mit Prof. Dr. Bleis"
     }

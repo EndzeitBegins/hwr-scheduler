@@ -9,9 +9,11 @@
         "Jung",
         "Weyer"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": "ACHTUNG! 1 Studentin mit Nachteilsausgleich bis 13.00 Uhr"
     },
     {
       "uid": "sked.de972015",
@@ -21,7 +23,7 @@
       "lecturers": [
         "Jung"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -33,7 +35,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -45,7 +47,7 @@
       "lecturers": [
         "Heintel-Schachtschneider"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

@@ -10,9 +10,11 @@
         "Dworok",
         "Kowalke"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     },
     {
       "uid": "sked.de943989",
@@ -22,9 +24,11 @@
       "lecturers": [
         "Dick"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     },
     {
       "uid": "sked.de943991",
@@ -35,9 +39,11 @@
         "Heerma",
         "Michaels"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     }
   ]
 }

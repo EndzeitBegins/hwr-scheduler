@@ -6,11 +6,11 @@
       "end": "2020-04-21T10:00:00Z",
       "module": "402 Wpff. Operations Research",
       "lecturers": [
-        "Präsenzklausur wird verschoben!"
+        "Prof. Dr. Krüger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Krüger"
+      "note": "Präsenzklausur wird verschoben!"
     },
     {
       "uid": "sked.de945647",
@@ -18,12 +18,11 @@
       "end": "2020-04-21T13:30:00Z",
       "module": "402 Wpff. Ökonometrie",
       "lecturers": [
-        "Mündliche Prüfung - Online",
-        "siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
+        "Prof. Dr. Nastansky"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Nastansky"
+      "note": "Mündliche Prüfung - Online, siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
     },
     {
       "uid": "sked.de945643",
@@ -31,11 +30,11 @@
       "end": "2020-04-21T10:30:00Z",
       "module": "402 Wpff. Wirtschaftsenglisch Niveau B2",
       "lecturers": [
-        "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
+        "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "business weg"
+      "note": "Mündliche Prüfung online - Termine siehe Übersicht von businessweg"
     },
     {
       "uid": "sked.de945644",
@@ -43,11 +42,11 @@
       "end": "2020-04-21T12:00:00Z",
       "module": "402 Wpff. Wirtschaftsenglisch Niveau C1",
       "lecturers": [
-        "Mündliche Prüfung online - Termine siehe businessweg"
+        "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "business weg"
+      "note": "Mündliche Prüfung online - Termine siehe businessweg"
     },
     {
       "uid": "sked.de950884",
@@ -55,11 +54,11 @@
       "end": "2020-04-23T12:00:00Z",
       "module": "HD-204Vert.-HanMM II-AR",
       "lecturers": [
-        "Online-Klausur"
+        "Prof. Dr. Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Hesse"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de950885",
@@ -67,11 +66,11 @@
       "end": "2020-04-23T14:30:00Z",
       "module": "HD-204Vert.-HanMM II-PersEntw.",
       "lecturers": [
-        "Online-Klausur"
+        "Schulz-Bücher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schulz-Bücher"
+      "note": "Online-Klausur"
     }
   ]
 }

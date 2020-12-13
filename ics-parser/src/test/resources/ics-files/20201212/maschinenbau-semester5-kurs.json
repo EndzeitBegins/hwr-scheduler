@@ -8,7 +8,7 @@
       "lecturers": [
         "Borutzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Klünder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -32,9 +32,9 @@
       "lecturers": [
         "Klünder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
-      "note": "Alle"
+      "note": "Alle; Online"
     },
     {
       "uid": "sked.de948231",
@@ -44,7 +44,7 @@
       "lecturers": [
         "Klünder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -56,9 +56,9 @@
       "lecturers": [
         "Klünder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
-      "note": "Alle"
+      "note": "Alle; Online"
     },
     {
       "uid": "sked.de948234",
@@ -68,9 +68,11 @@
       "lecturers": [
         "Klünder"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     }
   ]
 }

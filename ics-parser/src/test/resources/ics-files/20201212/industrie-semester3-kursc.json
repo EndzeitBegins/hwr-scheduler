@@ -10,7 +10,9 @@
         "Prof. Dr. Raethel",
         "Prof. Dr. Wildebrand"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -20,21 +22,24 @@
       "end": "2017-12-20T11:00:00Z",
       "module": "112-Finanzierg. u. Investition",
       "lecturers": [
-        "+ 3 Nachklausuren Modul103 FR TM JG 15"
+        "Prof. Dr. Bleis",
+        "Prof. Dr. Rigas"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Bleis\\, Prof. Dr. Rigas"
+      "note": "+ 3 Nachklausuren Modul 103 FR TM JG 15"
     },
     {
       "uid": "sked.de837173",
       "start": "2017-12-20T12:00:00Z",
       "end": "2017-12-20T13:00:00Z",
       "module": "Reserviert",
-      "lecturers": [
-        "Konsultation VWL- Herr Wagner"
+      "lecturers": [],
+      "rooms": [
+        "CL: 6A.226"
       ],
-      "room": "CL: 6A.226",
       "type": "R",
       "note": "Konsultation VWL- Herr Wagner"
     },
@@ -44,11 +49,15 @@
       "end": "2017-12-21T15:00:00Z",
       "module": "114-VWL-Konjunktur u. Wachstum",
       "lecturers": [
-        "Nachteilsausgleich: 1 Studentin FR BKC bis 16.25 Uhr+1 Studentin FR DL bis 16.00 Uhr"
+        "Prof. Dr. Kirchner",
+        "Wagner",
+        "Prof. Dr. Weyer"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Kirchner\\, Wagner\\, Prof. Dr. Weyer"
+      "note": "Nachteilsausgleich: 1 StudentinFR BKC bis 16.25 Uhr+1 Studentin FR DL bis 16.00 Uhr"
     }
   ]
 }

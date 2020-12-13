@@ -8,7 +8,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -22,7 +22,7 @@
         "Florian",
         "Weber"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -34,7 +34,7 @@
       "lecturers": [
         "Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -46,7 +46,7 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

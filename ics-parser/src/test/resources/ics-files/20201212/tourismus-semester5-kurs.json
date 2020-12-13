@@ -8,7 +8,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Rigas"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Hütten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Hasse, D."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Bergmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Uhrzeit noch nicht bestätigt"
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Cogiel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online-Klausur"
     }

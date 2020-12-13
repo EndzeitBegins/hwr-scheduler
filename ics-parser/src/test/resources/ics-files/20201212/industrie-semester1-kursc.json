@@ -6,11 +6,15 @@
       "end": "2017-01-23T11:00:00Z",
       "module": "113-vwl Allokation",
       "lecturers": [
-        "+ 3 Nachklausuren SP A"
+        "Prof. Dr. Lemke",
+        "Prof. Dr. Roxin",
+        "Wagner"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Lemke\\, Prof. Dr. Roxin\\, Wagner"
+      "note": "+ 3 Nachklausuren SP A"
     },
     {
       "uid": "sked.de787318",
@@ -21,7 +25,9 @@
         "Prof. Dr. Bleis",
         "Prof. Dr. Schlösser"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     }

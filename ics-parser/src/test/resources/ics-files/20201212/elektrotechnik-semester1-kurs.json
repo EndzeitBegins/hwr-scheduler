@@ -8,7 +8,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Lange"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "ONLINE"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Keller"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Nachholtermin!"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Keller"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -116,9 +116,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de970301",
@@ -128,9 +130,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de970303",
@@ -140,9 +144,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de970302",
@@ -152,9 +158,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.158 (E-L)",
+      "rooms": [
+        "CL: 6B.158 (E-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.158 (E-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de970304",
@@ -164,9 +172,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.158 (E-L)",
+      "rooms": [
+        "CL: 6B.158 (E-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.158 (E-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de970305",
@@ -176,9 +186,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.158 (E-L)",
+      "rooms": [
+        "CL: 6B.158 (E-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.158 (E-L)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de970323",
@@ -188,7 +200,7 @@
       "lecturers": [
         "Keller"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -200,7 +212,7 @@
       "lecturers": [
         "Lange"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -212,7 +224,7 @@
       "lecturers": [
         "Magalashvili"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Klausurvorbereitung ONLINE"
     },
@@ -224,7 +236,7 @@
       "lecturers": [
         "Lange"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -236,7 +248,7 @@
       "lecturers": [
         "Magalashvili"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -244,11 +256,11 @@
       "uid": "sked.de977846",
       "start": "2021-01-13T08:00:00Z",
       "end": "2021-01-13T10:00:00Z",
-      "module": "ET7016 Betriebliches Management I",
+      "module": "ET7016 Betriebliches ManagementI",
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -261,7 +273,7 @@
         "Barten",
         "Keller"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

@@ -27,7 +27,7 @@ object LessonSerializer : KSerializer<Lesson> {
         element<String>("end")
         element<String>("module")
         element<List<String>>("lecturers")
-        element<String?>("room", isOptional = true)
+        element<List<String>>("rooms")
         element<String?>("type", isOptional = true)
         element<String?>("note", isOptional = true)
     }
@@ -39,7 +39,7 @@ object LessonSerializer : KSerializer<Lesson> {
             encodeSerializableElement(descriptor, 2, InstantSerializer, value.end)
             encodeStringElement(descriptor, 3, value.module)
             encodeSerializableElement(descriptor, 4, ListSerializer(String.serializer()), value.lecturers)
-            encodeNullableSerializableElement(descriptor, 5, String.serializer(), value.room)
+            encodeSerializableElement(descriptor, 5, ListSerializer(String.serializer()), value.rooms)
             encodeNullableSerializableElement(descriptor, 6, String.serializer(), value.type)
             encodeNullableSerializableElement(descriptor, 7, String.serializer(), value.note)
         }
@@ -52,7 +52,7 @@ object LessonSerializer : KSerializer<Lesson> {
             var end: Instant? = null
             var module: String? = null
             var lecturers: List<String> = emptyList()
-            var room: String? = null
+            var rooms: List<String> = emptyList()
             var type: String? = null
             var note: String? = null
 
@@ -65,7 +65,7 @@ object LessonSerializer : KSerializer<Lesson> {
                     2 -> end = decodeSerializableElement(descriptor, 2, InstantSerializer)
                     3 -> module = decodeStringElement(descriptor, 3)
                     4 -> lecturers = decodeSerializableElement(descriptor, 4, ListSerializer(String.serializer()))
-                    5 -> room = decodeNullableSerializableElement(descriptor, 5, String.serializer().nullable)
+                    5 -> rooms = decodeSerializableElement(descriptor, 5, ListSerializer(String.serializer()))
                     6 -> type = decodeNullableSerializableElement(descriptor, 6, String.serializer().nullable)
                     7 -> note = decodeNullableSerializableElement(descriptor, 7, String.serializer().nullable)
 
@@ -79,7 +79,7 @@ object LessonSerializer : KSerializer<Lesson> {
                 requireNotNull(end),
                 requireNotNull(module),
                 lecturers,
-                room,
+                rooms,
                 type,
                 note
             )

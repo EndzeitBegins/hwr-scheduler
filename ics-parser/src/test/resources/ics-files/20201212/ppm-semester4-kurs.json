@@ -7,9 +7,11 @@
       "module": "PPM 4.7.13 Begleitseminar zur Masterarbeit",
       "lecturers": [
         "Brenninger",
-        "Prof.Dr. Wotschke"
+        "Prof. Dr. Wotschke"
       ],
-      "room": "CL: 6B.453",
+      "rooms": [
+        "CL: 6B.453"
+      ],
       "type": "S",
       "note": null
     }

@@ -6,15 +6,8 @@ import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.Test
 import xyz.ottersbach.hwrscheduler.icsparser.internal.LessonEvent
 import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.DescriptionEntry
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.SummaryEntry
 
 internal class ExtractLecturersKtTest {
-
-    private val summaryEntryWithoutThirdPart = SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2")
-    private val summaryEntryWithBlankThirdPart = SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\;  ")
-    private val summaryEntryWithDashAsThirdPart = SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\; - ")
-    private val summaryEntryWithAValueAsThirdPart =
-        SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\; example lecturer summary \\; Online")
 
     private val descriptionEntryWithoutDozentPart = DescriptionEntry(
         """
@@ -46,284 +39,63 @@ internal class ExtractLecturersKtTest {
     )
 
     @Nested
-    inner class WhenSummaryEntryHasNotAThirdPart {
-        private val summaryEntry = summaryEntryWithoutThirdPart
+    inner class WhenDescriptionEntryHasNotADozentPart {
+        private val descriptionEntry = descriptionEntryWithoutDozentPart
 
-        @Nested
-        inner class WhenDescriptionEntryHasNotADozentPart {
-            private val descriptionEntry = descriptionEntryWithoutDozentPart
+        @Test
+        internal fun `returns null`() {
+            val entry = buildEvent(
+                descriptionEntry = descriptionEntry
+            )
 
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasABlankDozentPart {
-            private val descriptionEntry = descriptionEntryWithBlankDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasDashAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithDashAsDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasAValueAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithAValueAsDozentPart
-
-            @Test
-            internal fun `returns value from description entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on description entry`(entry)
-            }
+            `assertThat entry yields lecturers of value emptyList`(entry)
         }
     }
 
     @Nested
-    inner class WhenSummaryEntryHasABlankThirdPart {
-        private val summaryEntry = summaryEntryWithBlankThirdPart
+    inner class WhenDescriptionEntryHasABlankDozentPart {
+        private val descriptionEntry = descriptionEntryWithBlankDozentPart
 
-        @Nested
-        inner class WhenDescriptionEntryHasNotADozentPart {
-            private val descriptionEntry = descriptionEntryWithoutDozentPart
+        @Test
+        internal fun `returns null`() {
+            val entry = buildEvent(
+                descriptionEntry = descriptionEntry
+            )
 
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
+            `assertThat entry yields lecturers of value emptyList`(entry)
         }
-
-        @Nested
-        inner class WhenDescriptionEntryHasABlankDozentPart {
-            private val descriptionEntry = descriptionEntryWithBlankDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasDashAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithDashAsDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasAValueAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithAValueAsDozentPart
-
-            @Test
-            internal fun `returns value from description entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on description entry`(entry)
-            }
-        }
-
-
     }
 
     @Nested
-    inner class WhenSummaryEntryHasDashAsThirdPart {
-        private val summaryEntry = summaryEntryWithDashAsThirdPart
+    inner class WhenDescriptionEntryHasDashAsDozentPart {
+        private val descriptionEntry = descriptionEntryWithDashAsDozentPart
 
-        @Nested
-        inner class WhenDescriptionEntryHasNotADozentPart {
-            private val descriptionEntry = descriptionEntryWithoutDozentPart
+        @Test
+        internal fun `returns null`() {
+            val entry = buildEvent(
+                descriptionEntry = descriptionEntry
+            )
 
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
+            `assertThat entry yields lecturers of value emptyList`(entry)
         }
-
-        @Nested
-        inner class WhenDescriptionEntryHasABlankDozentPart {
-            private val descriptionEntry = descriptionEntryWithBlankDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasDashAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithDashAsDozentPart
-
-            @Test
-            internal fun `returns null`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers of value emptyList`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasAValueAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithAValueAsDozentPart
-
-            @Test
-            internal fun `returns value from description entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on description entry`(entry)
-            }
-        }
-
-
     }
 
     @Nested
-    inner class WhenSummaryEntryHasAValueAsThirdPart {
-        private val summaryEntry = summaryEntryWithAValueAsThirdPart
+    inner class WhenDescriptionEntryHasAValueAsDozentPart {
+        private val descriptionEntry = descriptionEntryWithAValueAsDozentPart
 
-        @Nested
-        inner class WhenDescriptionEntryHasNotADozentPart {
-            private val descriptionEntry = descriptionEntryWithoutDozentPart
+        @Test
+        internal fun `returns value from description entry`() {
+            val entry = buildEvent(
+                descriptionEntry = descriptionEntry
+            )
 
-            @Test
-            internal fun `returns value from summary entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on summary entry`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasABlankDozentPart {
-            private val descriptionEntry = descriptionEntryWithBlankDozentPart
-
-            @Test
-            internal fun `returns value from summary entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on summary entry`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasDashAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithDashAsDozentPart
-
-            @Test
-            internal fun `returns value from summary entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on summary entry`(entry)
-            }
-        }
-
-        @Nested
-        inner class WhenDescriptionEntryHasAValueAsDozentPart {
-            private val descriptionEntry = descriptionEntryWithAValueAsDozentPart
-
-            @Test
-            internal fun `returns value from summary entry`() {
-                val entry = buildEvent(
-                    summaryEntry = summaryEntry,
-                    descriptionEntry = descriptionEntry
-                )
-
-                `assertThat entry yields lecturers value based on summary entry`(entry)
-            }
+            `assertThat entry yields lecturers value based on description entry`(entry)
         }
     }
 
     @Test
-    internal fun `supports multiple lecturers in summary entry`() {
-        val summaryEntry = SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\; lecturer sum 1\\, lecturer sum 2 \\; Online")
-        val entry = buildEvent(
-            summaryEntry = summaryEntry,
-            descriptionEntry = descriptionEntryWithoutDozentPart
-        )
-
-        val result = extractLecturers(entry)
-
-        assertThat(result, equalTo(listOf("lecturer sum 1", "lecturer sum 2")))
-    }
-
-    @Test
-    internal fun `supports multiple lecturers in description entry`() {
+    internal fun `supports multiple lecturers`() {
         val descriptionEntry = DescriptionEntry(
             """
         |DESCRIPTION:Art: La\nVeranstaltung: IT2101-Labor SWE I: Gruppe 1 + 2\nDoz
@@ -332,7 +104,6 @@ internal class ExtractLecturersKtTest {
     """.trimMargin()
         )
         val entry = buildEvent(
-            summaryEntry = summaryEntryWithoutThirdPart,
             descriptionEntry = descriptionEntry
         )
 
@@ -342,22 +113,7 @@ internal class ExtractLecturersKtTest {
     }
 
     @Test
-    internal fun `supports suffixed first name abbreviations in summary entry`() {
-        val summaryEntry = SummaryEntry(
-            "SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\; lecturer sum\\, A. \\, B. lecturer sum\\,lecturer sum\\,C.\\; Online"
-        )
-        val entry = buildEvent(
-            summaryEntry = summaryEntry,
-            descriptionEntry = descriptionEntryWithoutDozentPart
-        )
-
-        val result = extractLecturers(entry)
-
-        assertThat(result, equalTo(listOf("lecturer sum, A.", "B. lecturer sum", "lecturer sum, C.")))
-    }
-
-    @Test
-    internal fun `supports suffixed first name abbreviations in description entry`() {
+    internal fun `supports suffixed first name abbreviations`() {
         val descriptionEntry = DescriptionEntry(
             """
         |DESCRIPTION:Art: La\nVeranstaltung: IT2101-Labor SWE I: Gruppe 1 + 2\nDoz
@@ -366,7 +122,6 @@ internal class ExtractLecturersKtTest {
     """.trimMargin()
         )
         val entry = buildEvent(
-            summaryEntry = summaryEntryWithoutThirdPart,
             descriptionEntry = descriptionEntry
         )
 
@@ -381,16 +136,9 @@ internal class ExtractLecturersKtTest {
         assertThat(result, equalTo(emptyList()))
     }
 
-    private fun `assertThat entry yields lecturers value based on summary entry`(entry: LessonEvent) {
-        val result = extractLecturers(entry)
-
-        assertThat(result, equalTo(listOf("example lecturer summary")))
-    }
-
     private fun `assertThat entry yields lecturers value based on description entry`(entry: LessonEvent) {
         val result = extractLecturers(entry)
 
         assertThat(result, equalTo(listOf("example lecturer description")))
     }
-
 }

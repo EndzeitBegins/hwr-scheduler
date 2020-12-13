@@ -8,7 +8,7 @@
       "lecturers": [
         "Kretzmer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Prüfung Online"
     },
@@ -22,7 +22,7 @@
         "Monett Diaz, D.",
         "Thomas"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -34,7 +34,7 @@
       "lecturers": [
         "Seemann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -46,7 +46,7 @@
       "lecturers": [
         "Buck"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     }

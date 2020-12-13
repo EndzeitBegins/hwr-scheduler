@@ -8,7 +8,7 @@
       "lecturers": [
         "Kamin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE-Klausur regulär 09.00-10.30 Uhr - Achtung 1 Studierende mit Nachteilsausgleich bis 11.15 Uhr"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Köhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Mündliche Prüfungen Grundlagen Leben"
     },
@@ -33,9 +33,11 @@
         "Jung",
         "Weyer"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": "ACHTUNG! 1 Studentin mit Nachteilsausgleich bis 13.00 Uhr"
     },
     {
       "uid": "sked.de974673",
@@ -45,7 +47,7 @@
       "lecturers": [
         "Ostwald"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Achtung 1 Studierende aus dem Kurs VS Nachteilsausgleich bis 10.15 Uhr"
     },
@@ -57,7 +59,7 @@
       "lecturers": [
         "Simmons"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Achtung 1 Studierende mit Nachteilsausgleich bis 11.35 Uhr"
     },
@@ -69,9 +71,9 @@
       "lecturers": [
         "Siegert, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "ONLINE- Achtung 1 Studierende mit Nachteilsausgleich bis 11.40 Uhr"
+      "note": "ONLINE - Achtung 1 Studierende mit Nachteilsausgleich bis 11.40 Uhr"
     },
     {
       "uid": "sked.de974683",
@@ -81,7 +83,7 @@
       "lecturers": [
         "Wolff"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Achtung 1 Studierende mit Nachteilsausgleich bis 13.05 Uhr"
     },
@@ -93,7 +95,7 @@
       "lecturers": [
         "Kölling"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Achtung 1 Studentin mit Nachteilsausgleich bis 13.00 Uhr"
     },
@@ -105,7 +107,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Test / Aktive Teilnahme"
     }

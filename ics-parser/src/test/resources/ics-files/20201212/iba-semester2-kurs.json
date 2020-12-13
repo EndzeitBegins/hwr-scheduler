@@ -8,7 +8,9 @@
       "lecturers": [
         "Prof. Dr. Weyer"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -18,11 +20,15 @@
       "end": "2018-07-04T09:00:00Z",
       "module": "111-KLR",
       "lecturers": [
-        "+ 2 Nkl. FR VS (JG 16)\\nAchtung! 1 Student mitNachteilsausgleich IN B schreibt im Raum 5.0002"
+        "Prof. Dr. Schwertfeger",
+        "Prof. Dr. Soller",
+        "Wittmüß"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Schwertfeger\\,Prof. Dr. Soller\\, Wittmüß"
+      "note": "+ 2 Nkl. FR VS (JG 16)"
     },
     {
       "uid": "sked.de864311",
@@ -33,7 +39,9 @@
         "Prof. Dr. Kalenberg",
         "Prof. Dr. Linz"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

@@ -8,7 +8,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Forchert"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -57,7 +57,7 @@
         "Brenninger",
         "Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -69,7 +69,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -81,7 +81,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -93,7 +93,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -105,7 +105,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -117,7 +117,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -129,7 +129,7 @@
       "lecturers": [
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -142,7 +142,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -155,7 +155,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -168,7 +168,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -181,7 +181,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -194,7 +194,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -207,7 +207,7 @@
         "Braun, A.",
         "Koch-Rust"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -219,7 +219,7 @@
       "lecturers": [
         "Forchert"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -231,7 +231,7 @@
       "lecturers": [
         "Forchert"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -243,7 +243,7 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -255,7 +255,7 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -267,7 +267,7 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -279,7 +279,7 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -291,7 +291,7 @@
       "lecturers": [
         "Janitzek"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -304,7 +304,7 @@
         "Brenninger",
         "Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -316,7 +316,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -328,7 +328,7 @@
       "lecturers": [
         "Janitzek"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -341,7 +341,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -354,7 +354,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -367,7 +367,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -380,7 +380,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -393,7 +393,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -406,7 +406,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -419,7 +419,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -432,7 +432,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -444,7 +444,7 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -456,9 +456,9 @@
       "lecturers": [
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Exkursion\\, weitere Informationen folgen"
+      "note": "Exkursion, weitere Informationen folgen"
     },
     {
       "uid": "sked.de968778",
@@ -469,7 +469,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -482,7 +482,7 @@
         "Lange",
         "Steffen"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -491,14 +491,10 @@
       "start": "2021-03-05T12:00:00Z",
       "end": "2021-03-05T13:30:00Z",
       "module": "PPM 3.6.11 Wahlpflichtfach - QMF-TÜV-Zertifizierun",
-      "lecturers": [
-        "freiwillig",
-        "Beginn der Prüfung noch nicht bestätigt",
-        "weitere Informationenfolgen"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Prüfung",
-      "note": "freiwillig\\, Beginn der Prüfung noch nicht bestätigt\\, weitere Informationen folgen"
+      "note": "freiwillig, Beginn der Prüfung noch nicht bestätigt, weitere Informationen folgen"
     },
     {
       "uid": "sked.de968754",
@@ -509,7 +505,7 @@
         "Forchert",
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -522,7 +518,7 @@
         "Forchert",
         "Kaschka"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -534,7 +530,7 @@
       "lecturers": [
         "Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": "Feedbackgespräche"
     },
@@ -543,10 +539,8 @@
       "start": "2021-03-26T12:00:00Z",
       "end": "2021-03-26T15:30:00Z",
       "module": "Reserviert",
-      "lecturers": [
-        "Öffentliche Infoveranstaltung"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "R",
       "note": "Öffentliche Infoveranstaltung"
     }

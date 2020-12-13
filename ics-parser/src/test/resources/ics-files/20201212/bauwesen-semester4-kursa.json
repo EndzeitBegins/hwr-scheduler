@@ -6,11 +6,14 @@
       "end": "2020-03-23T11:00:00Z",
       "module": "BW6044-Baubetrieb 2",
       "lecturers": [
-        "1 Studentin aus Kurs A mit Nachteilsausgleich bis 12.20 Uhr."
+        "Dipl.-Kfm. Rottmann",
+        "Prof. Dr. Wotschke"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Dipl.-Kfm. Rottmann\\, Prof. Dr. Wotschke"
+      "note": "1 Studentin aus Kurs A mit Nachteilsausgleich bis 12.20 Uhr."
     },
     {
       "uid": "sked.de926743",
@@ -18,11 +21,13 @@
       "end": "2020-03-25T11:00:00Z",
       "module": "BW4041-Geotechnik",
       "lecturers": [
-        "1 Studentin aus Kurs A mit Nachteilsausgleich bis 12.20 Uhr"
+        "Prof. Dr.-Ing. Schüßler"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr.-Ing. Schüßler"
+      "note": "1 Studentin aus Kurs A mit Nachteilsausgleichbis 12.20 Uhr"
     },
     {
       "uid": "sked.de926742",
@@ -30,11 +35,14 @@
       "end": "2020-03-27T11:00:00Z",
       "module": "BW4042-Holz- und Mauerwerksbau",
       "lecturers": [
-        "1 Studentin aus Kurs A mit Nachteilsausgleich bis 12.20 Uhr"
+        "Prof. Dr.-Ing. Detzel",
+        "Liess"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr.-Ing. Detzel\\, Liess"
+      "note": "1 Studentin aus Kurs A mit Nachteilsausgleich bis 12.20 Uhr"
     }
   ]
 }

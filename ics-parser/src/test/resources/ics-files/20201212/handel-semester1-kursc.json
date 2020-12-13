@@ -8,8 +8,10 @@
       "lecturers": [
         "RA Garnjost"
       ],
-      "room": "CL: 6B.465",
-      "type": "116-Wirtschaftsprivatrecht I",
+      "rooms": [
+        "CL: 6B.465"
+      ],
+      "type": "Klausur",
       "note": null
     }
   ]

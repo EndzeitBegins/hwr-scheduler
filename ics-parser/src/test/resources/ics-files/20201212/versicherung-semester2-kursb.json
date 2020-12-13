@@ -6,21 +6,19 @@
       "end": "2020-06-29T10:00:00Z",
       "module": "Finanzbuchführung",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Schlösser"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "+ 1 Nachteilsausgleich bis 13.00 Uhr"
+      "note": "Online; + 1 Nachteilsausgleich bis 13.00 Uhr"
     },
     {
       "uid": "sked.de955925",
       "start": "2020-06-30T08:00:00Z",
       "end": "2020-06-30T12:00:00Z",
       "module": "FB: Marketing",
-      "lecturers": [
-        "Abgabetermin Seminarbeit"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "Abgabetermin Seminarbeit"
     },
@@ -30,11 +28,14 @@
       "end": "2020-07-02T09:00:00Z",
       "module": "Sachversicherungen/Industrieversicherung",
       "lecturers": [
-        "+ 1 Nachteilsausgleich bis 12.00 Uhr"
+        "Prof. Dr. Köhne",
+        "Prof. Dr. Weyer"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Köhne\\, Prof. Dr. Weyer"
+      "note": "+ 1 Nachteilsausgleichbis 12.00 Uhr"
     },
     {
       "uid": "sked.de958954",
@@ -42,11 +43,11 @@
       "end": "2020-07-03T12:00:00Z",
       "module": "Kosten- und Leistungsrechnung",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Kalenberg"
+      "note": "Online"
     }
   ]
 }

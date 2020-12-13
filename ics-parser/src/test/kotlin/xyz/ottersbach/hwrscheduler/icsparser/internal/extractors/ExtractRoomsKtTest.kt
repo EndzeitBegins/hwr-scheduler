@@ -1,6 +1,5 @@
 package xyz.ottersbach.hwrscheduler.icsparser.internal.extractors
 
-import com.natpryce.hamkrest.absent
 import com.natpryce.hamkrest.assertion.assertThat
 import com.natpryce.hamkrest.equalTo
 import org.junit.jupiter.api.Nested
@@ -9,7 +8,7 @@ import xyz.ottersbach.hwrscheduler.icsparser.internal.LessonEvent
 import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.DescriptionEntry
 import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.LocationEntry
 
-internal class ExtractRoomKtTest {
+internal class ExtractRoomsKtTest {
     private val blankLocationEntry = LocationEntry("LOCATION:  ")
     private val dashAsLocationEntry = LocationEntry("LOCATION: - ")
     private val valueAsLocationEntry = LocationEntry("LOCATION: example room location")
@@ -58,7 +57,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -73,7 +72,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -88,7 +87,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -103,11 +102,9 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on description entry`(entry)
+                `assertThat entry yields rooms value based on description entry`(entry)
             }
         }
-
-
     }
 
     @Nested
@@ -125,7 +122,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -140,7 +137,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -155,7 +152,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room of value null`(entry)
+                `assertThat entry yields rooms of value emptyList`(entry)
             }
         }
 
@@ -170,11 +167,9 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on description entry`(entry)
+                `assertThat entry yields rooms value based on description entry`(entry)
             }
         }
-
-
     }
 
     @Nested
@@ -192,7 +187,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on location entry`(entry)
+                `assertThat entry yields rooms value based on location entry`(entry)
             }
         }
 
@@ -207,7 +202,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on location entry`(entry)
+                `assertThat entry yields rooms value based on location entry`(entry)
             }
         }
 
@@ -222,7 +217,7 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on location entry`(entry)
+                `assertThat entry yields rooms value based on location entry`(entry)
             }
         }
 
@@ -237,28 +232,58 @@ internal class ExtractRoomKtTest {
                     descriptionEntry = descriptionEntry
                 )
 
-                `assertThat entry yields room value based on location entry`(entry)
+                `assertThat entry yields rooms value based on location entry`(entry)
             }
         }
-
-
     }
 
-    private fun `assertThat entry yields room of value null`(entry: LessonEvent) {
-        val result = extractRoom(entry)
+    @Test
+    internal fun `supports multiple rooms in location entry`() {
+        val locationEntry = LocationEntry("LOCATION:  room sum 1\\, room sum 2")
+        val entry = buildEvent(
+            locationEntry = locationEntry,
+            descriptionEntry = descriptionEntryWithoutRaumPart
+        )
 
-        assertThat(result, absent())
+        val result = extractRooms(entry)
+
+        assertThat(result, equalTo(listOf("room sum 1", "room sum 2")))
     }
 
-    private fun `assertThat entry yields room value based on location entry`(entry: LessonEvent) {
-        val result = extractRoom(entry)
+    @Test
+    internal fun `supports multiple rooms in description entry`() {
+        val descriptionEntry = DescriptionEntry(
+            """
+        |DESCRIPTION:Art: La\nVeranstaltung: IT2101-Labor SWE I: Gruppe 1 + 2\nDoz
+        |	ent: Kretzmer\nRaum: room desc 1\, room desc 2\nAnmerkung: example note description\nPause: inkl. 15 min Pa
+        |	use\nVeranstaltungsuntergruppe: -
+    """.trimMargin()
+        )
+        val entry = buildEvent(
+            locationEntry = blankLocationEntry,
+            descriptionEntry = descriptionEntry
+        )
 
-        assertThat(result, equalTo("example room location"))
+        val result = extractRooms(entry)
+
+        assertThat(result, equalTo(listOf("room desc 1", "room desc 2")))
     }
 
-    private fun `assertThat entry yields room value based on description entry`(entry: LessonEvent) {
-        val result = extractRoom(entry)
+    private fun `assertThat entry yields rooms of value emptyList`(entry: LessonEvent) {
+        val result = extractRooms(entry)
 
-        assertThat(result, equalTo("example room description"))
+        assertThat(result, equalTo(emptyList()))
+    }
+
+    private fun `assertThat entry yields rooms value based on location entry`(entry: LessonEvent) {
+        val result = extractRooms(entry)
+
+        assertThat(result, equalTo(listOf("example room location")))
+    }
+
+    private fun `assertThat entry yields rooms value based on description entry`(entry: LessonEvent) {
+        val result = extractRooms(entry)
+
+        assertThat(result, equalTo(listOf("example room description")))
     }
 }

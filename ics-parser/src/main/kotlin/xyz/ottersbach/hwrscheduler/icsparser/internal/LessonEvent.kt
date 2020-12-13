@@ -1,18 +1,11 @@
 package xyz.ottersbach.hwrscheduler.icsparser.internal
 
 import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.*
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.DescriptionEntry
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.EndTimeEntry
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.LocationEntry
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.StartTimeEntry
-import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.SummaryEntry
 
 internal data class LessonEvent(val string: String)
 
 internal val LessonEvent.uidEntry
     get() = UidEntry(extractEntry("UID:", "SUMMARY:"))
-internal val LessonEvent.summaryEntry
-    get() = SummaryEntry(extractEntry("SUMMARY:", "LOCATION:"))
 internal val LessonEvent.locationEntry
     get() = LocationEntry(extractEntry("LOCATION:", "DESCRIPTION:"))
 internal val LessonEvent.descriptionEntry

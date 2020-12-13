@@ -8,7 +8,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -46,7 +46,7 @@
         "Mugele",
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,7 +56,7 @@
       "end": "2021-01-07T15:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -138,7 +138,7 @@
       "end": "2021-01-15T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -150,7 +150,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -162,7 +162,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -174,7 +174,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -186,7 +186,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -198,7 +198,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -210,7 +210,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -222,7 +222,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -232,7 +232,7 @@
       "end": "2021-01-22T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -244,7 +244,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -256,7 +256,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -268,7 +268,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -280,7 +280,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -292,7 +292,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -304,7 +304,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -316,7 +316,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -326,7 +326,7 @@
       "end": "2021-01-29T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -336,7 +336,7 @@
       "end": "2021-02-01T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -348,7 +348,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -360,7 +360,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -372,7 +372,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -384,7 +384,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -396,7 +396,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -406,7 +406,7 @@
       "end": "2021-02-08T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -418,7 +418,7 @@
       "lecturers": [
         "Rothenburg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -430,7 +430,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -442,7 +442,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -454,7 +454,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -466,7 +466,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -478,7 +478,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -490,7 +490,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -500,7 +500,7 @@
       "end": "2021-02-15T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -512,7 +512,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -524,7 +524,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -536,7 +536,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -548,9 +548,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de980971",
@@ -560,9 +562,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de975970",
@@ -572,7 +576,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -584,9 +588,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de975994",
@@ -596,9 +602,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de975995",
@@ -608,9 +616,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de975983",
@@ -618,7 +628,7 @@
       "end": "2021-02-22T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -630,7 +640,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -642,7 +652,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -654,7 +664,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -666,9 +676,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de979008",
@@ -678,7 +690,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -690,7 +702,7 @@
       "lecturers": [
         "Gruber-Beerfeltz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -702,9 +714,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gurppe 2"
     },
     {
       "uid": "sked.de975991",
@@ -714,9 +728,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de975992",
@@ -726,9 +742,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de975984",
@@ -736,7 +754,7 @@
       "end": "2021-03-01T14:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -748,7 +766,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -760,7 +778,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -772,7 +790,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -784,7 +802,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -796,7 +814,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -808,7 +826,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Prüfungsvorbereitung"
     },
@@ -820,7 +838,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -834,7 +852,7 @@
         "Mugele",
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -844,7 +862,7 @@
       "end": "2021-03-11T15:30:00Z",
       "module": "FM 7001-Studienprojektseminar 1",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -856,7 +874,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -868,7 +886,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -878,7 +896,7 @@
       "end": "2021-03-18T16:00:00Z",
       "module": "Tag des Dualen Studiums",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "I",
       "note": null
     },
@@ -890,7 +908,7 @@
       "lecturers": [
         "Scherwitzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -898,11 +916,11 @@
       "uid": "sked.de975997",
       "start": "2021-03-22T13:00:00Z",
       "end": "2021-03-22T15:00:00Z",
-      "module": "FM 3004-Techn. Gebäudeausrüstung 2",
+      "module": "FM 3004-Techn. Gebäudeausrüstung2",
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -911,10 +929,8 @@
       "start": "2021-03-24T07:45:00Z",
       "end": "2021-03-24T17:00:00Z",
       "module": "Reserviert",
-      "lecturers": [
-        "FMK"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "R",
       "note": "FMK"
     },
@@ -926,7 +942,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

@@ -10,7 +10,9 @@
         "RAin Finck",
         "Prof. Dr. Rosentreter"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -23,7 +25,9 @@
         "Prof. Dr. Schlösser",
         "Prof. Dr. von Gizycki"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

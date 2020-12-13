@@ -8,7 +8,7 @@
       "lecturers": [
         "Méndez Omana"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Winter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "Online"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Haase"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -152,7 +152,7 @@
       "lecturers": [
         "Méndez Omana"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -164,7 +164,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -176,7 +176,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -188,7 +188,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "Online"
     },
@@ -200,7 +200,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -212,7 +212,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -224,7 +224,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -236,7 +236,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -248,7 +248,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "Online"
     },
@@ -260,7 +260,7 @@
       "lecturers": [
         "Méndez Omana"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -272,7 +272,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -284,7 +284,7 @@
       "lecturers": [
         "Haase"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -296,7 +296,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -308,7 +308,7 @@
       "lecturers": [
         "Méndez Omana"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -320,7 +320,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -332,7 +332,7 @@
       "lecturers": [
         "Winter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -344,7 +344,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -356,7 +356,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -368,7 +368,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online"
     },
@@ -380,9 +380,11 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": "CL: 6B.052 (IT-L)",
+      "rooms": [
+        "CL: 6B.052 (IT-L)"
+      ],
       "type": "Ü",
-      "note": "CL: 6B.052 (IT-L)"
+      "note": null
     },
     {
       "uid": "sked.de950535",
@@ -392,7 +394,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -404,7 +406,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -416,7 +418,7 @@
       "lecturers": [
         "Haase"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -428,9 +430,9 @@
       "lecturers": [
         "Méndez Omana"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "vorbehaltlichKlausurraumverfügbarkeit"
+      "note": "vorbehaltlich Klausurraumverfügbarkeit"
     },
     {
       "uid": "sked.de950888",
@@ -440,7 +442,7 @@
       "lecturers": [
         "Zimmermann, A."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -452,7 +454,7 @@
       "lecturers": [
         "Höhne"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

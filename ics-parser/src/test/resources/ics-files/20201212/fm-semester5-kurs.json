@@ -6,7 +6,7 @@
       "end": "2020-12-07T15:00:00Z",
       "module": "FM 7002-Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -18,7 +18,7 @@
       "lecturers": [
         "Sachse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -30,7 +30,7 @@
       "lecturers": [
         "Pankau"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -42,7 +42,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -54,7 +54,7 @@
       "lecturers": [
         "Kim"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -66,7 +66,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -78,7 +78,7 @@
       "lecturers": [
         "Pankau"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -90,9 +90,11 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     }
   ]
 }

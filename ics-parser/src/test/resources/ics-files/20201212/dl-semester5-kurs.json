@@ -8,7 +8,7 @@
       "lecturers": [
         "Tirpitz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Kassman"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Brenninger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

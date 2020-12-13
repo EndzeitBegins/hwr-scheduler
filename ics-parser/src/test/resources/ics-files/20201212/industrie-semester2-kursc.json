@@ -10,7 +10,9 @@
         "Prof. Dr. Schmietendorf",
         "Prof. Dr. Vieth"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -23,7 +25,9 @@
         "Prof. Dr. Radde",
         "Prof. Dr. Schütt"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -37,7 +41,9 @@
         "Prof. Dr. Rosentreter",
         "Prof. Dr. Schmietendorf"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

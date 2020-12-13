@@ -5,9 +5,13 @@ import xyz.ottersbach.hwrscheduler.icsparser.internal.descriptionEntry
 import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.room
 import xyz.ottersbach.hwrscheduler.icsparser.internal.locationEntry
 
-internal fun extractRoom(entry: LessonEvent): String? {
-    val roomFromLocation = entry.locationEntry.room
+internal fun extractRooms(entry: LessonEvent): List<String> {
     val roomFromDescription = entry.descriptionEntry.room
+    val roomFromLocation = entry.locationEntry.room
 
-    return roomFromLocation ?: roomFromDescription
+    val roomsString = roomFromLocation ?: roomFromDescription
+
+    return roomsString
+        ?.split("\\,")
+        ?.map(String::trim) ?: emptyList()
 }

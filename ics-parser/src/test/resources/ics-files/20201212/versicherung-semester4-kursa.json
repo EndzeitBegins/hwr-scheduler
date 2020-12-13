@@ -6,11 +6,12 @@
       "end": "2020-05-14T11:00:00Z",
       "module": "117-Wp.recht II",
       "lecturers": [
-        "Online-Klausur - 1 Student mit Nachteilsausgleich bis 13.50 Uhr"
+        "Prof. Dr. Koch-Rust",
+        "Prof. Dr. Rosentreter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Koch-Rust\\, Prof. Dr. Rosentreter"
+      "note": "Online-Klausur - 1 Student mit Nachteilsausgleich bis 13.50 Uhr"
     }
   ]
 }

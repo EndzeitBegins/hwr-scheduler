@@ -8,7 +8,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -152,7 +152,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -164,7 +164,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -176,7 +176,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -188,7 +188,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +200,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +212,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +224,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -236,7 +236,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -248,7 +248,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -260,7 +260,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -272,7 +272,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -284,7 +284,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -296,7 +296,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -308,7 +308,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -320,7 +320,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -332,7 +332,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -344,7 +344,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -356,7 +356,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -368,7 +368,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -380,7 +380,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -392,7 +392,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -404,7 +404,7 @@
       "lecturers": [
         "Jung"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -416,7 +416,7 @@
       "lecturers": [
         "Jung"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -428,7 +428,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -440,7 +440,7 @@
       "lecturers": [
         "Roxin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -452,7 +452,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -464,7 +464,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -476,7 +476,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -488,7 +488,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -500,7 +500,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -512,7 +512,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -524,7 +524,7 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -536,7 +536,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -548,7 +548,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -560,7 +560,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -572,7 +572,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -584,7 +584,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -596,7 +596,7 @@
       "lecturers": [
         "Bartsch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -608,7 +608,7 @@
       "lecturers": [
         "Jung"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -620,7 +620,7 @@
       "lecturers": [
         "Jung"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     }

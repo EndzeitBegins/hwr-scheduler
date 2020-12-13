@@ -4,11 +4,11 @@
       "uid": "sked.de948191",
       "start": "2020-12-07T10:00:00Z",
       "end": "2020-12-07T11:30:00Z",
-      "module": "BW4051-Konstruktiver Ingenieurbau 1: Stahlbau",
+      "module": "BW4051-Konstruktiver Ingenieurbau 1:Stahlbau",
       "lecturers": [
         "Detzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Bohmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "über BBB"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 1"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 2"
     },
@@ -52,13 +52,15 @@
       "uid": "sked.de957786",
       "start": "2020-12-08T12:00:00Z",
       "end": "2020-12-08T15:15:00Z",
-      "module": "BW4051-Konstruktiver Ingenieurbau 1: Stahlbetonbau",
+      "module": "BW4051-Konstruktiver Ingenieurbau 1:Stahlbetonbau",
       "lecturers": [
         "Dick"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "SU",
-      "note": "CL:6B.150 (T)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de948210",
@@ -68,21 +70,25 @@
       "lecturers": [
         "Bohmann"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     },
     {
       "uid": "sked.de957787",
       "start": "2020-12-09T14:00:00Z",
       "end": "2020-12-09T15:30:00Z",
-      "module": "BW4051-Konstruktiver Ingenieurbau 1: Stahlbetonbau",
+      "module": "BW4051-Konstruktiver Ingenieurbau 1:Stahlbetonbau",
       "lecturers": [
         "Dick"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "SU",
-      "note": "CL:6B.150 (T)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de957799",
@@ -92,7 +98,7 @@
       "lecturers": [
         "Lorenz, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -100,13 +106,15 @@
       "uid": "sked.de965483",
       "start": "2020-12-10T14:00:00Z",
       "end": "2020-12-10T17:15:00Z",
-      "module": "BW6055-Recht 2 - Öffentliches Baurecht und Planung",
+      "module": "BW6055-Recht 2 - Öffentliches Baurechtund Planung",
       "lecturers": [
         "Labicki"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "I",
-      "note": "CL: 6B.150 (T)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de948209",
@@ -117,9 +125,11 @@
         "Schüßler",
         "Wotschke"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": "20 TN; Achtung! 1 Studentin aus Kurs A bis 12.20 Uhr Schreibzeitverl."
     },
     {
       "uid": "sked.de948206",
@@ -130,9 +140,11 @@
         "Detzel",
         "Dick"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL:1.Audimax vorn"
+      "note": "Achtung!1x Schreibzeitverlängerung aus Kurs A bis 12.20 Uhr"
     },
     {
       "uid": "sked.de948207",
@@ -142,9 +154,11 @@
       "lecturers": [
         "Wotschke"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": "Achtung! 1x Schreibzeitverlängerung aus Kurs A bis 12.20 Uhr"
     },
     {
       "uid": "sked.de948208",
@@ -159,9 +173,11 @@
         "Linse",
         "Lorenz, M."
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": "Achtung! 1x Schreibzeitverlängerung aus Kurs A bis 12.20Uhr"
     }
   ]
 }

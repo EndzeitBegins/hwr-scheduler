@@ -4,13 +4,14 @@
       "uid": "sked.de953110",
       "start": "2020-06-15T07:00:00Z",
       "end": "2020-06-15T10:00:00Z",
-      "module": "ET7026 Betriebliches Management II",
+      "module": "ET7026 Betriebliches ManagementII",
       "lecturers": [
-        "ONLINE - Infos folgen"
+        "Gatzer",
+        "Heerma"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Gatzer\\, Heerma"
+      "note": "ONLINE - Infos folgen"
     },
     {
       "uid": "sked.de958581",
@@ -18,11 +19,12 @@
       "end": "2020-06-16T18:00:00Z",
       "module": "ET2022 Elektrotechnische Grundlagen II",
       "lecturers": [
-        "ONLINE - mündliche Prüfung"
+        "M.Sc. Popova",
+        "Stürmer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
-      "note": "M.Sc. Popova\\, Stürmer"
+      "note": "ONLINE - mündliche Prüfung"
     },
     {
       "uid": "sked.de958583",
@@ -30,11 +32,12 @@
       "end": "2020-06-17T18:00:00Z",
       "module": "ET2022 Elektrotechnische Grundlagen II",
       "lecturers": [
-        "ONLINE - mündliche Prüfung"
+        "M.Sc. Popova",
+        "Stürmer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
-      "note": "M.Sc. Popova\\, Stürmer"
+      "note": "ONLINE - mündliche Prüfung"
     },
     {
       "uid": "sked.de958582",
@@ -42,11 +45,12 @@
       "end": "2020-06-18T18:00:00Z",
       "module": "ET2022 Elektrotechnische Grundlagen II",
       "lecturers": [
-        "ONLINE - mündliche Prüfung"
+        "M.Sc. Popova",
+        "Stürmer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
-      "note": "M.Sc. Popova\\, Stürmer"
+      "note": "ONLINE - mündliche Prüfung"
     },
     {
       "uid": "sked.de953112",
@@ -54,11 +58,12 @@
       "end": "2020-06-19T10:00:00Z",
       "module": "ET2023 Messtechnik II",
       "lecturers": [
-        "ONLINE - Infos folgen"
+        "Dr.  Ferreira Furtado",
+        "Prof. Dr. Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dr.  Ferreira Furtado\\, Prof. Dr. Lundszien"
+      "note": "ONLINE - Infos folgen"
     }
   ]
 }

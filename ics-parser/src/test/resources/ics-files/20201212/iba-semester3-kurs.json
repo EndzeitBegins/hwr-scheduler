@@ -9,7 +9,9 @@
         "Prof. Dr. Mertens",
         "Prof. Dr. Roxin"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -19,11 +21,14 @@
       "end": "2018-12-20T11:00:00Z",
       "module": "112-Finanzierg. u. Investition",
       "lecturers": [
-        "Achtung! 2 Studierende der FR IN haben einen Nachteilsausgleich: Kurs IN A bis 12.25 Uhr und KursIN B bis 12.50 Uhr"
+        "Prof. Dr. Tippelhofer",
+        "Prof. Dr. Weyer"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Tippelhofer\\, Prof. Dr. Weyer"
+      "note": "Achtung! 2 Studierende der FR INhaben einen Nachteilsausgleich: Kurs IN A bis 12.25 Uhr und Kurs IN B bis 12.50 Uhr"
     }
   ]
 }

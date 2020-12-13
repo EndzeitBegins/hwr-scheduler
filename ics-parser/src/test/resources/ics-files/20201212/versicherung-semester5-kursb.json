@@ -8,9 +8,11 @@
       "lecturers": [
         "Köhne"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": "7 Nach- und Wiederholungsklausuren JG 16+17"
     },
     {
       "uid": "sked.de971118",
@@ -20,7 +22,7 @@
       "lecturers": [
         "Kothe"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Klausur"
     },
@@ -32,7 +34,7 @@
       "lecturers": [
         "Kassman"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -44,7 +46,7 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -56,7 +58,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -68,7 +70,7 @@
       "lecturers": [
         "Behar Villegas"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online-Klausur"
     }

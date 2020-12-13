@@ -8,7 +8,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,9 +32,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6A.228",
+      "rooms": [
+        "CL: 6A.228"
+      ],
       "type": "SU",
-      "note": "CL: 6A.228"
+      "note": "Gruppe A"
     },
     {
       "uid": "sked.de963538",
@@ -44,7 +46,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,9 +58,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6A.228",
+      "rooms": [
+        "CL: 6A.228"
+      ],
       "type": "SU",
-      "note": "CL: 6A.228"
+      "note": "Gruppe B"
     },
     {
       "uid": "sked.de963534",
@@ -68,7 +72,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +84,7 @@
       "lecturers": [
         "Bolsenkötter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -92,7 +96,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,7 +108,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -116,7 +120,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +132,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +144,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -152,7 +156,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -164,7 +168,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -176,7 +180,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -188,7 +192,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +204,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +216,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +228,7 @@
       "lecturers": [
         "Bolsenkötter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -236,7 +240,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -248,7 +252,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -260,7 +264,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -272,7 +276,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -284,7 +288,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -296,7 +300,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -308,7 +312,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Gruppe nach Absprache mit Dozent"
     },
@@ -320,7 +324,7 @@
       "lecturers": [
         "Bolsenkötter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -332,7 +336,7 @@
       "lecturers": [
         "Mugele"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -344,7 +348,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -356,7 +360,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -369,7 +373,7 @@
         "Bieker",
         "Meeder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -382,7 +386,7 @@
         "Bieker",
         "Meeder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -395,7 +399,7 @@
         "Bieker",
         "Meeder"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     }

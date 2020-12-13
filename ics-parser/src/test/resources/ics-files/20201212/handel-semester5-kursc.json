@@ -8,8 +8,10 @@
       "lecturers": [
         "Prof. Dr. Bleis"
       ],
-      "room": "CL: 1.Audimax hinten",
-      "type": "Klausur\\,HD-4013WPft.-Unternehmensprä.\\,",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -20,8 +22,10 @@
       "lecturers": [
         "Prof. Dr. Bleis"
       ],
-      "room": "CL: 1.Audimax hinten",
-      "type": "Klausur\\,HD-401WPfl.-Food Management\\,",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -32,8 +36,10 @@
       "lecturers": [
         "Prof. Dr. Schütt"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "Klausur\\,401-WPff.-Wirtschaftsenglisch - C 1\\,",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -44,8 +50,10 @@
       "lecturers": [
         "Prof. Dr. Brüggemann-Borck"
       ],
-      "room": "CL: 5.0002",
-      "type": "Klausur\\,401-Wpff. - Operations Research (Gr.2)\\,",
+      "rooms": [
+        "CL: 5.0002"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -56,8 +64,10 @@
       "lecturers": [
         "Prof. Dr. Schmietendorf"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "Klausur\\,401-WPff.-Wirtschaftsenglisch - B1+B2\\,+ Niveau A2",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": "+ Niveau A2"
     },
     {
@@ -68,8 +78,10 @@
       "lecturers": [
         "Prof. Dr. Schlösser"
       ],
-      "room": "CL: 1.Audimax hinten",
-      "type": "Klausur\\,202-SBWL\\,",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -80,8 +92,10 @@
       "lecturers": [
         "Prof. Dr. Faustmann"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "Klausur\\,104-ABWL-Management\\,",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": null
     }
   ]

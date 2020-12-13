@@ -8,9 +8,9 @@
       "lecturers": [
         "Wittmüß"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich"
+      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich; aus dem Kurs B+C je 1 x bis 11.10 Uhr und aus dem Kurs A bis 11.25 Uhr"
     },
     {
       "uid": "sked.de974665",
@@ -20,9 +20,9 @@
       "lecturers": [
         "Schlösser"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "ONLINE - Achtung 3Studierende mit Nachteilsausgleich"
+      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich; aus dem Kurs B+C je 1 x bis 13.40 Uhr, aus dem Kurs A bis 13.50 Uhr"
     },
     {
       "uid": "sked.de974668",
@@ -32,9 +32,9 @@
       "lecturers": [
         "Goestl"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "ONLINE - Achtungdrei Studierende mit Nachteilsausgleich"
+      "note": "ONLINE - Achtung drei Studierende mitNachteilsausgleich; aus Kurs B+C je 1 x bis 11.05 Uhr und aus Kurs A bis 11.15 Uhr"
     },
     {
       "uid": "sked.de974670",
@@ -44,9 +44,9 @@
       "lecturers": [
         "Witte, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "ONLINE - Achtung 3 Studierende mit Nachteilsausgleich"
+      "note": "ONLINE - Achtung 3 Studierende mitNachteilsausgleich; aus Kurs B+C je 1 x bis 15.20 Uhr, aus Kurs A bis15.30 Uhr"
     },
     {
       "uid": "sked.de974536",
@@ -56,7 +56,7 @@
       "lecturers": [
         "Wildebrand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

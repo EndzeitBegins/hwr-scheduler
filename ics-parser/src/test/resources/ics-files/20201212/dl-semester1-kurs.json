@@ -8,7 +8,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,9 +44,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 2"
     },
     {
       "uid": "sked.de967469",
@@ -56,7 +58,7 @@
       "lecturers": [
         "Kaltschew"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,7 +70,7 @@
       "lecturers": [
         "Kaltschew"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +82,7 @@
       "lecturers": [
         "business weg 1"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE a"
     },
@@ -92,7 +94,7 @@
       "lecturers": [
         "business weg 2"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE b"
     },
@@ -104,7 +106,7 @@
       "lecturers": [
         "business weg 1"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Prüfung GRUPPE a"
     },
@@ -116,7 +118,7 @@
       "lecturers": [
         "business weg 2"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Prüfung GRUPPE b"
     },
@@ -128,7 +130,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +142,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -152,7 +154,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -164,7 +166,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -176,7 +178,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -188,7 +190,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +202,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +214,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +226,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 1"
     },
@@ -236,7 +238,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 1"
     },
@@ -248,9 +250,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de954527",
@@ -260,9 +264,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de949755",
@@ -272,7 +278,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -284,9 +290,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de972648",
@@ -296,9 +304,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de967094",
@@ -308,7 +318,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 2"
     },
@@ -320,7 +330,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 2"
     },
@@ -332,9 +342,9 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "*",
-      "note": "https://us02web.zoom.us/j/86329187568?pwd=L0F2TmtJTEo4a0cyeGNjMVRIRjNGZz09"
+      "note": "https://us02web.zoom.us/j/86329187568?pwd=L0F2TmtJTEo4a0cyeGNjMVRIRjNGZz09; Meeting-ID: 863 2918 7568; Kenncode: Muys09"
     },
     {
       "uid": "sked.de949756",
@@ -344,7 +354,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -356,7 +366,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -368,7 +378,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -380,7 +390,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -392,7 +402,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -404,7 +414,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -416,7 +426,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -428,7 +438,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -440,9 +450,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 3"
     },
     {
       "uid": "sked.de954729",
@@ -452,9 +464,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 3"
     },
     {
       "uid": "sked.de979543",
@@ -464,9 +478,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de954716",
@@ -476,9 +492,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de954718",
@@ -488,9 +506,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de954720",
@@ -500,9 +520,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de954842",
@@ -512,7 +534,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -524,7 +546,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -536,7 +558,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -548,7 +570,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -560,7 +582,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -572,7 +594,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -584,7 +606,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 3"
     },
@@ -596,7 +618,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 3"
     },
@@ -608,7 +630,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 3"
     },
@@ -620,9 +642,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de972651",
@@ -632,9 +656,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de972188",
@@ -644,7 +670,7 @@
       "lecturers": [
         "Wenzel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -656,7 +682,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -668,7 +694,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -680,7 +706,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Reservetermin"
     },
@@ -692,7 +718,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 1"
     },
@@ -704,7 +730,7 @@
       "lecturers": [
         "Golz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "GRUPPE 1"
     },
@@ -716,7 +742,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -728,7 +754,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -740,7 +766,7 @@
       "lecturers": [
         "Rohr"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -752,9 +778,11 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": "CL: 6A.008 (FB4)",
+      "rooms": [
+        "CL: 6A.008 (FB4)"
+      ],
       "type": "PV",
-      "note": "CL: 6A.008 (FB4)"
+      "note": "Prüfungsvorbereitung"
     }
   ]
 }

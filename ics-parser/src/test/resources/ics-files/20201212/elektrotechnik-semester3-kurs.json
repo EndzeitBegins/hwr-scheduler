@@ -4,11 +4,11 @@
       "uid": "sked.de957317",
       "start": "2020-11-02T08:00:00Z",
       "end": "2020-11-02T11:00:00Z",
-      "module": "ET1031 Mathematische Grundlagen III",
+      "module": "ET1031 Mathematische GrundlagenIII",
       "lecturers": [
         "Ferreira Furtado"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -21,7 +21,7 @@
         "Borutta",
         "Mu"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": "MS Teams"
     },
@@ -33,7 +33,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

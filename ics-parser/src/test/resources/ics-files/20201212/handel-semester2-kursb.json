@@ -8,7 +8,9 @@
       "lecturers": [
         "Prof. Dr. Rochnowski"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -17,10 +19,8 @@
       "start": "2020-06-30T07:00:00Z",
       "end": "2020-06-30T10:00:00Z",
       "module": "Mathematik",
-      "lecturers": [
-        "17 Teilnehmer im Audimax vorne und 17 Teilnehmer im Audimax hinten"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "17 Teilnehmer im Audimax vorne und 17 Teilnehmer imAudimax hinten"
     },
@@ -30,11 +30,11 @@
       "end": "2020-07-02T10:00:00Z",
       "module": "Handels- und Steuerbilanzen / Steuern",
       "lecturers": [
-        "Online"
+        "Graßnick"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Graßnick"
+      "note": "Online"
     }
   ]
 }

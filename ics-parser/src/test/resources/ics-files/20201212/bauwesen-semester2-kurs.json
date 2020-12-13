@@ -9,7 +9,9 @@
         "Prof. Dr.-Ing. Detzel",
         "Prof. Dr. Winter"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -21,7 +23,9 @@
       "lecturers": [
         "Wittmüß"
       ],
-      "room": "CL: 6A.008 (FB4)",
+      "rooms": [
+        "CL: 6A.008 (FB4)"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -31,23 +35,23 @@
       "end": "2016-06-17T10:00:00Z",
       "module": "BW2009-Grundlg.d.Bauverf.techn.",
       "lecturers": [
-        "Raum 6b.277/278"
+        "Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Wotschke"
+      "note": "Raum 6b.277/278"
     },
     {
       "uid": "sked.de741234",
       "start": "2016-06-17T10:15:00Z",
       "end": "2016-06-17T11:15:00Z",
-      "module": "BW2008-Bautechnische Grundlagen II",
+      "module": "BW2008-Bautechnische GrundlagenII",
       "lecturers": [
-        "Klausur Baugeräte imRaum 6b.277/278"
+        "Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Wotschke"
+      "note": "Klausur Baugeräte im Raum 6b.277/278"
     }
   ]
 }

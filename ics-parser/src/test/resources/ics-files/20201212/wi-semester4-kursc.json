@@ -4,13 +4,13 @@
       "uid": "sked.de952771",
       "start": "2020-05-13T07:00:00Z",
       "end": "2020-05-13T12:00:00Z",
-      "module": "WI-401-11 Wpff.I - Wirtschaftsenglisch IT",
+      "module": "WI-401-11 Wpff.I - WirtschaftsenglischIT",
       "lecturers": [
-        "Mündliche Prüfung Online - siehe Aufteilung von businessweg"
+        "business weg - WI"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
-      "note": "business weg - WI"
+      "note": "Mündliche Prüfung Online -siehe Aufteilung von businessweg"
     },
     {
       "uid": "sked.de952798",
@@ -18,11 +18,11 @@
       "end": "2020-05-15T09:00:00Z",
       "module": "WI-104 WIWI-MM-Personal",
       "lecturers": [
-        "Online-Klausur\\n1 Studentin mitNachteilsausgleich aus Kurs A bis 12.20 Uhr (je Klausurteil 10 Minuten länger)"
+        "Schulz-Bücher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schulz-Bücher"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952799",
@@ -30,11 +30,11 @@
       "end": "2020-05-15T10:00:00Z",
       "module": "WI-104 WIWI-MM-UF",
       "lecturers": [
-        "Online-Klausur\\n1 Studentin mit Nachteilsausgleich aus Kurs A  bis 12.20 Uhr (je Klausurteil 10 Minuten)"
+        "Schulz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schulz"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952800",
@@ -42,11 +42,11 @@
       "end": "2020-05-15T11:30:00Z",
       "module": "WI-104 WIWI-MM-Contrg.",
       "lecturers": [
-        "Online-Klausur\\n1 Studentin ausKurs A bis 13.40 Uhr"
+        "Prof. Dr. Schlösser"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Schlösser"
+      "note": "Online-Klausur"
     }
   ]
 }

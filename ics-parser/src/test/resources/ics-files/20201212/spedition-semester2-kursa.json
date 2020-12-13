@@ -4,13 +4,13 @@
       "uid": "sked.de955959",
       "start": "2020-06-30T12:00:00Z",
       "end": "2020-06-30T12:20:00Z",
-      "module": "Logistiksyst. und -leistungen - Lager",
+      "module": "Logistiksyst. und -leistungen -Lager",
       "lecturers": [
-        "Online"
+        "Rahn"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Rahn"
+      "note": "Online"
     },
     {
       "uid": "sked.de955960",
@@ -18,11 +18,11 @@
       "end": "2020-06-30T13:30:00Z",
       "module": "Logistiksysteme und -leistungen",
       "lecturers": [
-        "Online"
+        "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schrörs"
+      "note": "Online"
     },
     {
       "uid": "sked.de959100",
@@ -33,7 +33,9 @@
         "Prof. Dr. Baumgärtner",
         "Prof. Dr. Krüger"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     }

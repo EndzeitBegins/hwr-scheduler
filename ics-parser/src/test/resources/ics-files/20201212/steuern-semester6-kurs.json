@@ -6,11 +6,11 @@
       "end": "2020-04-20T09:30:00Z",
       "module": "204-SBWL",
       "lecturers": [
-        "Online-Klausur"
+        "Dr. Braun"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dr. Braun"
+      "note": "Online-Klausur"
     }
   ]
 }

@@ -6,11 +6,12 @@
       "end": "2020-06-30T10:00:00Z",
       "module": "Produktionswirtschaft (IN)",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Erkens",
+        "Prof. Dr. Wildebrand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur-SBWL-IN",
-      "note": "Prof. Dr. Erkens\\, Prof. Dr. Wildebrand"
+      "note": "Online"
     },
     {
       "uid": "sked.de955961",
@@ -18,11 +19,12 @@
       "end": "2020-06-30T13:30:00Z",
       "module": "Logistics Systems and Services (SP)",
       "lecturers": [
-        "Online"
+        "Knöchel",
+        "Touak"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur-SBWL-SP",
-      "note": "Knöchel\\, Touak"
+      "note": "Online"
     }
   ]
 }

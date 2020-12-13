@@ -6,11 +6,11 @@
       "end": "2020-06-29T09:00:00Z",
       "module": "Digitalisierung in Unternehmen",
       "lecturers": [
-        "Online"
+        "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Bieker"
+      "note": "Online"
     },
     {
       "uid": "sked.de959101",
@@ -20,7 +20,9 @@
       "lecturers": [
         "Prof. Dr. Faustmann"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

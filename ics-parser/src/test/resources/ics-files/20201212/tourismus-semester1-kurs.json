@@ -8,7 +8,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,9 +56,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de952591",
@@ -68,9 +70,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de969189",
@@ -80,7 +84,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -92,7 +96,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,7 +108,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -116,7 +120,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +132,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +144,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -152,9 +156,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de952595",
@@ -164,9 +170,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de969062",
@@ -176,7 +184,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -188,7 +196,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +208,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +220,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +232,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -236,7 +244,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -248,7 +256,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -260,7 +268,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -272,7 +280,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -284,7 +292,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -296,7 +304,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -308,7 +316,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -320,7 +328,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -332,7 +340,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -344,9 +352,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de952599",
@@ -356,9 +366,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de968845",
@@ -368,7 +380,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -380,7 +392,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -392,9 +404,11 @@
       "lecturers": [
         "Baumgärtner"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU-SBWL-TM",
-      "note": "CL: 6B.353"
+      "note": null
     },
     {
       "uid": "sked.de951293",
@@ -404,7 +418,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-TM",
       "note": null
     },
@@ -416,7 +430,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -428,7 +442,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -440,7 +454,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -452,7 +466,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -464,7 +478,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-TM",
       "note": null
     },
@@ -476,7 +490,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -488,7 +502,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -500,7 +514,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -512,7 +526,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -524,7 +538,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -536,7 +550,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -548,9 +562,11 @@
       "lecturers": [
         "Baumgärtner"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU-SBWL-TM",
-      "note": "CL: 6B.353"
+      "note": null
     },
     {
       "uid": "sked.de969095",
@@ -560,7 +576,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -572,7 +588,7 @@
       "lecturers": [
         "Woogt"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -584,9 +600,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de952603",
@@ -596,9 +614,11 @@
       "lecturers": [
         "Harloff"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU",
-      "note": "CL: 6B.353"
+      "note": "In diesen Vorlesungsraum passen 20 Studierende unter Einhaltung der Abstandsregel von 1,5 m. Ausserdem ist er für Blended Learning geeignet."
     },
     {
       "uid": "sked.de968848",
@@ -608,7 +628,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -620,7 +640,7 @@
       "lecturers": [
         "Martina Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -632,7 +652,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -644,7 +664,7 @@
       "lecturers": [
         "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -656,7 +676,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -668,7 +688,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     }

@@ -6,11 +6,13 @@
       "end": "2020-03-23T11:00:00Z",
       "module": "IT1151-Spez.math.Methoden",
       "lecturers": [
-        "1 Student mit Nachteilsausgleich bis 12.45 Uhr"
+        "Prof. Dr. Höhne"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Höhne"
+      "note": "1 Student mit Nachteilsausgleich bis12.45 Uhr"
     },
     {
       "uid": "sked.de919345",
@@ -18,11 +20,13 @@
       "end": "2020-03-25T15:00:00Z",
       "module": "IT2141-Software-Engineering II",
       "lecturers": [
-        "1 Student mit Nachteilsausgleich bis 16.30 Uhr"
+        "Prof. Dr. Monett Diaz"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Monett Diaz"
+      "note": "1 Student mit Nachteilsausgleichbis 16.30 Uhr"
     },
     {
       "uid": "sked.de918624",
@@ -30,11 +34,13 @@
       "end": "2020-03-27T10:30:00Z",
       "module": "IT3131-Skriptsprachen",
       "lecturers": [
-        "1 Student mit Nachteilsausgleichbis 12.05 Uhr"
+        "B.Sc. Wehrmann"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "B.Sc. Wehrmann"
+      "note": "1 Student mit Nachteilsausgleich bis 12.05 Uhr"
     }
   ]
 }

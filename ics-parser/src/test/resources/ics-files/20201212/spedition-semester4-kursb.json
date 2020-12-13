@@ -6,11 +6,11 @@
       "end": "2020-05-11T09:00:00Z",
       "module": "SP-114VWL-Konj.u.W.",
       "lecturers": [
-        "Konsultation"
+        "Prof. Dr. Mertens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Prof. Dr. Mertens"
+      "note": "Konsultation"
     },
     {
       "uid": "sked.de952791",
@@ -18,11 +18,11 @@
       "end": "2020-05-13T09:45:00Z",
       "module": "114-VWL-Konjunktur u. Wachstum",
       "lecturers": [
-        "Onlineklausur"
+        "Prof. Dr.Mertens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr.Mertens"
+      "note": "Onlineklausur"
     }
   ]
 }

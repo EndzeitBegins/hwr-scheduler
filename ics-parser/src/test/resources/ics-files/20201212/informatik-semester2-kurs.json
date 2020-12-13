@@ -6,11 +6,13 @@
       "end": "2019-06-17T15:00:00Z",
       "module": "IT1051-Analysis",
       "lecturers": [
-        "Studierender mit Nachteilsausgleich bis17.30 Uhr"
+        "Dr. Luther"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Dr. Luther"
+      "note": "Studierender mit Nachteilsausgleich bis 17.30 Uhr"
     },
     {
       "uid": "sked.de882632",
@@ -18,11 +20,13 @@
       "end": "2019-06-19T13:00:00Z",
       "module": "IT2071-Objektorientierte Programmierung",
       "lecturers": [
-        "Studierender mit Nachteilsausgleich bis 15.15 Uhr"
+        "Prof. Dr. Kalkbrenner"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Kalkbrenner"
+      "note": "Studierender mit Nachteilsausgleich bis 15.15 Uhr"
     },
     {
       "uid": "sked.de882631",
@@ -30,11 +34,13 @@
       "end": "2019-06-21T08:30:00Z",
       "module": "IT1081-BWL",
       "lecturers": [
-        "Studierender mit Nachteilsausgleich bis 11.05 Uhr"
+        "Arkan"
       ],
-      "room": "CL: 6A.229 (FB4)",
+      "rooms": [
+        "CL: 6A.229 (FB4)"
+      ],
       "type": "Klausur",
-      "note": "Arkan"
+      "note": "Studierender mit Nachteilsausgleich bis 11.05 Uhr"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "I",
       "note": "ONLINE"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -81,7 +81,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -93,7 +93,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -105,7 +105,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -118,7 +118,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -130,7 +130,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -142,7 +142,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -154,7 +154,7 @@
       "lecturers": [
         "Gatzer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -166,7 +166,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -178,9 +178,11 @@
       "lecturers": [
         "Platzer"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de977808",
@@ -190,7 +192,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -202,9 +204,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Fluidenergiemaschinen + Werkzeugmaschinen/Fertigungssysteme\\, Raum: 5.3001"
+      "note": "Fluidenergiemaschinen + Werkzeugmaschinen/Fertigungssysteme, Raum: 5.3001"
     },
     {
       "uid": "sked.de973214",
@@ -214,9 +216,11 @@
       "lecturers": [
         "Platzer"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de973215",
@@ -226,9 +230,11 @@
       "lecturers": [
         "Platzer"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de977337",
@@ -238,7 +244,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -250,9 +256,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Techn Logistik + Sensorik/Aktorik\\, Raum: 5.3001"
+      "note": "Techn Logistik + Sensorik/Aktorik, Raum: 5.3001"
     },
     {
       "uid": "sked.de977253",
@@ -262,7 +268,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -274,7 +280,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -286,7 +292,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -298,7 +304,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -310,7 +316,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -323,7 +329,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -335,7 +341,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -347,7 +353,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -359,7 +365,7 @@
       "lecturers": [
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -371,7 +377,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -383,7 +389,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -396,7 +402,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -408,7 +414,7 @@
       "lecturers": [
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -420,7 +426,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -433,7 +439,7 @@
         "Gatzer",
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -445,9 +451,11 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": "Umstellung auf Online möglich"
     },
     {
       "uid": "sked.de977259",
@@ -457,7 +465,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -469,7 +477,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -481,7 +489,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -493,7 +501,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -505,7 +513,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -518,7 +526,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -530,7 +538,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -542,7 +550,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -554,9 +562,11 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": "Umstellung auf Online möglich"
     },
     {
       "uid": "sked.de977262",
@@ -566,7 +576,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -578,7 +588,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -590,7 +600,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -602,7 +612,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -614,7 +624,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -626,7 +636,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -638,7 +648,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -650,9 +660,11 @@
       "lecturers": [
         "Hartmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "SU",
-      "note": "CL: 5.0002"
+      "note": "ggf. Online"
     },
     {
       "uid": "sked.de973209",
@@ -662,9 +674,11 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": "Umstellung auf Online möglich"
     },
     {
       "uid": "sked.de977263",
@@ -674,7 +688,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -686,9 +700,11 @@
       "lecturers": [
         "Hartmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "SU",
-      "note": "CL: 5.0002"
+      "note": "ggf. Online"
     },
     {
       "uid": "sked.de971969",
@@ -698,9 +714,11 @@
       "lecturers": [
         "Hartmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "SU",
-      "note": "CL: 5.0002"
+      "note": "ggf. Online"
     },
     {
       "uid": "sked.de977271",
@@ -710,7 +728,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -722,9 +740,11 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": "Umstellung auf Online möglich"
     },
     {
       "uid": "sked.de977264",
@@ -734,7 +754,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -746,7 +766,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -758,7 +778,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -770,7 +790,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -782,7 +802,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -794,9 +814,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de975767",
@@ -806,9 +828,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de977338",
@@ -818,7 +842,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -830,7 +854,7 @@
       "lecturers": [
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -842,7 +866,7 @@
       "lecturers": [
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -854,7 +878,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -866,7 +890,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -878,7 +902,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -890,7 +914,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -903,7 +927,7 @@
         "Faden",
         "Ch."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -915,9 +939,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de976179",
@@ -927,9 +953,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de973212",
@@ -939,9 +967,11 @@
       "lecturers": [
         "Lange, P."
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": "Umstellung auf Online möglich"
     },
     {
       "uid": "sked.de977265",
@@ -951,7 +981,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -963,7 +993,7 @@
       "lecturers": [
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -975,7 +1005,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -987,7 +1017,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -999,9 +1029,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Prüfung"
     },
     {
       "uid": "sked.de975829",
@@ -1011,9 +1043,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "S+L",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Prüfung"
     },
     {
       "uid": "sked.de977341",
@@ -1023,7 +1057,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -1035,7 +1069,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -1047,7 +1081,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -1060,7 +1094,7 @@
         "Steinmann",
         "Timm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Verfahrenstechnik"
     },
@@ -1072,7 +1106,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "E",
       "note": null
     },
@@ -1084,7 +1118,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "E",
       "note": null
     }

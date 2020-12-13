@@ -8,7 +8,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Präs.",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Präs.",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Präs.",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -152,7 +152,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -164,7 +164,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -176,7 +176,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -188,7 +188,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -200,7 +200,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -212,7 +212,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -224,7 +224,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -236,7 +236,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -248,9 +248,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": null
     },
     {
       "uid": "sked.de974172",
@@ -260,9 +262,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": null
     },
     {
       "uid": "sked.de974181",
@@ -272,7 +276,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -284,7 +288,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -296,9 +300,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974163",
@@ -308,9 +314,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974158",
@@ -320,9 +328,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974164",
@@ -332,9 +342,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974160",
@@ -344,9 +356,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974165",
@@ -356,9 +370,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974161",
@@ -368,9 +384,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974166",
@@ -380,9 +398,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974240",
@@ -392,7 +412,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -404,7 +424,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -416,7 +436,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -428,7 +448,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -440,7 +460,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -452,7 +472,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -464,7 +484,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -476,7 +496,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -488,7 +508,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -500,7 +520,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -512,9 +532,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974212",
@@ -524,9 +546,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974206",
@@ -536,9 +560,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974213",
@@ -548,9 +574,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974208",
@@ -560,9 +588,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974214",
@@ -572,9 +602,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974210",
@@ -584,9 +616,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974215",
@@ -596,9 +630,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974211",
@@ -608,9 +644,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de974216",
@@ -620,9 +658,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de974288",
@@ -632,7 +672,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -644,7 +684,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -656,7 +696,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -668,7 +708,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -680,7 +720,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -692,7 +732,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -704,7 +744,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -716,7 +756,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -728,7 +768,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -740,7 +780,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -752,7 +792,7 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -764,9 +804,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "LCN-Übung, Gruppe 1"
     },
     {
       "uid": "sked.de974278",
@@ -776,9 +818,9 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
-      "note": "LCN-Übung\\, Gruppe 2"
+      "note": "LCN-Übung, Gruppe2"
     },
     {
       "uid": "sked.de974297",
@@ -788,7 +830,7 @@
       "lecturers": [
         "Podlewski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -800,7 +842,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -812,7 +854,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -824,7 +866,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -836,7 +878,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -848,7 +890,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -860,9 +902,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "LCN-Übung, Gruppe 1"
     },
     {
       "uid": "sked.de974281",
@@ -872,9 +916,9 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
-      "note": "LCN-Übung\\, Gruppe 2"
+      "note": "LCN-Übung, Gruppe2"
     },
     {
       "uid": "sked.de974280",
@@ -884,9 +928,11 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "LCN-Übung, Gruppe 1"
     },
     {
       "uid": "sked.de974282",
@@ -896,9 +942,9 @@
       "lecturers": [
         "Roßbach, B."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
-      "note": "LCN-Übung\\, Gruppe 2"
+      "note": "LCN-Übung, Gruppe2"
     },
     {
       "uid": "sked.de974283",
@@ -908,7 +954,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -920,7 +966,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -932,7 +978,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -944,7 +990,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -956,7 +1002,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -968,9 +1014,11 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de974375",
@@ -980,9 +1028,11 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "SI",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": null
     },
     {
       "uid": "sked.de979760",
@@ -992,7 +1042,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -1004,7 +1054,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -1016,7 +1066,7 @@
       "lecturers": [
         "Schramm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -1028,7 +1078,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1040,7 +1090,7 @@
       "lecturers": [
         "Bieker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1052,7 +1102,7 @@
       "lecturers": [
         "Cichos"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     },
@@ -1064,7 +1114,7 @@
       "lecturers": [
         "Habel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": "ONLINE"
     }

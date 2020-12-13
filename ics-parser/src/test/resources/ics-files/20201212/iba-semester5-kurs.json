@@ -9,7 +9,9 @@
         "also for Incomings IBA",
         "Prof. Dr. Weyer"
       ],
-      "room": "CL: 5.0001",
+      "rooms": [
+        "CL: 5.0001"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -19,11 +21,13 @@
       "end": "2019-10-29T10:00:00Z",
       "module": "401 Wpff. Statist. Verf. in d. Marktforschg.",
       "lecturers": [
-        "Achtung! 1Nachteilsausgleich Kurs IN A bis 10.45 Uhr."
+        "Prof. Dr. Brinner"
       ],
-      "room": "CL: 6B.173 (T)",
+      "rooms": [
+        "CL: 6B.173 (T)"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Brinner"
+      "note": "Achtung! 1 Nachteilsausgleich Kurs IN A bis 10.45 Uhr."
     },
     {
       "uid": "sked.de927061",
@@ -31,10 +35,12 @@
       "end": "2019-10-29T14:00:00Z",
       "module": "401 Wahlpflichtfach I-Englisch Niveau B1+B2- Grupp",
       "lecturers": [
-        "alsofor Incomings IBA",
+        "also for Incomings IBA",
         "business weg"
       ],
-      "room": "CL: 6A.229 (FB4)",
+      "rooms": [
+        "CL: 6A.229 (FB4)"
+      ],
       "type": "Klausur",
       "note": null
     }

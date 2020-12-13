@@ -8,7 +8,7 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Tirpitz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Packi"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     }

@@ -6,11 +6,11 @@
       "end": "2020-05-12T09:10:00Z",
       "module": "HD-108SBWL-MarketingIV-MaFo",
       "lecturers": [
-        "Online-Klausur"
+        "Prof. Dr. Schwertfeger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Schwertfeger"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952796",
@@ -18,11 +18,11 @@
       "end": "2020-05-15T09:10:00Z",
       "module": "HD-110RW-Bilanzierung",
       "lecturers": [
-        "Online-Klausur"
+        "Wittmüß"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Wittmüß"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952797",
@@ -30,11 +30,11 @@
       "end": "2020-05-15T10:50:00Z",
       "module": "HD-110RW-Steuern",
       "lecturers": [
-        "Online-Klausur"
+        "Graßnick"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Graßnick"
+      "note": "Online-Klausur"
     }
   ]
 }

@@ -6,9 +6,9 @@
       "end": "2020-12-07T10:30:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -30,9 +30,9 @@
       "end": "2020-12-07T12:15:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -56,9 +56,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 2"
     },
     {
       "uid": "sked.de972435",
@@ -68,7 +70,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -80,7 +82,7 @@
       "lecturers": [
         "Kölling"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -92,7 +94,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -104,7 +106,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -116,7 +118,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -128,7 +130,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -140,7 +142,7 @@
       "lecturers": [
         "Kocmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -150,9 +152,9 @@
       "end": "2020-12-09T13:15:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -164,7 +166,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -174,9 +176,9 @@
       "end": "2020-12-09T15:00:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -188,7 +190,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -200,9 +202,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.226",
+      "rooms": [
+        "CL: 6A.226"
+      ],
       "type": "S",
-      "note": "CL: 6A.226"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de964320",
@@ -212,9 +216,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.226",
+      "rooms": [
+        "CL: 6A.226"
+      ],
       "type": "S",
-      "note": "CL: 6A.226"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de949716",
@@ -224,7 +230,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -236,7 +242,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -248,7 +254,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -260,7 +266,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -272,7 +278,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -284,9 +290,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de958395",
@@ -296,7 +304,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -308,9 +316,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de951102",
@@ -320,7 +330,7 @@
       "lecturers": [
         "Afflerbach"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -332,7 +342,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -344,9 +354,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de958413",
@@ -356,7 +368,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -368,9 +380,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de958415",
@@ -380,7 +394,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -392,7 +406,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -402,9 +416,9 @@
       "end": "2020-12-15T08:30:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -416,7 +430,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -426,9 +440,9 @@
       "end": "2020-12-15T10:15:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -440,7 +454,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -452,7 +466,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -464,7 +478,7 @@
       "lecturers": [
         "Kölling"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -476,7 +490,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -488,7 +502,7 @@
       "lecturers": [
         "Kölling"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -500,7 +514,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -512,7 +526,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -524,7 +538,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -534,9 +548,9 @@
       "end": "2020-12-17T10:30:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -548,7 +562,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -558,9 +572,9 @@
       "end": "2020-12-17T12:15:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -572,7 +586,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -584,7 +598,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -596,9 +610,11 @@
       "lecturers": [
         "Baumgärtner"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU-SBWL-TM",
-      "note": "CL: 6B.353"
+      "note": null
     },
     {
       "uid": "sked.de954727",
@@ -608,9 +624,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 3"
     },
     {
       "uid": "sked.de963476",
@@ -620,7 +638,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -632,9 +650,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 3"
     },
     {
       "uid": "sked.de979543",
@@ -644,9 +664,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de954716",
@@ -656,9 +678,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de971706",
@@ -668,7 +692,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -680,7 +704,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-TM",
       "note": null
     },
@@ -692,7 +716,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -704,9 +728,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de971708",
@@ -716,7 +742,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -728,7 +754,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -740,9 +766,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": "GRUPPE 1"
     },
     {
       "uid": "sked.de971710",
@@ -752,7 +780,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -764,7 +792,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -776,7 +804,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -788,7 +816,7 @@
       "lecturers": [
         "Kocmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -800,7 +828,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -812,7 +840,7 @@
       "lecturers": [
         "Rochnowski"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-TM",
       "note": null
     },
@@ -824,7 +852,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -836,7 +864,7 @@
       "lecturers": [
         "Schrörs"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-SP",
       "note": null
     },
@@ -848,7 +876,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -860,7 +888,7 @@
       "lecturers": [
         "Afflerbach"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -872,7 +900,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -884,7 +912,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -896,9 +924,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de951303",
@@ -908,9 +938,11 @@
       "lecturers": [
         "Baumgärtner"
       ],
-      "room": "CL: 6B.353",
+      "rooms": [
+        "CL: 6B.353"
+      ],
       "type": "SU-SBWL-TM",
-      "note": "CL: 6B.353"
+      "note": null
     },
     {
       "uid": "sked.de963490",
@@ -920,7 +952,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -932,9 +964,11 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": "CL: 6A.207",
+      "rooms": [
+        "CL: 6A.207"
+      ],
       "type": "SU-SBWL-DL",
-      "note": "CL: 6A.207"
+      "note": null
     },
     {
       "uid": "sked.de972445",
@@ -944,7 +978,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -956,7 +990,7 @@
       "lecturers": [
         "Afflerbach"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -968,7 +1002,7 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "Reservetermin"
     },
@@ -980,7 +1014,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -992,7 +1026,7 @@
       "lecturers": [
         "Erkens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU-SBWL-IN",
       "note": null
     },
@@ -1004,7 +1038,7 @@
       "lecturers": [
         "Kocmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1016,7 +1050,7 @@
       "lecturers": [
         "Kölling"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1026,9 +1060,9 @@
       "end": "2021-01-08T10:30:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1040,7 +1074,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1050,9 +1084,9 @@
       "end": "2021-01-08T12:15:00Z",
       "module": "KQ: Spanish I Gruppe 1",
       "lecturers": [
-        "Gómez Hernández"
+        "GómezHernández"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1064,7 +1098,7 @@
       "lecturers": [
         "de Juan Herranz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": null
     },
@@ -1076,9 +1110,11 @@
       "lecturers": [
         "Wannemacher"
       ],
-      "room": "CL: 6A.008 (FB4)",
+      "rooms": [
+        "CL: 6A.008 (FB4)"
+      ],
       "type": "PV",
-      "note": "CL: 6A.008 (FB4)"
+      "note": "Prüfungsvorbereitung"
     }
   ]
 }

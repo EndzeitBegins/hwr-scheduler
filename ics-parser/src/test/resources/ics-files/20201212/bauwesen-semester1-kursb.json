@@ -8,7 +8,7 @@
       "lecturers": [
         "Schneider, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 3+4"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Schneider, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 1+2"
     },
@@ -32,9 +32,11 @@
       "lecturers": [
         "Liess"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de970932",
@@ -44,9 +46,11 @@
       "lecturers": [
         "Liess"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de965335",
@@ -56,7 +60,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,7 +72,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +84,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -92,7 +96,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,9 +108,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.173 (T)",
+      "rooms": [
+        "CL: 6B.173 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.173 (T)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de955708",
@@ -116,7 +122,7 @@
       "lecturers": [
         "Schneider, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 1+2"
     },
@@ -128,7 +134,7 @@
       "lecturers": [
         "Schneider, M."
       ],
-      "room": null,
+      "rooms": [],
       "type": "PCÜ",
       "note": "Gruppe 3+4"
     },
@@ -140,7 +146,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -152,7 +158,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -164,7 +170,7 @@
       "lecturers": [
         "Lenz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -176,7 +182,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -188,9 +194,11 @@
       "lecturers": [
         "Liess"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de970936",
@@ -200,9 +208,11 @@
       "lecturers": [
         "Liess"
       ],
-      "room": "CL: 6B.056 (BSt-L)",
+      "rooms": [
+        "CL: 6B.056 (BSt-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.056 (BSt-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de965340",
@@ -212,9 +222,11 @@
       "lecturers": [
         "Detzel"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.150 (T)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de971612",
@@ -224,7 +236,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "Teilnehmerzahl max. 10 Pers. - bitte untereinander absprechen"
     },
@@ -236,9 +248,11 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": "CL: 6B.173 (T)",
+      "rooms": [
+        "CL: 6B.173 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.173 (T)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de965386",
@@ -248,9 +262,11 @@
       "lecturers": [
         "Lenz"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.150 (T)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de965387",
@@ -260,9 +276,11 @@
       "lecturers": [
         "Lenz"
       ],
-      "room": "CL: 6B.150 (T)",
+      "rooms": [
+        "CL: 6B.150 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.150 (T)"
+      "note": "Gruppe 3"
     },
     {
       "uid": "sked.de959896",
@@ -272,7 +290,7 @@
       "lecturers": [
         "Mehlig"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -285,7 +303,7 @@
         "Koenig",
         "Liess"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -297,7 +315,7 @@
       "lecturers": [
         "Schmeitzner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

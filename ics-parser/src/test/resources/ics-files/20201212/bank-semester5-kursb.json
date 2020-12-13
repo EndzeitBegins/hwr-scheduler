@@ -8,7 +8,7 @@
       "lecturers": [
         "Kothe"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Klausur"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Kassman"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Bustamante"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Online"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "business weg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Prüfung",
       "note": "ONLINE - Businessweg informiert Sie über alles Weitere."
     },
@@ -53,10 +53,8 @@
       "start": "2020-10-28T08:00:00Z",
       "end": "2020-10-28T11:55:00Z",
       "module": "201-SBWL",
-      "lecturers": [
-        "ONLINE  Modul BK-201 - Geschäftspolitik der Kreditinstitute I \\nRiskmanagement  -  Herr Lennart Wagner 9.00 - 10.25 / SZV 9.00 - 10.42\\nRiskmanagement - Herr JanniK de Winter 10.35 - 12.00 / SZV 10.55 - 12.37\\nBilanzielle Risikovorsorge der KI - Dr. Hans-Peter Jurscha 12.10 - 12.55 / SZV 12.50 - 13.45"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE  Modul BK-201 - Geschäftspolitik der Kreditinstitute I"
     },
@@ -65,10 +63,8 @@
       "start": "2020-10-29T08:00:00Z",
       "end": "2020-10-29T12:00:00Z",
       "module": "202-SBWL",
-      "lecturers": [
-        "ONLINE  Modul BK-202 - Vertiefung Kreditgeschäfte\\nTeil 1 - Prof. Schütt 9.00 - 10.45 / SZV 9.00 - 11.05\\nTeil 2 - Hr.Liesegang 10.55 - 12.00 / SZV 11.15 - 12.35\\nTeil 3 - Herr Heublein 12.10-13.00 / SZV  12.45 - 13.45"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE  Modul BK-202 - Vertiefung Kreditgeschäfte"
     },
@@ -78,7 +74,7 @@
       "end": "2020-10-30T08:30:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -88,7 +84,7 @@
       "end": "2020-10-30T10:15:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -98,7 +94,7 @@
       "end": "2020-10-30T12:00:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -108,7 +104,7 @@
       "end": "2020-10-30T14:30:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -118,7 +114,7 @@
       "end": "2020-10-30T16:15:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     }

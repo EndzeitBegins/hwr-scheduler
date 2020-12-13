@@ -6,11 +6,11 @@
       "end": "2020-06-29T09:10:00Z",
       "module": "Effektengeschäfte und Anlageberatung",
       "lecturers": [
-        "Online"
+        "Siegert"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Siegert"
+      "note": "Online"
     },
     {
       "uid": "sked.de955962",
@@ -18,21 +18,19 @@
       "end": "2020-06-30T16:30:00Z",
       "module": "Wirtschaftsprivatrecht I",
       "lecturers": [
-        "Online - Mündliche Prüfung - Einteilung erfolgt durch Dozentin"
+        "RA Garnjost"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "RA Garnjost"
+      "note": "Online - Mündliche Prüfung - Einteilung erfolgt durch Dozentin"
     },
     {
       "uid": "sked.de955913",
       "start": "2020-06-30T08:00:00Z",
       "end": "2020-06-30T12:00:00Z",
       "module": "FB: Marketing",
-      "lecturers": [
-        "Abgabetermin Seminararbeit"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "Abgabetermin Seminararbeit"
     },
@@ -42,11 +40,11 @@
       "end": "2020-07-01T10:15:00Z",
       "module": "Kosten- und Leistungsrechnung",
       "lecturers": [
-        "Online"
+        "Dr. Jurscha"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dr. Jurscha"
+      "note": "Online"
     }
   ]
 }

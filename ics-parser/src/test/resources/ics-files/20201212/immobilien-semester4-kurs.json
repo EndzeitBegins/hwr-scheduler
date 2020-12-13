@@ -6,11 +6,12 @@
       "end": "2020-05-13T10:00:00Z",
       "module": "108-SBWL",
       "lecturers": [
-        "Onlineklausur"
+        "Prof. Dr. Raethel",
+        "Zieting"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Raethel\\, Zieting"
+      "note": "Onlineklausur"
     }
   ]
 }

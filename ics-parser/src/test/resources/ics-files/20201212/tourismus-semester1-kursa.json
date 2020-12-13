@@ -7,9 +7,11 @@
       "module": "501-Methodenkompetenzen",
       "lecturers": [
         "Prof. Dr. Koch-Rust",
-        "Prof. Dr.Köhne"
+        "Prof.Dr. Köhne"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -23,7 +25,9 @@
         "RAin Finck",
         "Prof. Dr. Rosentreter"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -36,7 +40,9 @@
         "Prof. Dr. Schlösser",
         "Prof. Dr. von Gizycki"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

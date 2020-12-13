@@ -5,10 +5,8 @@
       "start": "2020-12-08T13:00:00Z",
       "end": "2020-12-08T14:00:00Z",
       "module": "Rechtliche Grundlagen des Bauens",
-      "lecturers": [
-        "ONLINE"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -20,7 +18,7 @@
       "lecturers": [
         "Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -29,10 +27,8 @@
       "start": "2020-12-14T09:00:00Z",
       "end": "2020-12-14T11:00:00Z",
       "module": "Technische Grundlagen des Bauens",
-      "lecturers": [
-        "ONLINE"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -41,10 +37,8 @@
       "start": "2020-12-16T09:00:00Z",
       "end": "2020-12-16T11:00:00Z",
       "module": "Wirtschaftsprivatrecht II-Handels- und Gesellschaf",
-      "lecturers": [
-        "ONLINE"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

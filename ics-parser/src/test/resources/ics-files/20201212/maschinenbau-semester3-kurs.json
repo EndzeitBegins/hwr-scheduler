@@ -8,9 +8,11 @@
       "lecturers": [
         "Winter"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     },
     {
       "uid": "sked.de944054",
@@ -20,9 +22,11 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     },
     {
       "uid": "sked.de971948",
@@ -32,9 +36,11 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "*",
-      "note": "CL: 5.0002"
+      "note": null
     },
     {
       "uid": "sked.de944055",
@@ -44,9 +50,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     }
   ]
 }

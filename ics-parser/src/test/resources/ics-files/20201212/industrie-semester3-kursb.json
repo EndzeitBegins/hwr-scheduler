@@ -9,9 +9,11 @@
         "Schütt",
         "Weyer"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax hinten"
+      "note": "+ 1 Nkl. IN A JG 18"
     },
     {
       "uid": "sked.de974690",
@@ -21,7 +23,7 @@
       "lecturers": [
         "Heintel-Schachtschneider"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

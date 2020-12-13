@@ -5,10 +5,8 @@
       "start": "2020-07-03T08:00:00Z",
       "end": "2020-07-03T12:00:00Z",
       "module": "Betriebswirtschaftliche Funktionsbereiche",
-      "lecturers": [
-        "AbgabeterminSeminararbeit"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "Abgabetermin Seminararbeit"
     },
@@ -18,11 +16,11 @@
       "end": "2020-07-03T12:00:00Z",
       "module": "Kosten- und Leistungsrechnung",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Kalenberg"
+      "note": "Online"
     }
   ]
 }

@@ -6,11 +6,11 @@
       "end": "2020-05-11T10:00:00Z",
       "module": "TM-110RW-Bilanzierung",
       "lecturers": [
-        "Mündliche Online-Prüfung - Termine nachAufteilung durch Dozentin"
+        "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "M",
-      "note": "Wittmann"
+      "note": "Mündliche Online-Prüfung - Termine nach Aufteilung durch Dozentin"
     },
     {
       "uid": "sked.de952785",
@@ -18,11 +18,11 @@
       "end": "2020-05-11T11:20:00Z",
       "module": "TM-110RW-Steuern",
       "lecturers": [
-        "Online-Klausur - noch nicht abschließend geklärt"
+        "Graßnick"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Graßnick"
+      "note": "Online-Klausur - noch nicht abschließend geklärt"
     },
     {
       "uid": "sked.de952789",
@@ -30,11 +30,11 @@
       "end": "2020-05-13T11:00:00Z",
       "module": "114-VWL-Konjunktur u. Wachstum",
       "lecturers": [
-        "Online-Klausur"
+        "Wagner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Wagner"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952795",
@@ -42,11 +42,11 @@
       "end": "2020-05-14T10:00:00Z",
       "module": "103-ABWL Personal/Orga",
       "lecturers": [
-        "Online-Klausur"
+        "Schulz-Bücher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schulz-Bücher"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952801",
@@ -54,11 +54,11 @@
       "end": "2020-05-15T09:30:00Z",
       "module": "TM-108SBWL-Recht",
       "lecturers": [
-        "Online-Klausur"
+        "RA Behrend"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "RA Behrend"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952802",
@@ -66,11 +66,11 @@
       "end": "2020-05-15T11:15:00Z",
       "module": "TM-108SBWL-Recht",
       "lecturers": [
-        "Online-Klausur"
+        "Strey"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Strey"
+      "note": "Online-Klausur"
     }
   ]
 }

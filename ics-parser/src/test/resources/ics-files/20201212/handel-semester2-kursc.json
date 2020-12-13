@@ -10,8 +10,10 @@
         "Prof. Dr. Ringhand",
         "Prof. Dr. Rosentreter"
       ],
-      "room": "CL: 6A.008 (VAK)",
-      "type": "102-ABWL",
+      "rooms": [
+        "CL: 6A.008 (VAK)"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -23,8 +25,10 @@
         "Prof. Dr. Petschke",
         "Prof. Dr. Soller"
       ],
-      "room": "CL: 6A.008 (VAK)",
-      "type": "112-Finanzierung und Investition",
+      "rooms": [
+        "CL: 6A.008 (VAK)"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -36,8 +40,8 @@
         "Prof. Dr. Buchholz",
         "Prof. Dr. Rigas"
       ],
-      "room": null,
-      "type": "113-Volkswirtschaftliche Allokation",
+      "rooms": [],
+      "type": "Klausur",
       "note": "Raum 6B.259"
     }
   ]

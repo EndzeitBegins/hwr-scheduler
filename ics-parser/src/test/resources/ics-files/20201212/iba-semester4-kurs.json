@@ -6,11 +6,13 @@
       "end": "2019-05-14T07:00:00Z",
       "module": "Reserviert",
       "lecturers": [
-        "Vorbereitung"
+        "Kocmann"
       ],
-      "room": "CL: 6B.370 (L2)",
+      "rooms": [
+        "CL: 6B.370 (L2)"
+      ],
       "type": "*",
-      "note": "Kocmann"
+      "note": "Vorbereitung"
     },
     {
       "uid": "sked.de905726",
@@ -20,7 +22,9 @@
       "lecturers": [
         "Kocmann"
       ],
-      "room": "CL: 6B.370 (L2)",
+      "rooms": [
+        "CL: 6B.370 (L2)"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -33,7 +37,9 @@
         "Prof. Dr. Kölling",
         "Prof. Dr. Schlösser"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -46,7 +52,9 @@
         "Prof. Dr. Koch-Rust",
         "Prof. Dr. Weyer"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     }

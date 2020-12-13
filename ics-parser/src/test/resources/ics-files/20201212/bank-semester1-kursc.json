@@ -8,7 +8,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -152,7 +152,7 @@
       "lecturers": [
         "Wilhelm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -164,7 +164,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -176,7 +176,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -186,7 +186,7 @@
       "end": "2020-12-09T17:00:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -198,7 +198,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -210,7 +210,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -222,7 +222,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -234,7 +234,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -246,7 +246,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -256,7 +256,7 @@
       "end": "2020-12-10T17:00:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -268,7 +268,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -280,7 +280,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -292,7 +292,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -304,7 +304,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -316,7 +316,7 @@
       "lecturers": [
         "Drebing"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -326,7 +326,7 @@
       "end": "2020-12-11T17:00:00Z",
       "module": "Reserviert",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": null
     },
@@ -338,7 +338,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -350,7 +350,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -362,7 +362,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -374,7 +374,7 @@
       "lecturers": [
         "Wilhelm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -386,7 +386,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -398,7 +398,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -410,7 +410,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -422,7 +422,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -434,7 +434,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -446,7 +446,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -458,7 +458,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -470,7 +470,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -482,7 +482,7 @@
       "lecturers": [
         "Wilhelm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -494,7 +494,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -506,7 +506,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -518,7 +518,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -530,7 +530,7 @@
       "lecturers": [
         "Wilhelm"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -542,7 +542,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -554,7 +554,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -566,7 +566,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -578,7 +578,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -590,7 +590,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -602,7 +602,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -614,7 +614,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -626,7 +626,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -638,7 +638,7 @@
       "lecturers": [
         "Petschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -650,7 +650,7 @@
       "lecturers": [
         "Fotia"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -662,7 +662,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -674,7 +674,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -686,7 +686,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -698,7 +698,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -710,7 +710,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -722,7 +722,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -734,7 +734,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -746,7 +746,7 @@
       "lecturers": [
         "Nagel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     }

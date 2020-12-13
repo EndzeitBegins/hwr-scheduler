@@ -8,7 +8,9 @@
       "lecturers": [
         "Prof. Dr. Nagel"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -18,11 +20,14 @@
       "end": "2020-06-30T10:00:00Z",
       "module": "Mathematik",
       "lecturers": [
-        "mit 17 TN aus HD19B2"
+        "Prof. Dr. Krüger",
+        "Prof. Dr. Rochnowski"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Krüger\\, Prof. Dr. Rochnowski"
+      "note": "mit 17 TN aus HD19B2"
     },
     {
       "uid": "sked.de955965",
@@ -30,11 +35,11 @@
       "end": "2020-07-02T10:00:00Z",
       "module": "Handels- und Steuerbilanzen / Steuern",
       "lecturers": [
-        "Online"
+        "Graßnick"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Graßnick"
+      "note": "Online"
     }
   ]
 }

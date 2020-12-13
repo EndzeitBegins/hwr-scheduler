@@ -8,7 +8,9 @@
       "lecturers": [
         "Prof. Dr. Roxin"
       ],
-      "room": "CL: 6A.013",
+      "rooms": [
+        "CL: 6A.013"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -18,7 +20,9 @@
       "end": "2018-01-23T12:30:00Z",
       "module": "fakultative Konsultation zur Klausurvorbereitung V",
       "lecturers": [],
-      "room": "CL: 6A.227",
+      "rooms": [
+        "CL: 6A.227"
+      ],
       "type": "*",
       "note": null
     },
@@ -29,10 +33,12 @@
       "module": "113-vwl Allokation",
       "lecturers": [
         "Prof. Dr. Baumgärtner",
-        "Prof. Dr. Mertens",
+        "Prof. Dr.Mertens",
         "Prof. Dr. Soller"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
       "note": null
     }

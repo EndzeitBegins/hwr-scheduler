@@ -8,7 +8,7 @@
       "lecturers": [
         "also for Incomings Informatik"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -18,10 +18,10 @@
       "end": "2020-12-08T11:15:00Z",
       "module": "IT3181-Wpff. I: Graphical Data Processing",
       "lecturers": [
-        "also for IncomingsInformatik",
+        "also for Incomings Informatik",
         "Hackbarth"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -34,7 +34,7 @@
         "also for Incomings Informatik",
         "Hackbarth"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online"
     },
@@ -46,7 +46,7 @@
       "lecturers": [
         "also for Incomings Informatik"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -58,7 +58,7 @@
       "lecturers": [
         "also for Incomings Informatik"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -70,7 +70,7 @@
       "lecturers": [
         "also for Incomings Informatik"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -83,7 +83,7 @@
         "also for Incomings Informatik",
         "Monett Diaz, D."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -96,7 +96,7 @@
         "also for Incomings Informatik",
         "Hackbarth"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -108,7 +108,7 @@
       "lecturers": [
         "Monett Diaz, D."
       ],
-      "room": null,
+      "rooms": [],
       "type": "La",
       "note": "Online - Endpräsentationen"
     }

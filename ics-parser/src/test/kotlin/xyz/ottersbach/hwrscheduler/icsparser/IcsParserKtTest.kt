@@ -4,7 +4,6 @@ package xyz.ottersbach.hwrscheduler.icsparser
 
 import com.natpryce.hamkrest.assertion.assertThat
 import com.natpryce.hamkrest.equalTo
-import kotlinx.serialization.encodeToString
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.UseSerializers
 import kotlinx.serialization.decodeFromString
@@ -15,7 +14,6 @@ import org.junit.jupiter.api.TestFactory
 import xyz.ottersbach.hwrscheduler.icsparser.serializers.InstantSerializer
 import xyz.ottersbach.hwrscheduler.icsparser.serializers.LessonSerializer
 import java.io.File
-import java.nio.file.Path
 import java.nio.file.Paths
 
 internal class IcsParserKtTest {

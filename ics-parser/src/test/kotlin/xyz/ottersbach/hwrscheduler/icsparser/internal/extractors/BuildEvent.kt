@@ -5,7 +5,6 @@ import xyz.ottersbach.hwrscheduler.icsparser.internal.evententries.*
 
 internal fun buildEvent(
     uidEntry: UidEntry = UidEntry("UID:sked.de956040"),
-    summaryEntry: SummaryEntry = SummaryEntry("SUMMARY:La\\;IT2101-Labor SWE I: Gruppe 1 + 2\\;Kretzmer\\;Prüfung Online"),
     locationEntry: LocationEntry = LocationEntry("LOCATION:"),
     descriptionEntry: DescriptionEntry = DescriptionEntry(
         """
@@ -23,7 +22,7 @@ internal fun buildEvent(
     |TRANSP:OPAQUE
     |SEQUENCE:0
     |${uidEntry.string}
-    |${summaryEntry.string}
+    |SUMMARY:La\;IT2101-Labor SWE I: Gruppe 1 + 2\;Kretzmer\;Prüfung Online
     |${locationEntry.string}
     |${descriptionEntry.string}
     |${startTimeEntry.string}

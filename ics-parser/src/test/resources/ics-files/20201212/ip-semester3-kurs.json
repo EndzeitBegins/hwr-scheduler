@@ -8,7 +8,7 @@
       "lecturers": [
         "Mertens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Konsultation"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Mertens"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -33,9 +33,11 @@
         "Rosentreter",
         "Wannemacher"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     },
     {
       "uid": "sked.de974692",
@@ -45,7 +47,7 @@
       "lecturers": [
         "Tirpitz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -57,7 +59,7 @@
       "lecturers": [
         "Tippelhofer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     }

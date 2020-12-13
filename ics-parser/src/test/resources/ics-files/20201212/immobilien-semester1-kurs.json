@@ -8,9 +8,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960127",
@@ -20,9 +22,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de965377",
@@ -32,7 +36,7 @@
       "lecturers": [
         "Peter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -44,9 +48,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953358",
@@ -56,9 +62,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953386",
@@ -68,9 +76,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de969990",
@@ -80,9 +90,11 @@
       "lecturers": [
         "Conrad"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960129",
@@ -92,9 +104,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960131",
@@ -104,9 +118,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de967062",
@@ -116,7 +132,7 @@
       "lecturers": [
         "Wildebrand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +144,7 @@
       "lecturers": [
         "Wildebrand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -140,9 +156,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953354",
@@ -152,9 +170,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960133",
@@ -164,9 +184,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960135",
@@ -176,9 +198,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960301",
@@ -188,9 +212,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de960303",
@@ -200,9 +226,11 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de965352",
@@ -213,7 +241,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -226,7 +254,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -238,9 +266,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953362",
@@ -250,9 +280,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL:6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953384",
@@ -262,9 +294,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953390",
@@ -274,9 +308,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de953392",
@@ -286,9 +322,11 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de972952",
@@ -298,7 +336,7 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Platzhalter Vorbereitung Onlineklausur"
     },
@@ -310,7 +348,7 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Platzhalter Vorbereitung Onlineklausur"
     },
@@ -322,7 +360,7 @@
       "lecturers": [
         "von Gizycki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -334,7 +372,7 @@
       "lecturers": [
         "von Gizycki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -346,7 +384,7 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Platzhalter Vorbereitung Onlineklausur"
     },
@@ -358,7 +396,7 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Platzhalter Vorbereitung Onlineklausur"
     },
@@ -370,9 +408,11 @@
       "lecturers": [
         "Meiners"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de967232",
@@ -382,9 +422,11 @@
       "lecturers": [
         "Meiners"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de967234",
@@ -394,9 +436,11 @@
       "lecturers": [
         "Meiners"
       ],
-      "room": "CL: 6A.206",
+      "rooms": [
+        "CL: 6A.206"
+      ],
       "type": "SU",
-      "note": "CL: 6A.206"
+      "note": null
     },
     {
       "uid": "sked.de974966",
@@ -406,7 +450,7 @@
       "lecturers": [
         "Grüner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -418,7 +462,7 @@
       "lecturers": [
         "Grüner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -430,9 +474,9 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Platzhalter: Klausurvorbereitung - Online Klausur\\, keine LV"
+      "note": "Platzhalter: Klausurvorbereitung - Online Klausur, keine LV"
     },
     {
       "uid": "sked.de971262",
@@ -442,9 +486,9 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Vorbereitung PTBI"
+      "note": "Vorbereitung PTB I"
     },
     {
       "uid": "sked.de971264",
@@ -454,9 +498,9 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Technischer Test: Online Klausur\\, Moodle"
+      "note": "Technischer Test: Online Klausur, Moodle"
     },
     {
       "uid": "sked.de971265",
@@ -466,9 +510,9 @@
       "lecturers": [
         "Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
-      "note": "Platzhalter: Klausurvorbereitung - Online Klausur\\, keine LV"
+      "note": "Platzhalter: Klausurvorbereitung - Online Klausur, keine LV"
     },
     {
       "uid": "sked.de974969",
@@ -478,7 +522,7 @@
       "lecturers": [
         "Grüner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -490,7 +534,7 @@
       "lecturers": [
         "Grüner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -503,7 +547,7 @@
         "Herkenhoff",
         "A.-S."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -515,7 +559,7 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Mündliche Prüfung"
     },
@@ -527,7 +571,7 @@
       "lecturers": [
         "von Gizycki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -539,7 +583,7 @@
       "lecturers": [
         "von Gizycki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -551,7 +595,7 @@
       "lecturers": [
         "Grüner"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -563,7 +607,7 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -575,7 +619,7 @@
       "lecturers": [
         "Hall"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -587,7 +631,7 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -599,7 +643,7 @@
       "lecturers": [
         "Hall"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -612,7 +656,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -625,7 +669,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -637,7 +681,7 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -649,7 +693,7 @@
       "lecturers": [
         "Hall"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -661,7 +705,7 @@
       "lecturers": [
         "Wittmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -673,7 +717,7 @@
       "lecturers": [
         "Hall"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -686,7 +730,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -699,7 +743,7 @@
         "Vogt",
         "Florian"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     }

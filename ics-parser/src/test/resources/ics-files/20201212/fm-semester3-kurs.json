@@ -8,7 +8,7 @@
       "lecturers": [
         "Moltenkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Ü",
       "note": null
     },
@@ -20,21 +20,25 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     },
     {
       "uid": "sked.de945607",
       "start": "2020-11-05T13:00:00Z",
       "end": "2020-11-05T16:00:00Z",
-      "module": "FM 3003-Techn. Gebäudeausrüstung 1",
+      "module": "FM 3003-Techn. Gebäudeausrüstung1",
       "lecturers": [
         "Mugele"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax vorn"
+      "note": null
     }
   ]
 }

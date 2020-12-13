@@ -8,7 +8,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "I",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -44,7 +44,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -56,7 +56,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -68,7 +68,7 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -80,7 +80,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -92,7 +92,7 @@
       "lecturers": [
         "Borutzki"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -104,7 +104,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -149,27 +149,20 @@
       "start": "2021-01-11T08:00:00Z",
       "end": "2021-01-11T09:30:00Z",
       "module": "Wieder-/Nachholung",
-      "lecturers": [
-        "Mathe III",
-        "Raum 5.3001"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
-      "note": "Mathe III\\, Raum 5.3001"
+      "note": "Mathe III, Raum 5.3001"
     },
     {
       "uid": "sked.de978398",
       "start": "2021-01-11T13:00:00Z",
       "end": "2021-01-11T14:30:00Z",
       "module": "Wieder-/Nachholung",
-      "lecturers": [
-        "Mathe II",
-        "Raum: 6B350",
-        "Aufsicht: Prof. Schomäcker"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
-      "note": "Mathe II\\, Raum: 6B350\\, Aufsicht: Prof. Schomäcker"
+      "note": "Mathe II, Raum: 6B350, Aufsicht: Prof. Schomäcker"
     },
     {
       "uid": "sked.de945039",
@@ -179,7 +172,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -191,7 +184,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -201,7 +194,7 @@
       "end": "2021-01-13T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -213,9 +206,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Festigkeitslehre II\\, Raum 5.3001"
+      "note": "Festigkeitslehre II, Raum 5.3001"
     },
     {
       "uid": "sked.de945040",
@@ -225,9 +218,11 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": "CL: 6B.350 (T)",
+      "rooms": [
+        "CL: 6B.350 (T)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.350 (T)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de945075",
@@ -239,7 +234,7 @@
         "Schomäcker",
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "R",
       "note": "Technik-Museum"
     },
@@ -251,7 +246,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -263,7 +258,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -275,7 +270,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -287,7 +282,7 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -299,7 +294,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -309,7 +304,7 @@
       "end": "2021-01-20T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -321,9 +316,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Kinematik und Kinetik\\, Raum 5.3001"
+      "note": "Kinematik und Kinetik, Raum 5.3001"
     },
     {
       "uid": "sked.de970181",
@@ -333,9 +328,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970011",
@@ -345,7 +342,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -357,7 +354,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -369,9 +366,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Grundlagen BWL\\, Raum: 5.3001"
+      "note": "Grundlagen BWL, Raum: 5.3001"
     },
     {
       "uid": "sked.de970183",
@@ -381,9 +378,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de977797",
@@ -393,7 +392,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -406,9 +405,9 @@
         "Kurzawa",
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Mündl. Schwingungsmechanik\\, Raum: 5.4001"
+      "note": "Mündl. Schwingungsmechanik, Raum: 5.4001"
     },
     {
       "uid": "sked.de969999",
@@ -418,7 +417,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -428,7 +427,7 @@
       "end": "2021-01-27T15:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -440,9 +439,9 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Fügetechnik + Ausgew. Verfahren\\, Raum 5.3001"
+      "note": "Fügetechnik + Ausgew. Verfahren, Raum 5.3001"
     },
     {
       "uid": "sked.de976322",
@@ -452,9 +451,11 @@
       "lecturers": [
         "Steinmann"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     },
     {
       "uid": "sked.de970012",
@@ -464,7 +465,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -476,7 +477,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -488,7 +489,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -500,7 +501,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -512,7 +513,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -522,7 +523,7 @@
       "end": "2021-02-03T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -534,9 +535,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 6B.055 (MB-L)",
+      "rooms": [
+        "CL: 6B.055 (MB-L)"
+      ],
       "type": "La",
-      "note": "CL: 6B.055 (MB-L)"
+      "note": null
     },
     {
       "uid": "sked.de970013",
@@ -546,7 +549,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -558,7 +561,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -570,9 +573,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970576",
@@ -582,7 +587,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -594,7 +599,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -604,7 +609,7 @@
       "end": "2021-02-10T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -616,9 +621,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970592",
@@ -628,9 +635,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 6B.055 (MB-L)",
+      "rooms": [
+        "CL: 6B.055 (MB-L)"
+      ],
       "type": "La",
-      "note": "CL: 6B.055 (MB-L)"
+      "note": null
     },
     {
       "uid": "sked.de970014",
@@ -640,7 +649,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -652,7 +661,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -664,9 +673,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970571",
@@ -676,7 +687,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -688,7 +699,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -698,7 +709,7 @@
       "end": "2021-02-17T15:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -710,9 +721,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de977799",
@@ -722,7 +735,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -734,7 +747,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -746,7 +759,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -758,9 +771,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970580",
@@ -770,7 +785,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -782,7 +797,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -792,7 +807,7 @@
       "end": "2021-02-24T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -804,9 +819,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970595",
@@ -816,9 +833,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 6B.055 (MB-L)",
+      "rooms": [
+        "CL: 6B.055 (MB-L)"
+      ],
       "type": "La",
-      "note": "CL: 6B.055 (MB-L)"
+      "note": null
     },
     {
       "uid": "sked.de970016",
@@ -828,7 +847,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -840,7 +859,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -852,7 +871,7 @@
       "lecturers": [
         "Munby"
       ],
-      "room": null,
+      "rooms": [],
       "type": "S",
       "note": "ONLINE"
     },
@@ -864,7 +883,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -876,7 +895,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -886,7 +905,7 @@
       "end": "2021-03-03T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -898,9 +917,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970593",
@@ -910,9 +931,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 6B.055 (MB-L)",
+      "rooms": [
+        "CL: 6B.055 (MB-L)"
+      ],
       "type": "La",
-      "note": "CL: 6B.055 (MB-L)"
+      "note": null
     },
     {
       "uid": "sked.de970017",
@@ -922,7 +945,7 @@
       "lecturers": [
         "Gawande"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -934,7 +957,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -946,7 +969,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -958,7 +981,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -968,7 +991,7 @@
       "end": "2021-03-10T16:00:00Z",
       "module": "MB3045- Studienprojekt I",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -980,9 +1003,11 @@
       "lecturers": [
         "Kurzawa"
       ],
-      "room": "CL: 6B.151 (CAD-L)",
+      "rooms": [
+        "CL: 6B.151 (CAD-L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.151 (CAD-L)"
+      "note": null
     },
     {
       "uid": "sked.de970594",
@@ -992,9 +1017,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 6B.055 (MB-L)",
+      "rooms": [
+        "CL: 6B.055 (MB-L)"
+      ],
       "type": "La",
-      "note": "CL: 6B.055 (MB-L)"
+      "note": null
     },
     {
       "uid": "sked.de970583",
@@ -1004,7 +1031,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1016,7 +1043,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1028,7 +1055,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1040,7 +1067,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1052,7 +1079,7 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -1062,7 +1089,7 @@
       "end": "2021-03-18T16:00:00Z",
       "module": "Tag des Dualen Studiums",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "I",
       "note": null
     },
@@ -1074,9 +1101,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     },
     {
       "uid": "sked.de970600",
@@ -1086,9 +1115,11 @@
       "lecturers": [
         "Schomäcker"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
-      "note": "CL: 5.0002"
+      "note": null
     }
   ]
 }

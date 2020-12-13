@@ -8,7 +8,7 @@
       "lecturers": [
         "Golz_T"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Mauga"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -32,7 +32,7 @@
       "lecturers": [
         "Kölling, H."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -45,9 +45,11 @@
         "Kasten",
         "Nastansky"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "CL: 1.Audimax hinten"
+      "note": null
     },
     {
       "uid": "sked.de974673",
@@ -57,7 +59,7 @@
       "lecturers": [
         "Ostwald"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE - Achtung 1 Studierende aus dem Kurs VS Nachteilsausgleich bis 10.15 Uhr"
     },
@@ -69,7 +71,7 @@
       "lecturers": [
         "Jacob, S."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -81,7 +83,7 @@
       "lecturers": [
         "Wagner, R."
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -93,7 +95,7 @@
       "lecturers": [
         "Hilverkus"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "ONLINE"
     },
@@ -105,7 +107,7 @@
       "lecturers": [
         "Wolz"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "Online-Test / Aktive Teilnahme"
     }

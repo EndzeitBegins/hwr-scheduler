@@ -6,11 +6,11 @@
       "end": "2020-05-06T08:45:00Z",
       "module": "DL-117 Wp.recht II-Arbeitsrecht",
       "lecturers": [
-        "Online-Klausur"
+        "Prof. Dr. Hesse"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Hesse"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952773",
@@ -18,11 +18,11 @@
       "end": "2020-05-06T11:15:00Z",
       "module": "DL-117 Wirtschaftsprivatrecht II",
       "lecturers": [
-        "Online-Klausur"
+        "Schwichtenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Schwichtenberg"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952781",
@@ -30,11 +30,11 @@
       "end": "2020-05-07T09:30:00Z",
       "module": "103-ABWL Personal/Orga",
       "lecturers": [
-        "Online-Klausur"
+        "Prof. Dr. Vieth"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Vieth"
+      "note": "Online-Klausur"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "lecturers": [
         "Beuthan"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -21,7 +21,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -33,7 +33,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -43,7 +43,7 @@
       "end": "2021-02-16T12:00:00Z",
       "module": "Studienprojekt II - Referat",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "*",
       "note": null
     },
@@ -55,7 +55,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -69,7 +69,7 @@
         "Mugele",
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "*",
       "note": null
     },
@@ -81,7 +81,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "*",
       "note": null
     },
@@ -94,7 +94,7 @@
         "Mugele",
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "*",
       "note": null
     },
@@ -104,7 +104,7 @@
       "end": "2021-02-18T14:00:00Z",
       "module": "Studienprojekt II - Referat",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "*",
       "note": null
     },
@@ -116,7 +116,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -128,7 +128,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -140,7 +140,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -152,7 +152,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -164,7 +164,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -176,7 +176,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -188,7 +188,7 @@
       "lecturers": [
         "Discher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -200,7 +200,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -212,7 +212,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -224,7 +224,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -236,7 +236,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -248,7 +248,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -260,7 +260,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -273,7 +273,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -285,7 +285,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -297,7 +297,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -309,7 +309,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -321,7 +321,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -333,7 +333,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -345,7 +345,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -357,7 +357,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -369,7 +369,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -381,7 +381,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -393,7 +393,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -405,7 +405,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -417,7 +417,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -429,7 +429,7 @@
       "lecturers": [
         "Discher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -441,7 +441,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -453,7 +453,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -465,7 +465,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -477,7 +477,7 @@
       "lecturers": [
         "Beuthan"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -490,7 +490,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -502,7 +502,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -514,7 +514,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -526,7 +526,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -538,7 +538,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -550,7 +550,7 @@
       "lecturers": [
         "Discher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -562,7 +562,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -574,7 +574,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -586,7 +586,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -598,7 +598,7 @@
       "lecturers": [
         "Beuthan"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -611,7 +611,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -623,7 +623,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -635,7 +635,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -647,7 +647,7 @@
       "lecturers": [
         "Pham"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -659,7 +659,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -671,7 +671,7 @@
       "lecturers": [
         "Discher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -683,7 +683,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -695,7 +695,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -707,7 +707,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -720,7 +720,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -732,7 +732,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -744,7 +744,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -756,7 +756,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -768,7 +768,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -780,7 +780,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -792,7 +792,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -804,7 +804,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -816,7 +816,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -829,7 +829,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -841,7 +841,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -853,7 +853,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -865,7 +865,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -877,7 +877,7 @@
       "lecturers": [
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -889,7 +889,7 @@
       "lecturers": [
         "Discher"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -901,7 +901,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -913,7 +913,7 @@
       "lecturers": [
         "Beuthan"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -926,7 +926,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -938,7 +938,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -950,7 +950,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -962,7 +962,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -974,7 +974,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -986,7 +986,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -998,7 +998,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1010,7 +1010,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1022,7 +1022,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1034,7 +1034,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -1046,7 +1046,7 @@
       "lecturers": [
         "Beuthan"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1059,7 +1059,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1071,7 +1071,7 @@
       "lecturers": [
         "Elsäßer"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -1084,7 +1084,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1096,7 +1096,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1108,7 +1108,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1120,7 +1120,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1132,7 +1132,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1144,7 +1144,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1156,7 +1156,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1168,7 +1168,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -1181,7 +1181,7 @@
         "Müller",
         "Matthias"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1193,7 +1193,7 @@
       "lecturers": [
         "Pelzeter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1205,7 +1205,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -1217,7 +1217,7 @@
       "lecturers": [
         "Richter, F."
       ],
-      "room": null,
+      "rooms": [],
       "type": "SI",
       "note": null
     },
@@ -1230,7 +1230,7 @@
         "Richter, F.",
         "Zuch"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -1242,7 +1242,7 @@
       "lecturers": [
         "Lundszien"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

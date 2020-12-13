@@ -6,11 +6,11 @@
       "end": "2020-06-29T13:00:00Z",
       "module": "Digitalisierung in Unternehmen",
       "lecturers": [
-        "Online"
+        "Dipl.-Kfm. Lange"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dipl.-Kfm. Lange"
+      "note": "Online"
     },
     {
       "uid": "sked.de959098",
@@ -18,11 +18,14 @@
       "end": "2020-06-30T10:00:00Z",
       "module": "Mathematik",
       "lecturers": [
-        "mit 17 TN aus HD19B2"
+        "Prof. Dr. Raethel",
+        "Prof. Dr. Schmietendorf"
       ],
-      "room": "CL: 1.Audimax hinten",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
       "type": "Klausur",
-      "note": "Prof. Dr. Raethel\\, Prof. Dr. Schmietendorf"
+      "note": "mit 17 TN aus HD19B2"
     },
     {
       "uid": "sked.de955966",
@@ -30,11 +33,11 @@
       "end": "2020-07-02T09:30:00Z",
       "module": "Immobilien-Marketing",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Raethel"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Raethel"
+      "note": "Online"
     }
   ]
 }

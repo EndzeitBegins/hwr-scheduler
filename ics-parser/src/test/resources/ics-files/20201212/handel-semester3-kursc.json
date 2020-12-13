@@ -9,8 +9,10 @@
         "Prof. Dr. Bleis",
         "Prof. Dr. Peter-Ollrogge"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "111-Kosten- und Leistungsrechnung",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -23,8 +25,10 @@
         "Prof. Dr. Hesse",
         "Prof. Dr. Koch-Rust"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "117-Wirtschaftsprivatrecht II",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": null
     }
   ]

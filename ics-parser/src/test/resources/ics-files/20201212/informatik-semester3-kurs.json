@@ -6,9 +6,11 @@
       "end": "2019-11-04T11:00:00Z",
       "module": "IT2121-Betriebl. Hard- u. Softwaresysteme",
       "lecturers": [
-        "Prof. Dr. Höhne"
+        "Prof. Dr.Höhne"
       ],
-      "room": "CL: 6B.259 (FB5)",
+      "rooms": [
+        "CL: 6B.259 (FB5)"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -20,7 +22,9 @@
       "lecturers": [
         "Prof. Dr. Monett Diaz"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -32,7 +36,9 @@
       "lecturers": [
         "M.Eng. Buck"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
       "note": null
     }

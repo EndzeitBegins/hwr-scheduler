@@ -6,11 +6,12 @@
       "end": "2020-04-20T10:30:00Z",
       "module": "203-SBWL",
       "lecturers": [
-        "Online-Klausur\\n09.00 - 12.00 Uhr Prof. Dr. Wilhelm\\n12.00 - 12.30 Uhr Dr. Olaf Langner"
+        "Dr. Langner",
+        "Siegert"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dr. Langner\\, Siegert"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de945645",
@@ -18,11 +19,11 @@
       "end": "2020-04-21T10:00:00Z",
       "module": "402 Wpff. Operations Research",
       "lecturers": [
-        "Präsenzklausur wird verschoben!"
+        "Prof. Dr. Krüger"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Krüger"
+      "note": "Präsenzklausur wird verschoben!"
     },
     {
       "uid": "sked.de945647",
@@ -30,12 +31,11 @@
       "end": "2020-04-21T13:30:00Z",
       "module": "402 Wpff. Ökonometrie",
       "lecturers": [
-        "Mündliche Prüfung - Online",
-        "siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
+        "Prof. Dr. Nastansky"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Nastansky"
+      "note": "Mündliche Prüfung - Online, siehe Aufteilung von Prof. Nastansky - Achtung 1 Student mit Nachteilsausgleich aus IN A"
     },
     {
       "uid": "sked.de945656",
@@ -43,11 +43,11 @@
       "end": "2020-04-23T11:30:00Z",
       "module": "204-SBWL",
       "lecturers": [
-        "Online-Klausur\\n10.00 - 10.30 Uhr Prof. Dr. Wilhelm\\n10.45 - 13.30 Uhr Dr. Dziedzina"
+        "Dr. Dziedzina"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Dr. Dziedzina"
+      "note": "Online-Klausur"
     }
   ]
 }

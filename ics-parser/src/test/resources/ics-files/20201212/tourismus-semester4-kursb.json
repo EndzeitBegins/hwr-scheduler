@@ -6,11 +6,11 @@
       "end": "2020-05-15T09:30:00Z",
       "module": "TM-108SBWL-Recht",
       "lecturers": [
-        "Online-Klausur"
+        "RA Behrend"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "RA Behrend"
+      "note": "Online-Klausur"
     },
     {
       "uid": "sked.de952802",
@@ -18,11 +18,11 @@
       "end": "2020-05-15T11:15:00Z",
       "module": "TM-108SBWL-Recht",
       "lecturers": [
-        "Online-Klausur"
+        "Strey"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Strey"
+      "note": "Online-Klausur"
     }
   ]
 }

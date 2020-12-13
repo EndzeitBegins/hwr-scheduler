@@ -8,8 +8,10 @@
       "lecturers": [
         "Prof. Dr. Ueckerdt"
       ],
-      "room": "CL: 1.Audimax hinten",
-      "type": "110-Bilanzierung/Steuern",
+      "rooms": [
+        "CL: 1.Audimax hinten"
+      ],
+      "type": "Klausur",
       "note": null
     },
     {
@@ -20,8 +22,8 @@
       "lecturers": [
         "Prof. Dr. Ringhand"
       ],
-      "room": null,
-      "type": "103-ABWL Personalmanagement und Organisation",
+      "rooms": [],
+      "type": "Klausur",
       "note": "Raum 6b.066"
     },
     {
@@ -33,8 +35,10 @@
         "Prof. Dr. Paarz",
         "Prof. Dr. Sohn"
       ],
-      "room": "CL: 1.Audimax vorn",
-      "type": "114-VWL-Konjunktur und Wachstum",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
+      "type": "Klausur",
       "note": null
     }
   ]

@@ -6,21 +6,20 @@
       "end": "2020-06-30T10:00:00Z",
       "module": "Produktionswirtschaft (IN)",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Erkens",
+        "Prof. Dr. Wildebrand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur-SBWL-IN",
-      "note": "Prof. Dr. Erkens\\, Prof. Dr. Wildebrand"
+      "note": "Online"
     },
     {
       "uid": "sked.de959903",
       "start": "2020-07-03T05:00:00Z",
       "end": "2020-07-03T20:00:00Z",
       "module": "Wirtschaftsprivatrecht I",
-      "lecturers": [
-        "- Abgabetermin Seminararbeit (ganztägig) -"
-      ],
-      "room": null,
+      "lecturers": [],
+      "rooms": [],
       "type": "Klausur",
       "note": "- Abgabetermin Seminararbeit (ganztägig) -"
     },
@@ -30,11 +29,11 @@
       "end": "2020-07-03T12:00:00Z",
       "module": "Kosten- und Leistungsrechnung",
       "lecturers": [
-        "Online"
+        "Prof. Dr. Kalenberg"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Kalenberg"
+      "note": "Online"
     }
   ]
 }

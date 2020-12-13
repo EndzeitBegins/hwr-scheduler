@@ -9,7 +9,7 @@
         "Prof. Dr.-Ing. Detzel",
         "Prof. Dick"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     },
@@ -22,7 +22,7 @@
         "Prof. Dr.-Ing. Pepper",
         "Prof. Dr. Wotschke"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": null
     }

@@ -6,11 +6,12 @@
       "end": "2020-05-14T11:00:00Z",
       "module": "117-Wp.recht II",
       "lecturers": [
-        "Online-Klausur - 1 Student mit Nachteilsausgleich bis 13.50 Uhr"
+        "Prof. Dr. Koch-Rust",
+        "Prof. Dr. Rosentreter"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Koch-Rust\\, Prof. Dr. Rosentreter"
+      "note": "Online-Klausur - 1 Student mit Nachteilsausgleich bis 13.50 Uhr"
     },
     {
       "uid": "sked.de952794",
@@ -18,11 +19,11 @@
       "end": "2020-05-15T12:00:00Z",
       "module": "303-W.informatik",
       "lecturers": [
-        "Online Klausur - von 10.00 -11.00 UhrVorbereitung Klausurdauer von 11.-14.00 Uhr\\n3 Studenten mit Nachteilsausgleich - Kurs A  bis 15.30 / Kurs B bis 14.35 Uhr - Kurs C bis 14.50 Uhr"
+        "Kocmann"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Kocmann"
+      "note": "Online Klausur - von 10.00 -11.00 Uhr Vorbereitung Klausurdauer von 11.-14.00 Uhr"
     }
   ]
 }

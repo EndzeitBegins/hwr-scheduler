@@ -8,7 +8,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -20,7 +20,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -30,7 +30,7 @@
       "end": "2021-01-06T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -42,7 +42,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -54,7 +54,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -66,7 +66,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -78,7 +78,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -90,7 +90,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -102,7 +102,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -112,7 +112,7 @@
       "end": "2021-01-13T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -124,7 +124,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -136,7 +136,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -148,7 +148,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -160,7 +160,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -172,7 +172,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -184,7 +184,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -194,7 +194,7 @@
       "end": "2021-01-20T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -206,7 +206,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -218,7 +218,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -230,7 +230,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -242,7 +242,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -254,9 +254,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de972606",
@@ -266,7 +268,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -276,7 +278,7 @@
       "end": "2021-01-27T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -288,7 +290,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -300,7 +302,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -312,7 +314,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -324,7 +326,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -336,7 +338,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -348,7 +350,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -358,7 +360,7 @@
       "end": "2021-02-03T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -370,9 +372,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": null
     },
     {
       "uid": "sked.de972631",
@@ -382,9 +386,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "Projekt I"
     },
     {
       "uid": "sked.de972590",
@@ -394,7 +400,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -406,7 +412,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -418,9 +424,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de972608",
@@ -430,7 +438,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -440,7 +448,7 @@
       "end": "2021-02-10T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -452,9 +460,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Laborübung 1, Gruppe 1, Teilgruppe A"
     },
     {
       "uid": "sked.de972633",
@@ -464,9 +474,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Laborübung 1, Gruppe 2, Teilgruppe B"
     },
     {
       "uid": "sked.de972634",
@@ -476,9 +488,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Laborübung 1, Gruppe 2, Teilgruppe A"
     },
     {
       "uid": "sked.de972635",
@@ -488,9 +502,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Laborübung 1, Gruppe 2, Teilgruppe B"
     },
     {
       "uid": "sked.de972591",
@@ -500,7 +516,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -512,7 +528,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -524,7 +540,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -534,7 +550,7 @@
       "end": "2021-02-17T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -546,9 +562,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de979689",
@@ -558,7 +576,7 @@
       "lecturers": [
         "Davis"
       ],
-      "room": null,
+      "rooms": [],
       "type": "PÜ",
       "note": "ONLINE"
     },
@@ -570,9 +588,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de972572",
@@ -582,9 +602,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "SU",
-      "note": "CL: 6B.153 (L)"
+      "note": "ONLINE"
     },
     {
       "uid": "sked.de972592",
@@ -594,7 +616,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -606,7 +628,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -618,7 +640,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -630,7 +652,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -642,7 +664,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -654,7 +676,7 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -666,9 +688,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "LÜ 2, Gruppe 2"
     },
     {
       "uid": "sked.de972641",
@@ -678,9 +702,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "LÜ 2, Gruppe 1"
     },
     {
       "uid": "sked.de972619",
@@ -688,7 +714,7 @@
       "end": "2021-02-26T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -700,9 +726,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de972643",
@@ -712,9 +740,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de972638",
@@ -724,9 +754,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de972640",
@@ -736,9 +768,11 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de972636",
@@ -748,9 +782,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "LÜ 3, Gruppe 2"
     },
     {
       "uid": "sked.de972637",
@@ -760,9 +796,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.153 (L)",
+      "rooms": [
+        "CL: 6B.153 (L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.153 (L)"
+      "note": "LÜ 3, Gruppe 1"
     },
     {
       "uid": "sked.de972628",
@@ -772,7 +810,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -782,7 +820,7 @@
       "end": "2021-03-05T16:45:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -794,9 +832,9 @@
       "lecturers": [
         "Plotkin"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Präsenzklausur unter Vorbehalt\\, Raum derzeit noch nicht bekannt"
+      "note": "Präsenzklausur unter Vorbehalt, Raum derzeit noch nicht bekannt"
     },
     {
       "uid": "sked.de972624",
@@ -806,7 +844,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": "ONLINE"
     },
@@ -816,7 +854,7 @@
       "end": "2021-03-10T16:00:00Z",
       "module": "ET6045 Studienprojektseminar",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "SU",
       "note": null
     },
@@ -828,9 +866,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de972582",
@@ -840,9 +880,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de972579",
@@ -852,9 +894,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de972583",
@@ -864,9 +908,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de972580",
@@ -876,9 +922,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de972584",
@@ -888,9 +936,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de972581",
@@ -900,9 +950,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 1"
     },
     {
       "uid": "sked.de931223",
@@ -910,7 +962,7 @@
       "end": "2021-03-18T12:00:00Z",
       "module": "Tag des Dualen Studiums",
       "lecturers": [],
-      "room": null,
+      "rooms": [],
       "type": "I",
       "note": null
     },
@@ -922,9 +974,11 @@
       "lecturers": [
         "Barten"
       ],
-      "room": "CL: 6B.156 (AT-L)",
+      "rooms": [
+        "CL: 6B.156 (AT-L)"
+      ],
       "type": "PÜ",
-      "note": "CL: 6B.156 (AT-L)"
+      "note": "Gruppe 2"
     },
     {
       "uid": "sked.de977847",
@@ -934,7 +988,7 @@
       "lecturers": [
         "Barten"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
       "note": "Termin vom Prof. bestätigt"
     }

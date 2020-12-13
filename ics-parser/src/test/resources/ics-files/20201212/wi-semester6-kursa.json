@@ -6,12 +6,11 @@
       "end": "2020-04-21T12:30:00Z",
       "module": "WI-403-11Mmt. d. Inf.sicherh.",
       "lecturers": [
-        "Online-Klausur Achtung! 2Studierende mit Nachteilsausgleich",
-        "Kurs A bis 14.55 Uhr und Kurs B bis15.30 Uhr"
+        "Prof. Dr. Ringhand"
       ],
-      "room": null,
+      "rooms": [],
       "type": "Klausur",
-      "note": "Prof. Dr. Ringhand"
+      "note": "Online-Klausur Achtung! 2 Studierende mit Nachteilsausgleich, Kurs A bis 14.55 Uhr und Kurs B bis 15.30 Uhr"
     }
   ]
 }

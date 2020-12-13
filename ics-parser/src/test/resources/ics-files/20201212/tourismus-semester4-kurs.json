@@ -9,7 +9,9 @@
         "Prof. Dr. Peter-Ollrogge",
         "Prof. Dr. Schlösser"
       ],
-      "room": "CL: 1.Audimax vorn",
+      "rooms": [
+        "CL: 1.Audimax vorn"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -21,7 +23,9 @@
       "lecturers": [
         "Prof. Dr. Wissing"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
       "note": null
     },
@@ -33,7 +37,9 @@
       "lecturers": [
         "Prof. Dr. Deimer"
       ],
-      "room": "CL: 5.0002",
+      "rooms": [
+        "CL: 5.0002"
+      ],
       "type": "Klausur",
       "note": null
     }
