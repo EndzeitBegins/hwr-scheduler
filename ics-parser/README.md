@@ -10,7 +10,7 @@ simply pass the file's content to the function `parse` provided by this library,
 as such:
 
 ``` kotlin
-        // example input - normally retried from the official HWR website
+    // example input - normally retrived from the official HWR website
     val input = """
         BEGIN:VCALENDAR
         BEGIN:VEVENT
