@@ -41,7 +41,7 @@ as such:
     //      end=2020-11-02T16:45:00Z, 
     //      module=IT2101-Labor SWE I: Gruppe 1 + 2, 
     //      lecturers=[Kretzmer], 
-    //      roomw=[], 
+    //      rooms=[], 
     //      type=La, 
     //      note=Prüfung Online
     // )]
