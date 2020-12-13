@@ -1,5 +1,8 @@
 # Title
 
+CI with Travis
+Deployment with Heroku
+
 Foo bar [Foo bar](https://ottersbach.xyz/). Foo bar `foo.bar` foo. 
 
 ### Subtitle
