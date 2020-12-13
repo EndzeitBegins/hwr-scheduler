@@ -37,8 +37,8 @@ as such:
     // will yield 
     // [Lesson(
     //      uid=sked.de956040, 
-    //      start=2020-11-02T13:30:00Z,
-    //      end=2020-11-02T16:45:00Z, 
+    //      start=2020-11-02T12:30:00Z,
+    //      end=2020-11-02T15:45:00Z, 
     //      module=IT2101-Labor SWE I: Gruppe 1 + 2, 
     //      lecturers=[Kretzmer], 
     //      rooms=[], 
